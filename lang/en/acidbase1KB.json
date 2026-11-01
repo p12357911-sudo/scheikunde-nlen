@@ -1,0 +1,221 @@
+{
+ "title": "Acids and bases - 123 school",
+ "heading": "Acids and bases",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is an acid?",
+   "a": "A particle that can donate a proton."
+  },
+  {
+   "q": "What is a base?",
+   "a": "A particle that can accept a proton."
+  },
+  {
+   "q": "How do you calculate [H<sup>+</sup>] from the pH?",
+   "a": "The proton concentration [H<sup>+</sup>] is ten to the power −pH (so: [H<sup>+</sup>] = 10<sup>−pH</sup>)"
+  },
+  {
+   "q": "What is the mathematical relationship between pH and pOH?",
+   "a": "pH + pOH = 14"
+  },
+  {
+   "q": "What can you do with universal indicator paper?",
+   "a": "You can use it to determine the pH. The paper turns red in an acidic environment and blue in a basic environment"
+  },
+  {
+   "q": "How do you write a solution of the strong acid hydrochloric acid?",
+   "a": "H<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)"
+  },
+  {
+   "q": "How do you write a solution of the weak acid ethanoic acid (acetic acid)?",
+   "a": "CH<sub>3</sub>COOH (aq)"
+  },
+  {
+   "q": "How do you calculate the pOH from [OH<sup>−</sup>]?",
+   "a": "The pOH is equal to minus the log of the hydroxide ion concentration, so pOH = −log[OH<sup>−</sup>]"
+  },
+  {
+   "q": "Is NaOH a strong or a weak base? (use BINAS table 49 if needed)",
+   "a": "NaOH splits into Na<sup>+</sup> and OH<sup>−</sup>; OH<sup>−</sup> is a strong base (see BINAS table 49)"
+  },
+  {
+   "q": "What is the [OH<sup>−</sup>] concentration of a 0.1 M NaOH solution? (use BINAS table 49)",
+   "a": "NaOH is a strong base (see BINAS table 49), so [OH<sup>−</sup>] = 0.1 M, equal to the concentration of NaOH"
+  },
+  {
+   "q": "Give the acid–base reaction when you mix equal amounts of HCl and NaOH",
+   "a": "H<sup>+</sup> (aq) + OH<sup>-</sup>(aq) -> H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "What is the pH of a 0.1 M NaOH solution?",
+   "a": "Strong base, so [OH<sup>−</sup>] = 0.1 M, and given pOH = −log [OH<sup>−</sup>] and pH = 14 − pOH, so pH = 14 + log [0.1] = 14 + (−1) = 13"
+  },
+  {
+   "q": "What is the base constant of ammonia, NH<sub>3</sub>? (use BINAS table 49)",
+   "a": "(BINAS table 49) 1.8 ∙ 10<sup>−5</sup>"
+  },
+  {
+   "q": "What is the base constant of NH<sub>2</sub><sup>−</sup>? (use BINAS table 49)",
+   "a": "(BINAS table 49) >> 1"
+  },
+  {
+   "q": "What is the base constant of CO<sub>3</sub><sup>2−</sup>? (use BINAS table 49)",
+   "a": "(BINAS table 49) >> 2.1 ∙ 10<sup>−4</sup>"
+  },
+  {
+   "q": "What is the base constant of CH<sub>3</sub>COO<sup>−</sup>? (use BINAS table 49)",
+   "a": "(BINAS table 49) >> 5.8 ∙ 10<sup>−10</sup>"
+  },
+  {
+   "q": "Where are the strong bases in BINAS table 49?",
+   "a": "Right-hand column below OH<sup>−</sup>"
+  },
+  {
+   "q": "Where are the weak bases in BINAS table 49?",
+   "a": "Right-hand column between H<sub>2</sub>O and OH<sup>−</sup>"
+  },
+  {
+   "q": "Where are the theoretical bases in BINAS table 49?",
+   "a": "Right-hand column above H<sub>2</sub>O"
+  },
+  {
+   "q": "Name a strong base",
+   "a": "For example: S<sup>2−</sup>, CH<sub>3</sub>CH<sub>2</sub>O<sup>−</sup>, NH<sub>2</sub><sup>−</sup>, O<sup>2−</sup>"
+  },
+  {
+   "q": "Where are the strong acids in BINAS table 49?",
+   "a": "Left-hand column above H<sub>3</sub>O<sup>+</sup>"
+  },
+  {
+   "q": "Where are the weak acids in BINAS table 49?",
+   "a": "Left-hand column below H<sub>3</sub>O<sup>+</sup>"
+  },
+  {
+   "q": "How do you write a solution of a weak acid? (use HA for the acid)",
+   "a": "HZ (aq)"
+  },
+  {
+   "q": "How do you write a solution of a strong acid? (use HA for the acid)",
+   "a": "H<sup>+</sup> (aq) + Z<sup>-</sup>  (aq)"
+  },
+  {
+   "q": "What is the acid constant of the strong acid HBr? (use BINAS table 49)",
+   "a": "(BINAS table 49) >> 1"
+  },
+  {
+   "q": "What is the acid constant of ethanoic acid (acetic acid)? (use BINAS table 49)",
+   "a": "(BINAS table 49) 1.7 ∙ 10<sup>−5</sup>"
+  },
+  {
+   "q": "What is the trivial name of H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "Sulfuric acid"
+  },
+  {
+   "q": "Which carbon-containing particles can form when you dissolve CO<sub>2</sub> (g) in water?",
+   "a": "H<sub>2</sub>CO<sub>3</sub> (aq), HCO<sub>3</sub><sup>-</sup> (aq), CO<sub>3</sub><sup>2-</sup> (aq)"
+  },
+  {
+   "q": "What is the acid constant of NH<sub>4</sub><sup>+</sup>? (use BINAS table 49)",
+   "a": "5.6 ∙ 10<sup>-10</sup>"
+  },
+  {
+   "q": "Which nitrogen-containing particles can be present in an aqueous ammonia solution?",
+   "a": "NH<sub>4</sub><sup>+</sup> (aq) en NH<sub>3</sub> (aq)"
+  },
+  {
+   "q": "If you dissolve NH<sub>3</sub> (g) in water that is basic, which particle will mainly be present?",
+   "a": "NH<sub>3</sub>  (aq)"
+  },
+  {
+   "q": "If you dissolve NH<sub>3</sub> (g) in water that is acidic, which particle will form?",
+   "a": "NH<sub>4</sub><sup>+</sup> (aq)"
+  },
+  {
+   "q": "Give the equilibrium equation for an ammonia solution",
+   "a": "Kb = [NH<sub>4</sub><sup>+</sup> ][OH<sup>-</sup>]/[NH<sub>3</sub>] = 1.8 ∙ 10<sup>-5</sup>"
+  },
+  {
+   "q": "1 molar is equal to 1 x/y; give x/y",
+   "a": "mol/L"
+  },
+  {
+   "q": "What is the concentration [OH<sup>−</sup>] in a 0.10 M NH<sub>3</sub> solution? (use BINAS table 49)",
+   "a": "The following applies: [NH<sub>3</sub>] = 0.1 &amp; K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>][OH<sup>−</sup>]/[NH<sub>3</sub>] = 1.8 ∙ 10<sup>−5</sup> &amp; [NH<sub>4</sub><sup>+</sup>] = [OH<sup>−</sup>], so [OH<sup>−</sup>] = √(1.8 ∙ 10<sup>−5</sup> ∙ 0.1) = 1.34 ∙ 10<sup>−3</sup> M"
+  },
+  {
+   "q": "What is the pH of a 0.1 M NH<sub>3</sub> solution? (use BINAS table 49)",
+   "a": "[OH<sup>−</sup>] = 1.34 ∙ 10<sup>−3</sup> M is known, and given pOH = −log([OH<sup>−</sup>]) &amp; pH + pOH = 14, so pOH = 2.87 and pH = 14 − 2.87 = 11.13"
+  },
+  {
+   "q": "What is the water equilibrium in terms of acids and bases?",
+   "a": "H<sub>2</sub>O (l) <=> H<sup>+</sup> (aq) + OH<sup>-</sup>(aq)"
+  },
+  {
+   "q": "At which temperature do the base and acid constants apply?",
+   "a": "298K"
+  },
+  {
+   "q": "Pure water has pH = 7. What is the [H<sup>+</sup>] concentration?",
+   "a": "[H<sup>+</sup>] = 10<sup>-pH</sup> dus [H<sup>+</sup>] = 1 ∙ 10<sup>-7</sup> (0.0000001 mol/L)"
+  },
+  {
+   "q": "What is the trivial name of HNO<sub>3</sub>?",
+   "a": "Nitric acid"
+  },
+  {
+   "q": "What is the trivial name of HCl?",
+   "a": "Hydrochloric acid"
+  },
+  {
+   "q": "Which gas is carbon dioxide gas?",
+   "a": "CO<sub>2</sub> (g)"
+  },
+  {
+   "q": "What is sodium hydroxide solution?",
+   "a": "A solution of NaOH (s) in water: Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Give the molecular formula of sulfuric acid",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "You dissolve 6.00 g of ethanoic acid (acetic acid) in 1 litre of water. What concentration (in M) of ethanoic acid do you get?",
+   "a": "Ethanoic acid, CH<sub>3</sub>COOH, has a molar mass of 60.053 g/mol. So: 6 g / (60.053 g/mol) = 0.10 mol. This gives: 0.10 mol / 1 L = 0.10 M (titration step 1)"
+  },
+  {
+   "q": "Which particles form when you dissolve ethanoic acid in water?",
+   "a": "CH<sub>3</sub>COO<sup>−</sup>, H<sup>+</sup> and CH<sub>3</sub>COOH (titration step 2)"
+  },
+  {
+   "q": "What is the pH of 0.1 M ethanoic acid? You may assume that the proton concentration is negligible compared with the ethanoic acid concentration. (use BINAS table 49)",
+   "a": "pH = −log[H<sup>+</sup>] &amp; ethanoic acid is a weak acid and the following equilibrium applies: K<sub>a</sub> = [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. BINAS table 49 gives K<sub>a</sub> = 1.7 ∙ 10<sup>−5</sup>. Ethanoic acid is a monoprotic acid, so [CH<sub>3</sub>COO<sup>−</sup>] = [H<sup>+</sup>]; call this X. <b>This gives</b>: 1.7 ∙ 10<sup>−5</sup> = X<sup>2</sup> / 0.10. So X = √(1.7 ∙ 10<sup>−5</sup> ∙ 0.10) = 1.3 ∙ 10<sup>−3</sup>. pH = −log 1.3 ∙ 10<sup>−3</sup> = 2.88 (titration step 3)"
+  },
+  {
+   "q": "What colour does litmus turn in 0.1 M ethanoic acid? (use BINAS table 52A)",
+   "a": "BINAS table 52A: pH is lower than 5.5, so red (titration step 4)"
+  },
+  {
+   "q": "Which reaction takes place when you add a drop of 1 M NaOH to a 0.1 M ethanoic acid solution?",
+   "a": "The following acid–base reaction: H<sup>+</sup> + OH<sup>−</sup> → H<sub>2</sub>O (titration step 5)"
+  },
+  {
+   "q": "You keep adding 1 M NaOH solution drop by drop until the colour of the acid–base indicator litmus just changes. Assume that the pH becomes 8.50. (use BINAS table 52A)",
+   "a": "BINAS table 52A: pH is higher than 8, so blue (titration step 6)"
+  },
+  {
+   "q": "What is [OH<sup>−</sup>] when you have added NaOH to the 1 L of 0.1 M ethanoic acid to reach pH = 8.50?",
+   "a": "The following applies: pOH = 14 − pH = 5.50. [OH<sup>−</sup>] = 10<sup>−pOH</sup> = 10<sup>−5.50</sup> = 3.2 ∙ 10<sup>−6</sup>. (titration step 7)"
+  },
+  {
+   "q": "How many moles of NaOH did you have to add to the 1 L of 0.1 M ethanoic acid to reach pH = 8.50?",
+   "a": "By titrating with OH<sup>−</sup>, the ethanoic acid loses all its protons, which react with OH<sup>−</sup> to form neutral water. This continues until all the protons of the ethanoic acid are gone and the OH<sup>−</sup> concentration starts to rise and reaches pH 8.50. Exactly as many moles of OH<sup>−</sup> are needed as there was ethanoic acid in the solution at the start. So 0.1 mol of NaOH, and therefore 0.1 L of the 1 M NaOH solution. So you have in fact determined the concentration of ethanoic acid by adding as much NaOH as there was ethanoic acid in the solution to get the pH above 8 and make the indicator change colour (titration step 8)"
+  },
+  {
+   "q": "Can you check by calculation that at pH = 8.50 all the ethanoic acid has lost its protons? (this takes a little mathematics)",
+   "a": "pH = 8.50, so [H<sup>+</sup>] = 3.2 ∙ 10<sup>−9</sup> mol/L. The following equilibrium applies: K<sub>a</sub> = [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. This can be rewritten as [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>] = K<sub>a</sub> ∙ [CH<sub>3</sub>COOH] (equation 1). Furthermore, the total amount of ethanoic acid stays the same, so 0.1 = [CH<sub>3</sub>COO<sup>−</sup>] + [CH<sub>3</sub>COOH], which gives 0.1 − [CH<sub>3</sub>COO<sup>−</sup>] = [CH<sub>3</sub>COOH] (equation 2). Combining equations 1 and 2 gives: [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>] = K<sub>a</sub> ∙ (0.1 − [CH<sub>3</sub>COO<sup>−</sup>]), which can be rewritten as [CH<sub>3</sub>COO<sup>−</sup>] = K<sub>a</sub> ∙ 0.1 / ([H<sup>+</sup>] + K<sub>a</sub>). [H<sup>+</sup>] = 3.2 ∙ 10<sup>−9</sup> mol/L is negligible compared with K<sub>a</sub>, from which it follows that [CH<sub>3</sub>COO<sup>−</sup>] = K<sub>a</sub> ∙ 0.1 / (0 + K<sub>a</sub>) = 0.1 K<sub>a</sub>/K<sub>a</sub> = 0.1 mol/L"
+  }
+ ]
+}

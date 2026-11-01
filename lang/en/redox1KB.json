@@ -1,0 +1,265 @@
+{
+ "title": "Redox - 123 school",
+ "heading": "Redox",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "In which chemical reaction does electron transfer take place?",
+   "a": "A redox reaction"
+  },
+  {
+   "q": "Which BINAS table gives the most important redox reactions?",
+   "a": "BINAS table 48"
+  },
+  {
+   "q": "A reducing agent … electrons …",
+   "a": "Donates electrons"
+  },
+  {
+   "q": "An oxidising agent … electrons …",
+   "a": "Accepts electrons"
+  },
+  {
+   "q": "Which reaction is always a redox reaction?",
+   "a": "Combustion reaction (oxidation)"
+  },
+  {
+   "q": "Where in BINAS table 48 are the strong oxidising agents?",
+   "a": "The strong oxidising agents are at the top left"
+  },
+  {
+   "q": "Where in BINAS table 48 are the strong reducing agents?",
+   "a": "The strong reducing agents are at the bottom right"
+  },
+  {
+   "q": "Wat is Pb(s)?",
+   "a": "The metal lead"
+  },
+  {
+   "q": "BINAS table 48 gives: Pb<sup>2+</sup> + 2e<sup>−</sup> ⇌ Pb (s). What is the oxidising agent?",
+   "a": "Pb<sup>2+</sup>"
+  },
+  {
+   "q": "Pb<sup>2+</sup> and Pb (s) form a ….?",
+   "a": "Redox couple"
+  },
+  {
+   "q": "BINAS table 48 gives a number of important redox reactions and their standard electrode potentials. Under which conditions do these reactions take place? Look at the top of table 48!",
+   "a": "In volts (V) at T = 298 kelvin and p = p<sub>0</sub>; in solution: ions hydrated; concentrations of dissolved particles 1.000 mol/L; where not stated otherwise, the state symbol is (aq)."
+  },
+  {
+   "q": "Give the reduction reaction of H<sup>+</sup> (BINAS table 48)",
+   "a": "2H<sup>+</sup> + 2e<sup>-</sup> <=> H<sub>2</sub>(g)"
+  },
+  {
+   "q": "What is the standard potential (BINAS table 48) of the couple H<sup>+</sup>/H<sub>2</sub>?",
+   "a": "Dat is 0"
+  },
+  {
+   "q": "What is the molecular formula of hydrogen gas?",
+   "a": "H<sub>2</sub>(g)"
+  },
+  {
+   "q": "What is the chemical notation of iron?",
+   "a": "Fe(s)"
+  },
+  {
+   "q": "Give the oxidation reaction of iron (BINAS table 48)",
+   "a": "Fe(s) <=> Fe<sup>2+</sup> + 2e<sup>-</sup>"
+  },
+  {
+   "q": "What is the standard potential (BINAS table 48) of the couple Fe<sup>2+</sup>/Fe (s)?",
+   "a": "Dat -0, 45"
+  },
+  {
+   "q": "What is the standard potential for the redox reaction of Fe (s) in an HCl solution? (use BINAS table 48)",
+   "a": "That is 0 − (−0.45) = 0.45 volt"
+  },
+  {
+   "q": "Fe(II)SO<sub>4</sub> is given, iron(II) sulfate. What does the (II) stand for?",
+   "a": "For Fe<sup>2+</sup>"
+  },
+  {
+   "q": "Give the reaction that is in BINAS table 48 for a solution of iron(II) sulfate",
+   "a": "Fe<sup>2+</sup> + 2e<sup>−</sup> ⇌ Fe (s). Note: SO<sub>4</sub><sup>2−</sup> is not given, so it does not matter here and you do not write it down."
+  },
+  {
+   "q": "What is the reaction in which Fe<sup>2+</sup> accepts electrons called (oxidation or reduction)?",
+   "a": "Reduction reaction"
+  },
+  {
+   "q": "What is the oxidation reaction of H<sub>2</sub> (g)?",
+   "a": "H<sub>2</sub>(g) <=> 2H<sup>+</sup> + 2e<sup>-</sup>"
+  },
+  {
+   "q": "What is the potential difference between Fe<sup>2+</sup> and H<sub>2</sub> (g)? (use BINAS table 48)",
+   "a": "BINAS table 48: −0.45 − 0 = −0.45 volt"
+  },
+  {
+   "q": "Does a reaction take place between Fe<sup>2+</sup> and H<sub>2</sub> (g)? (use BINAS table 48)",
+   "a": "No. Fe<sup>2+</sup> is the oxidising agent and in BINAS table 48 it is below the reducing agent H<sub>2</sub> (g), so no reaction takes place. Or: the difference in electrode potential is −0.45 volt, so no energy can be released; it costs energy to make this reaction happen."
+  },
+  {
+   "q": "Does a reaction take place between copper(II) sulfate and the metal aluminium? (use BINAS table 48)",
+   "a": "Cu<sup>2+</sup> is the oxidising agent and in BINAS table 48 it is above the reducing agent Al (s). So yes."
+  },
+  {
+   "q": "Give the formula of the dichromate ion",
+   "a": "Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Is the dichromate ion an oxidising agent or a reducing agent?",
+   "a": "Oxidising agent"
+  },
+  {
+   "q": "Give the molecular formula of ozone",
+   "a": "O<sub>3</sub>"
+  },
+  {
+   "q": "Give the formulae of 4 reducing metals",
+   "a": "Mg, Al, Zn, Ni, Pb, Cu"
+  },
+  {
+   "q": "Give the redox couples of the metals above.",
+   "a": "Mg/Mg<sup>2+</sup>, Al/Al<sup>3+</sup>, Zn/Zn<sup>2+</sup>, Ni/Ni<sup>2+</sup>, Pb/Pb<sup>2+</sup>, Cu/Cu<sup>2+</sup>"
+  },
+  {
+   "q": "Is hydrogen sulfide an oxidising agent or a reducing agent?",
+   "a": "Reducing agent"
+  },
+  {
+   "q": "Give the molecular formula of oxygen",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Is oxygen an oxidising agent or a reducing agent?",
+   "a": "Oxidising agent"
+  },
+  {
+   "q": "Give the chemical name of MnO<sub>4</sub><sup>−</sup>",
+   "a": "permanganate ion"
+  },
+  {
+   "q": "Give the formula of the sulfite ion",
+   "a": "SO<sub>3</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Give the formulae of metal ions that act as oxidising agents",
+   "a": "Mg<sup>2+</sup>, Al<sup>3+</sup>, Zn<sup>2+</sup>, Ni<sup>2+</sup>, Pb<sup>2+</sup>, Cu<sup>2+</sup>"
+  },
+  {
+   "q": "Write down the formula(e) in a nitric acid solution",
+   "a": "NO<sub>3</sub><sup>-</sup> + H<sup>+</sup>"
+  },
+  {
+   "q": "Give the formulae of 5 reducing agents",
+   "a": "For example: SO<sub>3</sub><sup>2−</sup>, Mg, Al, Zn, Pb, Cu, Cl<sup>−</sup>, F<sup>−</sup>, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, H<sub>2</sub>S etc."
+  },
+  {
+   "q": "Give the formulae of at least 2 halogens that can act as oxidising agents",
+   "a": "F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>"
+  },
+  {
+   "q": "Can a proton react as a reducing agent or an oxidising agent?",
+   "a": "oxidising agent"
+  },
+  {
+   "q": "Give the formula of the zinc ion",
+   "a": "Zn<sup>2+</sup>"
+  },
+  {
+   "q": "Give the formula of the chloride ion",
+   "a": "Cl<sup>-</sup>"
+  },
+  {
+   "q": "What is the strongest oxidising agent in BINAS table 48?",
+   "a": "Fluorine"
+  },
+  {
+   "q": "Give the half-reaction of the strongest oxidising agent in BINAS table 48",
+   "a": "F<sub>2</sub> (g) + 2e<sup>-</sup> <=> 2F <sup>-</sup>"
+  },
+  {
+   "q": "What is the strongest reducing agent in BINAS table 48?",
+   "a": "Lithium"
+  },
+  {
+   "q": "Give the half-reaction of the strongest reducing agent in BINAS table 48",
+   "a": "Li (s) + e<sup>-</sup> <=> Li <sup>+</sup>"
+  },
+  {
+   "q": "Give the balanced redox reaction of the strongest oxidising agent and reducing agent in BINAS table 48",
+   "a": "2Li (s) +  F<sub>2</sub> (g) -> 2Li<sup>+</sup> + 2F<sup>-</sup>"
+  },
+  {
+   "q": "Which types of metals do we distinguish on the basis of redox reactivity? Name 2 of each.",
+   "a": "Noble metals: Au and Ag; base metals: zinc, iron, aluminium; very reactive metals: lithium, sodium, potassium, calcium"
+  },
+  {
+   "q": "Define corrosion",
+   "a": "Attack on metals by a redox reaction with substances from the air, especially oxygen, water and acids"
+  },
+  {
+   "q": "Why do many base metals not corrode away completely?",
+   "a": "They react in such a way that a metal oxide or metal hydroxide layer forms that is impermeable, so the corrosion stops"
+  },
+  {
+   "q": "Why does iron rust away completely?",
+   "a": "A porous oxide/hydroxide layer forms, so the corrosion continues and the rust flakes off"
+  },
+  {
+   "q": "Which two kinds of protection of metals against corrosion exist?",
+   "a": "Passive and active"
+  },
+  {
+   "q": "Name an active method of protecting a metal",
+   "a": "Galvanising. Applying a layer of another metal."
+  },
+  {
+   "q": "Name a passive method of protecting a metal",
+   "a": "Coating or painting with lacquer or plastic"
+  },
+  {
+   "q": "Name two ways of galvanising.",
+   "a": "Dipping in a liquid metal; applying a layer of metal electrochemically"
+  },
+  {
+   "q": "Can you galvanise with a more reactive metal?",
+   "a": "Yes, for example a zinc layer on iron. Zinc itself forms a thin layer of zinc oxide that protects both the zinc underneath and the iron"
+  },
+  {
+   "q": "How do noble, base and very reactive metals differ in chemical/redox terms?",
+   "a": "The stronger a reducing agent the metal is, the more reactive (less noble) it is"
+  },
+  {
+   "q": "In salt water corrosion goes faster because it conducts current; how can we protect steel ships against corrosion? Explain.",
+   "a": "By attaching sacrificial metal: zinc blocks fitted to the steel hull; because iron is slightly more noble than zinc, the zinc will corrode away first and only then the iron"
+  },
+  {
+   "q": "What is an electrochemical cell? Explain.",
+   "a": "A set-up in which the oxidation and reduction reactions take place separately, so that electrons can flow through a wire to power electrical devices, e.g. a lamp"
+  },
+  {
+   "q": "Which metals are used in a Daniell cell? What is the reducing agent and what is the oxidising agent?",
+   "a": "Copper, the oxidising agent is Cu<sup>2+</sup>; zinc, the reducing agent is Zn (s)"
+  },
+  {
+   "q": "Which metal seems to disappear in a Daniell cell and which one grows?",
+   "a": "Zinc seems to disappear, it dissolves as Zn<sup>2+</sup>; copper seems to appear out of nowhere"
+  },
+  {
+   "q": "Which metal is the + and which the − electrode in a Daniell cell?",
+   "a": "Zinc is the − electrode, it donates electrons; copper is the + electrode, it passes the electrons on to the copper ions in the solution"
+  },
+  {
+   "q": "What is a salt bridge and why is it needed in an electrochemical cell?",
+   "a": "A salt bridge is a connection between the reducing-agent and the oxidising-agent solutions, needed to balance the flow of electrons so that the total charge transfer is zero. E.g. a gel with KCl or NaCl"
+  },
+  {
+   "q": "Are there inert electrodes? What are they, and if so, do you know one?",
+   "a": "Yes, for example platinum or carbon electrodes; they do not take part in the chemical reaction that occurs, they only conduct the electric current"
+  }
+ ]
+}

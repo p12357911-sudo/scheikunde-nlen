@@ -1,0 +1,109 @@
+{
+ "title": "Plastics - 123 school",
+ "heading": "Plastics",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Name two types of polymerisation reaction",
+   "a": "Condensation polymerisation and addition polymerisation"
+  },
+  {
+   "q": "What is the polymerisation reaction that involves double bonds called?",
+   "a": "Addition polymerisation"
+  },
+  {
+   "q": "What is the polymerisation reaction in which H<sub>2</sub>O is released called?",
+   "a": "Condensation polymerisation"
+  },
+  {
+   "q": "Name the three steps of an addition reaction in which a polymer is formed",
+   "a": "Initiation, propagation, termination"
+  },
+  {
+   "q": "Which molecule is needed in a hydrolysis reaction?",
+   "a": "Water (H<sub>2</sub>O)"
+  },
+  {
+   "q": "In which reaction do radicals play the main role?",
+   "a": "Addition reaction/addition polymerisation"
+  },
+  {
+   "q": "Name two bonds that are typical of condensation polymerisation",
+   "a": "Ester bond, amide bond"
+  },
+  {
+   "q": "Does the reaction of ethanoic acid and ethanol in the presence of sulfuric acid produce a polymer?",
+   "a": "No, because ethanoic acid has only 1 carboxyl group and ethanol only 1 hydroxyl group, so as soon as they form an ester bond with each other the reaction stops."
+  },
+  {
+   "q": "Does the reaction of benzene-1,4-dicarboxylic acid (A) and ethane-1,2-diol (B) in the presence of sulfuric acid produce a polymer?",
+   "a": "Yes, because after the reaction of 1 of the 2 carboxyl groups of A with 1 of the 2 hydroxyl groups of B, the ester compound formed still has 1 carboxyl group and 1 hydroxyl group left to react further"
+  },
+  {
+   "q": "Why is sulfuric acid added to a condensation reaction?",
+   "a": "Protons are needed to form H<sub>3</sub>O<sup>+</sup>, which is needed to react with the double-bonded O and start the reaction."
+  },
+  {
+   "q": "Is sulfuric acid consumed overall during the condensation reaction?",
+   "a": "No, the proton that binds first is given up again in the last step of the formation of the ester bond"
+  },
+  {
+   "q": "What is a copolymer?",
+   "a": "A polymer that has been formed from different monomers"
+  },
+  {
+   "q": "From which monomers can you form polyesters?",
+   "a": "A dicarboxylic acid and a diol, or from hydroxy acids"
+  },
+  {
+   "q": "From which monomers can you form polyamide?",
+   "a": "A dicarboxylic acid and a diamine, or from amino acids"
+  },
+  {
+   "q": "Which typical groups does an amino acid have?",
+   "a": "–NH<sub>2</sub> and –COOH"
+  },
+  {
+   "q": "Which typical groups does a hydroxy acid have?",
+   "a": "–OH and –COOH"
+  },
+  {
+   "q": "What is benzoyl peroxide used for in an addition polymerisation?",
+   "a": "As an initiator. When the peroxide (–O–O–) bond is split (e.g. by heating), radicals form that start the polymerisation reaction"
+  },
+  {
+   "q": "Polymerisation reactions of benzoyl peroxide and ethene form a poly....",
+   "a": "Polyethene"
+  },
+  {
+   "q": "Which bond is important in the polymerisation of ethene?",
+   "a": "The double bond"
+  },
+  {
+   "q": "Which repeating unit forms in the polymerisation of ethene?",
+   "a": "-CH<sub>2</sub>-CH<sub>2</sub>-"
+  },
+  {
+   "q": "In the production of polyethene, benzoyl peroxide is built in. Do you find this back in the abbreviation of the polymer, and why?",
+   "a": "No, because it is at the ends of the polymer and has no influence on the properties of the polymer"
+  },
+  {
+   "q": "What are thermosetting plastics (thermosets)?",
+   "a": "Polymers that stay hard when heated"
+  },
+  {
+   "q": "What are thermoplastics?",
+   "a": "Polymers that become soft when heated"
+  },
+  {
+   "q": "Name the typical differences between thermosets and thermoplastics",
+   "a": "Thermoplastics are chains that lie next to each other and do not form a network. In thermosets the chains are connected to each other: they are cross-linked"
+  },
+  {
+   "q": "What does the flexibility of a thermoplastic depend on?",
+   "a": "Possibly side chains and their size; the degree of polymerisation; the presence of plasticisers"
+  }
+ ]
+}

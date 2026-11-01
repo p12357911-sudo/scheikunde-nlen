@@ -1,0 +1,113 @@
+{
+ "title": "Molecular structure - 123 school",
+ "heading": "Molecular structure",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Explain the octet rule",
+   "a": "The tendency of atoms to achieve the noble gas configuration and surround themselves with 8 electrons. The number of missing electrons is \"borrowed\" from a bonding atom by sharing them; this number gives the number of bonds."
+  },
+  {
+   "q": "Which exceptions are there to the octet rule?",
+   "a": "For helium, He, and hydrogen, H, the duet rule applies: in H<sub>2</sub> each H atom contributes 1 of its valence electrons. He surrounds itself with 2 of its own valence electrons. For the transition metals the 18-electron rule applies."
+  },
+  {
+   "q": "Name 6 atoms for which the octet rule holds",
+   "a": "C, O, F, N, S, Li,"
+  },
+  {
+   "q": "Which atom sometimes has a different number of bonds from what the octet rule predicts?",
+   "a": "S"
+  },
+  {
+   "q": "Explain what the octet rule means for carbon",
+   "a": "Carbon, C, has 4 valence electrons. By forming 4 covalent bonds, C gets 8 electrons around it, for example in CH<sub>4</sub>"
+  },
+  {
+   "q": "Explain what the octet rule means for chlorine",
+   "a": "Chlorine, Cl, has 7 valence electrons. By forming 1 covalent bond, Cl gets 8 electrons around it, for example in Cl<sub>2</sub>"
+  },
+  {
+   "q": "How do you show non-bonding valence electrons in a Lewis structure?",
+   "a": "With a dot"
+  },
+  {
+   "q": "How do you show bonding electrons in a Lewis structure?",
+   "a": "Two bonding electrons as a line; in a double bond 4 electrons are involved in the covalent bond, so 2 lines"
+  },
+  {
+   "q": "Set out the step-by-step plan for the Lewis structure of NH<sub>3</sub>",
+   "a": "Step 1: N has 5 valence electrons, H has 1, so 8 electrons in total. Step 2: octet rule for N, duet rule for H. Step 3: 6 electrons (3 pairs) in 3 bonds between H and N. The duet rule for H is satisfied. 2 electrons left. Step 4: 2 non-bonding electrons give N 5 valence electrons and make the structure neutral."
+  },
+  {
+   "q": "What does the Lewis structure of the ion NH<sub>2</sub><sup>−</sup> look like?",
+   "a": "N forms two bonds with H. The duet rule is satisfied for H. N satisfies the octet rule, with 4 electrons in the 2 covalent bonds and 4 non-bonding electrons. That gives 6 electrons for N, 1 electron more than the 5 valence electrons of N, which gives a formal negative charge on the N atom: [NH<sub>2</sub>]<sup>−</sup>"
+  },
+  {
+   "q": "How is the formal charge distributed in CO<sub>3</sub><sup>2−</sup>?",
+   "a": "C forms 4 bonds: 1 double bond with O and 2 single bonds with O. The doubly bonded O atom has 2 non-bonding electron pairs and so satisfies the octet rule. The 2 singly bonded O atoms each have 3 non-bonding electron pairs, so they satisfy the octet rule, and each of these O atoms has 1 electron more than its number of valence electrons and is negatively charged."
+  },
+  {
+   "q": "What does VSEPR stand for?",
+   "a": "Valence Shell Electron Pair Repulsion"
+  },
+  {
+   "q": "What is the steric number of CO<sub>2</sub>, SO<sub>2</sub>, CF<sub>4</sub> and NH<sub>3</sub>?",
+   "a": "2, 3, 4, 4"
+  },
+  {
+   "q": "Give the shape of molecules with a steric number of 2, 3, 4",
+   "a": "Linear, trigonal planar, tetrahedral"
+  },
+  {
+   "q": "Give the angles in degrees for molecules with a steric number of 2, 3, 4",
+   "a": "180, 120, 109 degrees"
+  },
+  {
+   "q": "Explain what dipoles are",
+   "a": "Partial charges in a molecule"
+  },
+  {
+   "q": "Explain what the steric number is",
+   "a": "The sum of the number of atoms bonded directly to the central atom plus the number of non-bonding pairs"
+  },
+  {
+   "q": "Does CO<sub>2</sub> have a dipole?",
+   "a": "No. CO<sub>2</sub> has a linear structure, there is a partial negative charge on the oxygen atoms and a positive charge on the central carbon atom, but because of the symmetry the charges cancel each other out"
+  },
+  {
+   "q": "Does SO<sub>2</sub> have a dipole?",
+   "a": "Yes. According to VSEPR, SO<sub>2</sub> has a trigonal planar arrangement. There is a partial negative charge on the oxygen atoms and a positive charge on the central S atom. Because of the non-bonding electron pair on the S atom, the molecule has a bent shape, so the negative charges do not cancel each other out. This creates a dipole"
+  },
+  {
+   "q": "Why does SO<sub>2</sub> dissolve well in water and CO<sub>2</sub> does not?",
+   "a": "SO<sub>2</sub> has a dipole. Water also has a dipole, so a dipole–dipole interaction can form between the two molecules"
+  },
+  {
+   "q": "Explain what resonance is",
+   "a": "The movement of electrons within a molecule without the molecule changing chemically."
+  },
+  {
+   "q": "How can you tell from the structural formula whether a substance shows resonance?",
+   "a": "If you can draw several Lewis structures of the same molecule, there is resonance"
+  },
+  {
+   "q": "What general property do resonance structures give a molecule?",
+   "a": "The more resonance structures a molecule has, the more stable the substance is."
+  },
+  {
+   "q": "Benzene, C<sub>6</sub>H<sub>6</sub>, has 3 double bonds. Explain how resonance works.",
+   "a": "Benzene has 3 double and 3 single bonds: the electrons of the 3 double bonds can move continuously, so that the single bonds become double and the earlier double bonds become single."
+  },
+  {
+   "q": "How are the different resonance structures of benzene shown in one structure?",
+   "a": "By drawing the double bond as a circle inside the honeycomb-shaped hexagon"
+  },
+  {
+   "q": "Draw the resonance structures of a phenolate ion",
+   "a": "<div class=\"w3-center\"> <img alt=\"phenolate ion\" class=\"w3-image\" src=\"fenolaation.png\" width=\"80%\"/></div>"
+  }
+ ]
+}

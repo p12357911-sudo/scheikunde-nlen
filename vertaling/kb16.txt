@@ -1,0 +1,348 @@
+### Kunststoffen1KB
+19.a -CH<sub>2</sub>-CH<sub>2</sub>-
+### MolBouw1KB
+2.a C, O, F, N, S, Li,
+3.a S
+12.a 2, 3, 4, 4
+### acidbase1KB
+0.q What is an acid?
+1.q What is a base?
+3.a pH + pOH = 14
+5.a H<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)
+10.a H<sup>+</sup> (aq) + OH<sup>-</sup>(aq) -> H<sub>2</sub>O(l)
+22.a HZ (aq)
+23.a H<sup>+</sup> (aq) + Z<sup>-</sup>  (aq)
+27.a H<sub>2</sub>CO<sub>3</sub> (aq), HCO<sub>3</sub><sup>-</sup> (aq), CO<sub>3</sub><sup>2-</sup> (aq)
+28.a 5.6 ∙ 10<sup>-10</sup>
+29.a NH<sub>4</sub><sup>+</sup> (aq) en NH<sub>3</sub> (aq)
+30.a NH<sub>3</sub>  (aq)
+31.a NH<sub>4</sub><sup>+</sup> (aq)
+32.a Kb = [NH<sub>4</sub><sup>+</sup> ][OH<sup>-</sup>]/[NH<sub>3</sub>] = 1.8 ∙ 10<sup>-5</sup>
+33.a mol/L
+36.a H<sub>2</sub>O (l) <=> H<sup>+</sup> (aq) + OH<sup>-</sup>(aq)
+37.a 298K
+38.a [H<sup>+</sup>] = 10<sup>-pH</sup> dus [H<sup>+</sup>] = 1 ∙ 10<sup>-7</sup> (0.0000001 mol/L)
+39.a Nitric acid
+41.a CO<sub>2</sub> (g)
+43.a H<sub>2</sub>SO<sub>4</sub>
+### redox1KB
+7.q Wat is Pb(s)?
+8.a Pb<sup>2+</sup>
+11.a 2H<sup>+</sup> + 2e<sup>-</sup> <=> H<sub>2</sub>(g)
+12.a Dat is 0
+13.a H<sub>2</sub>(g)
+14.a Fe(s)
+15.a Fe(s) <=> Fe<sup>2+</sup> + 2e<sup>-</sup>
+16.a Dat -0, 45
+21.a H<sub>2</sub>(g) <=> 2H<sup>+</sup> + 2e<sup>-</sup>
+25.a Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>
+27.a O<sub>3</sub>
+28.a Mg, Al, Zn, Ni, Pb, Cu
+29.a Mg/Mg<sup>2+</sup>, Al/Al<sup>3+</sup>, Zn/Zn<sup>2+</sup>, Ni/Ni<sup>2+</sup>, Pb/Pb<sup>2+</sup>, Cu/Cu<sup>2+</sup>
+31.a O<sub>2</sub>
+34.a SO<sub>3</sub><sup>2-</sup>
+35.a Mg<sup>2+</sup>, Al<sup>3+</sup>, Zn<sup>2+</sup>, Ni<sup>2+</sup>, Pb<sup>2+</sup>, Cu<sup>2+</sup>
+36.a NO<sub>3</sub><sup>-</sup> + H<sup>+</sup>
+38.a F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>
+40.a Zn<sup>2+</sup>
+41.a Cl<sup>-</sup>
+43.a F<sub>2</sub> (g) + 2e<sup>-</sup> <=> 2F <sup>-</sup>
+45.a Li (s) + e<sup>-</sup> <=> Li <sup>+</sup>
+46.a 2Li (s) +  F<sub>2</sub> (g) -> 2Li<sup>+</sup> + 2F<sup>-</sup>
+48.q Define corrosion
+### Kunststoffen1KB
+heading Plastics
+0.q Name two types of polymerisation reaction
+0.a Condensation polymerisation and addition polymerisation
+1.q What is the polymerisation reaction that involves double bonds called?
+1.a Addition polymerisation
+2.q What is the polymerisation reaction in which H<sub>2</sub>O is released called?
+2.a Condensation polymerisation
+3.q Name the three steps of an addition reaction in which a polymer is formed
+3.a Initiation, propagation, termination
+4.q Which molecule is needed in a hydrolysis reaction?
+4.a Water (H<sub>2</sub>O)
+5.q In which reaction do radicals play the main role?
+5.a Addition reaction/addition polymerisation
+6.q Name two bonds that are typical of condensation polymerisation
+6.a Ester bond, amide bond
+7.q Does the reaction of ethanoic acid and ethanol in the presence of sulfuric acid produce a polymer?
+7.a No, because ethanoic acid has only 1 carboxyl group and ethanol only 1 hydroxyl group, so as soon as they form an ester bond with each other the reaction stops.
+8.q Does the reaction of benzene-1,4-dicarboxylic acid (A) and ethane-1,2-diol (B) in the presence of sulfuric acid produce a polymer?
+8.a Yes, because after the reaction of 1 of the 2 carboxyl groups of A with 1 of the 2 hydroxyl groups of B, the ester compound formed still has 1 carboxyl group and 1 hydroxyl group left to react further
+9.q Why is sulfuric acid added to a condensation reaction?
+9.a Protons are needed to form H<sub>3</sub>O<sup>+</sup>, which is needed to react with the double-bonded O and start the reaction.
+10.q Is sulfuric acid consumed overall during the condensation reaction?
+10.a No, the proton that binds first is given up again in the last step of the formation of the ester bond
+11.q What is a copolymer?
+11.a A polymer that has been formed from different monomers
+12.q From which monomers can you form polyesters?
+12.a A dicarboxylic acid and a diol, or from hydroxy acids
+13.q From which monomers can you form polyamide?
+13.a A dicarboxylic acid and a diamine, or from amino acids
+14.q Which typical groups does an amino acid have?
+14.a –NH<sub>2</sub> and –COOH
+15.q Which typical groups does a hydroxy acid have?
+15.a –OH and –COOH
+16.q What is benzoyl peroxide used for in an addition polymerisation?
+16.a As an initiator. When the peroxide (–O–O–) bond is split (e.g. by heating), radicals form that start the polymerisation reaction
+17.q Polymerisation reactions of benzoyl peroxide and ethene form a poly....
+17.a Polyethene
+18.q Which bond is important in the polymerisation of ethene?
+18.a The double bond
+19.q Which repeating unit forms in the polymerisation of ethene?
+20.q In the production of polyethene, benzoyl peroxide is built in. Do you find this back in the abbreviation of the polymer, and why?
+20.a No, because it is at the ends of the polymer and has no influence on the properties of the polymer
+21.q What are thermosetting plastics (thermosets)?
+21.a Polymers that stay hard when heated
+22.q What are thermoplastics?
+22.a Polymers that become soft when heated
+23.q Name the typical differences between thermosets and thermoplastics
+23.a Thermoplastics are chains that lie next to each other and do not form a network. In thermosets the chains are connected to each other: they are cross-linked
+24.q What does the flexibility of a thermoplastic depend on?
+24.a Possibly side chains and their size; the degree of polymerisation; the presence of plasticisers
+### MolBouw1KB
+heading Molecular structure
+0.q Explain the octet rule
+0.a The tendency of atoms to achieve the noble gas configuration and surround themselves with 8 electrons. The number of missing electrons is "borrowed" from a bonding atom by sharing them; this number gives the number of bonds.
+1.q Which exceptions are there to the octet rule?
+1.a For helium, He, and hydrogen, H, the duet rule applies: in H<sub>2</sub> each H atom contributes 1 of its valence electrons. He surrounds itself with 2 of its own valence electrons. For the transition metals the 18-electron rule applies.
+2.q Name 6 atoms for which the octet rule holds
+3.q Which atom sometimes has a different number of bonds from what the octet rule predicts?
+4.q Explain what the octet rule means for carbon
+4.a Carbon, C, has 4 valence electrons. By forming 4 covalent bonds, C gets 8 electrons around it, for example in CH<sub>4</sub>
+5.q Explain what the octet rule means for chlorine
+5.a Chlorine, Cl, has 7 valence electrons. By forming 1 covalent bond, Cl gets 8 electrons around it, for example in Cl<sub>2</sub>
+6.q How do you show non-bonding valence electrons in a Lewis structure?
+6.a With a dot
+7.q How do you show bonding electrons in a Lewis structure?
+7.a Two bonding electrons as a line; in a double bond 4 electrons are involved in the covalent bond, so 2 lines
+8.q Set out the step-by-step plan for the Lewis structure of NH<sub>3</sub>
+8.a Step 1: N has 5 valence electrons, H has 1, so 8 electrons in total. Step 2: octet rule for N, duet rule for H. Step 3: 6 electrons (3 pairs) in 3 bonds between H and N. The duet rule for H is satisfied. 2 electrons left. Step 4: 2 non-bonding electrons give N 5 valence electrons and make the structure neutral.
+9.q What does the Lewis structure of the ion NH<sub>2</sub><sup>−</sup> look like?
+9.a N forms two bonds with H. The duet rule is satisfied for H. N satisfies the octet rule, with 4 electrons in the 2 covalent bonds and 4 non-bonding electrons. That gives 6 electrons for N, 1 electron more than the 5 valence electrons of N, which gives a formal negative charge on the N atom: [NH<sub>2</sub>]<sup>−</sup>
+10.q How is the formal charge distributed in CO<sub>3</sub><sup>2−</sup>?
+10.a C forms 4 bonds: 1 double bond with O and 2 single bonds with O. The doubly bonded O atom has 2 non-bonding electron pairs and so satisfies the octet rule. The 2 singly bonded O atoms each have 3 non-bonding electron pairs, so they satisfy the octet rule, and each of these O atoms has 1 electron more than its number of valence electrons and is negatively charged.
+11.q What does VSEPR stand for?
+11.a Valence Shell Electron Pair Repulsion
+12.q What is the steric number of CO<sub>2</sub>, SO<sub>2</sub>, CF<sub>4</sub> and NH<sub>3</sub>?
+13.q Give the shape of molecules with a steric number of 2, 3, 4
+13.a Linear, trigonal planar, tetrahedral
+14.q Give the angles in degrees for molecules with a steric number of 2, 3, 4
+14.a 180, 120, 109 degrees
+15.q Explain what dipoles are
+15.a Partial charges in a molecule
+16.q Explain what the steric number is
+16.a The sum of the number of atoms bonded directly to the central atom plus the number of non-bonding pairs
+17.q Does CO<sub>2</sub> have a dipole?
+17.a No. CO<sub>2</sub> has a linear structure, there is a partial negative charge on the oxygen atoms and a positive charge on the central carbon atom, but because of the symmetry the charges cancel each other out
+18.q Does SO<sub>2</sub> have a dipole?
+18.a Yes. According to VSEPR, SO<sub>2</sub> has a trigonal planar arrangement. There is a partial negative charge on the oxygen atoms and a positive charge on the central S atom. Because of the non-bonding electron pair on the S atom, the molecule has a bent shape, so the negative charges do not cancel each other out. This creates a dipole
+19.q Why does SO<sub>2</sub> dissolve well in water and CO<sub>2</sub> does not?
+19.a SO<sub>2</sub> has a dipole. Water also has a dipole, so a dipole–dipole interaction can form between the two molecules
+20.q Explain what resonance is
+20.a The movement of electrons within a molecule without the molecule changing chemically.
+21.q How can you tell from the structural formula whether a substance shows resonance?
+21.a If you can draw several Lewis structures of the same molecule, there is resonance
+22.q What general property do resonance structures give a molecule?
+22.a The more resonance structures a molecule has, the more stable the substance is.
+23.q Benzene, C<sub>6</sub>H<sub>6</sub>, has 3 double bonds. Explain how resonance works.
+23.a Benzene has 3 double and 3 single bonds: the electrons of the 3 double bonds can move continuously, so that the single bonds become double and the earlier double bonds become single.
+24.q How are the different resonance structures of benzene shown in one structure?
+24.a By drawing the double bond as a circle inside the honeycomb-shaped hexagon
+25.q Draw the resonance structures of a phenolate ion
+25.a <div class="w3-center"> <img alt="phenolate ion" class="w3-image" src="fenolaation.png" width="80%"/></div>
+### acidbase1KB
+heading Acids and bases
+0.a A particle that can donate a proton.
+1.a A particle that can accept a proton.
+2.q How do you calculate [H<sup>+</sup>] from the pH?
+2.a The proton concentration [H<sup>+</sup>] is ten to the power −pH (so: [H<sup>+</sup>] = 10<sup>−pH</sup>)
+3.q What is the mathematical relationship between pH and pOH?
+4.q What can you do with universal indicator paper?
+4.a You can use it to determine the pH. The paper turns red in an acidic environment and blue in a basic environment
+5.q How do you write a solution of the strong acid hydrochloric acid?
+6.q How do you write a solution of the weak acid ethanoic acid (acetic acid)?
+6.a CH<sub>3</sub>COOH (aq)
+7.q How do you calculate the pOH from [OH<sup>−</sup>]?
+7.a The pOH is equal to minus the log of the hydroxide ion concentration, so pOH = −log[OH<sup>−</sup>]
+8.q Is NaOH a strong or a weak base? (use BINAS table 49 if needed)
+8.a NaOH splits into Na<sup>+</sup> and OH<sup>−</sup>; OH<sup>−</sup> is a strong base (see BINAS table 49)
+9.q What is the [OH<sup>−</sup>] concentration of a 0.1 M NaOH solution? (use BINAS table 49)
+9.a NaOH is a strong base (see BINAS table 49), so [OH<sup>−</sup>] = 0.1 M, equal to the concentration of NaOH
+10.q Give the acid–base reaction when you mix equal amounts of HCl and NaOH
+11.q What is the pH of a 0.1 M NaOH solution?
+11.a Strong base, so [OH<sup>−</sup>] = 0.1 M, and given pOH = −log [OH<sup>−</sup>] and pH = 14 − pOH, so pH = 14 + log [0.1] = 14 + (−1) = 13
+12.q What is the base constant of ammonia, NH<sub>3</sub>? (use BINAS table 49)
+12.a (BINAS table 49) 1.8 ∙ 10<sup>−5</sup>
+13.q What is the base constant of NH<sub>2</sub><sup>−</sup>? (use BINAS table 49)
+13.a (BINAS table 49) >> 1
+14.q What is the base constant of CO<sub>3</sub><sup>2−</sup>? (use BINAS table 49)
+14.a (BINAS table 49) >> 2.1 ∙ 10<sup>−4</sup>
+15.q What is the base constant of CH<sub>3</sub>COO<sup>−</sup>? (use BINAS table 49)
+15.a (BINAS table 49) >> 5.8 ∙ 10<sup>−10</sup>
+16.q Where are the strong bases in BINAS table 49?
+16.a Right-hand column below OH<sup>−</sup>
+17.q Where are the weak bases in BINAS table 49?
+17.a Right-hand column between H<sub>2</sub>O and OH<sup>−</sup>
+18.q Where are the theoretical bases in BINAS table 49?
+18.a Right-hand column above H<sub>2</sub>O
+19.q Name a strong base
+19.a For example: S<sup>2−</sup>, CH<sub>3</sub>CH<sub>2</sub>O<sup>−</sup>, NH<sub>2</sub><sup>−</sup>, O<sup>2−</sup>
+20.q Where are the strong acids in BINAS table 49?
+20.a Left-hand column above H<sub>3</sub>O<sup>+</sup>
+21.q Where are the weak acids in BINAS table 49?
+21.a Left-hand column below H<sub>3</sub>O<sup>+</sup>
+22.q How do you write a solution of a weak acid? (use HA for the acid)
+23.q How do you write a solution of a strong acid? (use HA for the acid)
+24.q What is the acid constant of the strong acid HBr? (use BINAS table 49)
+24.a (BINAS table 49) >> 1
+25.q What is the acid constant of ethanoic acid (acetic acid)? (use BINAS table 49)
+25.a (BINAS table 49) 1.7 ∙ 10<sup>−5</sup>
+26.q What is the trivial name of H<sub>2</sub>SO<sub>4</sub>?
+26.a Sulfuric acid
+27.q Which carbon-containing particles can form when you dissolve CO<sub>2</sub> (g) in water?
+28.q What is the acid constant of NH<sub>4</sub><sup>+</sup>? (use BINAS table 49)
+29.q Which nitrogen-containing particles can be present in an aqueous ammonia solution?
+30.q If you dissolve NH<sub>3</sub> (g) in water that is basic, which particle will mainly be present?
+31.q If you dissolve NH<sub>3</sub> (g) in water that is acidic, which particle will form?
+32.q Give the equilibrium equation for an ammonia solution
+33.q 1 molar is equal to 1 x/y; give x/y
+34.q What is the concentration [OH<sup>−</sup>] in a 0.10 M NH<sub>3</sub> solution? (use BINAS table 49)
+34.a The following applies: [NH<sub>3</sub>] = 0.1 &amp; K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>][OH<sup>−</sup>]/[NH<sub>3</sub>] = 1.8 ∙ 10<sup>−5</sup> &amp; [NH<sub>4</sub><sup>+</sup>] = [OH<sup>−</sup>], so [OH<sup>−</sup>] = √(1.8 ∙ 10<sup>−5</sup> ∙ 0.1) = 1.34 ∙ 10<sup>−3</sup> M
+35.q What is the pH of a 0.1 M NH<sub>3</sub> solution? (use BINAS table 49)
+35.a [OH<sup>−</sup>] = 1.34 ∙ 10<sup>−3</sup> M is known, and given pOH = −log([OH<sup>−</sup>]) &amp; pH + pOH = 14, so pOH = 2.87 and pH = 14 − 2.87 = 11.13
+36.q What is the water equilibrium in terms of acids and bases?
+37.q At which temperature do the base and acid constants apply?
+38.q Pure water has pH = 7. What is the [H<sup>+</sup>] concentration?
+39.q What is the trivial name of HNO<sub>3</sub>?
+40.q What is the trivial name of HCl?
+40.a Hydrochloric acid
+41.q Which gas is carbon dioxide gas?
+42.q What is sodium hydroxide solution?
+42.a A solution of NaOH (s) in water: Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+43.q Give the molecular formula of sulfuric acid
+44.q You dissolve 6.00 g of ethanoic acid (acetic acid) in 1 litre of water. What concentration (in M) of ethanoic acid do you get?
+44.a Ethanoic acid, CH<sub>3</sub>COOH, has a molar mass of 60.053 g/mol. So: 6 g / (60.053 g/mol) = 0.10 mol. This gives: 0.10 mol / 1 L = 0.10 M (titration step 1)
+45.q Which particles form when you dissolve ethanoic acid in water?
+45.a CH<sub>3</sub>COO<sup>−</sup>, H<sup>+</sup> and CH<sub>3</sub>COOH (titration step 2)
+46.q What is the pH of 0.1 M ethanoic acid? You may assume that the proton concentration is negligible compared with the ethanoic acid concentration. (use BINAS table 49)
+46.a pH = −log[H<sup>+</sup>] &amp; ethanoic acid is a weak acid and the following equilibrium applies: K<sub>a</sub> = [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. BINAS table 49 gives K<sub>a</sub> = 1.7 ∙ 10<sup>−5</sup>. Ethanoic acid is a monoprotic acid, so [CH<sub>3</sub>COO<sup>−</sup>] = [H<sup>+</sup>]; call this X. <b>This gives</b>: 1.7 ∙ 10<sup>−5</sup> = X<sup>2</sup> / 0.10. So X = √(1.7 ∙ 10<sup>−5</sup> ∙ 0.10) = 1.3 ∙ 10<sup>−3</sup>. pH = −log 1.3 ∙ 10<sup>−3</sup> = 2.88 (titration step 3)
+47.q What colour does litmus turn in 0.1 M ethanoic acid? (use BINAS table 52A)
+47.a BINAS table 52A: pH is lower than 5.5, so red (titration step 4)
+48.q Which reaction takes place when you add a drop of 1 M NaOH to a 0.1 M ethanoic acid solution?
+48.a The following acid–base reaction: H<sup>+</sup> + OH<sup>−</sup> → H<sub>2</sub>O (titration step 5)
+49.q You keep adding 1 M NaOH solution drop by drop until the colour of the acid–base indicator litmus just changes. Assume that the pH becomes 8.50. (use BINAS table 52A)
+49.a BINAS table 52A: pH is higher than 8, so blue (titration step 6)
+50.q What is [OH<sup>−</sup>] when you have added NaOH to the 1 L of 0.1 M ethanoic acid to reach pH = 8.50?
+50.a The following applies: pOH = 14 − pH = 5.50. [OH<sup>−</sup>] = 10<sup>−pOH</sup> = 10<sup>−5.50</sup> = 3.2 ∙ 10<sup>−6</sup>. (titration step 7)
+51.q How many moles of NaOH did you have to add to the 1 L of 0.1 M ethanoic acid to reach pH = 8.50?
+51.a By titrating with OH<sup>−</sup>, the ethanoic acid loses all its protons, which react with OH<sup>−</sup> to form neutral water. This continues until all the protons of the ethanoic acid are gone and the OH<sup>−</sup> concentration starts to rise and reaches pH 8.50. Exactly as many moles of OH<sup>−</sup> are needed as there was ethanoic acid in the solution at the start. So 0.1 mol of NaOH, and therefore 0.1 L of the 1 M NaOH solution. So you have in fact determined the concentration of ethanoic acid by adding as much NaOH as there was ethanoic acid in the solution to get the pH above 8 and make the indicator change colour (titration step 8)
+52.q Can you check by calculation that at pH = 8.50 all the ethanoic acid has lost its protons? (this takes a little mathematics)
+52.a pH = 8.50, so [H<sup>+</sup>] = 3.2 ∙ 10<sup>−9</sup> mol/L. The following equilibrium applies: K<sub>a</sub> = [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. This can be rewritten as [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>] = K<sub>a</sub> ∙ [CH<sub>3</sub>COOH] (equation 1). Furthermore, the total amount of ethanoic acid stays the same, so 0.1 = [CH<sub>3</sub>COO<sup>−</sup>] + [CH<sub>3</sub>COOH], which gives 0.1 − [CH<sub>3</sub>COO<sup>−</sup>] = [CH<sub>3</sub>COOH] (equation 2). Combining equations 1 and 2 gives: [CH<sub>3</sub>COO<sup>−</sup>][H<sup>+</sup>] = K<sub>a</sub> ∙ (0.1 − [CH<sub>3</sub>COO<sup>−</sup>]), which can be rewritten as [CH<sub>3</sub>COO<sup>−</sup>] = K<sub>a</sub> ∙ 0.1 / ([H<sup>+</sup>] + K<sub>a</sub>). [H<sup>+</sup>] = 3.2 ∙ 10<sup>−9</sup> mol/L is negligible compared with K<sub>a</sub>, from which it follows that [CH<sub>3</sub>COO<sup>−</sup>] = K<sub>a</sub> ∙ 0.1 / (0 + K<sub>a</sub>) = 0.1 K<sub>a</sub>/K<sub>a</sub> = 0.1 mol/L
+### redox1KB
+heading Redox
+0.q In which chemical reaction does electron transfer take place?
+0.a A redox reaction
+1.q Which BINAS table gives the most important redox reactions?
+1.a BINAS table 48
+2.q A reducing agent … electrons …
+2.a Donates electrons
+3.q An oxidising agent … electrons …
+3.a Accepts electrons
+4.q Which reaction is always a redox reaction?
+4.a Combustion reaction (oxidation)
+5.q Where in BINAS table 48 are the strong oxidising agents?
+5.a The strong oxidising agents are at the top left
+6.q Where in BINAS table 48 are the strong reducing agents?
+6.a The strong reducing agents are at the bottom right
+7.a The metal lead
+8.q BINAS table 48 gives: Pb<sup>2+</sup> + 2e<sup>−</sup> ⇌ Pb (s). What is the oxidising agent?
+9.q Pb<sup>2+</sup> and Pb (s) form a ….?
+9.a Redox couple
+10.q BINAS table 48 gives a number of important redox reactions and their standard electrode potentials. Under which conditions do these reactions take place? Look at the top of table 48!
+10.a In volts (V) at T = 298 kelvin and p = p<sub>0</sub>; in solution: ions hydrated; concentrations of dissolved particles 1.000 mol/L; where not stated otherwise, the state symbol is (aq).
+11.q Give the reduction reaction of H<sup>+</sup> (BINAS table 48)
+12.q What is the standard potential (BINAS table 48) of the couple H<sup>+</sup>/H<sub>2</sub>?
+13.q What is the molecular formula of hydrogen gas?
+14.q What is the chemical notation of iron?
+15.q Give the oxidation reaction of iron (BINAS table 48)
+16.q What is the standard potential (BINAS table 48) of the couple Fe<sup>2+</sup>/Fe (s)?
+17.q What is the standard potential for the redox reaction of Fe (s) in an HCl solution? (use BINAS table 48)
+17.a That is 0 − (−0.45) = 0.45 volt
+18.q Fe(II)SO<sub>4</sub> is given, iron(II) sulfate. What does the (II) stand for?
+18.a For Fe<sup>2+</sup>
+19.q Give the reaction that is in BINAS table 48 for a solution of iron(II) sulfate
+19.a Fe<sup>2+</sup> + 2e<sup>−</sup> ⇌ Fe (s). Note: SO<sub>4</sub><sup>2−</sup> is not given, so it does not matter here and you do not write it down.
+20.q What is the reaction in which Fe<sup>2+</sup> accepts electrons called (oxidation or reduction)?
+20.a Reduction reaction
+21.q What is the oxidation reaction of H<sub>2</sub> (g)?
+22.q What is the potential difference between Fe<sup>2+</sup> and H<sub>2</sub> (g)? (use BINAS table 48)
+22.a BINAS table 48: −0.45 − 0 = −0.45 volt
+23.q Does a reaction take place between Fe<sup>2+</sup> and H<sub>2</sub> (g)? (use BINAS table 48)
+23.a No. Fe<sup>2+</sup> is the oxidising agent and in BINAS table 48 it is below the reducing agent H<sub>2</sub> (g), so no reaction takes place. Or: the difference in electrode potential is −0.45 volt, so no energy can be released; it costs energy to make this reaction happen.
+24.q Does a reaction take place between copper(II) sulfate and the metal aluminium? (use BINAS table 48)
+24.a Cu<sup>2+</sup> is the oxidising agent and in BINAS table 48 it is above the reducing agent Al (s). So yes.
+25.q Give the formula of the dichromate ion
+26.q Is the dichromate ion an oxidising agent or a reducing agent?
+26.a Oxidising agent
+27.q Give the molecular formula of ozone
+28.q Give the formulae of 4 reducing metals
+29.q Give the redox couples of the metals above.
+30.q Is hydrogen sulfide an oxidising agent or a reducing agent?
+30.a Reducing agent
+31.q Give the molecular formula of oxygen
+32.q Is oxygen an oxidising agent or a reducing agent?
+32.a Oxidising agent
+33.q Give the chemical name of MnO<sub>4</sub><sup>−</sup>
+33.a permanganate ion
+34.q Give the formula of the sulfite ion
+35.q Give the formulae of metal ions that act as oxidising agents
+36.q Write down the formula(e) in a nitric acid solution
+37.q Give the formulae of 5 reducing agents
+37.a For example: SO<sub>3</sub><sup>2−</sup>, Mg, Al, Zn, Pb, Cu, Cl<sup>−</sup>, F<sup>−</sup>, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, H<sub>2</sub>S etc.
+38.q Give the formulae of at least 2 halogens that can act as oxidising agents
+39.q Can a proton react as a reducing agent or an oxidising agent?
+39.a oxidising agent
+40.q Give the formula of the zinc ion
+41.q Give the formula of the chloride ion
+42.q What is the strongest oxidising agent in BINAS table 48?
+42.a Fluorine
+43.q Give the half-reaction of the strongest oxidising agent in BINAS table 48
+44.q What is the strongest reducing agent in BINAS table 48?
+44.a Lithium
+45.q Give the half-reaction of the strongest reducing agent in BINAS table 48
+46.q Give the balanced redox reaction of the strongest oxidising agent and reducing agent in BINAS table 48
+47.q Which types of metals do we distinguish on the basis of redox reactivity? Name 2 of each.
+47.a Noble metals: Au and Ag; base metals: zinc, iron, aluminium; very reactive metals: lithium, sodium, potassium, calcium
+48.a Attack on metals by a redox reaction with substances from the air, especially oxygen, water and acids
+49.q Why do many base metals not corrode away completely?
+49.a They react in such a way that a metal oxide or metal hydroxide layer forms that is impermeable, so the corrosion stops
+50.q Why does iron rust away completely?
+50.a A porous oxide/hydroxide layer forms, so the corrosion continues and the rust flakes off
+51.q Which two kinds of protection of metals against corrosion exist?
+51.a Passive and active
+52.q Name an active method of protecting a metal
+52.a Galvanising. Applying a layer of another metal.
+53.q Name a passive method of protecting a metal
+53.a Coating or painting with lacquer or plastic
+54.q Name two ways of galvanising.
+54.a Dipping in a liquid metal; applying a layer of metal electrochemically
+55.q Can you galvanise with a more reactive metal?
+55.a Yes, for example a zinc layer on iron. Zinc itself forms a thin layer of zinc oxide that protects both the zinc underneath and the iron
+56.q How do noble, base and very reactive metals differ in chemical/redox terms?
+56.a The stronger a reducing agent the metal is, the more reactive (less noble) it is
+57.q In salt water corrosion goes faster because it conducts current; how can we protect steel ships against corrosion? Explain.
+57.a By attaching sacrificial metal: zinc blocks fitted to the steel hull; because iron is slightly more noble than zinc, the zinc will corrode away first and only then the iron
+58.q What is an electrochemical cell? Explain.
+58.a A set-up in which the oxidation and reduction reactions take place separately, so that electrons can flow through a wire to power electrical devices, e.g. a lamp
+59.q Which metals are used in a Daniell cell? What is the reducing agent and what is the oxidising agent?
+59.a Copper, the oxidising agent is Cu<sup>2+</sup>; zinc, the reducing agent is Zn (s)
+60.q Which metal seems to disappear in a Daniell cell and which one grows?
+60.a Zinc seems to disappear, it dissolves as Zn<sup>2+</sup>; copper seems to appear out of nowhere
+61.q Which metal is the + and which the − electrode in a Daniell cell?
+61.a Zinc is the − electrode, it donates electrons; copper is the + electrode, it passes the electrons on to the copper ions in the solution
+62.q What is a salt bridge and why is it needed in an electrochemical cell?
+62.a A salt bridge is a connection between the reducing-agent and the oxidising-agent solutions, needed to balance the flow of electrons so that the total charge transfer is zero. E.g. a gel with KCl or NaCl
+63.q Are there inert electrodes? What are they, and if so, do you know one?
+63.a Yes, for example platinum or carbon electrodes; they do not take part in the chemical reaction that occurs, they only conduct the electric current

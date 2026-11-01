@@ -17,11 +17,14 @@
   "sk4t-stoffen-uit-de-aarde-KB/questions/8/a",
   "sk4t-stoffen-uit-de-aarde-KB/questions/9/a",
   "sk4t-stoffen-uit-de-aarde-KB/questions/29/a",
-  "sk4t-zouten-KB/questions/20/a"
+  "sk4t-zouten-KB/questions/20/a",
+  "Kunststoffen1KB/questions/8/q",
+  "redox1KB/questions/17/a"
  ],
  "komma": [
   "sk4h-koolwaterstoffen-KB/questions/13/a",
-  "sk4h-koolwaterstoffen-KB/questions/23/a"
+  "sk4h-koolwaterstoffen-KB/questions/23/a",
+  "Kunststoffen1KB/questions/8/q"
  ],
  "niveau": [
   "sk4h-begrippen-KB/questions/183/q",
@@ -35,7 +38,8 @@
   "sk4t-begrippen-KB/questions/167/q",
   "sk4t-begrippen-KB/questions/203/q",
   "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
-  "sk4t-zouten-KB/questions/29/q"
+  "sk4t-zouten-KB/questions/29/q",
+  "redox1KB/questions/1/q"
  ],
  "nederlands": [],
  "binas": [
@@ -50,12 +54,19 @@
   "sk4t-begrippen-KB/questions/167/q",
   "sk4t-begrippen-KB/questions/203/q",
   "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
-  "sk4t-zouten-KB/questions/29/q"
+  "sk4t-zouten-KB/questions/29/q",
+  "redox1KB/questions/1/q"
  ],
  "en_gelijk": [
   "sk3h-atomen-moleculen-KB/questions/11/a",
   "sk3h-atomen-moleculen-KB/questions/12/a",
   "sk4h-chemische-binding-KB/questions/32/a",
-  "sk4h-chemische-binding-KB/questions/33/a"
+  "sk4h-chemische-binding-KB/questions/33/a",
+  "MolBouw1KB/questions/11/a"
+ ],
+ "tags": [
+  "acidbase1KB/questions/34/a",
+  "acidbase1KB/questions/46/a",
+  "acidbase1KB/questions/52/a"
  ]
 }
