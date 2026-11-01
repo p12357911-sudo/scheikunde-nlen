@@ -1,0 +1,216 @@
+### nk3h-schakelingen-KB
+heading Circuits
+0.q How is an ammeter placed in a circuit?
+0.a In series with the component
+1.q How is a voltmeter placed in a circuit?
+1.a In parallel with the component
+2.q What is Ohm's law?
+2.a U = I × R
+3.q A current of 0.50 A flows through a resistor of 12 Ω. What is the voltage?
+3.a U = I × R = 0.50 × 12 = 6.0 V
+4.q The voltage across a resistor is 9.0 V and the current is 0.30 A. What is the resistance?
+4.a R = U / I = 9.0 / 0.30 = 30 Ω
+5.q A 46 Ω heating element is connected to 230 V. What is the current?
+5.a I = U / R = 230 / 46 = 5.0 A
+6.q What is the unit of resistance?
+6.a Ohm (Ω)
+7.q What is true for the current in a series circuit?
+7.a The current is the same everywhere
+8.q What is true for the voltage in a series circuit?
+8.a The source voltage is shared between the components
+9.q What is true for the voltage across components connected in parallel?
+9.a The voltage across each component is the same
+10.q What is true for the current in a parallel circuit?
+10.a The total current is the sum of the currents through the branches
+11.q What happens to the other lamps if one lamp burns out in a series circuit?
+11.a All the lamps go out
+12.q What happens to the other lamps if one lamp burns out in a parallel circuit?
+12.a The other lamps stay on
+13.q How are the appliances in a house connected?
+13.a In parallel
+14.q Two resistors of 10 Ω and 15 Ω are in series. What is the equivalent resistance?
+14.a R<sub>v</sub> = R<sub>1</sub> + R<sub>2</sub> = 10 + 15 = 25 Ω
+15.q Three resistors of 8.0 Ω are in series. What is the equivalent resistance?
+15.a R<sub>v</sub> = 3 × 8.0 = 24 Ω
+16.q Two resistors of 6.0 Ω and 3.0 Ω are in parallel. What is the equivalent resistance? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)
+16.a 1/R<sub>v</sub> = 1/6.0 + 1/3.0 = 1/2.0, so R<sub>v</sub> = 2.0 Ω
+17.q Two equal resistors of 20 Ω are in parallel. What is the equivalent resistance?
+17.a With two equal resistors, R<sub>v</sub> is half: 10 Ω
+18.q What happens to the equivalent resistance if you connect an extra resistor in parallel?
+18.a The equivalent resistance becomes smaller
+19.q Two resistors of 10 Ω and 15 Ω are in series on a 12 V source. What is the current?
+19.a R<sub>v</sub> = 25 Ω; I = U / R<sub>v</sub> = 12 / 25 = 0.48 A
+20.q The same circuit: 10 Ω and 15 Ω in series on 12 V, current 0.48 A. What is the voltage across the 10 Ω resistor?
+20.a U = I × R = 0.48 × 10 = 4.8 V
+21.q A 6.0 Ω resistor and a 12 Ω resistor are in parallel on 12 V. What is the total current?
+21.a I<sub>1</sub> = 12 / 6.0 = 2.0 A; I<sub>2</sub> = 12 / 12 = 1.0 A; I<sub>tot</sub> = 3.0 A
+22.q In a parallel circuit, two ammeters in the branches read 0.30 A and 0.20 A. What is the total current?
+22.a 0.30 + 0.20 = 0.50 A
+23.q In a series circuit, two voltmeters across two lamps read 4.0 V and 2.0 V. What is the source voltage?
+23.a 4.0 + 2.0 = 6.0 V
+24.q You connect two 1.5 V batteries in series. What is the total voltage?
+24.a 1.5 + 1.5 = 3.0 V
+25.q A 6.0 V lamp has a power of 3.0 W. What is the current through the lamp? (P = U × I)
+25.a I = P / U = 3.0 / 6.0 = 0.50 A
+26.q How does the resistance of a thin wire compare with that of a thick wire (same material and length)?
+26.a The thin wire has a greater resistance
+27.q What happens to the resistance of a wire if you make the wire twice as long?
+27.a The resistance becomes twice as large
+28.q What does an NTC do at a higher temperature?
+28.a Its resistance becomes smaller
+29.q What does an LDR do when more light falls on it?
+29.a Its resistance becomes smaller
+30.q What do you use a variable resistor for?
+30.a To control the resistance, and with it the current
+31.q What happens in a short circuit?
+31.a A very large current flows because the resistance is very small
+32.q Three equal resistors of 30 Ω are in parallel. What is the equivalent resistance?
+32.a With three equal resistors, R<sub>v</sub> is a third: 30 / 3 = 10 Ω
+33.q Where do you connect a voltmeter to measure the voltage across a lamp?
+33.a In parallel with the lamp (connected to both sides of the lamp)
+34.q Name two advantages of a parallel circuit in a house.
+34.a Every appliance gets the full mains voltage and you can switch appliances on and off separately
+### nk3h-straling-KB
+heading Radiation
+0.q Which three types of radiation are released in radioactive decay?
+0.a Alpha radiation, beta radiation and gamma radiation
+1.q What does an alpha particle consist of?
+1.a Two protons and two neutrons (a helium nucleus)
+2.q What does a beta particle (beta-minus) consist of?
+2.a A fast electron
+3.q What is gamma radiation?
+3.a Electromagnetic radiation with a lot of energy
+4.q Which material already stops alpha radiation?
+4.a A sheet of paper
+5.q Which material stops beta radiation?
+5.a A thin aluminium plate
+6.q Which material is suitable for shielding gamma radiation?
+6.a Thick lead or concrete
+7.q Which type of radiation is the most penetrating?
+7.a Gamma radiation
+8.q Which type of radiation has the greatest ionising effect?
+8.a Alpha radiation
+9.q What does ionising radiation mean?
+9.a Radiation that can knock electrons out of atoms or molecules
+10.q Which radiation is ionising?
+10.a X-rays
+11.q Which radiation has the most energy?
+11.a Gamma radiation
+12.q What is the unit of activity (number of decays per second)?
+12.a Becquerel (Bq)
+13.q What is the unit of radiation dose in the body (a measure of the damage caused by radiation)?
+13.a Sievert (Sv)
+14.q A radioactive source has an activity of 500 Bq. How many atomic nuclei decay per second?
+14.a 1 Bq = 1 decay per second, so 500 per second
+15.q What is the half-life?
+15.a The time in which half of the radioactive nuclei have decayed
+16.q 80 g of a radioactive substance is present. The half-life is 4.0 days. How many grams are left after 12 days?
+16.a 12 days = 3 half-lives: 80 → 40 → 20 → 10 g
+17.q A source has an activity of 100 Bq. What is the activity after 3 half-lives?
+17.a 100 → 50 → 25 → 12.5 Bq
+18.q Carbon-14 has a half-life of 5730 years. What percentage of an amount of C-14 is left after 11 460 years?
+18.a 11 460 years = 2 half-lives: 100% → 50% → 25%
+19.q 1/8 of a substance is left. How many half-lives have passed?
+19.a 1/2 → 1/4 → 1/8: three half-lives
+20.q Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the atomic number of the daughter nucleus?
+20.a An alpha particle has 2 protons: 88 − 2 = 86
+21.q Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the mass number of the daughter nucleus?
+21.a An alpha particle has mass number 4: 226 − 4 = 222
+22.q Carbon-14 (atomic number 6) decays by beta-minus decay to nitrogen (atomic number 7). What happens to the mass number?
+22.a A neutron changes into a proton: the mass number stays the same, the atomic number goes up by 1
+23.q What is background radiation?
+23.a Radiation that is always present around us, for example from the ground and from space
+24.q What is the difference between irradiation and contamination?
+24.a In irradiation you are hit by radiation from outside; in contamination there is radioactive material on or in your body
+25.q How do you reduce the radiation exposure from a radioactive source? Name the three ways.
+25.a Increase the distance, use a shorter time, use shielding
+26.q What do you use to measure radioactive radiation?
+26.a A Geiger counter
+27.q What do you use X-rays for in a hospital?
+27.a To make images of bones and organs
+28.q Why is nuclear waste dangerous for a long time?
+28.a Some substances have a very long half-life and so keep emitting radiation for a long time
+29.q What happens in nuclear fission?
+29.a A heavy atomic nucleus splits into smaller nuclei and energy is released
+30.q Which radiation does a microwave oven use?
+30.a Microwaves
+31.q A smoke detector often contains a small source that emits alpha radiation. Why is that not dangerous as long as the detector is intact?
+31.a Alpha radiation is already stopped by the casing and a thin layer of air
+32.q Why is an alpha source especially dangerous if the radioactive material gets inside your body?
+32.a Alpha radiation is strongly ionising and is completely absorbed in the body
+33.q Name two applications of radioactive radiation.
+33.a For example medical imaging (tracer), irradiation of tumours, sterilisation of medical equipment or preserving food
+34.q What is the difference between ionising and non-ionising radiation? Give an example of each.
+34.a Ionising radiation can ionise atoms (for example X-rays or gamma radiation); non-ionising radiation cannot (for example radio waves or visible light)
+### rv3h-breuken-procenten-eenheden-KB
+heading Fractions, percentages and units
+0.q Write 11/3 as a mixed number.
+0.a 3 2/3
+0.e 11/3 = 3 and 2/3
+1.q Write 5/8 as a decimal.
+1.a 0.625
+1.e 5 : 8 = 0.625
+2.q Write 9/25 as a decimal.
+2.a 0.36
+2.e 9 : 25 = 0.36
+3.q Write 0.6 as a simple fraction.
+3.a 3/5
+3.e 0.6 = 600/1000 = 3/5
+4.q Write 3/8 as a percentage.
+4.a 37.5%
+4.e 3/8 = 0.375 = 37.5%
+5.q Simplify (6a)/(9a).
+5.a 2/3
+6.q Which fraction is greater: 5/7 or 7/10?
+6.a 5/7
+6.e 5/7 = 50/70 and 7/10 = 49/70, so 5/7 is greater
+7.q What is 0.79 g / 1 mL?
+7.a 0.79 g/mL
+8.q You multiply a density of 0.79 g/mL by a volume of 50 mL. What unit does the answer have?
+8.a g
+9.q What does a molar mass of 18 g/mol mean?
+9.a 1 mol has a mass of 18 g
+9.e You read g/mol as "grams per mole": 1 mol has a mass of 18 g
+10.q You divide a mass in g by a molar mass in g/mol. What unit does the answer have?
+10.a mol
+11.q You divide an amount in mol by a concentration in mol/L. What unit does the answer have?
+11.a L
+12.q 0.4 L of solution contains 0.15 mol of dissolved substance. Calculate the concentration in mol/L. Round to 3 decimal places.
+12.a 0.375 mol/L
+12.e 0.15 mol : 0.4 L = 0.375 mol/L
+13.q Write 0.6% as a decimal.
+13.a 0.006
+13.e 0.6% = 0.6/100 = 0.006
+14.q Write 0.375 as a percentage.
+14.a 37.5%
+14.e 0.375 × 100% = 37.5%
+15.q A quantity of 60 g increases by 35%. How many grams is it afterwards? You do not need to round.
+15.a 81 g
+15.e 60 g × 1.35 = 81 g
+16.q How much is 12.5% of 80 g?
+16.a 10 g
+16.e 12.5% = 1/8: 80 g : 8 = 10 g
+17.q How much is 0.5% of 3000 mL?
+17.a 15 mL
+17.e 0.5% = 0.005: 0.005 × 3000 mL = 15 mL
+18.q A mixture consists of 28 g of iron and 16 g of sulfur. What is the mass ratio iron : sulfur?
+18.a 7 : 4
+18.e 28 : 16 = 7 : 4 (divide both numbers by 4)
+19.q Convert 3750 mL to L. Round to 1 decimal place.
+19.a 3.8 L
+19.e 1 L = 1000 mL, so 3750 mL = 3.75 L, rounded 3.8 L
+20.q Convert 480 L to m<sup>3</sup>. You do not need to round.
+20.a 0.48 m<sup>3</sup>
+20.e 1 m<sup>3</sup> = 1000 L, so 480 L = 0.48 m<sup>3</sup>
+21.q Convert 0.25 h to s. You do not need to round.
+21.a 900 s
+21.e 1 h = 3600 s, so 0.25 h = 900 s
+22.q How many grams is 1 mg?
+22.a 0.001 g
+22.e 1 g = 1000 mg, so 1 mg = 0.001 g
+23.q A speed of 36 km/h in m/s is equal to …
+23.a 10 m/s
+23.e 36 km/h = 36 000 m : 3600 s = 10 m/s
+24.q Convert 100 km/h to m/s. Round to 1 decimal place.
+24.a 27.8 m/s
+24.e 100 km/h = 100 000 m : 3600 s = 27.8 m/s

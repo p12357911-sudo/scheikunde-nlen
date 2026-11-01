@@ -1,0 +1,150 @@
+{
+ "title": "Radiation - 123 school",
+ "heading": "Radiation",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "q": "Which three types of radiation are released in radioactive decay?",
+   "a": "Alpha radiation, beta radiation and gamma radiation"
+  },
+  {
+   "q": "What does an alpha particle consist of?",
+   "a": "Two protons and two neutrons (a helium nucleus)"
+  },
+  {
+   "q": "What does a beta particle (beta-minus) consist of?",
+   "a": "A fast electron"
+  },
+  {
+   "q": "What is gamma radiation?",
+   "a": "Electromagnetic radiation with a lot of energy"
+  },
+  {
+   "q": "Which material already stops alpha radiation?",
+   "a": "A sheet of paper"
+  },
+  {
+   "q": "Which material stops beta radiation?",
+   "a": "A thin aluminium plate"
+  },
+  {
+   "q": "Which material is suitable for shielding gamma radiation?",
+   "a": "Thick lead or concrete"
+  },
+  {
+   "q": "Which type of radiation is the most penetrating?",
+   "a": "Gamma radiation"
+  },
+  {
+   "q": "Which type of radiation has the greatest ionising effect?",
+   "a": "Alpha radiation"
+  },
+  {
+   "q": "What does ionising radiation mean?",
+   "a": "Radiation that can knock electrons out of atoms or molecules"
+  },
+  {
+   "q": "Which radiation is ionising?",
+   "a": "X-rays"
+  },
+  {
+   "q": "Which radiation has the most energy?",
+   "a": "Gamma radiation"
+  },
+  {
+   "q": "What is the unit of activity (number of decays per second)?",
+   "a": "Becquerel (Bq)"
+  },
+  {
+   "q": "What is the unit of radiation dose in the body (a measure of the damage caused by radiation)?",
+   "a": "Sievert (Sv)"
+  },
+  {
+   "q": "A radioactive source has an activity of 500 Bq. How many atomic nuclei decay per second?",
+   "a": "1 Bq = 1 decay per second, so 500 per second"
+  },
+  {
+   "q": "What is the half-life?",
+   "a": "The time in which half of the radioactive nuclei have decayed"
+  },
+  {
+   "q": "80 g of a radioactive substance is present. The half-life is 4.0 days. How many grams are left after 12 days?",
+   "a": "12 days = 3 half-lives: 80 → 40 → 20 → 10 g"
+  },
+  {
+   "q": "A source has an activity of 100 Bq. What is the activity after 3 half-lives?",
+   "a": "100 → 50 → 25 → 12.5 Bq"
+  },
+  {
+   "q": "Carbon-14 has a half-life of 5730 years. What percentage of an amount of C-14 is left after 11 460 years?",
+   "a": "11 460 years = 2 half-lives: 100% → 50% → 25%"
+  },
+  {
+   "q": "1/8 of a substance is left. How many half-lives have passed?",
+   "a": "1/2 → 1/4 → 1/8: three half-lives"
+  },
+  {
+   "q": "Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the atomic number of the daughter nucleus?",
+   "a": "An alpha particle has 2 protons: 88 − 2 = 86"
+  },
+  {
+   "q": "Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the mass number of the daughter nucleus?",
+   "a": "An alpha particle has mass number 4: 226 − 4 = 222"
+  },
+  {
+   "q": "Carbon-14 (atomic number 6) decays by beta-minus decay to nitrogen (atomic number 7). What happens to the mass number?",
+   "a": "A neutron changes into a proton: the mass number stays the same, the atomic number goes up by 1"
+  },
+  {
+   "q": "What is background radiation?",
+   "a": "Radiation that is always present around us, for example from the ground and from space"
+  },
+  {
+   "q": "What is the difference between irradiation and contamination?",
+   "a": "In irradiation you are hit by radiation from outside; in contamination there is radioactive material on or in your body"
+  },
+  {
+   "q": "How do you reduce the radiation exposure from a radioactive source? Name the three ways.",
+   "a": "Increase the distance, use a shorter time, use shielding"
+  },
+  {
+   "q": "What do you use to measure radioactive radiation?",
+   "a": "A Geiger counter"
+  },
+  {
+   "q": "What do you use X-rays for in a hospital?",
+   "a": "To make images of bones and organs"
+  },
+  {
+   "q": "Why is nuclear waste dangerous for a long time?",
+   "a": "Some substances have a very long half-life and so keep emitting radiation for a long time"
+  },
+  {
+   "q": "What happens in nuclear fission?",
+   "a": "A heavy atomic nucleus splits into smaller nuclei and energy is released"
+  },
+  {
+   "q": "Which radiation does a microwave oven use?",
+   "a": "Microwaves"
+  },
+  {
+   "q": "A smoke detector often contains a small source that emits alpha radiation. Why is that not dangerous as long as the detector is intact?",
+   "a": "Alpha radiation is already stopped by the casing and a thin layer of air"
+  },
+  {
+   "q": "Why is an alpha source especially dangerous if the radioactive material gets inside your body?",
+   "a": "Alpha radiation is strongly ionising and is completely absorbed in the body"
+  },
+  {
+   "q": "Name two applications of radioactive radiation.",
+   "a": "For example medical imaging (tracer), irradiation of tumours, sterilisation of medical equipment or preserving food"
+  },
+  {
+   "q": "What is the difference between ionising and non-ionising radiation? Give an example of each.",
+   "a": "Ionising radiation can ionise atoms (for example X-rays or gamma radiation); non-ionising radiation cannot (for example radio waves or visible light)"
+  }
+ ]
+}

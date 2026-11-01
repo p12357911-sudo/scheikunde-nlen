@@ -30,7 +30,7 @@ with sync_playwright() as p:
             shown=page.evaluate("document.querySelector('.vraag-knop').parentNode.querySelector('.antwoord-box').classList.contains('w3-show')")
             knopok=True
         else:
-            page.evaluate("document.activeElement.blur()"); page.wait_for_timeout(450)
+            page.evaluate("document.activeElement.blur()"); page.wait_for_timeout(900)
             zw=page.locator('#zweefknop').is_visible()
             page.locator('#zweefknop').click(); page.wait_for_timeout(300)
             shown=page.evaluate("document.querySelector('.vraag-knop').parentNode.querySelector('.antwoord-box').classList.contains('w3-show')")

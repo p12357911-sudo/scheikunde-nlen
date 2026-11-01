@@ -1,0 +1,150 @@
+{
+ "title": "Energy - 123 school",
+ "heading": "Energy",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "q": "Which type of energy does a moving bicycle have?",
+   "a": "Kinetic energy"
+  },
+  {
+   "q": "In which type of energy is the energy stored in petrol?",
+   "a": "Chemical energy"
+  },
+  {
+   "q": "Which of these energy sources is a fossil fuel?",
+   "a": "Natural gas"
+  },
+  {
+   "q": "Which of these energy sources is renewable (sustainable)?",
+   "a": "Wind energy"
+  },
+  {
+   "q": "Which energy conversion takes place in a solar cell?",
+   "a": "Radiant energy becomes electrical energy"
+  },
+  {
+   "q": "Which energy conversion takes place in a bicycle dynamo?",
+   "a": "Kinetic energy becomes electrical energy"
+  },
+  {
+   "q": "Which energy conversion takes place in an electric motor?",
+   "a": "Electrical energy becomes kinetic energy"
+  },
+  {
+   "q": "Name two renewable energy sources.",
+   "a": "For example solar energy, wind energy, hydroelectric power, biomass or geothermal energy"
+  },
+  {
+   "q": "What does the law of conservation of energy state?",
+   "a": "Energy is not lost but is converted into another form"
+  },
+  {
+   "q": "Which formula goes with heating a substance?",
+   "a": "Q = m × c × ΔT"
+  },
+  {
+   "q": "You heat 2.0 kg of water from 15 °C to 65 °C. The specific heat capacity of water is 4.18 × 10<sup>3</sup> J/(kg·K). How much energy is needed?",
+   "a": "Q = m × c × ΔT = 2.0 × 4180 × 50 = 4.2 × 10<sup>5</sup> J"
+  },
+  {
+   "q": "You heat 0.50 kg of iron by 20 K. The specific heat capacity of iron is 4.5 × 10<sup>2</sup> J/(kg·K). How much energy is needed?",
+   "a": "Q = 0.50 × 450 × 20 = 4.5 × 10<sup>3</sup> J"
+  },
+  {
+   "q": "Heating 0.50 kg of a substance by 6.0 K takes 12 600 J. Calculate the specific heat capacity.",
+   "a": "c = Q / (m × ΔT) = 12 600 / (0.50 × 6.0) = 4.2 × 10<sup>3</sup> J/(kg·K)"
+  },
+  {
+   "q": "84 kJ of heat is added to 2.0 kg of water (c = 4.2 × 10<sup>3</sup> J/(kg·K)). By how many K does the temperature rise?",
+   "a": "ΔT = Q / (m × c) = 84 000 / (2.0 × 4200) = 10 K"
+  },
+  {
+   "q": "A 2000 W kettle heats 1.5 kg of water from 20 °C to 100 °C (c = 4.18 × 10<sup>3</sup> J/(kg·K)). No energy is lost. How long does it take?",
+   "a": "Q = 1.5 × 4180 × 80 = 5.0 × 10<sup>5</sup> J; t = E / P = 5.0 × 10<sup>5</sup> / 2000 = 2.5 × 10<sup>2</sup> s"
+  },
+  {
+   "q": "What is the efficiency of an appliance?",
+   "a": "Useful energy divided by total energy, times 100%"
+  },
+  {
+   "q": "An appliance converts 1200 J. Of this, 360 J is useful. What is the efficiency?",
+   "a": "efficiency = 360 / 1200 × 100% = 30%"
+  },
+  {
+   "q": "A 60 W incandescent lamp gives off 3.0 W as light. What is the efficiency?",
+   "a": "efficiency = 3.0 / 60 × 100% = 5.0%"
+  },
+  {
+   "q": "An appliance has an efficiency of 40%. The useful energy is 200 J. How much energy went in altogether?",
+   "a": "total = 200 / 0.40 = 500 J"
+  },
+  {
+   "q": "An appliance with an efficiency of 25% receives 800 J. How much of it is useful?",
+   "a": "useful = 0.25 × 800 = 200 J"
+  },
+  {
+   "q": "A central heating boiler receives 64 MJ of energy from natural gas. The efficiency is 90%. How much energy is used usefully?",
+   "a": "0.90 × 64 = 57.6, so 58 MJ"
+  },
+  {
+   "q": "A 1.5 kW heater is on for 2.0 hours. That is 3.0 kWh. How many MJ is that? (1 kWh = 3.6 MJ)",
+   "a": "3.0 × 3.6 = 10.8, so 11 MJ"
+  },
+  {
+   "q": "In which way is heat transported through a metal pan?",
+   "a": "By conduction"
+  },
+  {
+   "q": "In which way does heat reach the Earth from the Sun?",
+   "a": "By radiation"
+  },
+  {
+   "q": "In which way does warm air spread through a room?",
+   "a": "By convection"
+  },
+  {
+   "q": "Which material is a good thermal insulator?",
+   "a": "Polystyrene foam"
+  },
+  {
+   "q": "Why does double glazing insulate better than single glazing?",
+   "a": "The gas between the panes conducts heat poorly"
+  },
+  {
+   "q": "Why are the handles of pans often made of plastic?",
+   "a": "Plastic conducts heat poorly"
+  },
+  {
+   "q": "What is the unit of specific heat capacity?",
+   "a": "J/(kg·K)"
+  },
+  {
+   "q": "What happens to energy that seems to be \"lost\" through friction?",
+   "a": "It is converted into heat"
+  },
+  {
+   "q": "Which substance is used as fuel in a nuclear power station?",
+   "a": "Uranium"
+  },
+  {
+   "q": "For gravitational potential energy: E<sub>z</sub> = m × g × h. Here g = 9.8 N/kg. Calculate the gravitational potential energy of 2.0 kg at a height of 5.0 m.",
+   "a": "E<sub>z</sub> = 2.0 × 9.8 × 5.0 = 98 J"
+  },
+  {
+   "q": "For kinetic energy: E<sub>k</sub> = ½ × m × v<sup>2</sup>. Calculate the kinetic energy of a 1000 kg car travelling at 10 m/s.",
+   "a": "E<sub>k</sub> = ½ × 1000 × 10<sup>2</sup> = 5.0 × 10<sup>4</sup> J"
+  },
+  {
+   "q": "Name the three ways in which heat is transported.",
+   "a": "Conduction, convection and radiation"
+  },
+  {
+   "q": "An 8.0 W LED lamp and a 40 W incandescent lamp give the same amount of light. How many times as much energy does the incandescent lamp use in the same time?",
+   "a": "40 / 8.0 = 5.0 times"
+  }
+ ]
+}

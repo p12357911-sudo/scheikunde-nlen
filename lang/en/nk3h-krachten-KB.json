@@ -1,0 +1,149 @@
+{
+ "title": "Forces - 123 school",
+ "heading": "Forces",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is the unit of force?",
+   "a": "Newton (N)"
+  },
+  {
+   "q": "What do you use to measure a force?",
+   "a": "A newton meter (force meter)"
+  },
+  {
+   "q": "Name three types of force",
+   "a": "Gravity, friction, spring force, muscle force, magnetic force"
+  },
+  {
+   "q": "What can a force do to an object?",
+   "a": "Change its speed, its direction or its shape"
+  },
+  {
+   "q": "What is the force called with which the Earth pulls on an object?",
+   "a": "Gravity (force of gravity)"
+  },
+  {
+   "q": "Give the formula for the force of gravity",
+   "a": "Fz = m × g"
+  },
+  {
+   "q": "What is the value of g on Earth?",
+   "a": "9.8 N/kg"
+  },
+  {
+   "q": "An object has a mass of 10 kg. What is the force of gravity on Earth?",
+   "a": "10 kg × 9.8 N/kg = 98 N"
+  },
+  {
+   "q": "Which unit goes with mass?",
+   "a": "Kilogram (kg)"
+  },
+  {
+   "q": "You go to the Moon. Does your mass change?",
+   "a": "No. The force of gravity on you does become smaller."
+  },
+  {
+   "q": "What is friction force?",
+   "a": "A force that opposes a motion"
+  },
+  {
+   "q": "What is spring force?",
+   "a": "The force with which a stretched or compressed spring pushes or pulls back"
+  },
+  {
+   "q": "What does the spring constant tell you?",
+   "a": "How stiff a spring is (how much force you need for a certain extension)"
+  },
+  {
+   "q": "A spring stretches 2 cm under 4 N. How many cm does it stretch under 8 N?",
+   "a": "4 cm"
+  },
+  {
+   "q": "What is the resultant force?",
+   "a": "The single force that has the same effect as all the forces together"
+  },
+  {
+   "q": "A force of 30 N acts to the right and 20 N to the left. What is the resultant force?",
+   "a": "10 N to the right"
+  },
+  {
+   "q": "How large is the resultant force when the forces are balanced?",
+   "a": "0 N"
+  },
+  {
+   "q": "How do you draw a force?",
+   "a": "As an arrow: the length shows the size, the arrow points in the direction and starts at the point of application"
+  },
+  {
+   "q": "What is a lever?",
+   "a": "A bar that can turn about a pivot"
+  },
+  {
+   "q": "What is the pivot?",
+   "a": "The point about which a lever turns"
+  },
+  {
+   "q": "What is the lever arm of a force?",
+   "a": "The distance from the pivot to the force"
+  },
+  {
+   "q": "Which formula applies when a lever is balanced?",
+   "a": "Force × arm on the left = force × arm on the right"
+  },
+  {
+   "q": "A lever is balanced. On the left, 200 N acts at 1.0 m from the pivot. On the right, 100 N acts. At what distance?",
+   "a": "200 N × 1.0 m = 100 N × r, so r = 2.0 m"
+  },
+  {
+   "q": "Why do you need less force to loosen a nut with a long spanner?",
+   "a": "A long spanner has a long arm"
+  },
+  {
+   "q": "Name two objects that are levers",
+   "a": "Crowbar, scissors, pliers, seesaw, wheelbarrow"
+  },
+  {
+   "q": "What is the counterweight of a tower crane for?",
+   "a": "To keep the crane balanced"
+  },
+  {
+   "q": "Calculate the force of gravity on a child of 40 kg. Use g = 9.8 N/kg.",
+   "a": "F<sub>z</sub> = m × g = 40 × 9.8 = 392 N"
+  },
+  {
+   "q": "A force of gravity of 29.4 N acts on an object. Use g = 9.8 N/kg. What is the mass?",
+   "a": "m = F<sub>z</sub> / g = 29.4 / 9.8 = 3.0 kg"
+  },
+  {
+   "q": "On the Moon g = 1.6 N/kg. What is the force of gravity on an object of 10 kg?",
+   "a": "F<sub>z</sub> = 10 × 1.6 = 16 N"
+  },
+  {
+   "q": "A spring becomes 3.0 cm longer under a force of 6.0 N. How much longer does the spring become under 10 N? (the spring stays within its elastic range)",
+   "a": "Extension is proportional to force: 3.0 × 10 / 6.0 = 5.0 cm"
+  },
+  {
+   "q": "A lever is balanced. On the left, 50 N acts at 0.40 m from the pivot. On the right the arm is 0.25 m. What is the force on the right?",
+   "a": "F<sub>1</sub> × r<sub>1</sub> = F<sub>2</sub> × r<sub>2</sub>; 50 × 0.40 = F × 0.25; F = 80 N"
+  },
+  {
+   "q": "What is the moment of a force of 20 N on an arm of 0.30 m?",
+   "a": "M = F × r = 20 × 0.30 = 6.0 N·m"
+  },
+  {
+   "q": "What does a fixed pulley do?",
+   "a": "It changes the direction of the force; the force stays the same size"
+  },
+  {
+   "q": "You lift a load of 200 N with a movable pulley (no friction, ropes vertical). How large a force must you exert?",
+   "a": "A movable pulley halves the force: 100 N (but you pull twice as much rope)"
+  },
+  {
+   "q": "A crate of 20 kg is at rest on the ground. Use g = 9.8 N/kg. How large is the force of the ground on the crate?",
+   "a": "The crate is at rest: the force of the ground is equal to the force of gravity: 20 × 9.8 = 196 N"
+  }
+ ]
+}

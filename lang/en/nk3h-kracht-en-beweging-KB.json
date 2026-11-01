@@ -1,0 +1,150 @@
+{
+ "title": "Force and motion - 123 school",
+ "heading": "Force and motion",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "q": "What is the SI unit of speed?",
+   "a": "m/s"
+  },
+  {
+   "q": "Convert 20 m/s to km/h.",
+   "a": "20 × 3.6 = 72 km/h"
+  },
+  {
+   "q": "Convert 54 km/h to m/s.",
+   "a": "54 / 3.6 = 15 m/s"
+  },
+  {
+   "q": "Which formula applies to speed when the speed is constant?",
+   "a": "v = s / t"
+  },
+  {
+   "q": "A cyclist travels at 5.0 m/s. How far does he get in 12 s?",
+   "a": "s = v × t = 5.0 × 12 = 60 m"
+  },
+  {
+   "q": "A runner runs 150 m at a speed of 6.0 m/s. How long does it take?",
+   "a": "t = s / v = 150 / 6.0 = 25 s"
+  },
+  {
+   "q": "A walker covers 3.0 km in 20 minutes. What is his average speed in km/h?",
+   "a": "20 min = 1/3 h; v = 3.0 / (1/3) = 9.0 km/h"
+  },
+  {
+   "q": "A car travels 60 km in 1.0 hour and then 100 km in 1.0 hour. What is the average speed?",
+   "a": "(60 + 100) km / 2.0 h = 80 km/h"
+  },
+  {
+   "q": "What do you see in a (s,t) graph with a horizontal line?",
+   "a": "The object is at rest"
+  },
+  {
+   "q": "What does a straight, sloping upward line in a (s,t) graph mean?",
+   "a": "Constant speed"
+  },
+  {
+   "q": "What does a horizontal line in a (v,t) graph mean?",
+   "a": "Constant speed"
+  },
+  {
+   "q": "What does a straight, sloping upward line in a (v,t) graph mean?",
+   "a": "Constant acceleration"
+  },
+  {
+   "q": "How do you find the distance travelled from a (v,t) graph?",
+   "a": "From the area under the graph"
+  },
+  {
+   "q": "In a (v,t) graph the speed is constant at 10 m/s for 6.0 s. How far does the object travel?",
+   "a": "area = 10 × 6.0 = 60 m"
+  },
+  {
+   "q": "What is the SI unit of acceleration?",
+   "a": "m/s<sup>2</sup>"
+  },
+  {
+   "q": "A car accelerates from 0 to 20 m/s in 8.0 s. What is the average acceleration?",
+   "a": "a = Δv / t = 20 / 8.0 = 2.5 m/s<sup>2</sup>"
+  },
+  {
+   "q": "A car brakes from 25 m/s to a standstill in 5.0 s. What is the deceleration?",
+   "a": "a = Δv / t = 25 / 5.0 = 5.0 m/s<sup>2</sup>"
+  },
+  {
+   "q": "A 1200 kg car accelerates at 2.0 m/s<sup>2</sup>. What is the resultant force?",
+   "a": "F = m × a = 1200 × 2.0 = 2.4 × 10<sup>3</sup> N"
+  },
+  {
+   "q": "A resultant force of 300 N gives an object an acceleration of 1.5 m/s<sup>2</sup>. What is the mass?",
+   "a": "m = F / a = 300 / 1.5 = 200 kg"
+  },
+  {
+   "q": "A resultant force of 50 N acts on a 10 kg cart. What is the acceleration?",
+   "a": "a = F / m = 50 / 10 = 5.0 m/s<sup>2</sup>"
+  },
+  {
+   "q": "What happens to an object when the resultant force is 0 N?",
+   "a": "It stays at rest or moves at constant speed"
+  },
+  {
+   "q": "The driving force of a car is 500 N and the friction force is also 500 N. What kind of motion does the car make?",
+   "a": "Motion at constant speed"
+  },
+  {
+   "q": "The driving force is 800 N and the friction force is 300 N. What is the resultant force?",
+   "a": "F<sub>res</sub> = 800 − 300 = 500 N in the direction of travel; the car accelerates"
+  },
+  {
+   "q": "What does Newton's third law (action and reaction) state?",
+   "a": "Two objects exert forces of equal size and opposite direction on each other"
+  },
+  {
+   "q": "You push a crate 5.0 m forward with a force of 40 N. How much work do you do? (W = F × s)",
+   "a": "W = F × s = 40 × 5.0 = 200 J"
+  },
+  {
+   "q": "Lifting an object over 6.0 m takes 300 J of work. What is the force?",
+   "a": "F = W / s = 300 / 6.0 = 50 N"
+  },
+  {
+   "q": "A driver travels at 20 m/s and has a reaction time of 0.75 s. What is the reaction distance?",
+   "a": "s = v × t = 20 × 0.75 = 15 m"
+  },
+  {
+   "q": "The reaction distance is 14 m and the braking distance is 26 m. What is the stopping distance?",
+   "a": "stopping distance = reaction distance + braking distance = 14 + 26 = 40 m"
+  },
+  {
+   "q": "A car travels twice as fast. What happens to the braking distance?",
+   "a": "The braking distance becomes about 4 times as large"
+  },
+  {
+   "q": "A stone falls without air resistance. The acceleration of free fall is 9.8 m/s<sup>2</sup>. What is the speed after 2.0 s?",
+   "a": "v = g × t = 9.8 × 2.0 = 19.6 ≈ 20 m/s"
+  },
+  {
+   "q": "A parachutist descends at constant speed. Which statement is correct?",
+   "a": "The force of gravity is equal to the air resistance"
+  },
+  {
+   "q": "Why do you slide forward when a car suddenly brakes?",
+   "a": "Because of inertia you keep moving at the same speed"
+  },
+  {
+   "q": "Why does a crumple zone reduce the force on the occupants in a collision?",
+   "a": "The car slows down over a longer time, so the deceleration is smaller"
+  },
+  {
+   "q": "Which two parts make up the stopping distance?",
+   "a": "Reaction distance + braking distance"
+  },
+  {
+   "q": "How do you find the speed from a (s,t) graph?",
+   "a": "From the slope of the line: v = Δs / Δt"
+  }
+ ]
+}

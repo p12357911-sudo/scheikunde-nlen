@@ -1,0 +1,130 @@
+{
+ "title": "Fractions, percentages and units - 123 school",
+ "heading": "Fractions, percentages and units",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Every question tells you how to round."
+ ],
+ "questions": [
+  {
+   "q": "Write 11/3 as a mixed number.",
+   "a": "3 2/3",
+   "e": "11/3 = 3 and 2/3"
+  },
+  {
+   "q": "Write 5/8 as a decimal.",
+   "a": "0.625",
+   "e": "5 : 8 = 0.625"
+  },
+  {
+   "q": "Write 9/25 as a decimal.",
+   "a": "0.36",
+   "e": "9 : 25 = 0.36"
+  },
+  {
+   "q": "Write 0.6 as a simple fraction.",
+   "a": "3/5",
+   "e": "0.6 = 600/1000 = 3/5"
+  },
+  {
+   "q": "Write 3/8 as a percentage.",
+   "a": "37.5%",
+   "e": "3/8 = 0.375 = 37.5%"
+  },
+  {
+   "q": "Simplify (6a)/(9a).",
+   "a": "2/3"
+  },
+  {
+   "q": "Which fraction is greater: 5/7 or 7/10?",
+   "a": "5/7",
+   "e": "5/7 = 50/70 and 7/10 = 49/70, so 5/7 is greater"
+  },
+  {
+   "q": "What is 0.79 g / 1 mL?",
+   "a": "0.79 g/mL"
+  },
+  {
+   "q": "You multiply a density of 0.79 g/mL by a volume of 50 mL. What unit does the answer have?",
+   "a": "g"
+  },
+  {
+   "q": "What does a molar mass of 18 g/mol mean?",
+   "a": "1 mol has a mass of 18 g",
+   "e": "You read g/mol as \"grams per mole\": 1 mol has a mass of 18 g"
+  },
+  {
+   "q": "You divide a mass in g by a molar mass in g/mol. What unit does the answer have?",
+   "a": "mol"
+  },
+  {
+   "q": "You divide an amount in mol by a concentration in mol/L. What unit does the answer have?",
+   "a": "L"
+  },
+  {
+   "q": "0.4 L of solution contains 0.15 mol of dissolved substance. Calculate the concentration in mol/L. Round to 3 decimal places.",
+   "a": "0.375 mol/L",
+   "e": "0.15 mol : 0.4 L = 0.375 mol/L"
+  },
+  {
+   "q": "Write 0.6% as a decimal.",
+   "a": "0.006",
+   "e": "0.6% = 0.6/100 = 0.006"
+  },
+  {
+   "q": "Write 0.375 as a percentage.",
+   "a": "37.5%",
+   "e": "0.375 × 100% = 37.5%"
+  },
+  {
+   "q": "A quantity of 60 g increases by 35%. How many grams is it afterwards? You do not need to round.",
+   "a": "81 g",
+   "e": "60 g × 1.35 = 81 g"
+  },
+  {
+   "q": "How much is 12.5% of 80 g?",
+   "a": "10 g",
+   "e": "12.5% = 1/8: 80 g : 8 = 10 g"
+  },
+  {
+   "q": "How much is 0.5% of 3000 mL?",
+   "a": "15 mL",
+   "e": "0.5% = 0.005: 0.005 × 3000 mL = 15 mL"
+  },
+  {
+   "q": "A mixture consists of 28 g of iron and 16 g of sulfur. What is the mass ratio iron : sulfur?",
+   "a": "7 : 4",
+   "e": "28 : 16 = 7 : 4 (divide both numbers by 4)"
+  },
+  {
+   "q": "Convert 3750 mL to L. Round to 1 decimal place.",
+   "a": "3.8 L",
+   "e": "1 L = 1000 mL, so 3750 mL = 3.75 L, rounded 3.8 L"
+  },
+  {
+   "q": "Convert 480 L to m<sup>3</sup>. You do not need to round.",
+   "a": "0.48 m<sup>3</sup>",
+   "e": "1 m<sup>3</sup> = 1000 L, so 480 L = 0.48 m<sup>3</sup>"
+  },
+  {
+   "q": "Convert 0.25 h to s. You do not need to round.",
+   "a": "900 s",
+   "e": "1 h = 3600 s, so 0.25 h = 900 s"
+  },
+  {
+   "q": "How many grams is 1 mg?",
+   "a": "0.001 g",
+   "e": "1 g = 1000 mg, so 1 mg = 0.001 g"
+  },
+  {
+   "q": "A speed of 36 km/h in m/s is equal to …",
+   "a": "10 m/s",
+   "e": "36 km/h = 36 000 m : 3600 s = 10 m/s"
+  },
+  {
+   "q": "Convert 100 km/h to m/s. Round to 1 decimal place.",
+   "a": "27.8 m/s",
+   "e": "100 km/h = 100 000 m : 3600 s = 27.8 m/s"
+  }
+ ]
+}

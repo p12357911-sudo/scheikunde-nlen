@@ -1,0 +1,288 @@
+### nk3h-elektriciteit-KB
+heading Electricity
+0.q What does a generator do?
+0.a It converts kinetic energy into electrical energy
+1.q What is a power station?
+1.a A place where electrical energy is generated
+2.q Why is high voltage used to transport electricity over long distances?
+2.a Less energy is then lost as heat in the cables
+3.q What does a transformer do?
+3.a It makes the voltage higher or lower
+4.q What is the unit of voltage?
+4.a Volt (V)
+5.q What is the unit of power?
+5.a Watt (W)
+6.q Which unit is on your energy bill?
+6.a Kilowatt-hour (kWh)
+7.q Give the formula for power
+7.a P = E : t (power = energy : time)
+8.q Give the formula for energy
+8.a E = P × t (energy = power × time)
+9.q Which units belong to P, E and t in the formula P = E : t?
+9.a P in watts (W), E in joules (J), t in seconds (s)
+10.q What is a kilowatt-hour?
+10.a The energy used by a 1 kW appliance in 1 hour
+11.q How many kW is 1500 W?
+11.a 1.5 kW
+12.q A 2.0 kW appliance is switched on for 3.0 hours. How many kWh does it use?
+12.a 2.0 kW × 3.0 h = 6.0 kWh
+13.q One kilowatt-hour costs € 0.30. What do 5 kWh cost?
+13.a 5 × € 0.30 = € 1.50
+14.q An appliance uses 800 J in 20 s. What is its power?
+14.a 800 J : 20 s = 40 W
+15.q A 60 W lamp is on for 10 s. How much energy does the lamp use?
+15.a 60 W × 10 s = 600 J
+16.q What is the voltage of a household socket?
+16.a 230 V
+17.q Which instrument measures voltage and current?
+17.a A multimeter
+18.q Which wire is at a high voltage (live)?
+18.a The live wire
+19.q What does a fuse do?
+19.a It breaks the circuit when the current is too high
+20.q What is overload?
+20.a Too many appliances are connected at the same time, so the current becomes too high
+21.q What is a short circuit?
+21.a The current flows along a path with almost no resistance
+22.q What does a residual-current device (RCD) do?
+22.a It switches off the current if current leaks away to earth
+23.q What is the earth wire for?
+23.a For safety if an appliance develops a fault
+24.q Why must you not touch a socket with wet hands?
+24.a Water conducts electric current, so you could get an electric shock
+25.q What is the unit of current?
+25.a Ampere (A)
+26.q Which formula applies to electrical power?
+26.a P = U × I
+27.q A washing machine works on 230 V and draws 10 A. What is its power?
+27.a P = U × I = 230 × 10 = 2300 W
+28.q A 1840 W hairdryer is connected to 230 V. What is the current?
+28.a I = P / U = 1840 / 230 = 8.0 A
+29.q How many joules is 1 kWh?
+29.a 1 kWh = 1000 W × 3600 s = 3.6 × 10<sup>6</sup> J
+30.q A 1200 W appliance is on for 2.5 hours. One kWh costs € 0.30. How much does that cost?
+30.a E = 1.2 kW × 2.5 h = 3.0 kWh; cost = 3.0 × 0.30 = € 0.90
+31.q Convert 250 mA to A.
+31.a 250 mA = 250 / 1000 = 0.250 A
+32.q A 4.0 W appliance is on standby day and night for a whole year (365 days). How many kWh is that?
+32.a 4.0 W × 24 h × 365 = 35 040 Wh ≈ 35 kWh
+33.q You have lamps of 11 W, 40 W and 60 W. Which one uses the most energy in 1 hour?
+33.a 60 W uses 60 Wh, the other lamps use less
+34.q What is the device called with which an energy company measures your consumption?
+34.a A kWh meter (energy meter)
+### nk3h-energie-KB
+heading Energy
+0.q Which type of energy does a moving bicycle have?
+0.a Kinetic energy
+1.q In which type of energy is the energy stored in petrol?
+1.a Chemical energy
+2.q Which of these energy sources is a fossil fuel?
+2.a Natural gas
+3.q Which of these energy sources is renewable (sustainable)?
+3.a Wind energy
+4.q Which energy conversion takes place in a solar cell?
+4.a Radiant energy becomes electrical energy
+5.q Which energy conversion takes place in a bicycle dynamo?
+5.a Kinetic energy becomes electrical energy
+6.q Which energy conversion takes place in an electric motor?
+6.a Electrical energy becomes kinetic energy
+7.q Name two renewable energy sources.
+7.a For example solar energy, wind energy, hydroelectric power, biomass or geothermal energy
+8.q What does the law of conservation of energy state?
+8.a Energy is not lost but is converted into another form
+9.q Which formula goes with heating a substance?
+9.a Q = m × c × ΔT
+10.q You heat 2.0 kg of water from 15 °C to 65 °C. The specific heat capacity of water is 4.18 × 10<sup>3</sup> J/(kg·K). How much energy is needed?
+10.a Q = m × c × ΔT = 2.0 × 4180 × 50 = 4.2 × 10<sup>5</sup> J
+11.q You heat 0.50 kg of iron by 20 K. The specific heat capacity of iron is 4.5 × 10<sup>2</sup> J/(kg·K). How much energy is needed?
+11.a Q = 0.50 × 450 × 20 = 4.5 × 10<sup>3</sup> J
+12.q Heating 0.50 kg of a substance by 6.0 K takes 12 600 J. Calculate the specific heat capacity.
+12.a c = Q / (m × ΔT) = 12 600 / (0.50 × 6.0) = 4.2 × 10<sup>3</sup> J/(kg·K)
+13.q 84 kJ of heat is added to 2.0 kg of water (c = 4.2 × 10<sup>3</sup> J/(kg·K)). By how many K does the temperature rise?
+13.a ΔT = Q / (m × c) = 84 000 / (2.0 × 4200) = 10 K
+14.q A 2000 W kettle heats 1.5 kg of water from 20 °C to 100 °C (c = 4.18 × 10<sup>3</sup> J/(kg·K)). No energy is lost. How long does it take?
+14.a Q = 1.5 × 4180 × 80 = 5.0 × 10<sup>5</sup> J; t = E / P = 5.0 × 10<sup>5</sup> / 2000 = 2.5 × 10<sup>2</sup> s
+15.q What is the efficiency of an appliance?
+15.a Useful energy divided by total energy, times 100%
+16.q An appliance converts 1200 J. Of this, 360 J is useful. What is the efficiency?
+16.a efficiency = 360 / 1200 × 100% = 30%
+17.q A 60 W incandescent lamp gives off 3.0 W as light. What is the efficiency?
+17.a efficiency = 3.0 / 60 × 100% = 5.0%
+18.q An appliance has an efficiency of 40%. The useful energy is 200 J. How much energy went in altogether?
+18.a total = 200 / 0.40 = 500 J
+19.q An appliance with an efficiency of 25% receives 800 J. How much of it is useful?
+19.a useful = 0.25 × 800 = 200 J
+20.q A central heating boiler receives 64 MJ of energy from natural gas. The efficiency is 90%. How much energy is used usefully?
+20.a 0.90 × 64 = 57.6, so 58 MJ
+21.q A 1.5 kW heater is on for 2.0 hours. That is 3.0 kWh. How many MJ is that? (1 kWh = 3.6 MJ)
+21.a 3.0 × 3.6 = 10.8, so 11 MJ
+22.q In which way is heat transported through a metal pan?
+22.a By conduction
+23.q In which way does heat reach the Earth from the Sun?
+23.a By radiation
+24.q In which way does warm air spread through a room?
+24.a By convection
+25.q Which material is a good thermal insulator?
+25.a Polystyrene foam
+26.q Why does double glazing insulate better than single glazing?
+26.a The gas between the panes conducts heat poorly
+27.q Why are the handles of pans often made of plastic?
+27.a Plastic conducts heat poorly
+28.q What is the unit of specific heat capacity?
+28.a J/(kg·K)
+29.q What happens to energy that seems to be "lost" through friction?
+29.a It is converted into heat
+30.q Which substance is used as fuel in a nuclear power station?
+30.a Uranium
+31.q For gravitational potential energy: E<sub>z</sub> = m × g × h. Here g = 9.8 N/kg. Calculate the gravitational potential energy of 2.0 kg at a height of 5.0 m.
+31.a E<sub>z</sub> = 2.0 × 9.8 × 5.0 = 98 J
+32.q For kinetic energy: E<sub>k</sub> = ½ × m × v<sup>2</sup>. Calculate the kinetic energy of a 1000 kg car travelling at 10 m/s.
+32.a E<sub>k</sub> = ½ × 1000 × 10<sup>2</sup> = 5.0 × 10<sup>4</sup> J
+33.q Name the three ways in which heat is transported.
+33.a Conduction, convection and radiation
+34.q An 8.0 W LED lamp and a 40 W incandescent lamp give the same amount of light. How many times as much energy does the incandescent lamp use in the same time?
+34.a 40 / 8.0 = 5.0 times
+### nk3h-kracht-en-beweging-KB
+heading Force and motion
+0.q What is the SI unit of speed?
+0.a m/s
+1.q Convert 20 m/s to km/h.
+1.a 20 × 3.6 = 72 km/h
+2.q Convert 54 km/h to m/s.
+2.a 54 / 3.6 = 15 m/s
+3.q Which formula applies to speed when the speed is constant?
+3.a v = s / t
+4.q A cyclist travels at 5.0 m/s. How far does he get in 12 s?
+4.a s = v × t = 5.0 × 12 = 60 m
+5.q A runner runs 150 m at a speed of 6.0 m/s. How long does it take?
+5.a t = s / v = 150 / 6.0 = 25 s
+6.q A walker covers 3.0 km in 20 minutes. What is his average speed in km/h?
+6.a 20 min = 1/3 h; v = 3.0 / (1/3) = 9.0 km/h
+7.q A car travels 60 km in 1.0 hour and then 100 km in 1.0 hour. What is the average speed?
+7.a (60 + 100) km / 2.0 h = 80 km/h
+8.q What do you see in a (s,t) graph with a horizontal line?
+8.a The object is at rest
+9.q What does a straight, sloping upward line in a (s,t) graph mean?
+9.a Constant speed
+10.q What does a horizontal line in a (v,t) graph mean?
+10.a Constant speed
+11.q What does a straight, sloping upward line in a (v,t) graph mean?
+11.a Constant acceleration
+12.q How do you find the distance travelled from a (v,t) graph?
+12.a From the area under the graph
+13.q In a (v,t) graph the speed is constant at 10 m/s for 6.0 s. How far does the object travel?
+13.a area = 10 × 6.0 = 60 m
+14.q What is the SI unit of acceleration?
+14.a m/s<sup>2</sup>
+15.q A car accelerates from 0 to 20 m/s in 8.0 s. What is the average acceleration?
+15.a a = Δv / t = 20 / 8.0 = 2.5 m/s<sup>2</sup>
+16.q A car brakes from 25 m/s to a standstill in 5.0 s. What is the deceleration?
+16.a a = Δv / t = 25 / 5.0 = 5.0 m/s<sup>2</sup>
+17.q A 1200 kg car accelerates at 2.0 m/s<sup>2</sup>. What is the resultant force?
+17.a F = m × a = 1200 × 2.0 = 2.4 × 10<sup>3</sup> N
+18.q A resultant force of 300 N gives an object an acceleration of 1.5 m/s<sup>2</sup>. What is the mass?
+18.a m = F / a = 300 / 1.5 = 200 kg
+19.q A resultant force of 50 N acts on a 10 kg cart. What is the acceleration?
+19.a a = F / m = 50 / 10 = 5.0 m/s<sup>2</sup>
+20.q What happens to an object when the resultant force is 0 N?
+20.a It stays at rest or moves at constant speed
+21.q The driving force of a car is 500 N and the friction force is also 500 N. What kind of motion does the car make?
+21.a Motion at constant speed
+22.q The driving force is 800 N and the friction force is 300 N. What is the resultant force?
+22.a F<sub>res</sub> = 800 − 300 = 500 N in the direction of travel; the car accelerates
+23.q What does Newton's third law (action and reaction) state?
+23.a Two objects exert forces of equal size and opposite direction on each other
+24.q You push a crate 5.0 m forward with a force of 40 N. How much work do you do? (W = F × s)
+24.a W = F × s = 40 × 5.0 = 200 J
+25.q Lifting an object over 6.0 m takes 300 J of work. What is the force?
+25.a F = W / s = 300 / 6.0 = 50 N
+26.q A driver travels at 20 m/s and has a reaction time of 0.75 s. What is the reaction distance?
+26.a s = v × t = 20 × 0.75 = 15 m
+27.q The reaction distance is 14 m and the braking distance is 26 m. What is the stopping distance?
+27.a stopping distance = reaction distance + braking distance = 14 + 26 = 40 m
+28.q A car travels twice as fast. What happens to the braking distance?
+28.a The braking distance becomes about 4 times as large
+29.q A stone falls without air resistance. The acceleration of free fall is 9.8 m/s<sup>2</sup>. What is the speed after 2.0 s?
+29.a v = g × t = 9.8 × 2.0 = 19.6 ≈ 20 m/s
+30.q A parachutist descends at constant speed. Which statement is correct?
+30.a The force of gravity is equal to the air resistance
+31.q Why do you slide forward when a car suddenly brakes?
+31.a Because of inertia you keep moving at the same speed
+32.q Why does a crumple zone reduce the force on the occupants in a collision?
+32.a The car slows down over a longer time, so the deceleration is smaller
+33.q Which two parts make up the stopping distance?
+33.a Reaction distance + braking distance
+34.q How do you find the speed from a (s,t) graph?
+34.a From the slope of the line: v = Δs / Δt
+### nk3h-krachten-KB
+heading Forces
+0.q What is the unit of force?
+0.a Newton (N)
+1.q What do you use to measure a force?
+1.a A newton meter (force meter)
+2.q Name three types of force
+2.a Gravity, friction, spring force, muscle force, magnetic force
+3.q What can a force do to an object?
+3.a Change its speed, its direction or its shape
+4.q What is the force called with which the Earth pulls on an object?
+4.a Gravity (force of gravity)
+5.q Give the formula for the force of gravity
+5.a Fz = m × g
+6.q What is the value of g on Earth?
+6.a 9.8 N/kg
+7.q An object has a mass of 10 kg. What is the force of gravity on Earth?
+7.a 10 kg × 9.8 N/kg = 98 N
+8.q Which unit goes with mass?
+8.a Kilogram (kg)
+9.q You go to the Moon. Does your mass change?
+9.a No. The force of gravity on you does become smaller.
+10.q What is friction force?
+10.a A force that opposes a motion
+11.q What is spring force?
+11.a The force with which a stretched or compressed spring pushes or pulls back
+12.q What does the spring constant tell you?
+12.a How stiff a spring is (how much force you need for a certain extension)
+13.q A spring stretches 2 cm under 4 N. How many cm does it stretch under 8 N?
+13.a 4 cm
+14.q What is the resultant force?
+14.a The single force that has the same effect as all the forces together
+15.q A force of 30 N acts to the right and 20 N to the left. What is the resultant force?
+15.a 10 N to the right
+16.q How large is the resultant force when the forces are balanced?
+16.a 0 N
+17.q How do you draw a force?
+17.a As an arrow: the length shows the size, the arrow points in the direction and starts at the point of application
+18.q What is a lever?
+18.a A bar that can turn about a pivot
+19.q What is the pivot?
+19.a The point about which a lever turns
+20.q What is the lever arm of a force?
+20.a The distance from the pivot to the force
+21.q Which formula applies when a lever is balanced?
+21.a Force × arm on the left = force × arm on the right
+22.q A lever is balanced. On the left, 200 N acts at 1.0 m from the pivot. On the right, 100 N acts. At what distance?
+22.a 200 N × 1.0 m = 100 N × r, so r = 2.0 m
+23.q Why do you need less force to loosen a nut with a long spanner?
+23.a A long spanner has a long arm
+24.q Name two objects that are levers
+24.a Crowbar, scissors, pliers, seesaw, wheelbarrow
+25.q What is the counterweight of a tower crane for?
+25.a To keep the crane balanced
+26.q Calculate the force of gravity on a child of 40 kg. Use g = 9.8 N/kg.
+26.a F<sub>z</sub> = m × g = 40 × 9.8 = 392 N
+27.q A force of gravity of 29.4 N acts on an object. Use g = 9.8 N/kg. What is the mass?
+27.a m = F<sub>z</sub> / g = 29.4 / 9.8 = 3.0 kg
+28.q On the Moon g = 1.6 N/kg. What is the force of gravity on an object of 10 kg?
+28.a F<sub>z</sub> = 10 × 1.6 = 16 N
+29.q A spring becomes 3.0 cm longer under a force of 6.0 N. How much longer does the spring become under 10 N? (the spring stays within its elastic range)
+29.a Extension is proportional to force: 3.0 × 10 / 6.0 = 5.0 cm
+30.q A lever is balanced. On the left, 50 N acts at 0.40 m from the pivot. On the right the arm is 0.25 m. What is the force on the right?
+30.a F<sub>1</sub> × r<sub>1</sub> = F<sub>2</sub> × r<sub>2</sub>; 50 × 0.40 = F × 0.25; F = 80 N
+31.q What is the moment of a force of 20 N on an arm of 0.30 m?
+31.a M = F × r = 20 × 0.30 = 6.0 N·m
+32.q What does a fixed pulley do?
+32.a It changes the direction of the force; the force stays the same size
+33.q You lift a load of 200 N with a movable pulley (no friction, ropes vertical). How large a force must you exert?
+33.a A movable pulley halves the force: 100 N (but you pull twice as much rope)
+34.q A crate of 20 kg is at rest on the ground. Use g = 9.8 N/kg. How large is the force of the ground on the crate?
+34.a The crate is at rest: the force of the ground is equal to the force of gravity: 20 × 9.8 = 196 N

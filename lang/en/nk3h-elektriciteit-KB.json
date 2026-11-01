@@ -1,0 +1,149 @@
+{
+ "title": "Electricity - 123 school",
+ "heading": "Electricity",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What does a generator do?",
+   "a": "It converts kinetic energy into electrical energy"
+  },
+  {
+   "q": "What is a power station?",
+   "a": "A place where electrical energy is generated"
+  },
+  {
+   "q": "Why is high voltage used to transport electricity over long distances?",
+   "a": "Less energy is then lost as heat in the cables"
+  },
+  {
+   "q": "What does a transformer do?",
+   "a": "It makes the voltage higher or lower"
+  },
+  {
+   "q": "What is the unit of voltage?",
+   "a": "Volt (V)"
+  },
+  {
+   "q": "What is the unit of power?",
+   "a": "Watt (W)"
+  },
+  {
+   "q": "Which unit is on your energy bill?",
+   "a": "Kilowatt-hour (kWh)"
+  },
+  {
+   "q": "Give the formula for power",
+   "a": "P = E : t (power = energy : time)"
+  },
+  {
+   "q": "Give the formula for energy",
+   "a": "E = P × t (energy = power × time)"
+  },
+  {
+   "q": "Which units belong to P, E and t in the formula P = E : t?",
+   "a": "P in watts (W), E in joules (J), t in seconds (s)"
+  },
+  {
+   "q": "What is a kilowatt-hour?",
+   "a": "The energy used by a 1 kW appliance in 1 hour"
+  },
+  {
+   "q": "How many kW is 1500 W?",
+   "a": "1.5 kW"
+  },
+  {
+   "q": "A 2.0 kW appliance is switched on for 3.0 hours. How many kWh does it use?",
+   "a": "2.0 kW × 3.0 h = 6.0 kWh"
+  },
+  {
+   "q": "One kilowatt-hour costs € 0.30. What do 5 kWh cost?",
+   "a": "5 × € 0.30 = € 1.50"
+  },
+  {
+   "q": "An appliance uses 800 J in 20 s. What is its power?",
+   "a": "800 J : 20 s = 40 W"
+  },
+  {
+   "q": "A 60 W lamp is on for 10 s. How much energy does the lamp use?",
+   "a": "60 W × 10 s = 600 J"
+  },
+  {
+   "q": "What is the voltage of a household socket?",
+   "a": "230 V"
+  },
+  {
+   "q": "Which instrument measures voltage and current?",
+   "a": "A multimeter"
+  },
+  {
+   "q": "Which wire is at a high voltage (live)?",
+   "a": "The live wire"
+  },
+  {
+   "q": "What does a fuse do?",
+   "a": "It breaks the circuit when the current is too high"
+  },
+  {
+   "q": "What is overload?",
+   "a": "Too many appliances are connected at the same time, so the current becomes too high"
+  },
+  {
+   "q": "What is a short circuit?",
+   "a": "The current flows along a path with almost no resistance"
+  },
+  {
+   "q": "What does a residual-current device (RCD) do?",
+   "a": "It switches off the current if current leaks away to earth"
+  },
+  {
+   "q": "What is the earth wire for?",
+   "a": "For safety if an appliance develops a fault"
+  },
+  {
+   "q": "Why must you not touch a socket with wet hands?",
+   "a": "Water conducts electric current, so you could get an electric shock"
+  },
+  {
+   "q": "What is the unit of current?",
+   "a": "Ampere (A)"
+  },
+  {
+   "q": "Which formula applies to electrical power?",
+   "a": "P = U × I"
+  },
+  {
+   "q": "A washing machine works on 230 V and draws 10 A. What is its power?",
+   "a": "P = U × I = 230 × 10 = 2300 W"
+  },
+  {
+   "q": "A 1840 W hairdryer is connected to 230 V. What is the current?",
+   "a": "I = P / U = 1840 / 230 = 8.0 A"
+  },
+  {
+   "q": "How many joules is 1 kWh?",
+   "a": "1 kWh = 1000 W × 3600 s = 3.6 × 10<sup>6</sup> J"
+  },
+  {
+   "q": "A 1200 W appliance is on for 2.5 hours. One kWh costs € 0.30. How much does that cost?",
+   "a": "E = 1.2 kW × 2.5 h = 3.0 kWh; cost = 3.0 × 0.30 = € 0.90"
+  },
+  {
+   "q": "Convert 250 mA to A.",
+   "a": "250 mA = 250 / 1000 = 0.250 A"
+  },
+  {
+   "q": "A 4.0 W appliance is on standby day and night for a whole year (365 days). How many kWh is that?",
+   "a": "4.0 W × 24 h × 365 = 35 040 Wh ≈ 35 kWh"
+  },
+  {
+   "q": "You have lamps of 11 W, 40 W and 60 W. Which one uses the most energy in 1 hour?",
+   "a": "60 W uses 60 Wh, the other lamps use less"
+  },
+  {
+   "q": "What is the device called with which an energy company measures your consumption?",
+   "a": "A kWh meter (energy meter)"
+  }
+ ]
+}

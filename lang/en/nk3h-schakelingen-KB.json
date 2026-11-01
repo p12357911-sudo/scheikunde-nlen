@@ -1,0 +1,150 @@
+{
+ "title": "Circuits - 123 school",
+ "heading": "Circuits",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "q": "How is an ammeter placed in a circuit?",
+   "a": "In series with the component"
+  },
+  {
+   "q": "How is a voltmeter placed in a circuit?",
+   "a": "In parallel with the component"
+  },
+  {
+   "q": "What is Ohm's law?",
+   "a": "U = I × R"
+  },
+  {
+   "q": "A current of 0.50 A flows through a resistor of 12 Ω. What is the voltage?",
+   "a": "U = I × R = 0.50 × 12 = 6.0 V"
+  },
+  {
+   "q": "The voltage across a resistor is 9.0 V and the current is 0.30 A. What is the resistance?",
+   "a": "R = U / I = 9.0 / 0.30 = 30 Ω"
+  },
+  {
+   "q": "A 46 Ω heating element is connected to 230 V. What is the current?",
+   "a": "I = U / R = 230 / 46 = 5.0 A"
+  },
+  {
+   "q": "What is the unit of resistance?",
+   "a": "Ohm (Ω)"
+  },
+  {
+   "q": "What is true for the current in a series circuit?",
+   "a": "The current is the same everywhere"
+  },
+  {
+   "q": "What is true for the voltage in a series circuit?",
+   "a": "The source voltage is shared between the components"
+  },
+  {
+   "q": "What is true for the voltage across components connected in parallel?",
+   "a": "The voltage across each component is the same"
+  },
+  {
+   "q": "What is true for the current in a parallel circuit?",
+   "a": "The total current is the sum of the currents through the branches"
+  },
+  {
+   "q": "What happens to the other lamps if one lamp burns out in a series circuit?",
+   "a": "All the lamps go out"
+  },
+  {
+   "q": "What happens to the other lamps if one lamp burns out in a parallel circuit?",
+   "a": "The other lamps stay on"
+  },
+  {
+   "q": "How are the appliances in a house connected?",
+   "a": "In parallel"
+  },
+  {
+   "q": "Two resistors of 10 Ω and 15 Ω are in series. What is the equivalent resistance?",
+   "a": "R<sub>v</sub> = R<sub>1</sub> + R<sub>2</sub> = 10 + 15 = 25 Ω"
+  },
+  {
+   "q": "Three resistors of 8.0 Ω are in series. What is the equivalent resistance?",
+   "a": "R<sub>v</sub> = 3 × 8.0 = 24 Ω"
+  },
+  {
+   "q": "Two resistors of 6.0 Ω and 3.0 Ω are in parallel. What is the equivalent resistance? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)",
+   "a": "1/R<sub>v</sub> = 1/6.0 + 1/3.0 = 1/2.0, so R<sub>v</sub> = 2.0 Ω"
+  },
+  {
+   "q": "Two equal resistors of 20 Ω are in parallel. What is the equivalent resistance?",
+   "a": "With two equal resistors, R<sub>v</sub> is half: 10 Ω"
+  },
+  {
+   "q": "What happens to the equivalent resistance if you connect an extra resistor in parallel?",
+   "a": "The equivalent resistance becomes smaller"
+  },
+  {
+   "q": "Two resistors of 10 Ω and 15 Ω are in series on a 12 V source. What is the current?",
+   "a": "R<sub>v</sub> = 25 Ω; I = U / R<sub>v</sub> = 12 / 25 = 0.48 A"
+  },
+  {
+   "q": "The same circuit: 10 Ω and 15 Ω in series on 12 V, current 0.48 A. What is the voltage across the 10 Ω resistor?",
+   "a": "U = I × R = 0.48 × 10 = 4.8 V"
+  },
+  {
+   "q": "A 6.0 Ω resistor and a 12 Ω resistor are in parallel on 12 V. What is the total current?",
+   "a": "I<sub>1</sub> = 12 / 6.0 = 2.0 A; I<sub>2</sub> = 12 / 12 = 1.0 A; I<sub>tot</sub> = 3.0 A"
+  },
+  {
+   "q": "In a parallel circuit, two ammeters in the branches read 0.30 A and 0.20 A. What is the total current?",
+   "a": "0.30 + 0.20 = 0.50 A"
+  },
+  {
+   "q": "In a series circuit, two voltmeters across two lamps read 4.0 V and 2.0 V. What is the source voltage?",
+   "a": "4.0 + 2.0 = 6.0 V"
+  },
+  {
+   "q": "You connect two 1.5 V batteries in series. What is the total voltage?",
+   "a": "1.5 + 1.5 = 3.0 V"
+  },
+  {
+   "q": "A 6.0 V lamp has a power of 3.0 W. What is the current through the lamp? (P = U × I)",
+   "a": "I = P / U = 3.0 / 6.0 = 0.50 A"
+  },
+  {
+   "q": "How does the resistance of a thin wire compare with that of a thick wire (same material and length)?",
+   "a": "The thin wire has a greater resistance"
+  },
+  {
+   "q": "What happens to the resistance of a wire if you make the wire twice as long?",
+   "a": "The resistance becomes twice as large"
+  },
+  {
+   "q": "What does an NTC do at a higher temperature?",
+   "a": "Its resistance becomes smaller"
+  },
+  {
+   "q": "What does an LDR do when more light falls on it?",
+   "a": "Its resistance becomes smaller"
+  },
+  {
+   "q": "What do you use a variable resistor for?",
+   "a": "To control the resistance, and with it the current"
+  },
+  {
+   "q": "What happens in a short circuit?",
+   "a": "A very large current flows because the resistance is very small"
+  },
+  {
+   "q": "Three equal resistors of 30 Ω are in parallel. What is the equivalent resistance?",
+   "a": "With three equal resistors, R<sub>v</sub> is a third: 30 / 3 = 10 Ω"
+  },
+  {
+   "q": "Where do you connect a voltmeter to measure the voltage across a lamp?",
+   "a": "In parallel with the lamp (connected to both sides of the lamp)"
+  },
+  {
+   "q": "Name two advantages of a parallel circuit in a house.",
+   "a": "Every appliance gets the full mains voltage and you can switch appliances on and off separately"
+  }
+ ]
+}
