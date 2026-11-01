@@ -1,0 +1,153 @@
+{
+ "title": "Reactions - 123 school",
+ "heading": "Reactions",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What happens in a chemical reaction?",
+   "a": "The reactants disappear and new substances with different properties are formed"
+  },
+  {
+   "q": "Name two things that show that a chemical reaction has taken place",
+   "a": "For example: a gas is formed, a precipitate is formed, the colour changes, it gets warmer or colder, light is given off"
+  },
+  {
+   "q": "Is the melting of ice a chemical reaction?",
+   "a": "No, it is a change of state. They remain water molecules"
+  },
+  {
+   "q": "What happens to the atoms during a chemical reaction?",
+   "a": "They are arranged differently. No atoms are added and no atoms are lost"
+  },
+  {
+   "q": "What is on the left of the arrow in a reaction scheme?",
+   "a": "The reactants"
+  },
+  {
+   "q": "What is on the right of the arrow in a reaction scheme?",
+   "a": "The products"
+  },
+  {
+   "q": "You see a gas escaping during a reaction. Is that an observation or a conclusion?",
+   "a": "An observation: you can see it. That a new substance has been formed is a conclusion."
+  },
+  {
+   "q": "Give the word equation for the decomposition of water, with state symbols",
+   "a": "water (l) → hydrogen (g) + oxygen (g)"
+  },
+  {
+   "q": "Give the word equation for sodium reacting with water (sodium hydroxide solution and hydrogen are formed)",
+   "a": "sodium (s) + water (l) → sodium hydroxide solution (aq) + hydrogen (g)"
+  },
+  {
+   "q": "What is a decomposition reaction?",
+   "a": "A reaction in which one reactant is split into several products"
+  },
+  {
+   "q": "What is a synthesis reaction?",
+   "a": "A reaction in which one new substance is made from two or more substances"
+  },
+  {
+   "q": "What is decomposition using electric current called?",
+   "a": "Electrolysis"
+  },
+  {
+   "q": "What is decomposition using heat called?",
+   "a": "Thermolysis"
+  },
+  {
+   "q": "What is decomposition using light called?",
+   "a": "Photolysis"
+  },
+  {
+   "q": "Which of these substances can you not decompose: oxygen, water, carbon dioxide or glucose?",
+   "a": "Oxygen (O<sub>2</sub>), because it is an element. You cannot decompose elements."
+  },
+  {
+   "q": "Name three substances that you cannot decompose",
+   "a": "For example: all metals, oxygen (O<sub>2</sub>), nitrogen (N<sub>2</sub>), chlorine (Cl<sub>2</sub>), neon"
+  },
+  {
+   "q": "How do you test for hydrogen gas?",
+   "a": "With a burning splint: you hear a pop (a popping sound)"
+  },
+  {
+   "q": "How do you test for oxygen gas?",
+   "a": "With a glowing splint: it bursts into flame"
+  },
+  {
+   "q": "How do you test for carbon dioxide?",
+   "a": "With a burning splint: the flame goes out, or with limewater: it turns cloudy (white)"
+  },
+  {
+   "q": "Two gases are formed in the electrolysis of water. Which ones?",
+   "a": "Hydrogen and oxygen"
+  },
+  {
+   "q": "What is this an example of: CaCO<sub>3</sub> is heated and decomposes into CaO and CO<sub>2</sub>?",
+   "a": "Thermolysis"
+  },
+  {
+   "q": "What is step 1 of the step-by-step method for a reaction equation?",
+   "a": "Write down the reaction scheme in words"
+  },
+  {
+   "q": "What do you do in step 3 of the step-by-step method?",
+   "a": "Set up the atom balance: balance the equation with coefficients"
+  },
+  {
+   "q": "What do you do in step 4 of the step-by-step method?",
+   "a": "Simplify the reaction equation"
+  },
+  {
+   "q": "What do you put in front of a molecular formula to balance the atoms: a subscript or a coefficient?",
+   "a": "A coefficient. You must never change the subscript (the small number)"
+  },
+  {
+   "q": "Balance: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (left 4 H and 2 O, right 4 H and 2 O)"
+  },
+  {
+   "q": "Balance: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (left 2 N and 6 H, right 2 N and 6 H)"
+  },
+  {
+   "q": "Balance: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO (left 2 Mg and 2 O, right 2 Mg and 2 O)"
+  },
+  {
+   "q": "Balance: Na + Cl<sub>2</sub> → NaCl",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  },
+  {
+   "q": "Balance: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub> (left 4 H and 2 O, right 4 H and 2 O)"
+  },
+  {
+   "q": "Balance: C + O<sub>2</sub> → CO",
+   "a": "2 C + O<sub>2</sub> → 2 CO"
+  },
+  {
+   "q": "Is this equation balanced? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O",
+   "a": "Yes: on the left and the right there are 4 N, 12 H and 10 O"
+  },
+  {
+   "q": "Is this equation balanced? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "No: on the left there are 2 O atoms and on the right 1 O atom"
+  },
+  {
+   "q": "Simplify: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "a": "Divide all coefficients by 2: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "In a closed container, 50 g of reactants react completely to form products. How many g of products are formed?",
+   "a": "50 g, because the mass stays the same (law of conservation of mass)"
+  },
+  {
+   "q": "Which of these reactions is a decomposition reaction?",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>"
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+### sk3t-reacties-KB
+0.q What happens in a chemical reaction?
+11.a Electrolysis
+16.q How do you test for hydrogen gas?
+18.q How do you test for carbon dioxide?
+21.q What is step 1 of the step-by-step method for a reaction equation?
+21.a Write down the reaction scheme in words
+23.a Simplify the reaction equation
+25.q Balance: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+26.q Balance: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>
+27.q Balance: Mg + O<sub>2</sub> → MgO
+28.q Balance: Na + Cl<sub>2</sub> → NaCl
+30.a 2 C + O<sub>2</sub> → 2 CO
+33.q Simplify: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O
+35.a 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+### sk3t-reactiesnelheid-KB
+27.a 2.0 mL/s: 60 mL : 30 s = 2.0 mL/s
+### sk3t-verbranding-KB
+3.a Oxygen
+6.a Carbon dioxide and water
+7.q Which substances can be formed in the incomplete combustion of a hydrocarbon?
+14.a CH<sub>4</sub>
+22.a 2 Mg + O<sub>2</sub> → 2 MgO
+### sk3t-water-KB
+7.a Seawater
+18.q What is a solvent?
+19.q What is a solution?
+### sk3t-reacties-KB
+heading Reactions
+0.a The reactants disappear and new substances with different properties are formed
+1.q Name two things that show that a chemical reaction has taken place
+1.a For example: a gas is formed, a precipitate is formed, the colour changes, it gets warmer or colder, light is given off
+2.q Is the melting of ice a chemical reaction?
+2.a No, it is a change of state. They remain water molecules
+3.q What happens to the atoms during a chemical reaction?
+3.a They are arranged differently. No atoms are added and no atoms are lost
+4.q What is on the left of the arrow in a reaction scheme?
+4.a The reactants
+5.q What is on the right of the arrow in a reaction scheme?
+5.a The products
+6.q You see a gas escaping during a reaction. Is that an observation or a conclusion?
+6.a An observation: you can see it. That a new substance has been formed is a conclusion.
+7.q Give the word equation for the decomposition of water, with state symbols
+7.a water (l) → hydrogen (g) + oxygen (g)
+8.q Give the word equation for sodium reacting with water (sodium hydroxide solution and hydrogen are formed)
+8.a sodium (s) + water (l) → sodium hydroxide solution (aq) + hydrogen (g)
+9.q What is a decomposition reaction?
+9.a A reaction in which one reactant is split into several products
+10.q What is a synthesis reaction?
+10.a A reaction in which one new substance is made from two or more substances
+11.q What is decomposition using electric current called?
+12.q What is decomposition using heat called?
+12.a Thermolysis
+13.q What is decomposition using light called?
+13.a Photolysis
+14.q Which of these substances can you not decompose: oxygen, water, carbon dioxide or glucose?
+14.a Oxygen (O<sub>2</sub>), because it is an element. You cannot decompose elements.
+15.q Name three substances that you cannot decompose
+15.a For example: all metals, oxygen (O<sub>2</sub>), nitrogen (N<sub>2</sub>), chlorine (Cl<sub>2</sub>), neon
+16.a With a burning splint: you hear a pop (a popping sound)
+17.q How do you test for oxygen gas?
+17.a With a glowing splint: it bursts into flame
+18.a With a burning splint: the flame goes out, or with limewater: it turns cloudy (white)
+19.q Two gases are formed in the electrolysis of water. Which ones?
+19.a Hydrogen and oxygen
+20.q What is this an example of: CaCO<sub>3</sub> is heated and decomposes into CaO and CO<sub>2</sub>?
+20.a Thermolysis
+22.q What do you do in step 3 of the step-by-step method?
+22.a Set up the atom balance: balance the equation with coefficients
+23.q What do you do in step 4 of the step-by-step method?
+24.q What do you put in front of a molecular formula to balance the atoms: a subscript or a coefficient?
+24.a A coefficient. You must never change the subscript (the small number)
+25.a 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (left 4 H and 2 O, right 4 H and 2 O)
+26.a N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (left 2 N and 6 H, right 2 N and 6 H)
+27.a 2 Mg + O<sub>2</sub> → 2 MgO (left 2 Mg and 2 O, right 2 Mg and 2 O)
+28.a 2 Na + Cl<sub>2</sub> → 2 NaCl
+29.q Balance: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+29.a 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub> (left 4 H and 2 O, right 4 H and 2 O)
+30.q Balance: C + O<sub>2</sub> → CO
+31.q Is this equation balanced? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O
+31.a Yes: on the left and the right there are 4 N, 12 H and 10 O
+32.q Is this equation balanced? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+32.a No: on the left there are 2 O atoms and on the right 1 O atom
+33.a Divide all coefficients by 2: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+34.q In a closed container, 50 g of reactants react completely to form products. How many g of products are formed?
+34.a 50 g, because the mass stays the same (law of conservation of mass)
+35.q Which of these reactions is a decomposition reaction?
+### sk3t-reactiesnelheid-KB
+heading Reaction rate
+0.q What is the reaction rate?
+0.a How fast the reactants disappear and the new substances are formed: how much substance reacts per second (or minute)
+1.q What is the reaction time?
+1.a How long the reaction takes, from the start until one reactant is used up
+2.q A reaction goes faster. What happens to the reaction time?
+2.a The reaction time becomes shorter: a faster reaction finishes sooner
+3.q What happens to the reaction rate if you raise the temperature?
+3.a The reaction rate increases: at a higher temperature the substance reacts faster
+4.q What happens to the reaction rate if you lower the temperature?
+4.a The reaction rate decreases: at a lower temperature the reaction goes more slowly, but does not stop at once
+5.q What happens to the reaction rate if you increase the concentration of a reactant?
+5.a The reaction rate increases: more particles per litre, so more collisions
+6.q You make a solid finer, for example powder instead of a lump (greater degree of division). What happens to the reaction rate?
+6.a The reaction rate increases: a powder has a larger surface area than a lump
+7.q In a reaction between gases you increase the pressure. What happens to the reaction rate?
+7.a The reaction rate increases: the gas particles are closer together (pressure only has an effect on gases)
+8.q What does a catalyst do?
+8.a A catalyst speeds up the reaction and is not used up at the end
+9.q You raise the temperature. What happens to the reaction time?
+9.a The reaction time becomes shorter
+10.q You add a catalyst. What happens to the reaction time?
+10.a The reaction time becomes shorter: with a catalyst the reaction goes faster
+11.q You increase the concentration of a reactant. What happens to the reaction time?
+11.a The reaction time becomes shorter
+12.q Does the type of substance affect the reaction rate?
+12.a Yes, some substances naturally react faster than others (sodium reacts much faster with water than iron does)
+13.q Which of these things affects the reaction rate?
+13.a The temperature (also: concentration, degree of division, catalyst, pressure for gases and the type of substance)
+14.q You see a graph of the amount of reactant against time. The line slopes steeply downwards. What does that mean?
+14.a The reaction is fast: the reactant disappears in a short time
+15.q Name three factors that affect the reaction rate.
+15.a For example: temperature, concentration, degree of division, catalyst, pressure (for gases) and the type of substance
+16.q An effervescent tablet dissolves faster in warm water than in cold water. Which factor is responsible?
+16.a The temperature
+17.q Why does a powder react faster than a lump of the same substance?
+17.a A powder has a much larger surface area, so more particles can react at the same time
+18.q Small wood shavings catch fire faster than a large log. Which factor is responsible?
+18.a The degree of division
+19.q Why do you store food in the fridge?
+19.a At a low temperature the spoilage reactions are slower
+20.q Why is flour dust dangerous in a flour mill?
+20.a The dust has an enormous degree of division (a very large surface area). It then reacts so fast with oxygen that it explodes
+21.q A wood splinter burns much faster in pure oxygen than in air. Which factor is responsible?
+21.a The concentration of oxygen is higher: air contains only about 21% oxygen, pure oxygen 100%
+22.q A catalytic converter in a car makes sure that poisonous carbon monoxide is converted quickly. Which factor is used here?
+22.a A catalyst
+23.q You add a catalyst. How much product is formed in the end?
+23.a The same amount as without a catalyst. The reaction is just finished sooner
+24.q What is an enzyme?
+24.a A catalyst in living organisms
+25.q You let 5.0 g of zinc react with an excess of hydrochloric acid, first at 20 °C and then at 40 °C. What is different at 40 °C?
+25.a The reaction is finished sooner, the same amount of hydrogen is formed
+26.q Magnesium reacts with 2 mol/L hydrochloric acid and with 0.5 mol/L hydrochloric acid. In which solution does the reaction go fastest?
+26.a In the hydrochloric acid of 2 mol/L: a higher concentration gives a higher reaction rate
+27.q In a reaction 60 mL of gas is formed in 30 seconds. What is the average reaction rate?
+28.q Which two ways are useful for measuring the reaction rate when a gas is formed?
+28.a Measure the gas volume per time, or measure the decrease in mass per time
+29.q Why does the reaction rate usually become smaller over time?
+29.a The reactants are being used up, so the concentration becomes smaller
+30.q In a graph of the amount of product against time, the line becomes horizontal after a while. What does that mean?
+30.a The reaction has finished, a reactant is used up
+31.q You measure the reaction twice with the same amount of reactant. Line B rises more steeply than line A. Which statement is correct?
+31.a The reaction of B is faster, but B ends at the same height as A
+32.q Name two ways to make a reaction go more slowly.
+32.a For example: lower the temperature, make the concentration smaller, use a coarser (lumpy) piece or leave out the catalyst
+33.q What is the reaction equation of magnesium with hydrochloric acid?
+33.a Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
+34.q You measure the reaction rate of magnesium with hydrochloric acid. Which substance do you use for that?
+34.a Hydrogen (H<sub>2</sub>), because you can measure the gas volume
+### sk3t-verbranding-KB
+heading Combustion
+0.q What is a fuel?
+0.a A substance that you burn to get heat (energy)
+1.q Name the three things needed to make something burn (fire triangle)
+1.a Fuel, oxygen and a temperature above the ignition temperature
+2.q What is the ignition temperature?
+2.a The temperature at which a substance starts to burn
+3.q Which gas from the air is needed for combustion?
+4.q What is a combustion called in which enough oxygen is present?
+4.a Complete combustion
+5.q What is a combustion called in which too little oxygen is present?
+5.a Incomplete combustion
+6.q Which two substances are formed in the complete combustion of a hydrocarbon?
+7.a Carbon monoxide (CO), soot (C), and also water. Sometimes carbon dioxide as well.
+8.q What colour is the flame in the incomplete combustion of natural gas?
+8.a Yellow
+9.q What colour is the flame in complete combustion in a burner?
+9.a Blue
+10.q Why is carbon monoxide (CO) dangerous?
+10.a It is poisonous and you cannot smell it
+11.q What is soot?
+11.a Fine black particles of carbon (C) that are formed in incomplete combustion
+12.q Which two elements are in a hydrocarbon?
+12.a Carbon and hydrogen (C and H)
+13.q Which three fuels are fossil fuels?
+13.a Coal, crude oil and natural gas
+14.q What is the molecular formula of methane, the main component of natural gas?
+15.q How do you show that water is formed in a combustion?
+15.a White copper(II) sulfate turns blue
+16.q How do you show that carbon dioxide is formed in a combustion?
+16.a Limewater turns cloudy (white)
+17.q Balance: CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.a CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O (left 1 C, 4 H and 4 O, right 1 C, 4 H and 4 O)
+18.q Balance: C + O<sub>2</sub> → CO<sub>2</sub>
+18.a C + O<sub>2</sub> → CO<sub>2</sub> (already balanced: left 1 C and 2 O, right 1 C and 2 O)
+19.q Balance: 2 CH<sub>4</sub> + 3 O<sub>2</sub> → … CO + … H<sub>2</sub>O (incomplete combustion)
+19.a 2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 4 H<sub>2</sub>O (left 2 C, 8 H and 6 O, right 2 C, 8 H and 6 O)
+20.q Balance: CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O (incomplete combustion with soot)
+20.a CH<sub>4</sub> + O<sub>2</sub> → C + 2 H<sub>2</sub>O (left 1 C, 4 H and 2 O, right 1 C, 4 H and 2 O)
+21.q Balance: C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (butane, complete combustion)
+21.a 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O (left 8 C, 20 H and 26 O, right 8 C, 20 H and 26 O)
+22.q Balance: Mg + O<sub>2</sub> → MgO (burning of magnesium)
+23.q When 16 g of methane burns with 64 g of oxygen, 44 g of carbon dioxide and some water are formed. How many g of water are formed?
+23.a Mass on the left = mass on the right: 16 + 64 = 80 g. Water = 80 − 44 = 36 g
+24.q At high temperature in a car engine, nitrogen and oxygen react. Which substances are formed?
+24.a Nitrogen oxides (NO and NO<sub>2</sub>)
+25.q Which gas causes acid rain (together with nitrogen oxides)?
+25.a Sulfur dioxide (SO<sub>2</sub>)
+26.q What happens to a burning candle under an upturned glass?
+26.a The candle goes out, because the oxygen is used up
+27.q Which extinguisher do you never use on a fat fire?
+27.a Water. It sinks below the hot fat, boils and makes burning fat splash around.
+28.q Why does a fire blanket put out a fire?
+28.a The oxygen can no longer reach the fuel
+29.q Why does water cool a fire?
+29.a The temperature falls below the ignition temperature
+30.q With which process do you make petrol and diesel from crude oil?
+30.a Fractional distillation
+31.q Which substance in the air is mainly responsible for the enhanced greenhouse effect?
+31.a Carbon dioxide (CO<sub>2</sub>)
+32.q Why is there more and more CO<sub>2</sub> in the air because of humans?
+32.a Because we burn large amounts of fossil fuels
+33.q Name two consequences of the enhanced greenhouse effect
+33.a For example: the temperature on Earth rises, ice melts, the sea level rises, extreme weather becomes more frequent
+34.q How can you make sure there is less CO<sub>2</sub> emission?
+34.a For example: use energy more economically, use solar energy and wind energy, drive less, plant trees
+### sk3t-water-KB
+heading Water
+0.q Name the four functions of water
+0.a Drinking water, solvent, rinsing agent and help in food preparation
+1.q What is a rinsing agent?
+1.a A liquid that washes away other substances
+2.q What is surface water?
+2.a Water on the surface of the Earth, such as rivers, lakes and oceans
+3.q What is groundwater?
+3.a Water that is in the soil, underground
+4.q Is drinking water a pure substance?
+4.a No, substances are dissolved in it, such as lime
+5.q What is distilled water?
+5.a Pure water, without dissolved substances
+6.q Which water usually contains less pollution: groundwater or surface water?
+6.a Groundwater
+7.q Which water contains the highest concentration of salts?
+8.q What is the density of seawater? (use BINAS table 16)
+8.a 1.02 g/cm<sup>3</sup> (distilled water: 1.00 g/cm<sup>3</sup>)
+9.q Seawater contains a lot of table salt (sodium chloride, Na<sup>+</sup> and Cl<sup>-</sup>). Is table salt very soluble, slightly soluble or insoluble in water? (use BINAS table 35)
+9.a Very soluble
+10.q Less water flows in a river. The amount of pollution stays the same. What happens to the concentration?
+10.a The concentration becomes higher
+11.q What does disinfecting mean?
+11.a Making pathogens harmless
+12.q What function does water have when it keeps an engine or a factory cool?
+12.a Coolant
+13.q What is a coolant?
+13.a A substance that absorbs heat and carries it away
+14.q Why is water so suitable as a coolant?
+14.a Water can absorb a lot of heat and is cheap and widely available
+15.q What is industrial water?
+15.a Water that factories use, for example for cooling or cleaning. It does not need to be of drinking-water quality
+16.q What function does water have when you cook pasta?
+16.a Help in food preparation
+17.q What function does water have when you rinse dirty pans?
+17.a Rinsing agent
+18.a A substance in which you can dissolve another substance
+19.a A clear mixture of a dissolved substance in a solvent
+20.q You dissolve salt in water. What is the solute and what is the solvent?
+20.a Salt is the solute, water is the solvent
+21.q From which two kinds of water does a drinking-water company in the Netherlands mainly make drinking water?
+21.a Groundwater and surface water
+22.q Why does surface water have to be purified before you can drink it?
+22.a It contains dirt, bacteria and dissolved substances
+23.q What is the first step in purifying surface water?
+23.a Removing coarse dirt with grids and sieves
+24.q What does a drinking-water company use a sand filter for?
+24.a To filter small solid particles out of the water
+25.q What is the filtrate when you let water run through a sand filter?
+25.a The water that passes through the filter. The dirt that stays behind is called the residue
+26.q What is activated carbon used for in the purification of water?
+26.a Odour and flavour substances stay attached to the carbon (adsorption)
+27.q On which property is adsorption with activated carbon based?
+27.a Tendency to attach to a surface: some substances attach better to the surface of the carbon than others
+28.q Why is drinking water disinfected?
+28.a To make bacteria and other pathogens harmless
+29.q How can you make drinking water from seawater?
+29.a By distilling: the water evaporates and the salt stays behind
+30.q What is the distillate when you distil seawater?
+30.a Pure water
+31.q How can you get salt out of seawater?
+31.a By evaporating the water: the water evaporates and the salt remains
+32.q Why is seawater not suitable for drinking?
+32.a It contains too many dissolved salts
+33.q Why is a factory not allowed to simply discharge waste water into a river?
+33.a The waste water pollutes the surface water
+34.q What happens to waste water in a sewage treatment plant?
+34.a It is purified before it goes back into the surface water

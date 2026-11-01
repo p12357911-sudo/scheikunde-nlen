@@ -1,0 +1,150 @@
+{
+ "title": "Reaction rate - 123 school",
+ "heading": "Reaction rate",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is the reaction rate?",
+   "a": "How fast the reactants disappear and the new substances are formed: how much substance reacts per second (or minute)"
+  },
+  {
+   "q": "What is the reaction time?",
+   "a": "How long the reaction takes, from the start until one reactant is used up"
+  },
+  {
+   "q": "A reaction goes faster. What happens to the reaction time?",
+   "a": "The reaction time becomes shorter: a faster reaction finishes sooner"
+  },
+  {
+   "q": "What happens to the reaction rate if you raise the temperature?",
+   "a": "The reaction rate increases: at a higher temperature the substance reacts faster"
+  },
+  {
+   "q": "What happens to the reaction rate if you lower the temperature?",
+   "a": "The reaction rate decreases: at a lower temperature the reaction goes more slowly, but does not stop at once"
+  },
+  {
+   "q": "What happens to the reaction rate if you increase the concentration of a reactant?",
+   "a": "The reaction rate increases: more particles per litre, so more collisions"
+  },
+  {
+   "q": "You make a solid finer, for example powder instead of a lump (greater degree of division). What happens to the reaction rate?",
+   "a": "The reaction rate increases: a powder has a larger surface area than a lump"
+  },
+  {
+   "q": "In a reaction between gases you increase the pressure. What happens to the reaction rate?",
+   "a": "The reaction rate increases: the gas particles are closer together (pressure only has an effect on gases)"
+  },
+  {
+   "q": "What does a catalyst do?",
+   "a": "A catalyst speeds up the reaction and is not used up at the end"
+  },
+  {
+   "q": "You raise the temperature. What happens to the reaction time?",
+   "a": "The reaction time becomes shorter"
+  },
+  {
+   "q": "You add a catalyst. What happens to the reaction time?",
+   "a": "The reaction time becomes shorter: with a catalyst the reaction goes faster"
+  },
+  {
+   "q": "You increase the concentration of a reactant. What happens to the reaction time?",
+   "a": "The reaction time becomes shorter"
+  },
+  {
+   "q": "Does the type of substance affect the reaction rate?",
+   "a": "Yes, some substances naturally react faster than others (sodium reacts much faster with water than iron does)"
+  },
+  {
+   "q": "Which of these things affects the reaction rate?",
+   "a": "The temperature (also: concentration, degree of division, catalyst, pressure for gases and the type of substance)"
+  },
+  {
+   "q": "You see a graph of the amount of reactant against time. The line slopes steeply downwards. What does that mean?",
+   "a": "The reaction is fast: the reactant disappears in a short time"
+  },
+  {
+   "q": "Name three factors that affect the reaction rate.",
+   "a": "For example: temperature, concentration, degree of division, catalyst, pressure (for gases) and the type of substance"
+  },
+  {
+   "q": "An effervescent tablet dissolves faster in warm water than in cold water. Which factor is responsible?",
+   "a": "The temperature"
+  },
+  {
+   "q": "Why does a powder react faster than a lump of the same substance?",
+   "a": "A powder has a much larger surface area, so more particles can react at the same time"
+  },
+  {
+   "q": "Small wood shavings catch fire faster than a large log. Which factor is responsible?",
+   "a": "The degree of division"
+  },
+  {
+   "q": "Why do you store food in the fridge?",
+   "a": "At a low temperature the spoilage reactions are slower"
+  },
+  {
+   "q": "Why is flour dust dangerous in a flour mill?",
+   "a": "The dust has an enormous degree of division (a very large surface area). It then reacts so fast with oxygen that it explodes"
+  },
+  {
+   "q": "A wood splinter burns much faster in pure oxygen than in air. Which factor is responsible?",
+   "a": "The concentration of oxygen is higher: air contains only about 21% oxygen, pure oxygen 100%"
+  },
+  {
+   "q": "A catalytic converter in a car makes sure that poisonous carbon monoxide is converted quickly. Which factor is used here?",
+   "a": "A catalyst"
+  },
+  {
+   "q": "You add a catalyst. How much product is formed in the end?",
+   "a": "The same amount as without a catalyst. The reaction is just finished sooner"
+  },
+  {
+   "q": "What is an enzyme?",
+   "a": "A catalyst in living organisms"
+  },
+  {
+   "q": "You let 5.0 g of zinc react with an excess of hydrochloric acid, first at 20 °C and then at 40 °C. What is different at 40 °C?",
+   "a": "The reaction is finished sooner, the same amount of hydrogen is formed"
+  },
+  {
+   "q": "Magnesium reacts with 2 mol/L hydrochloric acid and with 0.5 mol/L hydrochloric acid. In which solution does the reaction go fastest?",
+   "a": "In the hydrochloric acid of 2 mol/L: a higher concentration gives a higher reaction rate"
+  },
+  {
+   "q": "In a reaction 60 mL of gas is formed in 30 seconds. What is the average reaction rate?",
+   "a": "2.0 mL/s: 60 mL : 30 s = 2.0 mL/s"
+  },
+  {
+   "q": "Which two ways are useful for measuring the reaction rate when a gas is formed?",
+   "a": "Measure the gas volume per time, or measure the decrease in mass per time"
+  },
+  {
+   "q": "Why does the reaction rate usually become smaller over time?",
+   "a": "The reactants are being used up, so the concentration becomes smaller"
+  },
+  {
+   "q": "In a graph of the amount of product against time, the line becomes horizontal after a while. What does that mean?",
+   "a": "The reaction has finished, a reactant is used up"
+  },
+  {
+   "q": "You measure the reaction twice with the same amount of reactant. Line B rises more steeply than line A. Which statement is correct?",
+   "a": "The reaction of B is faster, but B ends at the same height as A"
+  },
+  {
+   "q": "Name two ways to make a reaction go more slowly.",
+   "a": "For example: lower the temperature, make the concentration smaller, use a coarser (lumpy) piece or leave out the catalyst"
+  },
+  {
+   "q": "What is the reaction equation of magnesium with hydrochloric acid?",
+   "a": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)"
+  },
+  {
+   "q": "You measure the reaction rate of magnesium with hydrochloric acid. Which substance do you use for that?",
+   "a": "Hydrogen (H<sub>2</sub>), because you can measure the gas volume"
+  }
+ ]
+}

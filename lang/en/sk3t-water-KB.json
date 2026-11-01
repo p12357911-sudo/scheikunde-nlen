@@ -1,0 +1,149 @@
+{
+ "title": "Water - 123 school",
+ "heading": "Water",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Name the four functions of water",
+   "a": "Drinking water, solvent, rinsing agent and help in food preparation"
+  },
+  {
+   "q": "What is a rinsing agent?",
+   "a": "A liquid that washes away other substances"
+  },
+  {
+   "q": "What is surface water?",
+   "a": "Water on the surface of the Earth, such as rivers, lakes and oceans"
+  },
+  {
+   "q": "What is groundwater?",
+   "a": "Water that is in the soil, underground"
+  },
+  {
+   "q": "Is drinking water a pure substance?",
+   "a": "No, substances are dissolved in it, such as lime"
+  },
+  {
+   "q": "What is distilled water?",
+   "a": "Pure water, without dissolved substances"
+  },
+  {
+   "q": "Which water usually contains less pollution: groundwater or surface water?",
+   "a": "Groundwater"
+  },
+  {
+   "q": "Which water contains the highest concentration of salts?",
+   "a": "Seawater"
+  },
+  {
+   "q": "What is the density of seawater? (use BINAS table 16)",
+   "a": "1.02 g/cm<sup>3</sup> (distilled water: 1.00 g/cm<sup>3</sup>)"
+  },
+  {
+   "q": "Seawater contains a lot of table salt (sodium chloride, Na<sup>+</sup> and Cl<sup>-</sup>). Is table salt very soluble, slightly soluble or insoluble in water? (use BINAS table 35)",
+   "a": "Very soluble"
+  },
+  {
+   "q": "Less water flows in a river. The amount of pollution stays the same. What happens to the concentration?",
+   "a": "The concentration becomes higher"
+  },
+  {
+   "q": "What does disinfecting mean?",
+   "a": "Making pathogens harmless"
+  },
+  {
+   "q": "What function does water have when it keeps an engine or a factory cool?",
+   "a": "Coolant"
+  },
+  {
+   "q": "What is a coolant?",
+   "a": "A substance that absorbs heat and carries it away"
+  },
+  {
+   "q": "Why is water so suitable as a coolant?",
+   "a": "Water can absorb a lot of heat and is cheap and widely available"
+  },
+  {
+   "q": "What is industrial water?",
+   "a": "Water that factories use, for example for cooling or cleaning. It does not need to be of drinking-water quality"
+  },
+  {
+   "q": "What function does water have when you cook pasta?",
+   "a": "Help in food preparation"
+  },
+  {
+   "q": "What function does water have when you rinse dirty pans?",
+   "a": "Rinsing agent"
+  },
+  {
+   "q": "What is a solvent?",
+   "a": "A substance in which you can dissolve another substance"
+  },
+  {
+   "q": "What is a solution?",
+   "a": "A clear mixture of a dissolved substance in a solvent"
+  },
+  {
+   "q": "You dissolve salt in water. What is the solute and what is the solvent?",
+   "a": "Salt is the solute, water is the solvent"
+  },
+  {
+   "q": "From which two kinds of water does a drinking-water company in the Netherlands mainly make drinking water?",
+   "a": "Groundwater and surface water"
+  },
+  {
+   "q": "Why does surface water have to be purified before you can drink it?",
+   "a": "It contains dirt, bacteria and dissolved substances"
+  },
+  {
+   "q": "What is the first step in purifying surface water?",
+   "a": "Removing coarse dirt with grids and sieves"
+  },
+  {
+   "q": "What does a drinking-water company use a sand filter for?",
+   "a": "To filter small solid particles out of the water"
+  },
+  {
+   "q": "What is the filtrate when you let water run through a sand filter?",
+   "a": "The water that passes through the filter. The dirt that stays behind is called the residue"
+  },
+  {
+   "q": "What is activated carbon used for in the purification of water?",
+   "a": "Odour and flavour substances stay attached to the carbon (adsorption)"
+  },
+  {
+   "q": "On which property is adsorption with activated carbon based?",
+   "a": "Tendency to attach to a surface: some substances attach better to the surface of the carbon than others"
+  },
+  {
+   "q": "Why is drinking water disinfected?",
+   "a": "To make bacteria and other pathogens harmless"
+  },
+  {
+   "q": "How can you make drinking water from seawater?",
+   "a": "By distilling: the water evaporates and the salt stays behind"
+  },
+  {
+   "q": "What is the distillate when you distil seawater?",
+   "a": "Pure water"
+  },
+  {
+   "q": "How can you get salt out of seawater?",
+   "a": "By evaporating the water: the water evaporates and the salt remains"
+  },
+  {
+   "q": "Why is seawater not suitable for drinking?",
+   "a": "It contains too many dissolved salts"
+  },
+  {
+   "q": "Why is a factory not allowed to simply discharge waste water into a river?",
+   "a": "The waste water pollutes the surface water"
+  },
+  {
+   "q": "What happens to waste water in a sewage treatment plant?",
+   "a": "It is purified before it goes back into the surface water"
+  }
+ ]
+}

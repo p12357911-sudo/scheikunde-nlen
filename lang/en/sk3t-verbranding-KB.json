@@ -1,0 +1,149 @@
+{
+ "title": "Combustion - 123 school",
+ "heading": "Combustion",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a fuel?",
+   "a": "A substance that you burn to get heat (energy)"
+  },
+  {
+   "q": "Name the three things needed to make something burn (fire triangle)",
+   "a": "Fuel, oxygen and a temperature above the ignition temperature"
+  },
+  {
+   "q": "What is the ignition temperature?",
+   "a": "The temperature at which a substance starts to burn"
+  },
+  {
+   "q": "Which gas from the air is needed for combustion?",
+   "a": "Oxygen"
+  },
+  {
+   "q": "What is a combustion called in which enough oxygen is present?",
+   "a": "Complete combustion"
+  },
+  {
+   "q": "What is a combustion called in which too little oxygen is present?",
+   "a": "Incomplete combustion"
+  },
+  {
+   "q": "Which two substances are formed in the complete combustion of a hydrocarbon?",
+   "a": "Carbon dioxide and water"
+  },
+  {
+   "q": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "a": "Carbon monoxide (CO), soot (C), and also water. Sometimes carbon dioxide as well."
+  },
+  {
+   "q": "What colour is the flame in the incomplete combustion of natural gas?",
+   "a": "Yellow"
+  },
+  {
+   "q": "What colour is the flame in complete combustion in a burner?",
+   "a": "Blue"
+  },
+  {
+   "q": "Why is carbon monoxide (CO) dangerous?",
+   "a": "It is poisonous and you cannot smell it"
+  },
+  {
+   "q": "What is soot?",
+   "a": "Fine black particles of carbon (C) that are formed in incomplete combustion"
+  },
+  {
+   "q": "Which two elements are in a hydrocarbon?",
+   "a": "Carbon and hydrogen (C and H)"
+  },
+  {
+   "q": "Which three fuels are fossil fuels?",
+   "a": "Coal, crude oil and natural gas"
+  },
+  {
+   "q": "What is the molecular formula of methane, the main component of natural gas?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "How do you show that water is formed in a combustion?",
+   "a": "White copper(II) sulfate turns blue"
+  },
+  {
+   "q": "How do you show that carbon dioxide is formed in a combustion?",
+   "a": "Limewater turns cloudy (white)"
+  },
+  {
+   "q": "Balance: CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O (left 1 C, 4 H and 4 O, right 1 C, 4 H and 4 O)"
+  },
+  {
+   "q": "Balance: C + O<sub>2</sub> → CO<sub>2</sub>",
+   "a": "C + O<sub>2</sub> → CO<sub>2</sub> (already balanced: left 1 C and 2 O, right 1 C and 2 O)"
+  },
+  {
+   "q": "Balance: 2 CH<sub>4</sub> + 3 O<sub>2</sub> → … CO + … H<sub>2</sub>O (incomplete combustion)",
+   "a": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 4 H<sub>2</sub>O (left 2 C, 8 H and 6 O, right 2 C, 8 H and 6 O)"
+  },
+  {
+   "q": "Balance: CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O (incomplete combustion with soot)",
+   "a": "CH<sub>4</sub> + O<sub>2</sub> → C + 2 H<sub>2</sub>O (left 1 C, 4 H and 2 O, right 1 C, 4 H and 2 O)"
+  },
+  {
+   "q": "Balance: C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (butane, complete combustion)",
+   "a": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O (left 8 C, 20 H and 26 O, right 8 C, 20 H and 26 O)"
+  },
+  {
+   "q": "Balance: Mg + O<sub>2</sub> → MgO (burning of magnesium)",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "When 16 g of methane burns with 64 g of oxygen, 44 g of carbon dioxide and some water are formed. How many g of water are formed?",
+   "a": "Mass on the left = mass on the right: 16 + 64 = 80 g. Water = 80 − 44 = 36 g"
+  },
+  {
+   "q": "At high temperature in a car engine, nitrogen and oxygen react. Which substances are formed?",
+   "a": "Nitrogen oxides (NO and NO<sub>2</sub>)"
+  },
+  {
+   "q": "Which gas causes acid rain (together with nitrogen oxides)?",
+   "a": "Sulfur dioxide (SO<sub>2</sub>)"
+  },
+  {
+   "q": "What happens to a burning candle under an upturned glass?",
+   "a": "The candle goes out, because the oxygen is used up"
+  },
+  {
+   "q": "Which extinguisher do you never use on a fat fire?",
+   "a": "Water. It sinks below the hot fat, boils and makes burning fat splash around."
+  },
+  {
+   "q": "Why does a fire blanket put out a fire?",
+   "a": "The oxygen can no longer reach the fuel"
+  },
+  {
+   "q": "Why does water cool a fire?",
+   "a": "The temperature falls below the ignition temperature"
+  },
+  {
+   "q": "With which process do you make petrol and diesel from crude oil?",
+   "a": "Fractional distillation"
+  },
+  {
+   "q": "Which substance in the air is mainly responsible for the enhanced greenhouse effect?",
+   "a": "Carbon dioxide (CO<sub>2</sub>)"
+  },
+  {
+   "q": "Why is there more and more CO<sub>2</sub> in the air because of humans?",
+   "a": "Because we burn large amounts of fossil fuels"
+  },
+  {
+   "q": "Name two consequences of the enhanced greenhouse effect",
+   "a": "For example: the temperature on Earth rises, ice melts, the sea level rises, extreme weather becomes more frequent"
+  },
+  {
+   "q": "How can you make sure there is less CO<sub>2</sub> emission?",
+   "a": "For example: use energy more economically, use solar energy and wind energy, drive less, plant trees"
+  }
+ ]
+}
