@@ -1,0 +1,347 @@
+{
+ "title": "Metalen - 123 school",
+ "heading": "Metalen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Welk metaal is bij kamertemperatuur vloeibaar?",
+   "answers": {
+    "a": "Lood (Pb)",
+    "b": "Kwik (Hg)",
+    "c": "Tin (Sn)",
+    "d": "Aluminium (Al)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom worden koperdraden gebruikt in elektriciteitskabels?",
+   "answers": {
+    "a": "Koper is een isolator en beschermt tegen schokken",
+    "b": "Koper geleidt elektriciteit heel goed en is goed te vervormen",
+    "c": "Koper roest niet en dat is de enige eis",
+    "d": "Koper is lichter dan alle andere metalen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een legering?",
+   "answers": {
+    "a": "Een oplossing van een metaal in water",
+    "b": "Een zuiver metaal met een hoog smeltpunt",
+    "c": "Een mengsel van een metaal met een of meer andere stoffen (meestal ook metalen)",
+    "d": "Een verbinding van een metaal met zuurstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waaruit bestaat brons?",
+   "answers": {
+    "a": "Koper en tin",
+    "b": "Koper en zink",
+    "c": "IJzer en koolstof",
+    "d": "Tin en lood"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waaruit bestaat messing?",
+   "answers": {
+    "a": "IJzer en chroom",
+    "b": "Koper en tin",
+    "c": "Koper en zink",
+    "d": "Zink en aluminium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waaruit bestaat staal?",
+   "answers": {
+    "a": "Alleen zuiver ijzer",
+    "b": "IJzer met een klein beetje koolstof",
+    "c": "IJzer en zilver",
+    "d": "Koper en tin"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom maakt men soms een legering in plaats van een zuiver metaal?",
+   "answers": {
+    "a": "De legering is altijd goedkoper dan een zuiver metaal",
+    "b": "De legering heeft betere eigenschappen, bijvoorbeeld harder of minder snel roesten",
+    "c": "Een zuiver metaal bestaat niet",
+    "d": "De legering geleidt beter dan elk zuiver metaal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet het metaal in roestvrij staal dat de roest tegengaat?",
+   "answers": {
+    "a": "Zilver",
+    "b": "Kwik",
+    "c": "Goud",
+    "d": "Chroom"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat ontstaat er bij het verbranden van magnesium?",
+   "answers": {
+    "a": "Magnesium dioxide",
+    "b": "Magnesiumwater",
+    "c": "Magnesiumchloride (MgCl2)",
+    "d": "Magnesiumoxide (MgO)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Maak kloppend: Mg + O<sub>2</sub> → MgO",
+   "answers": {
+    "a": "Mg + O<sub>2</sub> → MgO",
+    "b": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "c": "Mg + O<sub>2</sub> → 2 MgO",
+    "d": "2 Mg + 2 O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "answers": {
+    "a": "Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+    "b": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>",
+    "c": "4 Fe + 3 O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+    "d": "2 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "answers": {
+    "a": "4 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+    "b": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>",
+    "c": "2 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+    "d": "2 Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: Cu + O<sub>2</sub> → CuO",
+   "answers": {
+    "a": "2 Cu + O<sub>2</sub> → 2 CuO",
+    "b": "Cu + O<sub>2</sub> → CuO",
+    "c": "2 Cu + 2 O<sub>2</sub> → 2 CuO",
+    "d": "Cu + O<sub>2</sub> → 2 CuO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Maak kloppend: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "2 Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+    "b": "Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+    "c": "Zn + 2 HCl → ZnCl<sub>2</sub> + 2 H<sub>2</sub>",
+    "d": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Maak kloppend: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+   "answers": {
+    "a": "2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>",
+    "b": "Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+    "c": "2 Na + H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>",
+    "d": "Na + 2 H<sub>2</sub>O → NaOH + H<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk gas ontstaat als natrium reageert met water?",
+   "answers": {
+    "a": "Koolstofdioxide",
+    "b": "Zuurstof",
+    "c": "Stikstof",
+    "d": "Waterstof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is roest?",
+   "answers": {
+    "a": "IJzeroxide, dat ontstaat als ijzer reageert met zuurstof en water",
+    "b": "Een legering van ijzer en koper",
+    "c": "Zuiver ijzer dat is aangetast door licht",
+    "d": "IJzer dat is gesmolten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is nodig om ijzer te laten roesten?",
+   "answers": {
+    "a": "Koolstofdioxide en warmte",
+    "b": "Alleen water",
+    "c": "Zuurstof en water",
+    "d": "Alleen zuurstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is verzinken?",
+   "answers": {
+    "a": "Een ijzeren voorwerp bedekken met een laagje zink",
+    "b": "Een voorwerp van zink maken",
+    "c": "Zink oplossen in water",
+    "d": "Zink laten roesten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom roest aluminium niet door?",
+   "answers": {
+    "a": "Aluminium is zwaarder dan ijzer",
+    "b": "Aluminium reageert niet met zuurstof",
+    "c": "Er vormt zich aan het oppervlak een dun, dicht laagje aluminiumoxide dat het metaal beschermt",
+    "d": "Aluminium is een edel metaal dat nooit reageert"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een erts?",
+   "answers": {
+    "a": "Een legering van twee metalen",
+    "b": "Een zuiver metaal in de bodem",
+    "c": "Een gas dat uit de aarde komt",
+    "d": "Een gesteente waaruit je een metaal kunt winnen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk metaal wordt in de hoogoven uit ijzererts gemaakt?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Zink",
+    "c": "Koper",
+    "d": "IJzer"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor wordt koolstof (cokes) in de hoogoven gebruikt?",
+   "answers": {
+    "a": "Om het ijzer te laten roesten",
+    "b": "Om het ijzer zuiver te maken door te filtreren",
+    "c": "Om het erts te laten oplossen",
+    "d": "Om de zuurstof uit het ijzererts weg te nemen (en als brandstof)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het ijzer dat uit de hoogoven komt?",
+   "answers": {
+    "a": "Brons",
+    "b": "Roestvrij staal",
+    "c": "Ruwijzer",
+    "d": "IJzeroxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom is recyclen van metalen belangrijk?",
+   "answers": {
+    "a": "Zuiver metaal bestaat alleen als gerecycled metaal",
+    "b": "Metaal wordt bij recyclen zwaarder",
+    "c": "Het bespaart grondstoffen en energie, en er is minder afval",
+    "d": "Je krijgt er altijd meer metaal uit dan je erin stopt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke metalen worden aangetrokken door een magneet?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Koper",
+    "c": "IJzer (en nikkel en kobalt)",
+    "d": "Zink"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stuk koper heeft een massa van 89,6 g en een volume van 10,0 cm³. Wat is de dichtheid van koper?",
+   "answers": {
+    "a": "8,96 g/cm³",
+    "b": "896 g/cm³",
+    "c": "0,112 g/cm³",
+    "d": "89,6 g/cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een blokje aluminium heeft een volume van 40 cm³. De dichtheid van aluminium is 2,7 g/cm³. Wat is de massa?",
+   "answers": {
+    "a": "1,08 g",
+    "b": "14,8 g",
+    "c": "108 g",
+    "d": "42,7 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stuk ijzer van 156 g heeft een dichtheid van 7,8 g/cm³. Wat is het volume?",
+   "answers": {
+    "a": "148 cm³",
+    "b": "20 cm³",
+    "c": "1217 cm³",
+    "d": "0,05 cm³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk metaal heeft de grootste dichtheid: aluminium (2,7 g/cm³), ijzer (7,9 g/cm³), lood (11,3 g/cm³) of zink (7,1 g/cm³)?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Lood",
+    "c": "Zink",
+    "d": "IJzer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een erts van 200 g bevat 140 g ijzeroxide (Fe<sub>2</sub>O<sub>3</sub>). Wat is het massapercentage ijzeroxide in het erts?",
+   "answers": {
+    "a": "70%",
+    "b": "143%",
+    "c": "30%",
+    "d": "140%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In 500 g erts zit 8,0 massa% koper. Hoeveel gram koper zit er in het erts?",
+   "answers": {
+    "a": "400 g",
+    "b": "40 g",
+    "c": "4,0 g",
+    "d": "62,5 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van lood?",
+   "answers": {
+    "a": "Pb",
+    "b": "Lo",
+    "c": "L",
+    "d": "Pl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk van deze metalen komt in de natuur vooral als erts voor en niet zuiver: goud of ijzer?",
+   "answers": {
+    "a": "IJzer, want ijzer reageert gemakkelijk met zuurstof; goud komt zuiver voor",
+    "b": "Beide komen alleen als erts voor",
+    "c": "Goud, want goud reageert gemakkelijk met zuurstof",
+    "d": "Beide komen alleen zuiver voor"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "title": "Reactiesnelheid - 123 school",
+ "heading": "Reactiesnelheid",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de reactiesnelheid?",
+   "answers": {
+    "a": "Hoe snel de beginstoffen verdwijnen en de nieuwe stoffen ontstaan",
+    "b": "Hoeveel warmte er bij de reactie vrijkomt",
+    "c": "Bij welke temperatuur de reactie plaatsvindt",
+    "d": "Hoe lang de reactie duurt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de reactietijd?",
+   "answers": {
+    "a": "Hoe snel de beginstoffen verdwijnen",
+    "b": "Hoe lang de reactie duurt",
+    "c": "Hoeveel warmte er bij de reactie vrijkomt",
+    "d": "Hoeveel stof er na afloop over is"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een reactie gaat sneller. Wat gebeurt er met de reactietijd?",
+   "answers": {
+    "a": "De reactietijd wordt korter",
+    "b": "De reactietijd blijft gelijk",
+    "c": "Dat hangt af van de stof",
+    "d": "De reactietijd wordt langer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid als je de temperatuur verhoogt?",
+   "answers": {
+    "a": "De reactiesnelheid neemt af",
+    "b": "De reactiesnelheid blijft gelijk",
+    "c": "De reactiesnelheid neemt toe",
+    "d": "De reactie stopt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid als je de temperatuur verlaagt?",
+   "answers": {
+    "a": "De reactiesnelheid neemt af",
+    "b": "De reactie stopt meteen",
+    "c": "De reactiesnelheid blijft gelijk",
+    "d": "De reactiesnelheid neemt toe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid als je de concentratie van een beginstof groter maakt?",
+   "answers": {
+    "a": "De reactiesnelheid neemt af",
+    "b": "De reactiesnelheid blijft gelijk",
+    "c": "De reactie stopt",
+    "d": "De reactiesnelheid neemt toe"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je maakt een vaste stof fijner, bijvoorbeeld poeder in plaats van een brok (grotere verdelingsgraad). Wat gebeurt er met de reactiesnelheid?",
+   "answers": {
+    "a": "De reactiesnelheid blijft gelijk",
+    "b": "De reactiesnelheid neemt af",
+    "c": "De reactiesnelheid neemt toe",
+    "d": "De reactie stopt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bij een reactie tussen gassen verhoog je de druk. Wat gebeurt er met de reactiesnelheid?",
+   "answers": {
+    "a": "De reactiesnelheid neemt af",
+    "b": "De reactiesnelheid blijft gelijk",
+    "c": "De reactie stopt",
+    "d": "De reactiesnelheid neemt toe"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat doet een katalysator?",
+   "answers": {
+    "a": "Hij versnelt de reactie en is aan het eind op",
+    "b": "Hij vertraagt de reactie",
+    "c": "Hij heeft geen effect op de reactie",
+    "d": "Hij versnelt de reactie en is aan het eind niet verbruikt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je verhoogt de temperatuur. Wat gebeurt er met de reactietijd?",
+   "answers": {
+    "a": "De reactietijd wordt nul",
+    "b": "De reactietijd blijft gelijk",
+    "c": "De reactietijd wordt langer",
+    "d": "De reactietijd wordt korter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je voegt een katalysator toe. Wat gebeurt er met de reactietijd?",
+   "answers": {
+    "a": "De reactietijd blijft gelijk",
+    "b": "De reactietijd wordt nul",
+    "c": "De reactietijd wordt langer",
+    "d": "De reactietijd wordt korter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je maakt de concentratie van een beginstof groter. Wat gebeurt er met de reactietijd?",
+   "answers": {
+    "a": "De reactietijd wordt korter",
+    "b": "De reactietijd wordt nul",
+    "c": "De reactietijd wordt langer",
+    "d": "De reactietijd blijft gelijk"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Heeft de soort stof invloed op de reactiesnelheid?",
+   "answers": {
+    "a": "Ja, maar alleen bij een hoge temperatuur",
+    "b": "Nee, alle reacties gaan even snel",
+    "c": "Nee, alleen de temperatuur telt",
+    "d": "Ja, sommige stoffen reageren van nature sneller dan andere"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke van deze dingen heeft invloed op de reactiesnelheid?",
+   "answers": {
+    "a": "Het merk van de weegschaal",
+    "b": "De tijd op de klok",
+    "c": "De temperatuur",
+    "d": "De kleur van het bekerglas"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je ziet een grafiek van de hoeveelheid beginstof tegen de tijd. De lijn loopt steil omlaag. Wat betekent dat?",
+   "answers": {
+    "a": "De reactie gaat langzaam",
+    "b": "De reactie gaat snel",
+    "c": "De reactie is nog niet begonnen",
+    "d": "Er ontstaat geen nieuw product"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Noem drie factoren die de reactiesnelheid beïnvloeden.",
+   "answers": {
+    "a": "De kleur, de geur en de smaak van de stoffen",
+    "b": "De naam van de stof, het merk en de prijs",
+    "c": "De massa van het bekerglas, de tijd van de dag en de plaats",
+    "d": "Bijvoorbeeld de temperatuur, de concentratie en de verdelingsgraad"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een bruistablet lost sneller op in warm water dan in koud water. Welke factor zorgt daarvoor?",
+   "answers": {
+    "a": "De verdelingsgraad",
+    "b": "De temperatuur",
+    "c": "De concentratie",
+    "d": "De katalysator"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom reageert een poeder sneller dan een brok van dezelfde stof?",
+   "answers": {
+    "a": "Een poeder bevat een katalysator",
+    "b": "Een poeder heeft een veel groter oppervlak, dus er kunnen meer deeltjes tegelijk reageren",
+    "c": "Een poeder heeft een hogere temperatuur",
+    "d": "Een poeder is een andere stof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Kleine spaanders vatten sneller vlam dan een groot houtblok. Welke factor zorgt daarvoor?",
+   "answers": {
+    "a": "De soort stof",
+    "b": "De verdelingsgraad",
+    "c": "De katalysator",
+    "d": "De druk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom bewaar je voedsel in de koelkast?",
+   "answers": {
+    "a": "In de koelkast werkt een katalysator",
+    "b": "In de koelkast is de concentratie van het voedsel hoger",
+    "c": "Bij een lage temperatuur stopt elke reactie voorgoed",
+    "d": "Bij een lage temperatuur verlopen de bederfreacties langzamer"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is bloemstof in een meelfabriek gevaarlijk?",
+   "answers": {
+    "a": "Het stof heeft een enorme verdelingsgraad en kan dan explosief met zuurstof reageren",
+    "b": "Meel is een katalysator",
+    "c": "Meel reageert alleen bij lage temperatuur",
+    "d": "Meel is een zeer zware stof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een houtsplinter brandt in zuivere zuurstof veel sneller dan in lucht. Welke factor zorgt daarvoor?",
+   "answers": {
+    "a": "Er is minder druk",
+    "b": "De concentratie van zuurstof is hoger",
+    "c": "De temperatuur van het hout is lager",
+    "d": "De verdelingsgraad van het hout is kleiner"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een autokatalysator zorgt dat giftig koolstofmonoxide snel wordt omgezet. Welke factor wordt hier gebruikt?",
+   "answers": {
+    "a": "De verdelingsgraad van de benzine",
+    "b": "Een katalysator",
+    "c": "De temperatuur van de lucht",
+    "d": "De druk van de lucht"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je voegt een katalysator toe. Hoeveel product ontstaat er uiteindelijk?",
+   "answers": {
+    "a": "Evenveel als zonder katalysator, maar sneller",
+    "b": "Meer dan zonder katalysator",
+    "c": "Minder dan zonder katalysator",
+    "d": "Er ontstaat geen product meer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een enzym?",
+   "answers": {
+    "a": "Een gas in de lucht",
+    "b": "Een katalysator in levende wezens",
+    "c": "Een brandstof in levende wezens",
+    "d": "Een stof die een reactie stopt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je laat 5,0 g zink reageren met overmaat zoutzuur, eerst bij 20 °C en daarna bij 40 °C. Wat is bij 40 °C anders?",
+   "answers": {
+    "a": "De reactie verloopt langzamer",
+    "b": "Er ontstaat minder waterstof",
+    "c": "Er ontstaat meer waterstof",
+    "d": "De reactie is sneller klaar, er ontstaat evenveel waterstof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Magnesium reageert met 2 mol/L zoutzuur en met 0,5 mol/L zoutzuur. In welke oplossing gaat de reactie het snelst?",
+   "answers": {
+    "a": "Het maakt niet uit",
+    "b": "In het zoutzuur van 2 mol/L",
+    "c": "In geen van beide, de reactie stopt",
+    "d": "In het zoutzuur van 0,5 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij een reactie ontstaat in 30 seconden 60 mL gas. Wat is de gemiddelde reactiesnelheid?",
+   "answers": {
+    "a": "30 mL/s",
+    "b": "2,0 mL/s",
+    "c": "0,50 mL/s",
+    "d": "1800 mL/s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke twee manieren zijn handig om de reactiesnelheid te meten als er een gas ontstaat?",
+   "answers": {
+    "a": "De dichtheid van de oplossing uit het hoofd opschrijven",
+    "b": "De kleur van het bekerglas bekijken",
+    "c": "Het gasvolume per tijd meten, of de massaafname per tijd meten",
+    "d": "De naam van het gas opzoeken"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom wordt de reactiesnelheid meestal in de loop van de tijd kleiner?",
+   "answers": {
+    "a": "De temperatuur wordt steeds hoger",
+    "b": "De verdelingsgraad wordt groter",
+    "c": "De katalysator raakt op",
+    "d": "De beginstoffen raken op, dus de concentratie wordt kleiner"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een grafiek van de hoeveelheid product tegen de tijd wordt de lijn na een tijd horizontaal. Wat betekent dat?",
+   "answers": {
+    "a": "Er is een katalysator toegevoegd",
+    "b": "De reactie is nog niet begonnen",
+    "c": "De reactie is afgelopen, een beginstof is op",
+    "d": "De reactie gaat steeds sneller"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je meet twee keer de reactie van dezelfde hoeveelheid beginstof. Lijn B loopt steiler omhoog dan lijn A. Welke uitspraak klopt?",
+   "answers": {
+    "a": "De reactie van B is langzamer",
+    "b": "Bij B ontstaat uiteindelijk meer product",
+    "c": "De reactie van B is sneller, maar B eindigt op dezelfde hoogte als A",
+    "d": "Bij B ontstaat uiteindelijk minder product"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Noem twee manieren om een reactie langzamer te laten verlopen.",
+   "answers": {
+    "a": "Meer beginstof erbij doen en roeren",
+    "b": "De temperatuur verlagen en de concentratie verkleinen",
+    "c": "De stof fijner maken en de druk verhogen",
+    "d": "De temperatuur verhogen en een katalysator toevoegen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de reactievergelijking van magnesium met zoutzuur?",
+   "answers": {
+    "a": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H (g)",
+    "b": "Mg (s) + HCl (aq) → MgCl (aq) + H<sub>2</sub> (g)",
+    "c": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "d": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

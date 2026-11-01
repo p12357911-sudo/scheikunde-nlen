@@ -1,0 +1,359 @@
+{
+ "title": "Rekenen aan stoffen en reacties - 123 school",
+ "heading": "Rekenen aan stoffen en reacties",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de formule voor de concentratie van een oplossing?",
+   "answers": {
+    "a": "concentratie = massa opgeloste stof : volume oplossing",
+    "b": "concentratie = volume oplossing : massa opgeloste stof",
+    "c": "concentratie = massa − volume",
+    "d": "concentratie = massa × volume"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Er is 20 g zout opgelost in 2 L oplossing. Wat is de concentratie?",
+   "answers": {
+    "a": "10 g/L",
+    "b": "22 g/L",
+    "c": "0,1 g/L",
+    "d": "40 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een oplossing heeft een concentratie van 4 g/L. Hoeveel gram opgeloste stof zit er in 3 L?",
+   "answers": {
+    "a": "7 g",
+    "b": "1,3 g",
+    "c": "12 g",
+    "d": "0,75 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel gram NaCl zit er in 0,50 L oplossing met een concentratie van 12 g/L?",
+   "answers": {
+    "a": "6,0 g",
+    "b": "12,5 g",
+    "c": "24 g",
+    "d": "0,042 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Er is 45 g suiker opgelost in 0,250 L oplossing. Wat is de concentratie?",
+   "answers": {
+    "a": "45 g/L",
+    "b": "0,0056 g/L",
+    "c": "180 g/L",
+    "d": "11 g/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een oplossing heeft een concentratie van 5,0 g/L. In welk volume zit 2,0 g opgeloste stof?",
+   "answers": {
+    "a": "10 L",
+    "b": "0,25 L",
+    "c": "0,40 L",
+    "d": "2,5 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken 250 mL om naar liter.",
+   "answers": {
+    "a": "250 L",
+    "b": "25,0 L",
+    "c": "0,250 L",
+    "d": "2,50 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken 1,5 g om naar mg.",
+   "answers": {
+    "a": "1,5 mg",
+    "b": "1500 mg",
+    "c": "0,0015 mg",
+    "d": "150 mg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken 300 mg om naar g.",
+   "answers": {
+    "a": "3,00 g",
+    "b": "30,0 g",
+    "c": "300 g",
+    "d": "0,300 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In 3,0 L water is 15 mg van een stof opgelost. Wat is de concentratie in mg/L?",
+   "answers": {
+    "a": "45 mg/L",
+    "b": "12 mg/L",
+    "c": "5,0 mg/L",
+    "d": "0,20 mg/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken het massapercentage natrium in NaCl. Atoommassa's: Na = 23,0 u; Cl = 35,5 u.",
+   "answers": {
+    "a": "23,0%",
+    "b": "60,7%",
+    "c": "39,3%",
+    "d": "50,0%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken het massapercentage calcium in CaCO<sub>3</sub>. Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u.",
+   "answers": {
+    "a": "12,0%",
+    "b": "59,9%",
+    "c": "40,1%",
+    "d": "48,0%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken het massapercentage chloor in CaCl<sub>2</sub>. Atoommassa's: Cl = 35,5 u; Ca = 40,1 u.",
+   "answers": {
+    "a": "88,6%",
+    "b": "36,1%",
+    "c": "63,9%",
+    "d": "31,9%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken het massapercentage aluminium in AlPO<sub>4</sub>. Atoommassa's: O = 16,0 u; Al = 27,0 u; P = 31,0 u.",
+   "answers": {
+    "a": "25,4%",
+    "b": "50,8%",
+    "c": "77,9%",
+    "d": "22,1%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel mg aluminium zit er in 1,5 mg AlPO<sub>4</sub>? Atoommassa's: O = 16,0 u; Al = 27,0 u; P = 31,0 u.",
+   "answers": {
+    "a": "6,8 mg",
+    "b": "1,2 mg",
+    "c": "0,22 mg",
+    "d": "0,33 mg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel g calcium kun je maximaal halen uit 250 g CaCl<sub>2</sub>? Atoommassa's: Cl = 35,5 u; Ca = 40,1 u.",
+   "answers": {
+    "a": "63,9 g",
+    "b": "90,2 g",
+    "c": "159,8 g",
+    "d": "45,1 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel g koper kun je maximaal halen uit 100 g CuO? Atoommassa's: O = 16,0 u; Cu = 63,5 u.",
+   "answers": {
+    "a": "79,9 g",
+    "b": "79,5 g",
+    "c": "63,5 g",
+    "d": "20,1 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken de formulemassa van Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Atoommassa's: O = 16,0 u; Al = 27,0 u; S = 32,1 u.",
+   "answers": {
+    "a": "246,3 u",
+    "b": "150,1 u",
+    "c": "315,3 u",
+    "d": "342,3 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de formulemassa van Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Atoommassa's: O = 16,0 u; P = 31,0 u; Ca = 40,1 u.",
+   "answers": {
+    "a": "215,3 u",
+    "b": "310,3 u",
+    "c": "215,1 u",
+    "d": "246,1 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de formulemassa van (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Atoommassa's: H = 1,0 u; N = 14,0 u; O = 16,0 u; S = 32,1 u.",
+   "answers": {
+    "a": "66,1 u",
+    "b": "132,1 u",
+    "c": "114,1 u",
+    "d": "100,1 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een vloeistof heeft een dichtheid van 0,79 g/mL. Wat is de massa van 50 mL?",
+   "answers": {
+    "a": "39,5 g",
+    "b": "50,79 g",
+    "c": "63 g",
+    "d": "0,016 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat zijn de vijf stappen bij chemisch rekenen, in de goede volgorde?",
+   "answers": {
+    "a": "Reactievergelijking opstellen → massa's onder de vergelijking zetten → verhoudingstabel → berekening → antwoord met eenheid",
+    "b": "Verhoudingstabel → berekening → reactievergelijking opstellen → antwoord met eenheid → massa's onder de vergelijking zetten",
+    "c": "Berekening → reactievergelijking opstellen → verhoudingstabel → massa's onder de vergelijking zetten → antwoord met eenheid",
+    "d": "Massa's onder de vergelijking zetten → reactievergelijking opstellen → berekening → verhoudingstabel → antwoord met eenheid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 1: wat is de kloppende reactievergelijking, met toestandsaanduidingen?",
+   "answers": {
+    "a": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO (g)",
+    "b": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO<sub>2</sub> (g)",
+    "c": "Fe<sub>2</sub>O<sub>3</sub> (s) + C (s) → Fe (s) + CO<sub>2</sub> (g)",
+    "d": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 2 Fe (s) + 3 CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 2: welke massa's (u) van ijzeroxide en ijzer zet je onder de reactievergelijking?",
+   "answers": {
+    "a": "159,6 u en 223,2 u",
+    "b": "319,2 u en 223,2 u",
+    "c": "319,2 u en 55,8 u",
+    "d": "159,6 u en 55,8 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 3: welke verhoudingstabel hoort bij de vraag? Je zoekt de massa ijzer uit 80 g ijzeroxide.",
+   "answers": {
+    "a": "ijzeroxide: 319,2 u → 80 g; ijzer: 55,8 u → x g",
+    "b": "ijzeroxide: 319,2 u → 80 g; ijzer: 223,2 u → x g",
+    "c": "ijzeroxide: 159,6 u → 80 g; ijzer: 55,8 u → x g",
+    "d": "ijzeroxide: 159,6 u → 80 g; ijzer: 223,2 u → x g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 4: welke berekening hoort bij de verhoudingstabel?",
+   "answers": {
+    "a": "x = 223,2 × 80 : 319,2 = 55,9 g",
+    "b": "x = 319,2 × 80 : 223,2 = 114,4 g",
+    "c": "x = 55,8 × 80 : 159,6 = 28,0 g",
+    "d": "x = 223,2 × 80 : 159,6 = 111,9 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 5: je berekening geeft x = 55,9. Wat is het goede antwoord?",
+   "answers": {
+    "a": "55,9 ijzer",
+    "b": "55,9 g ijzer",
+    "c": "55,9 u ijzer",
+    "d": "55,9 kg ijzer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 1: wat is de kloppende reactievergelijking, met toestandsaanduidingen?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "b": "Ca(OH)<sub>2</sub> (aq) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l)",
+    "c": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl (aq) + 2 H<sub>2</sub>O (l)",
+    "d": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 2: welke massa's (u) van calciumhydroxide en zoutzuur (HCl) zet je onder de reactievergelijking?",
+   "answers": {
+    "a": "73,0 u en 74,1 u",
+    "b": "110,6 u en 73,0 u",
+    "c": "74,1 u en 73,0 u",
+    "d": "74,1 u en 36,5 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 3: welke verhoudingstabel hoort bij de vraag? Je zoekt de massa zoutzuur (HCl) uit 3,7 g calciumhydroxide.",
+   "answers": {
+    "a": "calciumhydroxide: 74,1 u → 3,7 g; zoutzuur (HCl): 36,5 u → x g",
+    "b": "calciumhydroxide: 74,1 u → x g; zoutzuur (HCl): 73,0 u → 3,7 g",
+    "c": "calciumhydroxide: 74,1 u → 3,7 g; zoutzuur (HCl): 73,0 u → x g",
+    "d": "calciumhydroxide: 110,6 u → 3,7 g; zoutzuur (HCl): 73,0 u → x g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 4: welke berekening hoort bij de verhoudingstabel?",
+   "answers": {
+    "a": "x = 73,0 × 3,7 : 74,1 = 3,65 g",
+    "b": "x = 36,5 × 3,7 : 74,1 = 1,82 g",
+    "c": "x = 74,1 × 3,7 : 36,5 = 7,51 g",
+    "d": "x = 74,1 × 3,7 : 73,0 = 3,76 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 5: je berekening geeft x = 3,65. Wat is het goede antwoord?",
+   "answers": {
+    "a": "3,65 g zoutzuur (HCl)",
+    "b": "3,65 zoutzuur (HCl)",
+    "c": "3,65 u zoutzuur (HCl)",
+    "d": "3,65 kg zoutzuur (HCl)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Natronloog (NaOH) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 8,0 g NaOH. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Na = 23,0 u; Cl = 35,5 u. Stap 1: wat is de kloppende reactievergelijking, met toestandsaanduidingen?",
+   "answers": {
+    "a": "NaOH (aq) + HCl (aq) → Na (s) + HClO (aq)",
+    "b": "2 NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "c": "NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Natronloog (NaOH) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 8,0 g NaOH. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Na = 23,0 u; Cl = 35,5 u. Stap 3: welke verhoudingstabel hoort bij de vraag? Je zoekt de massa zoutzuur (HCl) uit 8,0 g natriumhydroxide.",
+   "answers": {
+    "a": "natriumhydroxide: 40,0 u → 8,0 g; zoutzuur (HCl): 36,5 u → x g",
+    "b": "natriumhydroxide: 76,5 u → 8,0 g; zoutzuur (HCl): 36,5 u → x g",
+    "c": "natriumhydroxide: 40,0 u → 8,0 g; zoutzuur (HCl): 76,5 u → x g",
+    "d": "natriumhydroxide: 40,0 u → x g; zoutzuur (HCl): 36,5 u → 8,0 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Natronloog (NaOH) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 8,0 g NaOH. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Na = 23,0 u; Cl = 35,5 u. Stap 5: je berekening geeft x = 7,3. Wat is het goede antwoord?",
+   "answers": {
+    "a": "7,3 kg zoutzuur (HCl)",
+    "b": "7,3 u zoutzuur (HCl)",
+    "c": "7,3 g zoutzuur (HCl)",
+    "d": "7,3 zoutzuur (HCl)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

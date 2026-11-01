@@ -1,0 +1,201 @@
+{
+ "title": "Chemische Binding - 123 school",
+ "heading": "Chemische Binding",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Geef de molecuulformule van het alcohol",
+   "a": "CH<sub>3</sub>CH<sub>2</sub>OH (l) of C<sub>2</sub>H<sub>6</sub>O (l)"
+  },
+  {
+   "q": "Geef de molecuulformule van ammoniak gas",
+   "a": "NH<sub>3</sub> (g)"
+  },
+  {
+   "q": "Geef de molecuulformule van waterstofperoxide",
+   "a": "H<sub>2</sub>O<sub>2</sub>"
+  },
+  {
+   "q": "Geef de naam van 3 atoomsoorten uit groep 17",
+   "a": "F, Cl, Br, I"
+  },
+  {
+   "q": "Geef de covalentie van de atoomsoorten uit groep 17",
+   "a": "1"
+  },
+  {
+   "q": "Geef de covalentie van de stikstof",
+   "a": "3"
+  },
+  {
+   "q": "Geef de covalentie van koolstof",
+   "a": "4"
+  },
+  {
+   "q": "Geef de covalentie van waterstof",
+   "a": "1"
+  },
+  {
+   "q": "Noem een atoomsoort met een covalentie van 2",
+   "a": "O, S"
+  },
+  {
+   "q": "Geef de molecuulformule van water",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Geef de naam van 4 niet metaal atomen",
+   "a": "H, F, Cl, Br, I, O, S, N, P, C, Si"
+  },
+  {
+   "q": "Geef de voor voegsels voor het atoom aantal voor: 2, 3, 4 en 5",
+   "a": "Di, tri, tetra, penta"
+  },
+  {
+   "q": "Geef de molecuulformule van azijnzuur",
+   "a": "CH<sub>3</sub>COOH (l) of C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (l)"
+  },
+  {
+   "q": "Geef molecuulformule van 3 elementen waarvan de moleculen uit 2 identieke atomen bestaan",
+   "a": "F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>"
+  },
+  {
+   "q": "Geef de molecuulformule van chloorgas",
+   "a": "Cl<sub>2</sub> (g)"
+  },
+  {
+   "q": "HNO<sub>3</sub> (l) is?",
+   "a": "Salpeterzuur"
+  },
+  {
+   "q": "Geef de ‘–ide’ vervoeging voor de volgende stoffen: Br, S, O",
+   "a": "Bromide,Sulfide, oxide, F"
+  },
+  {
+   "q": "Wordt het N atoom in een systematische naam als ‘- ide’ vervoegd of niet?",
+   "a": "Nee"
+  },
+  {
+   "q": "Wat is een vanderwaalsbinding",
+   "a": "Binding tussen moleculen"
+  },
+  {
+   "q": "Wat is de covalentie van een atoom",
+   "a": "aantal bindingen van een atoom"
+  },
+  {
+   "q": "Wat is een waterstofbrug",
+   "a": "Binding tussen moleculen waar -OH of -NH groepen bij nodig zijn"
+  },
+  {
+   "q": "Wat is een molecuulrooster",
+   "a": "Moleculen hebben  geen kristalrooster maar"
+  },
+  {
+   "q": "Wat is een polaire binding",
+   "a": "Atooombinding waarbij de elektronen niet gelijkmatig verdeeld zijn"
+  },
+  {
+   "q": "Wat is een moleculaire stof",
+   "a": "Stof opgebouwd uit moleculen"
+  },
+  {
+   "q": "Wat is een covalente binding",
+   "a": "Atoombinding ander woord"
+  },
+  {
+   "q": "Wat is een atoombinding",
+   "a": "Binding tussen twee atomen"
+  },
+  {
+   "q": "Wat is een triviale naam",
+   "a": "alledaagse chemische naam"
+  },
+  {
+   "q": "Wat is een molecuulformule",
+   "a": "Geeft soort en aantal atomen"
+  },
+  {
+   "q": "Wat is een structuurformule",
+   "a": "Laat zien hoe atomen verbonden zijn"
+  },
+  {
+   "q": "Wat is een gemeenschappelijk elektronenpaar",
+   "a": "Gedeelde valentie-elektronen tussen 2 atomen"
+  },
+  {
+   "q": "Wat is een hydrofiel",
+   "a": "goed in water oplosbaar"
+  },
+  {
+   "q": "Wat is een hydrofoob",
+   "a": "slecht in water oplosbaar"
+  },
+  {
+   "q": "Noem 3 vervoeging die 1, 2, 3, 4, 5, 6, 7 of 8 aan gegeven in een systematische naam",
+   "a": "mono, di, tri, tetra, penta, hexa, hepta, octa"
+  },
+  {
+   "q": "Noem de veroegingen voor Cl, F, Br, I, O, S",
+   "a": "chloride, fluoride, bromide, iodide, oxide, sulfide"
+  },
+  {
+   "q": "Geef de molecuulformule voor zuurstof gas",
+   "a": "O<sub>2</sub> (g)"
+  },
+  {
+   "q": "Geef de molecuulformule voor  stikstof gas",
+   "a": "N<sub>2</sub> (g)"
+  },
+  {
+   "q": "Geef de molecuulformule voorwaterstofperoxide",
+   "a": "H<sub>2</sub>O<sub>2</sub> (l)"
+  },
+  {
+   "q": "Geef de molecuulformule voor ammoniak",
+   "a": "NH<sub>3</sub> (g)"
+  },
+  {
+   "q": "Geef de molecuulformule voor zwavelzuur",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (l)"
+  },
+  {
+   "q": "Omschrijf moleculaire stoffen en wat ze niet zijn",
+   "a": "Stoffen die uit moleculen zijn opgebouwd in tegenstelling tot zouten en metalen"
+  },
+  {
+   "q": "Geef de molecuulformule voor  waterstof gas",
+   "a": "H<sub>2</sub> (g)"
+  },
+  {
+   "q": "Hoe is het verband tussen molecuul oppervlak en vanderwaalskracht?",
+   "a": "Deste groter het oppervlak deste sterker de vanderwaalsbinding"
+  },
+  {
+   "q": "Welke stof eigenschappen houd verband met vanderwaalskrachten? Leg uit hoe?",
+   "a": "smeltpunt en kookpunt: naar mate de vanderwaals krachten groter zijn neemt stijgt het kookpunt van een stof. De vertaking van moleculen: stoffen met meer vertakkingen hebben een relatief kleiner oppervlak, dus minder vanderwaalskrachten"
+  },
+  {
+   "q": "Water is een klein molecuul. Je zou zeggen dat de vanderwaals krachten kleiner zijn dan bijv ethanol. Waarom is het kookpunt toch hoger van water?",
+   "a": "Dat komt door de vele waterstof bruggen in water"
+  },
+  {
+   "q": "Waarom is alcohol wel een vloeistof bij kamertemperatuur en het zwaardere butaan niet?",
+   "a": "Alcohol kan waterstof bruggen vormen en butaan niet"
+  },
+  {
+   "q": "Welke stofeigenschap hebben alle moleculaire stoffen niet, welke zouten en metalen wel hebben?",
+   "a": "Moleculaire stoffen geleiden geen stroom"
+  },
+  {
+   "q": "Omschrijf molecuulrooster",
+   "a": "Regelmatige rangschikking van moleculaire stoffen als ze in de vaste fase verkeren."
+  },
+  {
+   "q": "Geef de afkorten van: gas, vloeistof, vast, in water opgelost",
+   "a": "g, l, s, aq"
+  }
+ ]
+}

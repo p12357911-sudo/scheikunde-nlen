@@ -1,0 +1,137 @@
+{
+ "title": "Duurzaamheid",
+ "heading": "Duurzaamheid vragen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Met welk proces scheid je aardolie in fracties met een verschillend kooktraject?",
+   "answers": {
+    "a": "Kraken",
+    "b": "Gefractioneerde destillatie",
+    "c": "Polymerisatie",
+    "d": "Reformen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het kooktraject van een fractie?",
+   "answers": {
+    "a": "De chemische samenstelling van de fractie",
+    "b": "Het aantal stappen in het destillatieproces",
+    "c": "De druk waarbij je aardolie destilleert",
+    "d": "De temperaturen waartussen de stoffen in die fractie koken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent duurzaamheid?",
+   "answers": {
+    "a": "Je zorgt voor wat mensen nu nodig hebben, zonder dat het later voor mensen in de toekomst tekortkomt",
+    "b": "Je recyclet alle gebruikte materialen",
+    "c": "Je laat de economie niet meer groeien",
+    "d": "Je gebruikt zo weinig mogelijk energie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe kun je bijdragen aan duurzaamheid?",
+   "answers": {
+    "a": "Meer spullen kopen",
+    "b": "Meer fossiele brandstoffen gebruiken",
+    "c": "Duurzame grondstoffen gebruiken of recyclen",
+    "d": "Technologie vermijden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zegt de atoomeconomie van een reactie?",
+   "answers": {
+    "a": "Hoeveel procent van de atomen uit de beginstoffen in het gewenste product terechtkomt",
+    "b": "Hoe snel de reactie verloopt",
+    "c": "Hoeveel energie de reactie kost",
+    "d": "Hoeveel geld de reactie kost"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvan maak je biobrandstoffen?",
+   "answers": {
+    "a": "Metaalafval",
+    "b": "Kunststof",
+    "c": "Fossiele brandstoffen",
+    "d": "Biomassa (planten en andere stoffen uit levende wezens)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke drie stoffen zijn biobrandstoffen?",
+   "answers": {
+    "a": "Ethanol, methanol en kerosine",
+    "b": "Bio-ethanol, biodiesel en biogas",
+    "c": "Diesel, benzine en aardgas",
+    "d": "Waterstof, zuurstof en stikstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarvan maak je biobrandstoffen van de eerste generatie?",
+   "answers": {
+    "a": "Planten die niet geschikt zijn als voedsel",
+    "b": "Kunststof",
+    "c": "Planten die we ook als voedsel gebruiken, zoals mais en suikerriet",
+    "d": "Landbouwafval"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarmee geef je een chemisch productieproces weer?",
+   "answers": {
+    "a": "Met een structuurformule",
+    "b": "Met een blokschema",
+    "c": "Met een tabel",
+    "d": "Met een grafiek"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekenen de blokken in een blokschema?",
+   "answers": {
+    "a": "De richting waarin stoffen stromen",
+    "b": "De temperatuur van het proces",
+    "c": "Een apparaat of stap waarin een reactie of scheiding plaatsvindt",
+    "d": "De hoeveelheid stof die ontstaat"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekenen de pijlen in een blokschema?",
+   "answers": {
+    "a": "De hoeveelheid stof die ontstaat",
+    "b": "De temperatuur van het proces",
+    "c": "Een apparaat of stap waarin een reactie of scheiding plaatsvindt",
+    "d": "De richting waarin stoffen stromen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het molair volume?",
+   "answers": {
+    "a": "Het volume van 1,00 mol gas bij een bepaalde temperatuur en druk",
+    "b": "De massa van 1,00 mol gas",
+    "c": "Het aantal moleculen in 1,00 mol gas",
+    "d": "De druk van 1,00 mol gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke grootheid hoort bij het symbool V<sub>m</sub>?",
+   "answers": {
+    "a": "De dichtheid van een gas",
+    "b": "Het molair volume",
+    "c": "Het aantal mol",
+    "d": "De molaire massa"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "title": "Eenheden, gehaltes en verhoudingen - 123 school",
+ "heading": "Eenheden, gehaltes en verhoudingen",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden."
+ ],
+ "questions": [
+  {
+   "question": "Wat betekent een concentratie van 0,25 mol/L?",
+   "answers": {
+    "a": "1 mol bevat 0,25 L oplossing",
+    "b": "1 L oplossing bevat 0,25 mol opgeloste stof",
+    "c": "0,25 L oplossing bevat 1 mol opgeloste stof",
+    "d": "0,25 mol bevat 0,25 L oplossing"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Schrijf g/mol met een negatieve macht.",
+   "answers": {
+    "a": "g·mol<sup>−1</sup>",
+    "b": "g<sup>−1</sup>·mol<sup>−1</sup>",
+    "c": "g<sup>−1</sup>·mol",
+    "d": "g·mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf m·s<sup>−2</sup> als breuk.",
+   "answers": {
+    "a": "m/s",
+    "b": "m/s<sup>2</sup>",
+    "c": "m·s<sup>2</sup>",
+    "d": "s<sup>2</sup>/m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je deelt een hoeveelheid in mol door een volume in L. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "mol/L",
+    "b": "mol",
+    "c": "mol·L",
+    "d": "L/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je deelt een volume in L door een molair volume in L/mol. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "mol/L",
+    "b": "mol",
+    "c": "L",
+    "d": "L/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken 125 mg om naar g. Behoud het aantal significante cijfers.",
+   "answers": {
+    "a": "0,0125 g",
+    "b": "1,25 g",
+    "c": "125 g",
+    "d": "0,125 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Reken 6,5 μg om naar mg. Behoud het aantal significante cijfers.",
+   "answers": {
+    "a": "6,5 mg",
+    "b": "0,065 mg",
+    "c": "0,0065 mg",
+    "d": "0,00065 mg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken 150 mm om naar m. Behoud het aantal significante cijfers.",
+   "answers": {
+    "a": "0,150 m",
+    "b": "0,0150 m",
+    "c": "1,50 m",
+    "d": "0,000150 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke macht van 10 hoort bij het voorvoegsel micro (μ)?",
+   "answers": {
+    "a": "10<sup>−6</sup>",
+    "b": "10<sup>−9</sup>",
+    "c": "10<sup>−3</sup>",
+    "d": "10<sup>6</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke macht van 10 hoort bij het voorvoegsel nano (n)?",
+   "answers": {
+    "a": "10<sup>9</sup>",
+    "b": "10<sup>−6</sup>",
+    "c": "10<sup>−12</sup>",
+    "d": "10<sup>−9</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke macht van 10 hoort bij het voorvoegsel centi (c)?",
+   "answers": {
+    "a": "10<sup>2</sup>",
+    "b": "10<sup>−1</sup>",
+    "c": "10<sup>−2</sup>",
+    "d": "10<sup>−3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf 6,2·10<sup>5</sup> als gewoon getal.",
+   "answers": {
+    "a": "6 200 000",
+    "b": "62 000",
+    "c": "0,000062",
+    "d": "620 000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken 10<sup>8</sup> : 10<sup>3</sup>.",
+   "answers": {
+    "a": "10<sup>5</sup>",
+    "b": "10<sup>8/3</sup>",
+    "c": "10<sup>24</sup>",
+    "d": "10<sup>11</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken 10<sup>2</sup> : 10<sup>−3</sup>.",
+   "answers": {
+    "a": "10<sup>−5</sup>",
+    "b": "10<sup>5</sup>",
+    "c": "10<sup>−1</sup>",
+    "d": "10<sup>−6</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk getal is het grootst?",
+   "answers": {
+    "a": "5,0·10<sup>−6</sup>",
+    "b": "9,9·10<sup>−5</sup>",
+    "c": "4,1·10<sup>−4</sup>",
+    "d": "3,2·10<sup>−3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is 10<sup>0</sup>?",
+   "answers": {
+    "a": "10",
+    "b": "niet te berekenen",
+    "c": "1",
+    "d": "0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken 0,0025 % om naar ppm (1 % = 10<sup>4</sup> ppm). Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,25 ppm",
+    "b": "25 ppm",
+    "c": "2,5 ppm",
+    "d": "25,0 ppm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken 4,5 ppm om naar procent (1 % = 10<sup>4</sup> ppm). Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,000045 %",
+    "b": "0,00045 %",
+    "c": "0,0000045 %",
+    "d": "0,0045 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken 35 ‰ om naar procent (1 % = 10 ‰). Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,35 %",
+    "b": "3,5 %",
+    "c": "0,035 %",
+    "d": "35 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken 3,0·10<sup>3</sup> ppb om naar ppm (1 ppm = 10<sup>3</sup> ppb). Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,30 ppm",
+    "b": "0,030 ppm",
+    "c": "3,0 ppm",
+    "d": "3,00 ppm"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is 1 ppb, uitgedrukt in massa?",
+   "answers": {
+    "a": "1 ng per g",
+    "b": "1 μg per kg",
+    "c": "1 mg per kg",
+    "d": "1 g per kg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent 1 procent (1 %)?",
+   "answers": {
+    "a": "1 deel op 100",
+    "b": "1 deel op 10 000",
+    "c": "1 deel op 1000",
+    "d": "1 deel op 10"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molverhouding N<sub>2</sub> : NH<sub>3</sub> in de reactievergelijking N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>?",
+   "answers": {
+    "a": "1 : 1",
+    "b": "1 : 2",
+    "c": "2 : 2",
+    "d": "2 : 1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molverhouding Fe : O<sub>2</sub> in de reactievergelijking 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>?",
+   "answers": {
+    "a": "4 : 3",
+    "b": "5 : 3",
+    "c": "3 : 4",
+    "d": "1 : 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bij de reactie 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O reageert 3,0 mol O<sub>2</sub>. Hoeveel mol H<sub>2</sub>O is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "4,0 mol",
+    "b": "3,0 mol",
+    "c": "1,5 mol",
+    "d": "6,0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij de reactie N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> reageert 6,0 mol H<sub>2</sub>. Hoeveel mol NH<sub>3</sub> is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "4,0 mol",
+    "b": "12 mol",
+    "c": "9,0 mol",
+    "d": "18 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 0,30 mol Mg. Hoeveel mol O<sub>2</sub> is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,15 mol",
+    "b": "0,90 mol",
+    "c": "0,30 mol",
+    "d": "0,60 mol"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

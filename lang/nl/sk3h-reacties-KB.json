@@ -1,0 +1,149 @@
+{
+ "title": "Chemische reacties 2 - 123 school",
+ "heading": "Chemische reacties 2",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat zijn beginstoffen?",
+   "a": "De stoffen die met elkaar reageren (links van de pijl)"
+  },
+  {
+   "q": "Wat zijn reactieproducten?",
+   "a": "De stoffen die ontstaan (rechts van de pijl)"
+  },
+  {
+   "q": "Noem drie waarnemingen die kunnen wijzen op een chemische reactie",
+   "a": "Kleurverandering, gasontwikkeling, neerslag, geurverandering, temperatuurverandering, licht"
+  },
+  {
+   "q": "Is ijs dat smelt een chemische reactie? Leg uit.",
+   "a": "Nee. Er ontstaat geen nieuwe stof (alleen een andere fase)."
+  },
+  {
+   "q": "Welke twee dingen blijven gelijk in een chemische reactie?",
+   "a": "Het aantal atomen van elk soort en de totale massa"
+  },
+  {
+   "q": "Wat is stap 1 van het stappenplan voor een reactievergelijking?",
+   "a": "Het reactieschema in woorden opschrijven"
+  },
+  {
+   "q": "Wat is stap 2 van het stappenplan voor een reactievergelijking?",
+   "a": "Het reactieschema in molecuulformules opschrijven"
+  },
+  {
+   "q": "Wat is stap 3 van het stappenplan voor een reactievergelijking?",
+   "a": "De atoombalans kloppend maken"
+  },
+  {
+   "q": "Wat is stap 4 van het stappenplan voor een reactievergelijking?",
+   "a": "De reactievergelijking vereenvoudigen"
+  },
+  {
+   "q": "Wat mag je veranderen bij het kloppend maken van een reactievergelijking?",
+   "a": "Alleen de getallen vóór de formules (coëfficiënten). Niet de kleine getallen in de formules."
+  },
+  {
+   "q": "Maak kloppend: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Maak kloppend: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "Maak kloppend: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>"
+  },
+  {
+   "q": "Maak kloppend: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Geef de reactievergelijking van de volledige verbranding van methaan",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Vereenvoudig: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Wat betekent (s), (l), (g) en (aq) achter een formule?",
+   "a": "(s) vast, (l) vloeibaar, (g) gas, (aq) opgelost in water"
+  },
+  {
+   "q": "Wat is ontleden?",
+   "a": "Een stof splitsen in twee of meer andere stoffen"
+  },
+  {
+   "q": "Wat is een synthese?",
+   "a": "Uit twee of meer stoffen één nieuwe stof maken"
+  },
+  {
+   "q": "Hoe heet het ontleden van een stof met elektrische stroom?",
+   "a": "Elektrolyse"
+  },
+  {
+   "q": "Geef de reactievergelijking van het ontleden van water",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>"
+  },
+  {
+   "q": "Wat is een verbranding?",
+   "a": "Een reactie van een stof met zuurstof"
+  },
+  {
+   "q": "Welke drie dingen heb je nodig voor een verbranding?",
+   "a": "Brandstof, zuurstof en een hoge genoeg temperatuur"
+  },
+  {
+   "q": "Welke stoffen ontstaan bij de volledige verbranding van een koolwaterstof?",
+   "a": "Koolstofdioxide en water"
+  },
+  {
+   "q": "Welke stoffen kunnen ontstaan bij onvolledige verbranding?",
+   "a": "Koolstofmono-oxide en roet (koolstof)"
+  },
+  {
+   "q": "Wat is een neerslag?",
+   "a": "Een vaste stof die ontstaat in een oplossing"
+  },
+  {
+   "q": "Maak kloppend: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "a": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Maak kloppend: H<sub>2</sub>O<sub>2</sub> → H<sub>2</sub>O + O<sub>2</sub>",
+   "a": "2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub>"
+  },
+  {
+   "q": "Maak kloppend: Ca + H<sub>2</sub>O → Ca(OH)<sub>2</sub> + H<sub>2</sub>",
+   "a": "Ca + 2 H<sub>2</sub>O → Ca(OH)<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Maak kloppend: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Je mengt een oplossing van zilvernitraat met een oplossing van natriumchloride. Zilverchloride lost niet op in water. Wat zie je?",
+   "a": "Een witte neerslag van zilverchloride"
+  },
+  {
+   "q": "Hoe toon je zuurstof aan?",
+   "a": "Een gloeiende houtspaander gaat feller branden"
+  },
+  {
+   "q": "Hoe toon je koolstofdioxide aan?",
+   "a": "Met kalkwater: het wordt troebel"
+  },
+  {
+   "q": "Hoe toon je waterstofgas aan?",
+   "a": "Met een brandende houtspaander: je hoort een pieptoon of knal"
+  },
+  {
+   "q": "Welke reactievergelijking van natrium met chloor klopt?",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  }
+ ]
+}

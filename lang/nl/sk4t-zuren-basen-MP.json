@@ -1,0 +1,349 @@
+{
+ "title": "Zuren en basen - 123 school",
+ "heading": "Zuren en basen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Welke pH heeft een zure oplossing?",
+   "answers": {
+    "a": "Hoger dan 7",
+    "b": "Precies 7",
+    "c": "Precies 14",
+    "d": "Lager dan 7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke pH heeft een neutrale oplossing?",
+   "answers": {
+    "a": "7",
+    "b": "14",
+    "c": "1",
+    "d": "0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke pH heeft een basische oplossing?",
+   "answers": {
+    "a": "Hoger dan 7",
+    "b": "Lager dan 7",
+    "c": "Precies 7",
+    "d": "Precies 0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion zorgt ervoor dat een oplossing zuur is?",
+   "answers": {
+    "a": "Na<sup>+</sup> (aq)",
+    "b": "H<sup>+</sup> (aq)",
+    "c": "OH<sup>−</sup> (aq)",
+    "d": "Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion zorgt ervoor dat een oplossing basisch is?",
+   "answers": {
+    "a": "NO<sub>3</sub><sup>−</sup> (aq)",
+    "b": "H<sup>+</sup> (aq)",
+    "c": "OH<sup>−</sup> (aq)",
+    "d": "Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat weet je over het aantal H<sup>+</sup> en OH<sup>−</sup> ionen in een neutrale oplossing?",
+   "answers": {
+    "a": "Er zijn geen ionen",
+    "b": "Er zijn alleen OH<sup>−</sup> ionen",
+    "c": "Er zijn alleen H<sup>+</sup> ionen",
+    "d": "Er zijn evenveel H<sup>+</sup> ionen als OH<sup>−</sup> ionen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke pH is het zuurst: 2, 5, 7 of 9?",
+   "answers": {
+    "a": "2",
+    "b": "9",
+    "c": "5",
+    "d": "7"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van zoutzuur?",
+   "answers": {
+    "a": "HCl",
+    "b": "NaCl",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van zwavelzuur?",
+   "answers": {
+    "a": "HNO<sub>3</sub>",
+    "b": "HCl",
+    "c": "H<sub>2</sub>SO<sub>4</sub>",
+    "d": "H<sub>2</sub>SO<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van salpeterzuur?",
+   "answers": {
+    "a": "NH<sub>3</sub>",
+    "b": "HCl",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van azijnzuur?",
+   "answers": {
+    "a": "NaOH",
+    "b": "CH<sub>4</sub>",
+    "c": "CH<sub>3</sub>COOH",
+    "d": "CH<sub>3</sub>OH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van natronloog?",
+   "answers": {
+    "a": "NaCl",
+    "b": "KOH",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "NaOH"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van kaliloog?",
+   "answers": {
+    "a": "KCl",
+    "b": "KOH",
+    "c": "NaOH",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van kalkwater?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub>",
+    "b": "CaO",
+    "c": "CaCO<sub>3</sub>",
+    "d": "NaOH"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van ammoniak, een base?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "NO<sub>3</sub>",
+    "c": "NH<sub>4</sub>Cl",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke ionen ontstaan als HCl oplost in water? Schrijf de reactievergelijking op.",
+   "answers": {
+    "a": "HCl (g) → H (aq) + Cl (aq)",
+    "b": "HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "HCl (g) → OH<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "d": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op voor het oplossen van natriumhydroxide in water.",
+   "answers": {
+    "a": "NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)",
+    "b": "NaOH (s) → Na<sup>+</sup> (aq) + H<sup>+</sup> (aq) + O<sup>2−</sup> (aq)",
+    "c": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "d": "NaOH (s) → Na (aq) + OH (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op voor het oplossen van zwavelzuur (H<sub>2</sub>SO<sub>4</sub>) in water.",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub> (l) → H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)",
+    "b": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>−</sup> (aq) + SO<sub>4</sub><sup>2+</sup> (aq)",
+    "c": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>+</sup> (aq)",
+    "d": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is neutralisatie?",
+   "answers": {
+    "a": "Een zuur reageert met een base tot een zout en water, en de pH wordt 7",
+    "b": "Een zuur wordt verhit tot een gas",
+    "c": "Een base reageert met een metaal tot een zout",
+    "d": "Een zuur reageert met een zuur tot een base"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de reactievergelijking in ionen van de neutralisatie van een zuur met een base?",
+   "answers": {
+    "a": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub> (g) + O<sub>2</sub> (g)",
+    "b": "H<sub>2</sub>O (l) → H<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "c": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>3</sub>O (l)",
+    "d": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Zoutzuur reageert met natronloog. Schrijf de reactievergelijking op.",
+   "answers": {
+    "a": "HCl (aq) + NaOH (aq) → Na (s) + Cl<sub>2</sub> (g) + H<sub>2</sub>O (l)",
+    "b": "HCl (aq) + NaOH (aq) → NaOH (aq) + HCl (aq)",
+    "c": "HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "2 HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Zwavelzuur reageert met natronloog. Schrijf de reactievergelijking op.",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub> (aq) + NaOH (aq) → NaSO<sub>4</sub> (aq) + H<sub>2</sub>O (l)",
+    "b": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → 2 NaSO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "c": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "d": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk zout ontstaat als salpeterzuur (HNO<sub>3</sub>) reageert met kaliloog (KOH)?",
+   "answers": {
+    "a": "Kaliumchloride",
+    "b": "Kaliumnitriet",
+    "c": "Natriumnitraat",
+    "d": "Kaliumnitraat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Zink reageert met zoutzuur. Schrijf de reactievergelijking op.",
+   "answers": {
+    "a": "Zn (s) + HCl (aq) → ZnCl (aq) + H<sub>2</sub> (g)",
+    "b": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H (g)",
+    "c": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "d": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk gas ontstaat als een zuur reageert met een onedel metaal, en hoe toon je het aan?",
+   "answers": {
+    "a": "Chloor; het gas is geel-groen en bleekt",
+    "b": "Koolstofdioxide; kalkwater wordt troebel",
+    "c": "Zuurstof; een gloeiende houtspaander vlamt op",
+    "d": "Waterstof; een brandende houtspaander geeft een knal"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Kalk (CaCO<sub>3</sub>) reageert met zoutzuur. Schrijf de reactievergelijking op.",
+   "answers": {
+    "a": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g) + CO<sub>2</sub> (g)",
+    "b": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "c": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)",
+    "d": "CaCO<sub>3</sub> (s) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke kleur heeft lakmoes in een zure oplossing? (gebruik BINAS tabel 36)",
+   "answers": {
+    "a": "Kleurloos",
+    "b": "Rood",
+    "c": "Geel",
+    "d": "Blauw"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke kleur heeft broomthymolblauw in een basische oplossing? (gebruik BINAS tabel 36)",
+   "answers": {
+    "a": "Geel",
+    "b": "Rood",
+    "c": "Kleurloos",
+    "d": "Blauw"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke kleur heeft fenolftaleïen in een sterk basische oplossing? (gebruik BINAS tabel 36)",
+   "answers": {
+    "a": "Geel",
+    "b": "Paars",
+    "c": "Groen",
+    "d": "Kleurloos"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Universeelindicatorpapier wordt groen in een oplossing. Wat voor oplossing is dit?",
+   "answers": {
+    "a": "Een sterk zure oplossing",
+    "b": "Een neutrale oplossing",
+    "c": "Een oplossing zonder water",
+    "d": "Een sterk basische oplossing"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je verdunt een zure oplossing met veel water. Wat gebeurt er met de pH?",
+   "answers": {
+    "a": "De pH wordt lager",
+    "b": "De pH wordt hoger, richting 7",
+    "c": "De pH wordt 14",
+    "d": "De pH blijft precies gelijk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je druppelt natronloog in zoutzuur. Wat gebeurt er met de pH?",
+   "answers": {
+    "a": "De pH wordt direct 14",
+    "b": "De pH daalt steeds verder",
+    "c": "De pH blijft altijd lager dan 7",
+    "d": "De pH stijgt tot 7 bij neutralisatie en daarna verder"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk pictogram staat op een fles geconcentreerd zoutzuur?",
+   "answers": {
+    "a": "Het pictogram voor ontvlambaar",
+    "b": "Het pictogram voor explosief",
+    "c": "Het pictogram voor bijtend (corrosief)",
+    "d": "Het pictogram voor milieugevaarlijk"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom houd je een sterk zuur of een sterke base niet op je huid?",
+   "answers": {
+    "a": "Ze kleuren je huid permanent",
+    "b": "Ze zijn bijtend en beschadigen je huid",
+    "c": "Ze zijn explosief",
+    "d": "Ze zijn te koud"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

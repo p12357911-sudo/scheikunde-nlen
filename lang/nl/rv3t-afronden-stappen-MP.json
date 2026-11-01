@@ -1,0 +1,239 @@
+{
+ "title": "Afronden en stapelopdrachten - 123 school",
+ "heading": "Afronden en stapelopdrachten",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden. Bij een stapelopdracht staat in de tip hoeveel stappen je nodig hebt."
+ ],
+ "questions": [
+  {
+   "question": "Rond 2,675 af op 2 decimalen.",
+   "answers": {
+    "a": "2,67",
+    "b": "2,675",
+    "c": "2,7",
+    "d": "2,68"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Rond 7,449 af op 1 decimaal.",
+   "answers": {
+    "a": "7,4",
+    "b": "7",
+    "c": "7,45",
+    "d": "7,5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rond 0,995 af op 2 decimalen.",
+   "answers": {
+    "a": "0,995",
+    "b": "1,0",
+    "c": "1,00",
+    "d": "0,99"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Rond 0,0812 af op 2 decimalen.",
+   "answers": {
+    "a": "0,09",
+    "b": "0,08",
+    "c": "0,081",
+    "d": "0,1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 6,4999 af op een geheel getal.",
+   "answers": {
+    "a": "6,5",
+    "b": "6",
+    "c": "65",
+    "d": "7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 199,96 af op 1 decimaal.",
+   "answers": {
+    "a": "200",
+    "b": "200,0",
+    "c": "199,96",
+    "d": "199,9"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 2,675 af op 3 significante cijfers.",
+   "answers": {
+    "a": "2,7",
+    "b": "2,68",
+    "c": "2,675",
+    "d": "2,67"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 9,996 af op 3 significante cijfers.",
+   "answers": {
+    "a": "1,0·10<sup>1</sup>",
+    "b": "9,99",
+    "c": "9,996",
+    "d": "10,0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel °C is 373 K?",
+   "answers": {
+    "a": "373 °C",
+    "b": "646 °C",
+    "c": "−100 °C",
+    "d": "100 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel °C is 310 K?",
+   "answers": {
+    "a": "37 °C",
+    "b": "583 °C",
+    "c": "310 °C",
+    "d": "−37 °C"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Los op: x + 5 = 9. Wat is x?",
+   "answers": {
+    "a": "−4",
+    "b": "45",
+    "c": "14",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Los op: 2x + 3 = 11. Wat is x?",
+   "answers": {
+    "a": "5,5",
+    "b": "4",
+    "c": "7",
+    "d": "8"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Los op: x − 7 = 8. Wat is x?",
+   "answers": {
+    "a": "−1",
+    "b": "1",
+    "c": "56",
+    "d": "15"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een oplossing heeft een concentratie van 0,80 g/L. Hoeveel gram opgeloste stof zit er in 250 mL van deze oplossing? Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,02 g",
+    "b": "3,20 g",
+    "c": "0,20 g",
+    "d": "2,00 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een vloeistof heeft een dichtheid van 0,92 g/mL. Wat is het volume in L van 150 g van deze vloeistof? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,016 L",
+    "b": "1,630 L",
+    "c": "0,138 L",
+    "d": "0,163 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je hebt 100 mL water met een dichtheid van 1,00 g/mL. De molaire massa is 18,0 g/mol. Hoeveel mol water is dat? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,6 mol",
+    "b": "55,6 mol",
+    "c": "100,0 mol",
+    "d": "5,6 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je hebt 2,5 mol van een stof met een molaire massa van 44,0 g/mol. Hoeveel kg is dat? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,110 kg",
+    "b": "0,111 kg",
+    "c": "1,100 kg",
+    "d": "0,011 kg"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel mL oplossing is nodig om 0,15 mol op te lossen als de concentratie 0,50 mol/L moet zijn? Rond af op een geheel getal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "75 mL",
+    "b": "300 mL",
+    "c": "3333 mL",
+    "d": "3000 mL"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een fietser legt 18 km af in 45 minuten. Wat is de gemiddelde snelheid in km/h? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "810,0 km/h",
+    "b": "0,4 km/h",
+    "c": "24,0 km/h",
+    "d": "2,5 km/h"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een lamp van 60 W brandt 5 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,30 kWh",
+    "b": "0,03 kWh",
+    "c": "0,01 kWh",
+    "d": "3,00 kWh"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je mengt 150 mL water (1,00 g/mL) met 60 mL ethanol (0,79 g/mL). Wat is de totale massa van het mengsel in gram? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "197,4 g",
+    "b": "210,0 g",
+    "c": "375,9 g",
+    "d": "150,0 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je hebt 40 mL ethanol met een dichtheid van 0,79 g/mL. De molaire massa is 46,0 g/mol. Hoeveel mol ethanol is dat? Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,87 mol",
+    "b": "0,69 mol",
+    "c": "31,60 mol",
+    "d": "1,10 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je mengt 150 mL water (1,00 g/mL) met 60 mL ethanol (0,79 g/mL). Bereken het massapercentage water in het mengsel. Rond af op 1 decimaal. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,8 %",
+    "b": "76,0 %",
+    "c": "71,4 %",
+    "d": "316,5 %"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

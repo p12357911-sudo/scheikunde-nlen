@@ -1,0 +1,347 @@
+{
+ "title": "Stoffen sorteren - 123 school",
+ "heading": "Stoffen sorteren",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat is een mengsel?",
+   "answers": {
+    "a": "Een stof die uit één soort moleculen bestaat",
+    "b": "Een stof met een vast kookpunt",
+    "c": "Een stof die uit meer dan één soort moleculen bestaat",
+    "d": "Een stof die uit één soort atomen bestaat"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een zuivere stof?",
+   "answers": {
+    "a": "Een stof die geen verbinding is",
+    "b": "Een stof zonder kleur en geur",
+    "c": "Een stof die uit meer soorten moleculen bestaat",
+    "d": "Een stof die uit één soort moleculen bestaat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe herken je een zuivere stof aan het kookpunt?",
+   "answers": {
+    "a": "Het kookpunt verschilt per monster",
+    "b": "Het kookpunt ligt vast en blijft tijdens het koken gelijk",
+    "c": "De temperatuur stijgt tijdens het koken steeds verder",
+    "d": "De stof heeft geen kookpunt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat zijn de scheidingsmethoden in BAEDFIA?",
+   "answers": {
+    "a": "Bezinken, Afgieten, Ontleden, Drogen, Filtreren, Smelten, Adsorberen",
+    "b": "Bezinken, Aflezen, Extraheren, Drogen, Filtreren, Indampen, Afkoelen",
+    "c": "Breken, Afgieten, Elektrolyse, Destilleren, Filtreren, Indampen, Aanlengen",
+    "d": "Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke methode gebruik je om zand van water te scheiden?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Destilleren",
+    "c": "Filtreren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op welk verschil tussen stoffen berust filtreren?",
+   "answers": {
+    "a": "Het verschil in kookpunt",
+    "b": "Het verschil in dichtheid van de vloeistoffen",
+    "c": "Het verschil in deeltjesgrootte",
+    "d": "Het verschil in oplosbaarheid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat blijft er op het filter achter: het residu of het filtraat?",
+   "answers": {
+    "a": "Het residu",
+    "b": "Het filtraat",
+    "c": "Het extract",
+    "d": "Het destillaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gaat er door het filter heen: het residu of het filtraat?",
+   "answers": {
+    "a": "Het filtraat",
+    "b": "Het destillaat",
+    "c": "Het residu",
+    "d": "De suspensie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet een mengsel van een vaste stof en een vloeistof waarin de vaste stof niet oplost?",
+   "answers": {
+    "a": "Een legering",
+    "b": "Een suspensie",
+    "c": "Een oplossing",
+    "d": "Een emulsie"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet een mengsel van twee vloeistoffen die niet mengen, zoals olie en water?",
+   "answers": {
+    "a": "Een oplossing",
+    "b": "Een emulsie",
+    "c": "Een suspensie",
+    "d": "Een rook"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe scheid je een suspensie van krijt in water?",
+   "answers": {
+    "a": "Door te destilleren",
+    "b": "Door te adsorberen",
+    "c": "Door te extraheren",
+    "d": "Door te filtreren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe scheid je olie van water in een emulsie die even heeft gestaan?",
+   "answers": {
+    "a": "Door te adsorberen met actieve kool",
+    "b": "Door in te dampen",
+    "c": "Door te filtreren",
+    "d": "Door af te gieten of met een scheitrechter, want olie drijft op water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Op welk verschil berust bezinken en afgieten?",
+   "answers": {
+    "a": "Het verschil in dichtheid",
+    "b": "Het verschil in smeltpunt",
+    "c": "Het verschil in kookpunt",
+    "d": "Het verschil in oplosbaarheid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe haal je zout uit zout water als je het water niet hoeft te bewaren?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Filtreren",
+    "c": "Adsorberen",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe maak je van zout water weer zuiver water dat je bewaart?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Destilleren",
+    "c": "Filtreren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Op welk verschil tussen stoffen berust destilleren?",
+   "answers": {
+    "a": "Het verschil in kleur",
+    "b": "Het verschil in deeltjesgrootte",
+    "c": "Het verschil in dichtheid",
+    "d": "Het verschil in kookpunt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet de stof die bij destilleren in de koeler vloeibaar wordt en wordt opgevangen?",
+   "answers": {
+    "a": "Het destillaat",
+    "b": "Het residu",
+    "c": "Het filtraat",
+    "d": "Het extract"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor dient de koeler bij een destillatie?",
+   "answers": {
+    "a": "Om de damp weer te laten condenseren tot vloeistof",
+    "b": "Om het residu te filtreren",
+    "c": "Om de damp te laten verbranden",
+    "d": "Om het mengsel te laten koken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Alcohol kookt bij 78 °C en water bij 100 °C. Welke stof komt eerst over als je het mengsel destilleert?",
+   "answers": {
+    "a": "Alcohol, want die heeft het laagste kookpunt",
+    "b": "Water, want dat heeft het hoogste kookpunt",
+    "c": "Beide tegelijk",
+    "d": "Geen van beide, het mengsel kookt niet"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Stof A kookt bij 65 °C en stof B bij 110 °C. Je verwarmt het mengsel langzaam tot 80 °C. Wat is er dan overgedestilleerd?",
+   "answers": {
+    "a": "Niets",
+    "b": "Een gelijk mengsel van A en B",
+    "c": "Vooral stof B",
+    "d": "Vooral stof A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is destilleren geen goede manier om zand van water te scheiden?",
+   "answers": {
+    "a": "Zand heeft hetzelfde kookpunt als water",
+    "b": "Zand verdampt bij 100 °C",
+    "c": "Zand lost op in water",
+    "d": "Zand lost niet op, filtreren is dan veel eenvoudiger"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het scheiden van een stof uit een mengsel met een oplosmiddel waarin alleen die stof oplost?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Filtreren",
+    "c": "Adsorberen",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk voorbeeld is extraheren?",
+   "answers": {
+    "a": "Water opwarmen",
+    "b": "Zout uit zeewater halen door te verdampen",
+    "c": "Thee zetten: de smaakstoffen lossen op in het hete water",
+    "d": "Zand uit water zeven"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op welk verschil berust extraheren?",
+   "answers": {
+    "a": "Het verschil in oplosbaarheid",
+    "b": "Het verschil in kookpunt",
+    "c": "Het verschil in dichtheid",
+    "d": "Het verschil in deeltjesgrootte"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet het scheiden van stoffen doordat een vaste stof de stoffen verschillend vasthoudt, zoals bij een koolstoffilter?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Extraheren",
+    "c": "Indampen",
+    "d": "Bezinken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebruik je om geurstoffen of kleurstoffen uit een mengsel te verwijderen?",
+   "answers": {
+    "a": "Een zeef",
+    "b": "Een bunsenbrander",
+    "c": "Een scheitrechter",
+    "d": "Actieve kool (adsorberen)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe haal je ijzerpoeder uit een mengsel van ijzerpoeder en zwavelpoeder?",
+   "answers": {
+    "a": "Met een magneet",
+    "b": "Door te filtreren",
+    "c": "Door te destilleren",
+    "d": "Door te extraheren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe haal je suiker uit suikerwater als je het water niet hoeft te bewaren?",
+   "answers": {
+    "a": "Bezinken",
+    "b": "Adsorberen",
+    "c": "Indampen",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke methode gebruik je om zand en zout te scheiden? Zand lost niet op in water, zout wel.",
+   "answers": {
+    "a": "Alleen indampen",
+    "b": "Alleen filtreren",
+    "c": "Water toevoegen, filtreren en het filtraat indampen",
+    "d": "Destilleren van het droge mengsel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je filtreert een mengsel van krijt en water. Het filtraat is helder. Is het filtraat een zuivere stof?",
+   "answers": {
+    "a": "Nee, er zit nog krijt in",
+    "b": "Ja, filtreren maakt altijd een zuivere stof",
+    "c": "Niet per se, er kan nog iets opgelost zijn in het water",
+    "d": "Ja, want het is helder en dus zuiver water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het scheiden van gekleurde stoffen op papier met een oplosmiddel?",
+   "answers": {
+    "a": "Chromatografie",
+    "b": "Destillatie",
+    "c": "Indampen",
+    "d": "Extractie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke twee stappen horen bij het scheiden van een mengsel van zand, zout en water, in de goede volgorde?",
+   "answers": {
+    "a": "Eerst adsorberen, dan bezinken",
+    "b": "Eerst destilleren, dan filtreren",
+    "c": "Eerst filtreren, dan indampen van het filtraat",
+    "d": "Eerst indampen, dan filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe haal je kleine ijzeren spijkers uit een bak zand?",
+   "answers": {
+    "a": "Door in te dampen",
+    "b": "Met een magneet",
+    "c": "Door te extraheren",
+    "d": "Door te destilleren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je meet bij het koken van een vloeistof dat de temperatuur steeds blijft stijgen. Wat betekent dat?",
+   "answers": {
+    "a": "Het is een element",
+    "b": "Het is een zuivere stof",
+    "c": "De vloeistof kookt al",
+    "d": "Het is waarschijnlijk een mengsel"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "title": "Breuken, procenten en eenheden - 123 school",
+ "heading": "Breuken, procenten en eenheden",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden."
+ ],
+ "questions": [
+  {
+   "question": "Hoeveel is 2/5 van 50 mL?",
+   "answers": {
+    "a": "20 mL",
+    "b": "100 mL",
+    "c": "10 mL",
+    "d": "30 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel is 5/8 van 64 mL?",
+   "answers": {
+    "a": "40 mL",
+    "b": "8 mL",
+    "c": "24 mL",
+    "d": "320 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf de breuk 10/15 zo eenvoudig mogelijk.",
+   "answers": {
+    "a": "11/16",
+    "b": "3/3",
+    "c": "2/3",
+    "d": "15/10"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf 3/4 als decimaal getal.",
+   "answers": {
+    "a": "0,75",
+    "b": "7,5",
+    "c": "0,075",
+    "d": "1,33"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf 2/5 als percentage.",
+   "answers": {
+    "a": "4%",
+    "b": "40%",
+    "c": "400%",
+    "d": "0,4%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Schrijf 35% als eenvoudige breuk.",
+   "answers": {
+    "a": "1/35",
+    "b": "7/20",
+    "c": "35/1000",
+    "d": "35/10"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is 5 g / 1 mL?",
+   "answers": {
+    "a": "5 g",
+    "b": "1/5 g/mL",
+    "c": "5 mL/g",
+    "d": "5 g/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke breuk is kleiner: 5/8 of 3/4?",
+   "answers": {
+    "a": "3/4",
+    "b": "5/8",
+    "c": "ze zijn even groot",
+    "d": "8/5"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent een concentratie van 25 g/L?",
+   "answers": {
+    "a": "1 g oplossing heeft een volume van 25 L",
+    "b": "1 L oplossing bevat 25 g opgeloste stof",
+    "c": "25 L oplossing bevat 1 g opgeloste stof",
+    "d": "25 g oplossing heeft een volume van 25 L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je deelt een massa in g door een volume in mL. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "g·mL",
+    "b": "mL/g",
+    "c": "g",
+    "d": "g/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je deelt een afstand in km door een tijd in h. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "h/km",
+    "b": "km·h",
+    "c": "km/h",
+    "d": "km"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een voorwerp legt 100 m af in 12 s. Bereken de snelheid in m/s. Rond af op 1 decimaal.",
+   "answers": {
+    "a": "8,3 m/s",
+    "b": "8,3 s/m",
+    "c": "1200,0 m/s",
+    "d": "0,12 m/s"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel is 12 g / 1 g?",
+   "answers": {
+    "a": "1",
+    "b": "12 g",
+    "c": "1/12",
+    "d": "12"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een mengsel bevat 20% van een stof. Hoeveel gram van die stof zit er in 100 g van het mengsel?",
+   "answers": {
+    "a": "20 g",
+    "b": "2 g",
+    "c": "200 g",
+    "d": "0,2 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf 4,5% als decimaal getal.",
+   "answers": {
+    "a": "0,0045",
+    "b": "0,045",
+    "c": "4,5",
+    "d": "0,45"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een hoeveelheid van 150 g neemt met 20% toe. Hoeveel gram is het daarna? Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "180 g",
+    "b": "30 g",
+    "c": "120 g",
+    "d": "1800 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel is 10% van 350 g?",
+   "answers": {
+    "a": "3,5 g",
+    "b": "350 g",
+    "c": "3500 g",
+    "d": "35 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel is 1% van 2400 g?",
+   "answers": {
+    "a": "2,4 g",
+    "b": "240 g",
+    "c": "24 g",
+    "d": "0,24 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een mengsel bestaat uit 15 g zand en 6 g zout. Wat is de massaverhouding zand : zout?",
+   "answers": {
+    "a": "5 : 2",
+    "b": "3 : 1",
+    "c": "15 : 6",
+    "d": "2 : 5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Reken 25 mg om naar g. Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "0,0025 g",
+    "b": "0,25 g",
+    "c": "25 000 g",
+    "d": "0,025 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Reken 1234 g om naar kg. Rond af op 1 decimaal.",
+   "answers": {
+    "a": "1,2 kg",
+    "b": "1 234 000,0 kg",
+    "c": "12,3 kg",
+    "d": "0,12 kg"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Reken 3 min om naar s. Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "18 s",
+    "b": "180 s",
+    "c": "1800 s",
+    "d": "0,05 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel gram is 1 kg?",
+   "answers": {
+    "a": "1000 g",
+    "b": "10 g",
+    "c": "0,001 g",
+    "d": "100 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk volume is gelijk aan 1 dm<sup>3</sup>?",
+   "answers": {
+    "a": "0,1 L",
+    "b": "1 L",
+    "c": "10 L",
+    "d": "1 mL"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel seconden zijn 2 minuten?",
+   "answers": {
+    "a": "200 s",
+    "b": "12 s",
+    "c": "120 s",
+    "d": "60 s"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

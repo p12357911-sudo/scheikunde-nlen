@@ -1,0 +1,347 @@
+{
+ "title": "Krachten - 123 school",
+ "heading": "Krachten",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat is de eenheid van kracht?",
+   "answers": {
+    "a": "Newton",
+    "b": "Joule",
+    "c": "Watt",
+    "d": "Kilogram"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarmee meet je een kracht?",
+   "answers": {
+    "a": "Met een multimeter",
+    "b": "Met een thermometer",
+    "c": "Met een krachtmeter",
+    "d": "Met een maatcilinder"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat kan een kracht doen met een voorwerp?",
+   "answers": {
+    "a": "Alleen de dichtheid veranderen",
+    "b": "Alleen de kleur veranderen",
+    "c": "Alleen de massa veranderen",
+    "d": "De snelheid, de richting of de vorm veranderen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule geldt voor de zwaartekracht?",
+   "answers": {
+    "a": "Fz = m + g",
+    "b": "Fz = m × g",
+    "c": "Fz = m : g",
+    "d": "Fz = g − m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een voorwerp heeft een massa van 5 kg. Wat is de zwaartekracht op aarde (g = 9,8 N/kg)?",
+   "answers": {
+    "a": "490 N",
+    "b": "0,51 N",
+    "c": "5 N",
+    "d": "49 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Iemand heeft een massa van 60 kg. Wat is de zwaartekracht op aarde (g = 9,8 N/kg)?",
+   "answers": {
+    "a": "6,1 N",
+    "b": "5880 N",
+    "c": "588 N",
+    "d": "60 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je gaat naar de maan. Wat blijft hetzelfde?",
+   "answers": {
+    "a": "Je massa",
+    "b": "De valversnelling",
+    "c": "Het aantal newton op de weegschaal",
+    "d": "De zwaartekracht op jou"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kracht werkt een beweging tegen als je schuift?",
+   "answers": {
+    "a": "Veerkracht",
+    "b": "Wrijvingskracht",
+    "c": "Zwaartekracht",
+    "d": "Spierkracht"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je rekt een veer uit. Welke kracht trekt de veer terug?",
+   "answers": {
+    "a": "Magnetische kracht",
+    "b": "Zwaartekracht",
+    "c": "Wrijvingskracht",
+    "d": "Veerkracht"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een veer rekt 2 cm uit bij 4 N. Hoeveel N is nodig voor een uitrekking van 4 cm?",
+   "answers": {
+    "a": "8 N",
+    "b": "2 N",
+    "c": "6 N",
+    "d": "16 N"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat zegt de veerconstante?",
+   "answers": {
+    "a": "Hoe lang een veer is",
+    "b": "Hoe stug een veer is",
+    "c": "Hoe zwaar een veer is",
+    "d": "Hoe snel een veer terugveert"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Er werkt 30 N naar rechts en 20 N naar links. Wat is de resulterende kracht?",
+   "answers": {
+    "a": "0 N",
+    "b": "50 N naar rechts",
+    "c": "10 N naar rechts",
+    "d": "10 N naar links"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Twee krachten zijn even groot en tegengesteld. Wat is de resulterende kracht?",
+   "answers": {
+    "a": "Niet te bepalen",
+    "b": "Even groot als één kracht",
+    "c": "Twee keer zo groot als één kracht",
+    "d": "0 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Er werken twee krachten in dezelfde richting: 12 N en 8 N. Wat is de resulterende kracht?",
+   "answers": {
+    "a": "20 N",
+    "b": "10 N",
+    "c": "4 N",
+    "d": "96 N"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een boek ligt stil op tafel. Welke kracht werkt de zwaartekracht tegen?",
+   "answers": {
+    "a": "De spierkracht",
+    "b": "De kracht van de tafel omhoog",
+    "c": "De magnetische kracht",
+    "d": "De wrijvingskracht"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat geeft de lengte van de pijl bij een kracht aan?",
+   "answers": {
+    "a": "De richting van de kracht",
+    "b": "De massa van het voorwerp",
+    "c": "De grootte van de kracht",
+    "d": "Het aangrijpingspunt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het draaipunt van een hefboom?",
+   "answers": {
+    "a": "Het punt waar je op de hefboom duwt",
+    "b": "Het zwaarste deel van de hefboom",
+    "c": "De lengte van de hefboom",
+    "d": "Het punt waar de hefboom omheen draait"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de arm van een kracht?",
+   "answers": {
+    "a": "De lengte van het touw",
+    "b": "De grootte van de kracht",
+    "c": "De afstand van het draaipunt tot de kracht",
+    "d": "De massa van het voorwerp"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule geldt als een hefboom in evenwicht is?",
+   "answers": {
+    "a": "Kracht × arm links = kracht × arm rechts",
+    "b": "Kracht links = arm links × arm rechts",
+    "c": "Kracht + arm links = kracht + arm rechts",
+    "d": "Kracht : arm links = kracht × arm rechts"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een hefboom is in evenwicht. Links werkt 200 N op 1,0 m van het draaipunt. Rechts werkt 100 N. Op welke afstand?",
+   "answers": {
+    "a": "1,0 m",
+    "b": "2,0 m",
+    "c": "0,5 m",
+    "d": "3,0 m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom is een lange sleutel handig om een moer los te draaien?",
+   "answers": {
+    "a": "Met een lange arm heb je minder kracht nodig",
+    "b": "Een lange sleutel heeft minder wrijving",
+    "c": "Een lange sleutel vergroot de zwaartekracht",
+    "d": "Een lange sleutel is zwaarder"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk voorwerp is een hefboom?",
+   "answers": {
+    "a": "Een thermometer",
+    "b": "Een stopcontact",
+    "c": "Een maatbeker",
+    "d": "Een breekijzer"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor dient het contragewicht van een torenkraan?",
+   "answers": {
+    "a": "Om stroom op te wekken",
+    "b": "Om in evenwicht te blijven",
+    "c": "Om de kraan te laten draaien",
+    "d": "Om de last lichter te maken"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de zwaartekracht op een kind van 40 kg. Gebruik g = 9,8 N/kg.",
+   "answers": {
+    "a": "40 N",
+    "b": "4,1 N",
+    "c": "39 N",
+    "d": "392 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Op een voorwerp werkt een zwaartekracht van 29,4 N. Gebruik g = 9,8 N/kg. Wat is de massa?",
+   "answers": {
+    "a": "0,33 kg",
+    "b": "29 kg",
+    "c": "3,0 kg",
+    "d": "288 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op de maan is g = 1,6 N/kg. Hoe groot is de zwaartekracht op een voorwerp van 10 kg?",
+   "answers": {
+    "a": "98 N",
+    "b": "6,3 N",
+    "c": "16 N",
+    "d": "1,6 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een veer wordt 3,0 cm langer door een kracht van 6,0 N. Hoeveel langer wordt de veer door 10 N? (de veer blijft binnen zijn elastische gebied)",
+   "answers": {
+    "a": "5,0 cm",
+    "b": "10 cm",
+    "c": "1,8 cm",
+    "d": "2,0 cm"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een hefboom is in evenwicht. Links werkt 50 N op 0,40 m van het draaipunt. Rechts is de arm 0,25 m. Hoe groot is de kracht rechts?",
+   "answers": {
+    "a": "31 N",
+    "b": "50 N",
+    "c": "125 N",
+    "d": "80 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe groot is het moment van een kracht van 20 N op een arm van 0,30 m?",
+   "answers": {
+    "a": "0,015 N·m",
+    "b": "6,0 N·m",
+    "c": "67 N·m",
+    "d": "20,3 N·m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat doet een vaste katrol?",
+   "answers": {
+    "a": "De arbeid wordt kleiner",
+    "b": "De richting van de kracht verandert, de kracht blijft even groot",
+    "c": "De kracht wordt twee keer zo groot",
+    "d": "De kracht wordt de helft"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je tilt een last van 200 N met een losse katrol (zonder wrijving, touwen verticaal). Hoe groot is de kracht die je moet leveren?",
+   "answers": {
+    "a": "200 N",
+    "b": "400 N",
+    "c": "50 N",
+    "d": "100 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een kist van 20 kg staat stil op de grond. Gebruik g = 9,8 N/kg. Hoe groot is de kracht van de grond op de kist?",
+   "answers": {
+    "a": "2,0 N",
+    "b": "196 N",
+    "c": "20 N",
+    "d": "0 N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de eenheid van het moment van een kracht?",
+   "answers": {
+    "a": "N/kg",
+    "b": "N/m",
+    "c": "kg·m",
+    "d": "N·m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Op een voorwerp werken 6 N naar rechts, nog eens 6 N naar rechts en 4 N naar links. Wat is de resulterende kracht?",
+   "answers": {
+    "a": "8 N naar rechts",
+    "b": "16 N naar rechts",
+    "c": "2 N naar rechts",
+    "d": "4 N naar links"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

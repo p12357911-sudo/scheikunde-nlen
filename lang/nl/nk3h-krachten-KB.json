@@ -1,0 +1,149 @@
+{
+ "title": "Krachten - 123 school",
+ "heading": "Krachten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is de eenheid van kracht?",
+   "a": "Newton (N)"
+  },
+  {
+   "q": "Waarmee meet je een kracht?",
+   "a": "Met een krachtmeter"
+  },
+  {
+   "q": "Noem drie soorten krachten",
+   "a": "Zwaartekracht, wrijvingskracht, veerkracht, spierkracht, magnetische kracht"
+  },
+  {
+   "q": "Wat kan een kracht doen met een voorwerp?",
+   "a": "De snelheid, de richting of de vorm veranderen"
+  },
+  {
+   "q": "Hoe heet de kracht waarmee de aarde aan een voorwerp trekt?",
+   "a": "Zwaartekracht"
+  },
+  {
+   "q": "Geef de formule voor de zwaartekracht",
+   "a": "Fz = m × g"
+  },
+  {
+   "q": "Welke waarde heeft g op aarde?",
+   "a": "9,8 N/kg"
+  },
+  {
+   "q": "Een voorwerp heeft een massa van 10 kg. Wat is de zwaartekracht op aarde?",
+   "a": "10 kg × 9,8 N/kg = 98 N"
+  },
+  {
+   "q": "Welke eenheid hoort bij massa?",
+   "a": "Kilogram (kg)"
+  },
+  {
+   "q": "Je gaat naar de maan. Verandert je massa?",
+   "a": "Nee. De zwaartekracht op jou wordt wel kleiner."
+  },
+  {
+   "q": "Wat is wrijvingskracht?",
+   "a": "Een kracht die een beweging tegenwerkt"
+  },
+  {
+   "q": "Wat is veerkracht?",
+   "a": "De kracht waarmee een uitgerekte of ingedrukte veer terugduwt of terugtrekt"
+  },
+  {
+   "q": "Wat zegt de veerconstante?",
+   "a": "Hoe stug een veer is (hoeveel kracht je nodig hebt voor een bepaalde uitrekking)"
+  },
+  {
+   "q": "Een veer rekt 2 cm uit bij 4 N. Hoeveel cm rekt hij uit bij 8 N?",
+   "a": "4 cm"
+  },
+  {
+   "q": "Wat is de resulterende kracht?",
+   "a": "De ene kracht die even veel doet als alle krachten samen"
+  },
+  {
+   "q": "Er werkt 30 N naar rechts en 20 N naar links. Wat is de resulterende kracht?",
+   "a": "10 N naar rechts"
+  },
+  {
+   "q": "Hoe groot is de resulterende kracht als de krachten in evenwicht zijn?",
+   "a": "0 N"
+  },
+  {
+   "q": "Hoe teken je een kracht?",
+   "a": "Als een pijl: de lengte geeft de grootte, de pijl wijst in de richting en begint in het aangrijpingspunt"
+  },
+  {
+   "q": "Wat is een hefboom?",
+   "a": "Een stang die kan draaien om een draaipunt"
+  },
+  {
+   "q": "Wat is het draaipunt?",
+   "a": "Het punt waar een hefboom omheen draait"
+  },
+  {
+   "q": "Wat is de arm van een kracht?",
+   "a": "De afstand van het draaipunt tot de kracht"
+  },
+  {
+   "q": "Welke formule geldt als een hefboom in evenwicht is?",
+   "a": "Kracht × arm links = kracht × arm rechts"
+  },
+  {
+   "q": "Een hefboom is in evenwicht. Links werkt 200 N op 1,0 m van het draaipunt. Rechts werkt 100 N. Op welke afstand?",
+   "a": "200 N × 1,0 m = 100 N × r, dus r = 2,0 m"
+  },
+  {
+   "q": "Waarom heb je met een lange sleutel minder kracht nodig om een moer los te draaien?",
+   "a": "Een lange sleutel heeft een lange arm"
+  },
+  {
+   "q": "Noem twee voorwerpen die een hefboom zijn",
+   "a": "Breekijzer, schaar, tang, wip, kruiwagen"
+  },
+  {
+   "q": "Waarvoor dient het contragewicht van een torenkraan?",
+   "a": "Om de kraan in evenwicht te houden"
+  },
+  {
+   "q": "Bereken de zwaartekracht op een kind van 40 kg. Gebruik g = 9,8 N/kg.",
+   "a": "F<sub>z</sub> = m × g = 40 × 9,8 = 392 N"
+  },
+  {
+   "q": "Op een voorwerp werkt een zwaartekracht van 29,4 N. Gebruik g = 9,8 N/kg. Wat is de massa?",
+   "a": "m = F<sub>z</sub> / g = 29,4 / 9,8 = 3,0 kg"
+  },
+  {
+   "q": "Op de maan is g = 1,6 N/kg. Hoe groot is de zwaartekracht op een voorwerp van 10 kg?",
+   "a": "F<sub>z</sub> = 10 × 1,6 = 16 N"
+  },
+  {
+   "q": "Een veer wordt 3,0 cm langer door een kracht van 6,0 N. Hoeveel langer wordt de veer door 10 N? (de veer blijft binnen zijn elastische gebied)",
+   "a": "Uitrekking is evenredig met kracht: 3,0 × 10 / 6,0 = 5,0 cm"
+  },
+  {
+   "q": "Een hefboom is in evenwicht. Links werkt 50 N op 0,40 m van het draaipunt. Rechts is de arm 0,25 m. Hoe groot is de kracht rechts?",
+   "a": "F<sub>1</sub> × r<sub>1</sub> = F<sub>2</sub> × r<sub>2</sub>; 50 × 0,40 = F × 0,25; F = 80 N"
+  },
+  {
+   "q": "Hoe groot is het moment van een kracht van 20 N op een arm van 0,30 m?",
+   "a": "M = F × r = 20 × 0,30 = 6,0 N·m"
+  },
+  {
+   "q": "Wat doet een vaste katrol?",
+   "a": "De richting van de kracht verandert, de kracht blijft even groot"
+  },
+  {
+   "q": "Je tilt een last van 200 N met een losse katrol (zonder wrijving, touwen verticaal). Hoe groot is de kracht die je moet leveren?",
+   "a": "Een losse katrol halveert de kracht: 100 N (je trekt wel twee keer zoveel touw)"
+  },
+  {
+   "q": "Een kist van 20 kg staat stil op de grond. Gebruik g = 9,8 N/kg. Hoe groot is de kracht van de grond op de kist?",
+   "a": "De kist staat stil: de kracht van de grond is even groot als de zwaartekracht: 20 × 9,8 = 196 N"
+  }
+ ]
+}

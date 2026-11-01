@@ -1,0 +1,349 @@
+{
+ "title": "Koolwaterstoffen - 123 school",
+ "heading": "Koolwaterstoffen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat zijn koolwaterstoffen?",
+   "answers": {
+    "a": "Stoffen die uit koolstof, waterstof en zuurstof bestaan",
+    "b": "Stoffen die alleen uit waterstof bestaan",
+    "c": "Stoffen die uit koolstof en zuurstof bestaan",
+    "d": "Stoffen die alleen uit koolstof en waterstof bestaan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de algemene formule van de alkanen?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "b": "C<sub>2n</sub>H<sub>n</sub>",
+    "c": "C<sub>n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>n+2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de algemene formule van de alkenen (met één dubbele binding)?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>n</sub>",
+    "b": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "c": "C<sub>2n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>2n</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molecuulformule van hexaan?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>6</sub>",
+    "b": "C<sub>5</sub>H<sub>12</sub>",
+    "c": "C<sub>6</sub>H<sub>14</sub>",
+    "d": "C<sub>6</sub>H<sub>12</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van propeen?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>6</sub>",
+    "b": "C<sub>3</sub>H<sub>4</sub>",
+    "c": "C<sub>2</sub>H<sub>6</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke naam hoort bij C<sub>4</sub>H<sub>10</sub>?",
+   "answers": {
+    "a": "Buteen",
+    "b": "Pentaan",
+    "c": "Propaan",
+    "d": "Butaan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke naam hoort bij C<sub>5</sub>H<sub>12</sub>?",
+   "answers": {
+    "a": "Hexaan",
+    "b": "Penteen",
+    "c": "Propaan",
+    "d": "Pentaan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel waterstofatomen heeft een alkaan met 7 koolstofatomen?",
+   "answers": {
+    "a": "15",
+    "b": "18",
+    "c": "14",
+    "d": "16"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent verzadigd bij een koolwaterstof?",
+   "answers": {
+    "a": "Er zit een dubbele binding in",
+    "b": "Er zitten alleen enkele bindingen tussen de koolstofatomen",
+    "c": "De stof is opgelost in water",
+    "d": "De stof bevat geen waterstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het kenmerk van een alkeen?",
+   "answers": {
+    "a": "Een OH-groep",
+    "b": "Een dubbele binding tussen twee koolstofatomen (C=C)",
+    "c": "Een ring van zes koolstofatomen",
+    "d": "Alleen enkele bindingen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je aan dat een stof een alkeen is?",
+   "answers": {
+    "a": "Lakmoes wordt rood",
+    "b": "Kalkwater wordt troebel",
+    "c": "Broomwater wordt ontkleurd",
+    "d": "De stof lost op in water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zijn isomeren?",
+   "answers": {
+    "a": "Stoffen met dezelfde molecuulformule maar een verschillende structuurformule",
+    "b": "Stoffen met dezelfde naam",
+    "c": "Stoffen met hetzelfde kookpunt",
+    "d": "Stoffen met dezelfde structuurformule en verschillende molecuulformule"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is een isomeer van butaan?",
+   "answers": {
+    "a": "Buteen",
+    "b": "2-methylpropaan",
+    "c": "Pentaan",
+    "d": "Propaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel isomeren heeft C<sub>5</sub>H<sub>12</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "5",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet de stof met formule C<sub>2</sub>H<sub>5</sub>OH?",
+   "answers": {
+    "a": "Ethaan",
+    "b": "Methanol",
+    "c": "Ethaanzuur",
+    "d": "Ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een cycloalkaan?",
+   "answers": {
+    "a": "Een koolwaterstof zonder waterstof",
+    "b": "Een koolwaterstof met een dubbele binding",
+    "c": "Een alkaan met een OH-groep",
+    "d": "Een koolwaterstof met een ring van koolstofatomen met enkele bindingen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stoffen ontstaan bij volledige verbranding van een koolwaterstof?",
+   "answers": {
+    "a": "Koolstofdioxide en waterstof",
+    "b": "Roet en water",
+    "c": "Koolstofdioxide en water",
+    "d": "Koolstofmono-oxide en water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stoffen kunnen ontstaan bij onvolledige verbranding van een koolwaterstof?",
+   "answers": {
+    "a": "Waterstof en zuurstof",
+    "b": "Alleen water",
+    "c": "Alleen koolstofdioxide",
+    "d": "Koolstofmono-oxide, roet (koolstof) en water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de reactievergelijking van de volledige verbranding van methaan?",
+   "answers": {
+    "a": "CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "2 CH<sub>4</sub>(g) + O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "c": "CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "d": "CH<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de reactievergelijking van de volledige verbranding van propaan?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>8</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 8 H<sub>2</sub>O(l)",
+    "c": "C<sub>3</sub>H<sub>8</sub>(g) + 3 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)",
+    "d": "C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de reactievergelijking van de volledige verbranding van butaan?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub>(g) + 6 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)",
+    "b": "C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)",
+    "c": "2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)",
+    "d": "2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de reactievergelijking van de volledige verbranding van etheen?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "b": "C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)",
+    "c": "C<sub>2</sub>H<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "d": "C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de reactievergelijking van de volledige verbranding van ethanol?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>5</sub>OH(l) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 6 H<sub>2</sub>O(l)",
+    "c": "C<sub>2</sub>H<sub>5</sub>OH(l) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)",
+    "d": "C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Etheen reageert met broom. Wat is de reactievergelijking?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>6</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)",
+    "b": "C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>3</sub>Br(l) + HBr(g)",
+    "c": "C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)",
+    "d": "C<sub>2</sub>H<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>4</sub>(l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Methaan reageert met broom onder invloed van licht. Wat is de reactievergelijking?",
+   "answers": {
+    "a": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>4</sub>Br<sub>2</sub>(l)",
+    "b": "CH<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + 2 HBr(g)",
+    "c": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)",
+    "d": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet de reactie waarbij etheen en broom samen één stof vormen?",
+   "answers": {
+    "a": "Verbranding",
+    "b": "Neutralisatie",
+    "c": "Additie",
+    "d": "Substitutie"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet de reactie waarbij een H-atoom van een alkaan wordt vervangen door een broomatoom?",
+   "answers": {
+    "a": "Additie",
+    "b": "Neutralisatie",
+    "c": "Substitutie",
+    "d": "Verbranding"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke karakteristieke groep hoort bij een alcohol?",
+   "answers": {
+    "a": "De hydroxylgroep (–OH)",
+    "b": "De aminogroep (–NH<sub>2</sub>)",
+    "c": "De estergroep (–COO–)",
+    "d": "De carboxylgroep (–COOH)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke karakteristieke groep hoort bij een carbonzuur?",
+   "answers": {
+    "a": "De hydroxylgroep (–OH)",
+    "b": "De aminogroep (–NH<sub>2</sub>)",
+    "c": "De estergroep (–COO–)",
+    "d": "De carboxylgroep (–COOH)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van ethaanzuur?",
+   "answers": {
+    "a": "CH<sub>3</sub>COOCH<sub>3</sub>",
+    "b": "CH<sub>3</sub>CHO",
+    "c": "CH<sub>3</sub>CH<sub>2</sub>OH",
+    "d": "CH<sub>3</sub>COOH"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stoffen ontstaan als ethaanzuur reageert met ethanol?",
+   "answers": {
+    "a": "Ethylethanoaat en water",
+    "b": "Propaanzuur en water",
+    "c": "Ethylethanoaat en waterstof",
+    "d": "Ethaan en koolstofdioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarop berust het scheiden van aardolie in fracties (fractionele destillatie)?",
+   "answers": {
+    "a": "Op verschil in smeltpunt",
+    "b": "Op verschil in kookpunt",
+    "c": "Op verschil in oplosbaarheid",
+    "d": "Op verschil in kleur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof heeft het hoogste kookpunt: pentaan of hexaan? (gebruik BINAS tabel 42B)",
+   "answers": {
+    "a": "Hexaan",
+    "b": "Pentaan",
+    "c": "Ze hebben dezelfde kookpunten",
+    "d": "Dat is niet te zeggen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel koolstofatomen heeft een molecuul pentaan?",
+   "answers": {
+    "a": "12",
+    "b": "5",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

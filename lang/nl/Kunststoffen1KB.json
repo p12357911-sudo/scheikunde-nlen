@@ -1,0 +1,109 @@
+{
+ "title": "Kunststoffen - 123 school",
+ "heading": "Kunststoffen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Noem twee soorten polymerisatie reacties",
+   "a": "Condensatiepolymerisatie en additiepolymerisatie"
+  },
+  {
+   "q": "Hoe heet de polymerisatie reactie waar dubbele bindingen bij betrokken zijn?",
+   "a": "Additiepolymerisatie"
+  },
+  {
+   "q": "Hoe heet de polymerisatie reactie waar H<sub>2</sub>O bij vrijkomt?",
+   "a": "Condensatiepolymerisatie"
+  },
+  {
+   "q": "Noem de drie stappen van een additie reactie waarbij een polymeer wordt gevormd",
+   "a": "Initiatie, propagatie, terminatie"
+  },
+  {
+   "q": "Welk molecuul is nodig bij een hydrolyse reactie?",
+   "a": "Water (H<sub>2</sub>O)"
+  },
+  {
+   "q": "In welke reactie spelen radicalen een hoofdrol?",
+   "a": "Additie reactie/een additiepolymerisatie"
+  },
+  {
+   "q": "Noem twee typische bindingen voor condensatiepolymerisaties",
+   "a": "Esterbinding, amidebinding"
+  },
+  {
+   "q": "Levert de reactie van ethaanzuur en ethanol in aanwezigheid van zwavelzuur een polymeer op?",
+   "a": "Nee, want ethaanzuur heeft maar 1 carboxyl groep en ethanol maar 1 alcohol groep, zodra die een esterbinding met elkaar aan gaan stopt de reactie."
+  },
+  {
+   "q": "Levert de reactie van benzeen-1,4-dicarbonzuur (A) en ethaan-1,2-diol (B) in aanwezigheid van zwavelzuur een polymeer op?",
+   "a": "ja, want na de reactie van 1 vd 2 carboxyl groepen van A met 1 vd 2 alcohol groepen van B, heeft de ontstane esterverbinding nog 1 carboxyl groep en 1 alcohol groep over om door te reageren"
+  },
+  {
+   "q": "Waarom wordt zwavelzuur toegevoegd aan een condensatie reactie?",
+   "a": "Er zijn protonen nodig om H<sub>3</sub>O<sup>+</sup> te vormen dat nodig is om met de dubbel gebonden O te reageren en de reactie te starten."
+  },
+  {
+   "q": "Wordt zwavelzuur netto verbruikt tijdens de condensatie reactie?",
+   "a": "Nee, het proton dat eerst bindt wordt in de laatste stap van de vorming van de esterbinding weer afgestaan"
+  },
+  {
+   "q": "Wat is een copolymeer?",
+   "a": "Een polymeer dat uit verschillende monomeren is ontstaan"
+  },
+  {
+   "q": "Uit welke monomeren kun je polyesters vormen?",
+   "a": "Een dizuur en een diol, of uit hydroxylzuren"
+  },
+  {
+   "q": "Uit welke monomeren kun je polyamide vormen?",
+   "a": "Een dizuur en een diamine, of uit aminozuren"
+  },
+  {
+   "q": "Welke typische groepen heeft een aminozuur?",
+   "a": "-NH<sub>2</sub> en -COOH"
+  },
+  {
+   "q": "Welke typische groepen heeft een hydroxylzuur?",
+   "a": "-OH en COOH"
+  },
+  {
+   "q": "Benzoylperoxide wordt in een additiepolymerisatie gebruikt als?",
+   "a": "Initiatie molecuul. Door het splitsen van de peroxide (-O-O-) binding (bijv. door verhitten) ontstaan radicalen die polymerisatie reactie starten"
+  },
+  {
+   "q": "Polymerisatie reacties van benzoylperoxide en etheen vormen een poly....",
+   "a": "Polyetheen"
+  },
+  {
+   "q": "Welke binding is van belang bij de polymerisatie van etheen?",
+   "a": "De dubbele binding"
+  },
+  {
+   "q": "Welke monomeereenheid ontstaat bij polymerisatie van etheen?",
+   "a": "-CH<sub>2</sub>-CH<sub>2</sub>-"
+  },
+  {
+   "q": "Bij de productie van polyetheen wordt benzoylperoxide ingebouwd. Vind je deze terug in de afkorting van het polymeer en waarom?",
+   "a": "Nee, omdat deze aan de uiteinden van het polymeer zit en geen invloed heeft op eigenschappen van het polymeer"
+  },
+  {
+   "q": "Wat zijn thermoharders?",
+   "a": "Polymeren die hard blijven bij verwarmen"
+  },
+  {
+   "q": "Wat zijn thermoplasten?",
+   "a": "Polymeren die zachte worden bij verwarmen"
+  },
+  {
+   "q": "Noem de typische verschillen tussen thermoharders en thermoplasten",
+   "a": "Thermoplasten zijn ketens die op elkaar liggen en geen netwerkvormen. Bij thermoharders zijn de ketens met elkaar verbonden, ze zijn met elkaar gecrosslinked"
+  },
+  {
+   "q": "Waar is de flexibiliteit van een thermoplast van afhankelijk?",
+   "a": "Evt zijketens en de grootte ervan; de polymerisatiegraad; aanwezigheid van weekmakers"
+  }
+ ]
+}

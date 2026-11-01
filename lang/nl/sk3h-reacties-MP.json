@@ -1,0 +1,347 @@
+{
+ "title": "Chemische reacties - 123 school",
+ "heading": "Chemische reacties",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Welke verandering is een chemische reactie?",
+   "answers": {
+    "a": "Suiker oplossen in water",
+    "b": "Water verdampen",
+    "c": "IJs smelten",
+    "d": "Hout verbranden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er bij een chemische reactie?",
+   "answers": {
+    "a": "Er verandert alleen de fase van een stof",
+    "b": "Er ontstaat een mengsel van dezelfde stoffen",
+    "c": "Er ontstaan nieuwe stoffen met andere eigenschappen",
+    "d": "Er verandert alleen de vorm van een stof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zijn de beginstoffen van een reactie?",
+   "answers": {
+    "a": "De stoffen die reageren",
+    "b": "De stoffen die ontstaan",
+    "c": "De stoffen waarin je ze oplost",
+    "d": "De stoffen die niet meedoen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heten de stoffen die bij een reactie ontstaan?",
+   "answers": {
+    "a": "Mengsels",
+    "b": "Reactieproducten",
+    "c": "Beginstoffen",
+    "d": "Oplosmiddelen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molecuulformule van water?",
+   "answers": {
+    "a": "HO",
+    "b": "HO<sub>2</sub>",
+    "c": "H<sub>2</sub>O<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In CO<sub>2</sub> staat een kleine 2. Wat betekent die?",
+   "answers": {
+    "a": "Twee koolstofatomen",
+    "b": "Twee zuurstofatomen",
+    "c": "Twee moleculen",
+    "d": "Een lading van 2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in één molecuul CH<sub>4</sub>?",
+   "answers": {
+    "a": "6",
+    "b": "4",
+    "c": "5",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel verschillende soorten atomen zitten er in C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "3",
+    "b": "9",
+    "c": "6",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molecuulformule van methaan?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub>",
+    "b": "CH<sub>4</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>2</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molecuulformule van zuurstofgas?",
+   "answers": {
+    "a": "O",
+    "b": "CO<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "O<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van waterstofgas?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "H",
+    "d": "2H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doe je bij stap 1 van het stappenplan voor een reactievergelijking?",
+   "answers": {
+    "a": "De atoombalans kloppend maken",
+    "b": "Het reactieschema in molecuulformules opschrijven",
+    "c": "De reactievergelijking vereenvoudigen",
+    "d": "Het reactieschema in woorden opschrijven"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat doe je bij stap 3 van het stappenplan voor een reactievergelijking?",
+   "answers": {
+    "a": "De reactievergelijking vereenvoudigen",
+    "b": "De atoombalans kloppend maken",
+    "c": "Het reactieschema in molecuulformules opschrijven",
+    "d": "Het reactieschema in woorden opschrijven"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat doe je bij stap 4 van het stappenplan voor een reactievergelijking?",
+   "answers": {
+    "a": "De atoombalans kloppend maken",
+    "b": "Het reactieschema in molecuulformules opschrijven",
+    "c": "Het reactieschema in woorden opschrijven",
+    "d": "De reactievergelijking vereenvoudigen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat mag je veranderen bij het kloppend maken?",
+   "answers": {
+    "a": "De atoomsoorten",
+    "b": "De formules van de stoffen",
+    "c": "De getallen vóór de formules",
+    "d": "De kleine getallen in de formules"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waterstof + zuurstof → water. Wat is het reactieschema in molecuulformules (stap 2)?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "H + O → H<sub>2</sub>O",
+    "c": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke reactievergelijking van de vorming van water klopt?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke reactievergelijking van de verbranding van methaan klopt?",
+   "answers": {
+    "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "c": "CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "d": "2 CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke reactievergelijking van magnesium met zuurstof klopt?",
+   "answers": {
+    "a": "2 Mg + 2 O<sub>2</sub> → 2 MgO",
+    "b": "Mg + O<sub>2</sub> → MgO<sub>2</sub>",
+    "c": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "d": "Mg + O<sub>2</sub> → MgO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "De vergelijking 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O kun je vereenvoudigen tot…",
+   "answers": {
+    "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+    "d": "8 H<sub>2</sub> + 4 O<sub>2</sub> → 8 H<sub>2</sub>O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is ontleden?",
+   "answers": {
+    "a": "Een stof laten oplossen in water",
+    "b": "Een mengsel scheiden zonder nieuwe stoffen te maken",
+    "c": "Twee stoffen samenvoegen tot één nieuwe stof",
+    "d": "Een stof splitsen in twee of meer andere stoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een synthese?",
+   "answers": {
+    "a": "Een stof splitsen in andere stoffen",
+    "b": "Een mengsel scheiden",
+    "c": "Uit twee of meer stoffen één nieuwe stof maken",
+    "d": "Een vloeistof verdampen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Water wordt met elektrische stroom omgezet in waterstof en zuurstof. Wat is dit?",
+   "answers": {
+    "a": "Ontleden",
+    "b": "Synthese",
+    "c": "Scheiden",
+    "d": "Oplossen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof heb je nodig voor een verbranding?",
+   "answers": {
+    "a": "Stikstof",
+    "b": "Zuurstof",
+    "c": "Waterstof",
+    "d": "Koolstofdioxide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij de volledige verbranding van methaan ontstaat water en nog een stof. Welke?",
+   "answers": {
+    "a": "Koolstofmono-oxide",
+    "b": "Waterstof",
+    "c": "Koolstofdioxide",
+    "d": "Roet"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een brandstof?",
+   "answers": {
+    "a": "Wat er overblijft na een verbranding",
+    "b": "Een stof die je verbrandt om energie te krijgen",
+    "c": "Een stof die een brand blust",
+    "d": "Het gas dat je nodig hebt om te branden"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een neerslag?",
+   "answers": {
+    "a": "Een vaste stof die ontstaat in een oplossing",
+    "b": "Een gas dat uit een oplossing ontsnapt",
+    "c": "Een vloeistof die op water drijft",
+    "d": "Een stof die helemaal oplost"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe toon je zuurstof aan?",
+   "answers": {
+    "a": "Kalkwater wordt troebel",
+    "b": "Een brandende houtspaander geeft een pieptoon of knal",
+    "c": "Een brandende houtspaander dooft",
+    "d": "Een gloeiende houtspaander gaat feller branden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe toon je koolstofdioxide aan?",
+   "answers": {
+    "a": "Met een brandende houtspaander: je hoort een knal",
+    "b": "Met kalkwater: het wordt troebel",
+    "c": "Met watervrij kopersulfaat: het wordt blauw",
+    "d": "Met een gloeiende houtspaander"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je waterstofgas aan?",
+   "answers": {
+    "a": "Met een gloeiende houtspaander die feller gaat branden",
+    "b": "Met kalkwater dat blauw wordt",
+    "c": "Met een brandende houtspaander: je hoort een pieptoon of knal",
+    "d": "Met kalkwater dat troebel wordt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke reactievergelijking van natrium met chloor klopt?",
+   "answers": {
+    "a": "2 Na + Cl<sub>2</sub> → 2 NaCl",
+    "b": "Na + Cl<sub>2</sub> → 2 NaCl",
+    "c": "Na + Cl<sub>2</sub> → NaCl",
+    "d": "2 Na + 2 Cl<sub>2</sub> → 2 NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk getal moet vóór HCl staan? Zn + … HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "1",
+    "b": "4",
+    "c": "3",
+    "d": "2"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke reactievergelijking is een synthese?",
+   "answers": {
+    "a": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "b": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub>",
+    "d": "CaCO<sub>3</sub> → CaO + CO<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke reactievergelijking is een ontleding?",
+   "answers": {
+    "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "b": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "c": "2 Na + Cl<sub>2</sub> → 2 NaCl",
+    "d": "CaCO<sub>3</sub> → CaO + CO<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

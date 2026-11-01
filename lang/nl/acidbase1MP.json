@@ -1,0 +1,182 @@
+{
+ "title": "Zuur-base vragen - 123 school",
+ "heading": "Zuur-base vragen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Een oplossing is zuur. Wat weet je dan over de pH?",
+   "answers": {
+    "a": "De pH is kleiner dan 7",
+    "b": "De pH is precies 14",
+    "c": "De pH is groter dan 7",
+    "d": "De pH is precies 7"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat geeft de pH aan?",
+   "answers": {
+    "a": "De temperatuur van een oplossing",
+    "b": "De massa van een oplossing",
+    "c": "De zuurtegraad van een oplossing",
+    "d": "De hoeveelheid water in een oplossing"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is ethaanzuur?",
+   "answers": {
+    "a": "Alcohol",
+    "b": "Ammoniak",
+    "c": "Zoutzuur",
+    "d": "Azijnzuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een zuur?",
+   "answers": {
+    "a": "Een deeltje dat H<sup>+</sup> kan opnemen",
+    "b": "Een deeltje dat H<sup>+</sup> kan afstaan",
+    "c": "Een oplossing met veel OH<sup>-</sup> deeltjes",
+    "d": "Een deeltje dat H<sup>+</sup> kan neutraliseren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is waar over een zure oplossing?",
+   "answers": {
+    "a": "Ze kleurt blauw met universeel pH-papier",
+    "b": "Kalk lost er slecht in op",
+    "c": "Er zitten geen ionen in",
+    "d": "Er zitten ionen in"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor gebruik je universeel pH-papier?",
+   "answers": {
+    "a": "Om de zuurtegraad te meten",
+    "b": "Om ionen aan te tonen",
+    "c": "Om de hoeveelheid water te meten",
+    "d": "Om de hoeveelheid keukenzout in een oplossing te meten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is zoutzuur?",
+   "answers": {
+    "a": "Een oplossing van keukenzout en azijnzuur",
+    "b": "Een oplossing van HCl-gas in water",
+    "c": "Een zwak zuur",
+    "d": "Het gas waterstofchloride (HCl)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van ammoniak?",
+   "answers": {
+    "a": "NH<sub>4</sub><sup>+</sup> (aq)",
+    "b": "HNO<sub>3</sub> (l)",
+    "c": "NH<sub>3</sub> (g)",
+    "d": "NH<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat geldt voor een neutrale oplossing?",
+   "answers": {
+    "a": "De pH is 7",
+    "b": "Je kunt er geen base in oplossen",
+    "c": "Er zitten geen H<sup>+</sup> en OH<sup>-</sup> deeltjes in",
+    "d": "De pH is 0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Binas tabel 52A: welke kleur heeft fenolrood bij pH = 3?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Blauw",
+    "d": "Geel"
+   },
+   "correctAnswer": "d",
+   "fixed": true
+  },
+  {
+   "question": "Binas tabel 52A: welke kleur heeft fenolrood bij pH = 9?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Blauw",
+    "d": "Geel"
+   },
+   "correctAnswer": "a",
+   "fixed": true
+  },
+  {
+   "question": "Binas tabel 52A: welke kleur heeft thymolblauw bij pH = 1?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Blauw",
+    "d": "Geel"
+   },
+   "correctAnswer": "a",
+   "fixed": true
+  },
+  {
+   "question": "Binas tabel 52A: welke kleur heeft thymolblauw bij pH = 5?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Blauw",
+    "d": "Geel"
+   },
+   "correctAnswer": "d",
+   "fixed": true
+  },
+  {
+   "question": "Binas tabel 52A: welke kleur heeft thymolblauw bij pH = 11?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Blauw",
+    "d": "Geel"
+   },
+   "correctAnswer": "c",
+   "fixed": true
+  },
+  {
+   "question": "Wat is de tegenhanger van een zuur?",
+   "answers": {
+    "a": "Een reductor",
+    "b": "Acid",
+    "c": "Een oxidator",
+    "d": "Een base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een zwak zuur?",
+   "answers": {
+    "a": "Een zuur dat al zijn H<sup>+</sup> afstaat",
+    "b": "Een zuur zoals HCl",
+    "c": "Een zuur dat maar een deel van zijn H<sup>+</sup> afstaat",
+    "d": "Een verdunde oplossing van een sterk zuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is H<sub>2</sub>SO<sub>4</sub> (zwavelzuur)?",
+   "answers": {
+    "a": "Een sterke base",
+    "b": "Een tweewaardig zuur",
+    "c": "Een vierwaardig zuur",
+    "d": "Een tweewaardige base"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

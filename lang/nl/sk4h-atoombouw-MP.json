@@ -1,0 +1,347 @@
+{
+ "title": "Atoombouw en periodiek systeem - 123 school",
+ "heading": "Atoombouw en periodiek systeem",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Welk deeltje heeft een negatieve lading?",
+   "answers": {
+    "a": "Atoomkern",
+    "b": "Proton",
+    "c": "Neutron",
+    "d": "Elektron"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk deeltje heeft geen lading?",
+   "answers": {
+    "a": "Neutron",
+    "b": "Ion",
+    "c": "Elektron",
+    "d": "Proton"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar zit bijna alle massa van een atoom?",
+   "answers": {
+    "a": "In de buitenste schil",
+    "b": "In de kern",
+    "c": "Gelijk verdeeld over het atoom",
+    "d": "In de elektronenwolk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het atoomnummer?",
+   "answers": {
+    "a": "Het aantal schillen",
+    "b": "Het aantal protonen en neutronen",
+    "c": "Het aantal protonen",
+    "d": "Het aantal neutronen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het massagetal?",
+   "answers": {
+    "a": "Het aantal protonen plus het aantal neutronen",
+    "b": "Het aantal schillen",
+    "c": "Het aantal protonen plus het aantal elektronen",
+    "d": "Het aantal neutronen min het aantal protonen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een chlooratoom heeft massagetal 35 en atoomnummer 17. Hoeveel neutronen heeft het?",
+   "answers": {
+    "a": "52",
+    "b": "35",
+    "c": "18",
+    "d": "17"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een neutraal natriumatoom heeft atoomnummer 11. Hoeveel elektronen heeft het?",
+   "answers": {
+    "a": "23",
+    "b": "11",
+    "c": "12",
+    "d": "10"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de elektronenverdeling van zuurstof (atoomnummer 8)?",
+   "answers": {
+    "a": "K = 6, L = 2",
+    "b": "K = 2, L = 8",
+    "c": "K = 8, L = 2",
+    "d": "K = 2, L = 6"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel valentie-elektronen heeft koolstof (atoomnummer 6)?",
+   "answers": {
+    "a": "4",
+    "b": "6",
+    "c": "12",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel elektronen kan de L-schil maximaal bevatten?",
+   "answers": {
+    "a": "18",
+    "b": "2",
+    "c": "32",
+    "d": "8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke groep staat een element met 7 valentie-elektronen?",
+   "answers": {
+    "a": "Groep 1",
+    "b": "Groep 2",
+    "c": "Groep 17",
+    "d": "Groep 18"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke groep staan de edelgassen?",
+   "answers": {
+    "a": "Groep 1",
+    "b": "Groep 18",
+    "c": "Groep 17",
+    "d": "Groep 2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk element is een halogeen?",
+   "answers": {
+    "a": "Neon",
+    "b": "Natrium",
+    "c": "IJzer",
+    "d": "Chloor"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk element is een alkalimetaal?",
+   "answers": {
+    "a": "Argon",
+    "b": "Kalium",
+    "c": "Chloor",
+    "d": "Calcium"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk element is een edelgas?",
+   "answers": {
+    "a": "Argon",
+    "b": "Kalium",
+    "c": "Chloor",
+    "d": "Stikstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een edelgasconfiguratie?",
+   "answers": {
+    "a": "Het atoom heeft evenveel protonen als neutronen",
+    "b": "Het atoom heeft geen elektronen",
+    "c": "De buitenste schil is helemaal gevuld",
+    "d": "De buitenste schil is leeg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een natriumatoom om een edelgasconfiguratie te krijgen?",
+   "answers": {
+    "a": "Het staat 1 elektron af en wordt Na<sup>+</sup>",
+    "b": "Het neemt 7 elektronen op",
+    "c": "Het neemt 1 elektron op en wordt Na<sup>-</sup>",
+    "d": "Het staat 7 elektronen af"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doet een chlooratoom om een edelgasconfiguratie te krijgen?",
+   "answers": {
+    "a": "Het staat 1 elektron af en wordt Cl<sup>+</sup>",
+    "b": "Het staat 7 elektronen af",
+    "c": "Het neemt 1 elektron op en wordt Cl<sup>-</sup>",
+    "d": "Het neemt 7 elektronen op"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel elektronen heeft een Mg<sup>2+</sup>-ion (atoomnummer van magnesium is 12)?",
+   "answers": {
+    "a": "14",
+    "b": "10",
+    "c": "2",
+    "d": "12"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel protonen heeft een Cl<sup>-</sup>-ion (atoomnummer van chloor is 17)?",
+   "answers": {
+    "a": "35",
+    "b": "16",
+    "c": "18",
+    "d": "17"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Chloor-35 en chloor-37 zijn…",
+   "answers": {
+    "a": "Isotopen",
+    "b": "Moleculen",
+    "c": "Ionen",
+    "d": "Edelgassen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is hetzelfde bij isotopen van één element?",
+   "answers": {
+    "a": "De massa",
+    "b": "Het massagetal",
+    "c": "Het aantal protonen",
+    "d": "Het aantal neutronen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom is de atoommassa van chloor 35,45 u en geen heel getal?",
+   "answers": {
+    "a": "Het is het aantal neutronen min protonen",
+    "b": "Het is het gemiddelde van de massa's van de isotopen",
+    "c": "Het is het aantal protonen en elektronen samen",
+    "d": "Het is altijd het massagetal van de zwaarste isotoop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de eenheid van atoommassa?",
+   "answers": {
+    "a": "g",
+    "b": "mol",
+    "c": "kg",
+    "d": "u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat hebben elementen in dezelfde groep gelijk?",
+   "answers": {
+    "a": "Het atoomnummer",
+    "b": "Het aantal valentie-elektronen",
+    "c": "Het aantal protonen",
+    "d": "Het massagetal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat hebben elementen in dezelfde periode gelijk?",
+   "answers": {
+    "a": "Het aantal protonen",
+    "b": "Het aantal neutronen",
+    "c": "Het aantal valentie-elektronen",
+    "d": "Het aantal schillen met elektronen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel protonen, neutronen en elektronen heeft een atoom Na-23? (atoomnummer 11)",
+   "answers": {
+    "a": "11 protonen, 12 neutronen, 11 elektronen",
+    "b": "11 protonen, 12 neutronen, 10 elektronen",
+    "c": "12 protonen, 11 neutronen, 12 elektronen",
+    "d": "11 protonen, 23 neutronen, 11 elektronen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel protonen, neutronen en elektronen heeft het ion Mg<sup>2+</sup> met massagetal 24? (atoomnummer 12)",
+   "answers": {
+    "a": "12 protonen, 12 neutronen, 10 elektronen",
+    "b": "12 protonen, 12 neutronen, 12 elektronen",
+    "c": "10 protonen, 14 neutronen, 10 elektronen",
+    "d": "12 protonen, 12 neutronen, 14 elektronen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de elektronenverdeling van aluminium? (atoomnummer 13)",
+   "answers": {
+    "a": "K = 2, L = 11",
+    "b": "K = 2, L = 8, M = 3",
+    "c": "K = 3, L = 8, M = 2",
+    "d": "K = 2, L = 8, M = 8"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion vormt een calciumatoom? (atoomnummer 20)",
+   "answers": {
+    "a": "Ca<sup>+</sup>",
+    "b": "Ca<sup>2-</sup>",
+    "c": "Ca<sup>20+</sup>",
+    "d": "Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel elektronen heeft het ion S<sup>2-</sup>? (atoomnummer 16)",
+   "answers": {
+    "a": "2",
+    "b": "14",
+    "c": "16",
+    "d": "18"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een atoom heeft de elektronenverdeling K = 2, L = 8, M = 5. In welke groep en periode staat het element?",
+   "answers": {
+    "a": "Groep 15, periode 5",
+    "b": "Groep 13, periode 3",
+    "c": "Groep 5, periode 3",
+    "d": "Groep 15, periode 3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Boor komt voor als B-10 (19,9%) en B-11 (80,1%). Bereken de gemiddelde atoommassa, met de massagetallen als massa.",
+   "answers": {
+    "a": "10,8 u",
+    "b": "10,2 u",
+    "c": "10,5 u",
+    "d": "11,0 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de atoommassa van koolstof? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "6,00 u",
+    "b": "12,01 u",
+    "c": "16,00 u",
+    "d": "14,01 u"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

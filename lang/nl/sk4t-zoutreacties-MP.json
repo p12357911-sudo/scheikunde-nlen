@@ -1,0 +1,349 @@
+{
+ "title": "Zoutreacties - 123 school",
+ "heading": "Zoutreacties",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een neerslagreactie?",
+   "answers": {
+    "a": "Twee oplossingen reageren met elkaar en er ontstaat een vaste stof",
+    "b": "Een metaal wordt verhit tot het smelt",
+    "c": "Een vaste stof lost op in water",
+    "d": "Een vloeistof verdampt tot een gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een neerslag?",
+   "answers": {
+    "a": "Een gas dat uit een oplossing ontsnapt",
+    "b": "Een vloeistof die op het water drijft",
+    "c": "Een vaste stof die ontstaat in een oplossing en naar beneden zakt",
+    "d": "Een stof die volledig oplost"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe kun je voorspellen of er een neerslag ontstaat als je twee zoutoplossingen mengt?",
+   "answers": {
+    "a": "Je kijkt of de formules even lang zijn",
+    "b": "Je kijkt of de oplossingen dezelfde kleur hebben",
+    "c": "Je zoekt in Binas tabel 35 of een combinatie van de ionen slecht oplosbaar is",
+    "d": "Je kijkt of de oplossingen evenveel wegen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is AgCl goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "Altijd gasvormig",
+    "b": "Slecht oplosbaar",
+    "c": "Het is geen zout",
+    "d": "Goed oplosbaar"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is BaSO<sub>4</sub> goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "Het is een gas",
+    "b": "Het lost alleen op in alcohol",
+    "c": "Slecht oplosbaar",
+    "d": "Goed oplosbaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is NaCl goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "Het lost niet op",
+    "b": "Het is een vloeistof",
+    "c": "Slecht oplosbaar",
+    "d": "Goed oplosbaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke ionen zorgen er altijd voor dat een zout goed oplost?",
+   "answers": {
+    "a": "Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>, PO<sub>4</sub><sup>3−</sup> en OH<sup>−</sup>",
+    "c": "Ag<sup>+</sup>, Pb<sup>2+</sup> en Ba<sup>2+</sup>",
+    "d": "Cl<sup>−</sup>, Br<sup>−</sup> en I<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat zijn tribune-ionen?",
+   "answers": {
+    "a": "Ionen met een grote massa",
+    "b": "Ionen die een neerslag vormen",
+    "c": "Ionen die niet meedoen aan de reactie en opgelost blijven",
+    "d": "Ionen die in de lucht verdwijnen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je mengt oplossingen van loodnitraat (Pb(NO<sub>3</sub>)<sub>2</sub>) en kaliumjodide (KI). Er ontstaat een neerslag van PbI<sub>2</sub>. Welke ionen zijn de tribune-ionen?",
+   "answers": {
+    "a": "K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "b": "Pb<sup>2+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "c": "K<sup>+</sup> en I<sup>−</sup>",
+    "d": "Pb<sup>2+</sup> en I<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op van het ontstaan van het neerslag loodjodide uit ionen.",
+   "answers": {
+    "a": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → Pb (s) + I<sub>2</sub> (g)",
+    "b": "Pb<sup>2+</sup> (aq) + I<sup>−</sup> (aq) → PbI (s)",
+    "c": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (aq)",
+    "d": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (s)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je mengt zilvernitraat en natriumchloride. Wat is de reactievergelijking van het neerslag dat ontstaat?",
+   "answers": {
+    "a": "Ag<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq) → AgCl<sub>2</sub> (s)",
+    "b": "Na<sup>+</sup> (aq) + NO<sub>3</sub><sup>−</sup> (aq) → NaNO<sub>3</sub> (s)",
+    "c": "Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (s)",
+    "d": "Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je mengt bariumchloride (BaCl<sub>2</sub>) en natriumsulfaat (Na<sub>2</sub>SO<sub>4</sub>). Welk neerslag ontstaat?",
+   "answers": {
+    "a": "Bariumchloride",
+    "b": "Natriumchloride",
+    "c": "Natriumsulfide",
+    "d": "Bariumsulfaat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Schrijf de volledige reactievergelijking op voor het mengen van BaCl<sub>2</sub> (aq) en Na<sub>2</sub>SO<sub>4</sub> (aq).",
+   "answers": {
+    "a": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + NaCl (aq)",
+    "b": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (aq) + 2 NaCl (s)",
+    "c": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + 2 NaCl (aq)",
+    "d": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaNa (s) + Cl<sub>2</sub>SO<sub>4</sub> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op van het ontstaan van het neerslag calciumcarbonaat uit ionen.",
+   "answers": {
+    "a": "Ca<sup>2+</sup> (aq) + 2 CO<sub>3</sub><sup>2−</sup> (aq) → Ca(CO<sub>3</sub>)<sub>2</sub> (s)",
+    "b": "Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (s)",
+    "c": "Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (aq)",
+    "d": "Ca<sup>+</sup> (aq) + CO<sub>3</sub><sup>−</sup> (aq) → CaCO<sub>3</sub> (s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke ionen zorgen ervoor dat water hard is?",
+   "answers": {
+    "a": "Ca<sup>2+</sup> en Mg<sup>2+</sup> ionen",
+    "b": "H<sup>+</sup> en OH<sup>−</sup> ionen",
+    "c": "Na<sup>+</sup> en Cl<sup>−</sup> ionen",
+    "d": "K<sup>+</sup> en NO<sub>3</sub><sup>−</sup> ionen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waaruit bestaat kalkaanslag in een waterkoker?",
+   "answers": {
+    "a": "CaCO<sub>3</sub>",
+    "b": "NaCl",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "CaCl<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je voegt soda (Na<sub>2</sub>CO<sub>3</sub>) toe aan hard water. Wat gebeurt er met de Ca<sup>2+</sup> ionen?",
+   "answers": {
+    "a": "Ze worden omgezet in Na<sup>+</sup> ionen en gas",
+    "b": "Ze vormen met CO<sub>3</sub><sup>2−</sup> een neerslag van CaCO<sub>3</sub> en zijn uit het water",
+    "c": "Ze blijven onveranderd opgelost",
+    "d": "Ze verdampen met het water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe kun je Pb<sup>2+</sup> ionen uit afvalwater halen?",
+   "answers": {
+    "a": "Het afvalwater verdunnen met veel water",
+    "b": "Het water laten koken tot het zout verdampt",
+    "c": "Het afvalwater in de rivier lozen",
+    "d": "Een oplossing toevoegen waarmee een slecht oplosbaar loodzout ontstaat en dan filtreren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke reactievergelijking beschrijft het verwijderen van Fe<sup>3+</sup> ionen met kalkwater (OH<sup>−</sup> ionen)?",
+   "answers": {
+    "a": "Fe<sup>3+</sup> (aq) + OH<sup>−</sup> (aq) → FeOH (s)",
+    "b": "Fe<sup>3+</sup> (aq) + 3 H<sup>+</sup> (aq) → FeH<sub>3</sub> (s)",
+    "c": "Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (s)",
+    "d": "Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom kun je nitraat-ionen (NO<sub>3</sub><sup>−</sup>) niet als neerslag uit water halen?",
+   "answers": {
+    "a": "Nitraat lost nooit op",
+    "b": "Nitraat is een metaal",
+    "c": "Nitraat is een gas",
+    "d": "Nitraten zijn goed oplosbaar, dus er ontstaat nooit een neerslag"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe toon je chloride-ionen aan in een oplossing?",
+   "answers": {
+    "a": "Je laat de oplossing koken; er ontstaat zout",
+    "b": "Je voegt natronloog toe; de oplossing wordt blauw",
+    "c": "Je voegt zoutzuur toe; er ontstaat een gas",
+    "d": "Je voegt zilvernitraat toe; er ontstaat een wit neerslag van AgCl"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe toon je sulfaat-ionen aan in een oplossing?",
+   "answers": {
+    "a": "Je meet de pH; die is 7",
+    "b": "Je voegt zilvernitraat toe; er ontstaat een geel gas",
+    "c": "Je voegt kalkwater toe; het wordt troebel",
+    "d": "Je voegt bariumchloride toe; er ontstaat een wit neerslag van BaSO<sub>4</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe toon je koolstofdioxide aan, en welke reactie vindt dan plaats?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub> (aq) + 2 CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)",
+    "b": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → Ca(CO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l)",
+    "c": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)",
+    "d": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (aq) + H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke twee oplossingen meng je om het slecht oplosbare zout zilverchloride te maken?",
+   "answers": {
+    "a": "Zilvernitraat en kaliumnitraat",
+    "b": "Natriumchloride en kaliumchloride",
+    "c": "Zilver en chloor",
+    "d": "Zilvernitraat en natriumchloride"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe scheid je het neerslag van de oplossing?",
+   "answers": {
+    "a": "Door te filtreren; het neerslag blijft achter als residu",
+    "b": "Door af te gieten zonder filter",
+    "c": "Door te destilleren; het neerslag is het destillaat",
+    "d": "Door te indampen; het neerslag verdampt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe krijg je het opgeloste zout (met de tribune-ionen) uit het filtraat terug?",
+   "answers": {
+    "a": "Dat kan niet",
+    "b": "Door het filtraat in te dampen",
+    "c": "Door het filtraat te koelen tot gas",
+    "d": "Door het filtraat nog een keer te filtreren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je mengt oplossingen van natriumsulfaat en kaliumnitraat. Ontstaat er een neerslag?",
+   "answers": {
+    "a": "Ja, natriumkalium",
+    "b": "Ja, kaliumsulfaat",
+    "c": "Ja, natriumnitraat",
+    "d": "Nee, alle mogelijke zouten lossen goed op"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Schrijf de volledige reactievergelijking op voor het mengen van Pb(NO<sub>3</sub>)<sub>2</sub> (aq) en KI (aq).",
+   "answers": {
+    "a": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (s) + 2 KNO<sub>3</sub> (aq)",
+    "b": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbK<sub>2</sub> (s) + 2 NO<sub>3</sub>I (aq)",
+    "c": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (aq) + 2 KNO<sub>3</sub> (s)",
+    "d": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + KI (aq) → PbI (s) + KNO<sub>3</sub> (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en PO<sub>4</sub><sup>3−</sup> ionen?",
+   "answers": {
+    "a": "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+    "b": "CaPO<sub>4</sub>",
+    "c": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+    "d": "Ca<sub>3</sub>PO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op voor het oplossen van calciumchloride in water.",
+   "answers": {
+    "a": "CaCl<sub>2</sub> (s) → Ca<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq)",
+    "b": "CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)",
+    "c": "CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + Cl<sub>2</sub><sup>−</sup> (aq)",
+    "d": "CaCl<sub>2</sub> (s) → Ca (aq) + Cl<sub>2</sub> (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op voor het oplossen van aluminiumsulfaat (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) in water.",
+   "answers": {
+    "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2−</sup> (aq)",
+    "b": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 3 Al<sup>2+</sup> (aq) + 2 SO<sub>4</sub><sup>3−</sup> (aq)",
+    "c": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2+</sup> (aq)",
+    "d": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → Al<sup>3+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf de reactievergelijking op voor het oplossen van natriumcarbonaat in water.",
+   "answers": {
+    "a": "Na<sub>2</sub>CO<sub>3</sub> (s) → Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)",
+    "b": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + C<sup>2+</sup> (aq) + 3 O<sup>2−</sup> (aq)",
+    "c": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)",
+    "d": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>+</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel ionen ontstaan er als één formule-eenheid CaCl<sub>2</sub> oplost?",
+   "answers": {
+    "a": "2 ionen: 1 Ca<sup>2+</sup> en 1 Cl<sup>−</sup>",
+    "b": "4 ionen: 2 Ca<sup>2+</sup> en 2 Cl<sup>−</sup>",
+    "c": "3 ionen: 1 Ca<sup>2+</sup> en 2 Cl<sup>−</sup>",
+    "d": "1 ion: CaCl<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe zie je in een reactievergelijking dat er een neerslag ontstaat?",
+   "answers": {
+    "a": "Achter de formule van de stof staat (s), bijvoorbeeld AgCl (s)",
+    "b": "Achter de formule van de stof staat (g)",
+    "c": "Achter de formule van de stof staat (aq)",
+    "d": "Er staat een pijl omhoog"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

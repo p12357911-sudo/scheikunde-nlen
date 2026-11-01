@@ -1,0 +1,1039 @@
+{
+ "title": "Begrippen scheikunde - 123 school",
+ "heading": "Begrippen scheikunde",
+ "intro": [
+  "Deze begrippen leer je uit je hoofd. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de naam van het element met het symbool Na?",
+   "answers": {
+    "a": "stikstof",
+    "b": "zwavel",
+    "c": "natrium",
+    "d": "magnesium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van natrium?",
+   "answers": {
+    "a": "S",
+    "b": "Cl",
+    "c": "Fe",
+    "d": "Na"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Cl?",
+   "answers": {
+    "a": "natrium",
+    "b": "zuurstof",
+    "c": "koolstof",
+    "d": "chloor"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van chloor?",
+   "answers": {
+    "a": "Cl",
+    "b": "Cu",
+    "c": "N",
+    "d": "H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Mg?",
+   "answers": {
+    "a": "chloor",
+    "b": "natrium",
+    "c": "ijzer",
+    "d": "magnesium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van magnesium?",
+   "answers": {
+    "a": "O",
+    "b": "Mg",
+    "c": "C",
+    "d": "N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Fe?",
+   "answers": {
+    "a": "natrium",
+    "b": "stikstof",
+    "c": "chloor",
+    "d": "ijzer"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van ijzer?",
+   "answers": {
+    "a": "Fe",
+    "b": "S",
+    "c": "O",
+    "d": "H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Cu?",
+   "answers": {
+    "a": "zuurstof",
+    "b": "ijzer",
+    "c": "koper",
+    "d": "natrium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van koper?",
+   "answers": {
+    "a": "Mg",
+    "b": "O",
+    "c": "Cu",
+    "d": "H"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool O?",
+   "answers": {
+    "a": "chloor",
+    "b": "waterstof",
+    "c": "zuurstof",
+    "d": "stikstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van zuurstof?",
+   "answers": {
+    "a": "H",
+    "b": "Cl",
+    "c": "Fe",
+    "d": "O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool N?",
+   "answers": {
+    "a": "chloor",
+    "b": "magnesium",
+    "c": "ijzer",
+    "d": "stikstof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van stikstof?",
+   "answers": {
+    "a": "Fe",
+    "b": "C",
+    "c": "S",
+    "d": "N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool S?",
+   "answers": {
+    "a": "zwavel",
+    "b": "waterstof",
+    "c": "natrium",
+    "d": "chloor"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van zwavel?",
+   "answers": {
+    "a": "S",
+    "b": "N",
+    "c": "C",
+    "d": "Na"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool C?",
+   "answers": {
+    "a": "koolstof",
+    "b": "zuurstof",
+    "c": "chloor",
+    "d": "stikstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van koolstof?",
+   "answers": {
+    "a": "C",
+    "b": "Mg",
+    "c": "O",
+    "d": "Fe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool H?",
+   "answers": {
+    "a": "ijzer",
+    "b": "waterstof",
+    "c": "natrium",
+    "d": "chloor"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van waterstof?",
+   "answers": {
+    "a": "Fe",
+    "b": "Cl",
+    "c": "H",
+    "d": "N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof hoort bij de formule O<sub>2</sub>?",
+   "answers": {
+    "a": "waterstofgas",
+    "b": "koolstofdioxide",
+    "c": "stikstofgas",
+    "d": "zuurstofgas"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van zuurstofgas?",
+   "answers": {
+    "a": "NaCl",
+    "b": "N<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof hoort bij de formule N<sub>2</sub>?",
+   "answers": {
+    "a": "waterstofgas",
+    "b": "methaan",
+    "c": "water",
+    "d": "stikstofgas"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van stikstofgas?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "HCl",
+    "c": "H<sub>2</sub>",
+    "d": "N<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof hoort bij de formule CO<sub>2</sub>?",
+   "answers": {
+    "a": "stikstofgas",
+    "b": "waterstofgas",
+    "c": "water",
+    "d": "koolstofdioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van koolstofdioxide?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "HCl",
+    "c": "NaCl",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof hoort bij de formule H<sub>2</sub>O?",
+   "answers": {
+    "a": "zuurstofgas",
+    "b": "water",
+    "c": "zoutzuur",
+    "d": "keukenzout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van water?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "H<sub>2</sub>",
+    "c": "HCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof hoort bij de formule H<sub>2</sub>?",
+   "answers": {
+    "a": "stikstofgas",
+    "b": "zoutzuur",
+    "c": "waterstofgas",
+    "d": "water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van waterstofgas?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "NaCl",
+    "c": "O<sub>2</sub>",
+    "d": "CH<sub>4</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof hoort bij de formule HCl?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "waterstofgas",
+    "c": "stikstofgas",
+    "d": "zuurstofgas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van zoutzuur?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "HCl",
+    "c": "NaCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof hoort bij de formule CH<sub>4</sub>?",
+   "answers": {
+    "a": "methaan",
+    "b": "zuurstofgas",
+    "c": "koolstofdioxide",
+    "d": "stikstofgas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van methaan?",
+   "answers": {
+    "a": "NaCl",
+    "b": "N<sub>2</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof hoort bij de formule NaCl?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "keukenzout",
+    "c": "water",
+    "d": "methaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van keukenzout?",
+   "answers": {
+    "a": "HCl",
+    "b": "NaCl",
+    "c": "H<sub>2</sub>O",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij het gas dat we inademen met de lucht en dat bestaat uit 2 zuurstofatomen?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "CO<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule hoort bij het gas uit de lucht dat we inademen, maar waar ons lichaam niets mee doet?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "N<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij het broeikasgas met 1 koolstofatoom en 2 zuurstofatomen?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "O<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "CH<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule hoort bij de stof die bestaat uit 2 waterstofatomen en 1 zuurstofatoom?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "CO<sub>2</sub>",
+    "c": "H<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule hoort bij waterstofgas, met 2 waterstofatomen?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "CH<sub>4</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule hoort bij het molecuul met 4 waterstofatomen en 1 koolstofatoom?",
+   "answers": {
+    "a": "HCl",
+    "b": "CH<sub>4</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat zijn koolwaterstoffen?",
+   "answers": {
+    "a": "moleculen die voornamelijk C-atomen en O-atomen bevatten",
+    "b": "moleculen die voornamelijk H-atomen en O-atomen bevatten",
+    "c": "moleculen die voornamelijk C-atomen en H-atomen bevatten",
+    "d": "moleculen die voornamelijk N-atomen en H-atomen bevatten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Uit welke twee atoomsoorten bestaan koolwaterstoffen voornamelijk?",
+   "answers": {
+    "a": "waterstof (H) en zuurstof (O)",
+    "b": "koolstof (C) en waterstof (H)",
+    "c": "stikstof (N) en waterstof (H)",
+    "d": "koolstof (C) en zuurstof (O)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof is een voorbeeld van een koolwaterstof?",
+   "answers": {
+    "a": "benzine",
+    "b": "zoutzuur",
+    "c": "keukenzout",
+    "d": "water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke brandstof is ook een koolwaterstof?",
+   "answers": {
+    "a": "zuurstofgas",
+    "b": "koolstofdioxide",
+    "c": "stikstofgas",
+    "d": "diesel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is aardgas?",
+   "answers": {
+    "a": "methaan",
+    "b": "keukenzout",
+    "c": "water",
+    "d": "koolstofdioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze energiebronnen is een fossiele brandstof?",
+   "answers": {
+    "a": "steenkool",
+    "b": "windenergie",
+    "c": "waterkracht",
+    "d": "zonne-energie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze is ook een fossiele brandstof?",
+   "answers": {
+    "a": "zonne-energie",
+    "b": "waterkracht",
+    "c": "aardolie",
+    "d": "windenergie"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Aardgas is een voorbeeld van een…",
+   "answers": {
+    "a": "metaal",
+    "b": "zuur",
+    "c": "zout",
+    "d": "fossiele brandstof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waar staat (s) achter een stofnaam voor?",
+   "answers": {
+    "a": "in water opgelost (aqua)",
+    "b": "vast (solid)",
+    "c": "vloeibaar (liquid)",
+    "d": "gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: vast (solid)?",
+   "answers": {
+    "a": "(l)",
+    "b": "(g)",
+    "c": "(s)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waar staat (l) achter een stofnaam voor?",
+   "answers": {
+    "a": "gas",
+    "b": "vloeibaar (liquid)",
+    "c": "vast (solid)",
+    "d": "in water opgelost (aqua)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: vloeibaar (liquid)?",
+   "answers": {
+    "a": "(g)",
+    "b": "(s)",
+    "c": "(l)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waar staat (g) achter een stofnaam voor?",
+   "answers": {
+    "a": "vast (solid)",
+    "b": "vloeibaar (liquid)",
+    "c": "gas",
+    "d": "in water opgelost (aqua)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: gas?",
+   "answers": {
+    "a": "(l)",
+    "b": "(aq)",
+    "c": "(s)",
+    "d": "(g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waar staat (aq) achter een stofnaam voor?",
+   "answers": {
+    "a": "vloeibaar (liquid)",
+    "b": "gas",
+    "c": "in water opgelost (aqua)",
+    "d": "vast (solid)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: in water opgelost (aqua)?",
+   "answers": {
+    "a": "(s)",
+    "b": "(aq)",
+    "c": "(l)",
+    "d": "(g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel faseovergangen zijn er?",
+   "answers": {
+    "a": "4",
+    "b": "8",
+    "c": "5",
+    "d": "6"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke van deze is een faseovergang?",
+   "answers": {
+    "a": "bezinken",
+    "b": "filtreren",
+    "c": "oplossen",
+    "d": "stollen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke van deze hoort ook bij de faseovergangen?",
+   "answers": {
+    "a": "filtreren",
+    "b": "indampen",
+    "c": "oplossen",
+    "d": "rijpen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke van deze is GEEN faseovergang?",
+   "answers": {
+    "a": "oplossen",
+    "b": "smelten",
+    "c": "verdampen",
+    "d": "sublimeren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze is ook GEEN faseovergang?",
+   "answers": {
+    "a": "rijpen",
+    "b": "stollen",
+    "c": "filtreren",
+    "d": "condenseren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet de alledaagse naam van een stof, zoals keukenzout?",
+   "answers": {
+    "a": "formule",
+    "b": "triviale naam",
+    "c": "atoomsymbool",
+    "d": "fase-aanduiding"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de triviale namen en de chemische namen van stoffen?",
+   "answers": {
+    "a": "tabel 9",
+    "b": "tabel 52",
+    "c": "tabel 2",
+    "d": "tabel 42"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke Binas-tabel vind je het periodiek systeem?",
+   "answers": {
+    "a": "tabel 39",
+    "b": "tabel 52",
+    "c": "tabel 34",
+    "d": "tabel 9"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke zin is de ezelsbrug voor de scheidingsmethoden?",
+   "answers": {
+    "a": "Bart &amp; Anne Eten Dikke Friet In Amsterdam",
+    "b": "Bart &amp; Anne Eten Dikke Friet In Rotterdam",
+    "c": "Anne &amp; Bart Eten Dikke Friet In Amsterdam",
+    "d": "Bart &amp; Anne Eten Dunne Friet In Amsterdam"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel scheidingsmethoden staan er in de ezelsbrug?",
+   "answers": {
+    "a": "6",
+    "b": "8",
+    "c": "5",
+    "d": "7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter D in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Indampen",
+    "c": "Extraheren",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter F in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Extraheren",
+    "c": "Destilleren",
+    "d": "Indampen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter I in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Extraheren",
+    "b": "Destilleren",
+    "c": "Indampen",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter E in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Extraheren",
+    "b": "Indampen",
+    "c": "Destilleren",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter B in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Destilleren",
+    "b": "Bezinken",
+    "c": "Adsorberen",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop is bezinken en afgieten als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "kookpunt",
+    "b": "deeltjesgrootte",
+    "c": "dichtheid",
+    "d": "aanhechtingsvermogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarop is filtreren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "aanhechtingsvermogen",
+    "b": "kookpunt",
+    "c": "dichtheid",
+    "d": "deeltjesgrootte"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarop is indampen als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "kookpunt",
+    "c": "dichtheid",
+    "d": "aanhechtingsvermogen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop is destilleren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "aanhechtingsvermogen",
+    "c": "kookpuntverschil tussen vloeistoffen",
+    "d": "dichtheid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarop is adsorberen als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "dichtheid",
+    "c": "kookpunt",
+    "d": "aanhechtingsvermogen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarop is extraheren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "kookpunt",
+    "c": "een vaste stof lost beter op in een vloeistof",
+    "d": "dichtheid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van dichtheid?",
+   "answers": {
+    "a": "Bezinken en afgieten",
+    "b": "Adsorberen",
+    "c": "Filtreren",
+    "d": "Indampen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van deeltjesgrootte?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Filtreren",
+    "c": "Destilleren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van kookpuntverschil tussen vloeistoffen?",
+   "answers": {
+    "a": "Destilleren",
+    "b": "Adsorberen",
+    "c": "Filtreren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van aanhechtingsvermogen?",
+   "answers": {
+    "a": "Bezinken en afgieten",
+    "b": "Destilleren",
+    "c": "Adsorberen",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om zout te winnen uit zout water?",
+   "answers": {
+    "a": "Extraheren",
+    "b": "Bezinken en afgieten",
+    "c": "Filtreren",
+    "d": "Indampen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Thee zetten is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Indampen",
+    "c": "Destilleren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Alcohol uit wijn halen is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Destilleren",
+    "c": "Filtreren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Kleur verwijderen uit spiritus met actieve kool is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Bezinken en afgieten",
+    "b": "Destilleren",
+    "c": "Indampen",
+    "d": "Adsorberen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Giftige stoffen met een gasmasker uit de lucht halen is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Extraheren",
+    "c": "Adsorberen",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule voor dichtheid?",
+   "answers": {
+    "a": "dichtheid = volume / massa",
+    "b": "dichtheid = massa − volume",
+    "c": "dichtheid = massa × volume",
+    "d": "dichtheid = massa / volume"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke eenheid geef je de dichtheid in je lijst?",
+   "answers": {
+    "a": "cm<sup>3</sup>/g",
+    "b": "kg × m<sup>3</sup>",
+    "c": "g/cm<sup>3</sup>",
+    "d": "g × cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent het voorvoegsel milli?",
+   "answers": {
+    "a": "1/100",
+    "b": "maal 1000",
+    "c": "1/10",
+    "d": "1/1000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent het voorvoegsel kilo?",
+   "answers": {
+    "a": "1/1000",
+    "b": "maal 100",
+    "c": "maal 10",
+    "d": "maal 1000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel liter is 4000 mL?",
+   "answers": {
+    "a": "400 L",
+    "b": "0,4 L",
+    "c": "4 L",
+    "d": "40 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel liter is 1000 mL?",
+   "answers": {
+    "a": "100 L",
+    "b": "10 L",
+    "c": "1 L",
+    "d": "0,1 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel gram is 3 kg?",
+   "answers": {
+    "a": "3000 g",
+    "b": "30 g",
+    "c": "0,3 g",
+    "d": "300 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel kg is 2000 g?",
+   "answers": {
+    "a": "200 kg",
+    "b": "0,2 kg",
+    "c": "20 kg",
+    "d": "2 kg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule gebruik je om graden Celsius om te rekenen naar Kelvin?",
+   "answers": {
+    "a": "°C = K + 273",
+    "b": "K = °C × 273",
+    "c": "K = °C − 273",
+    "d": "K = °C + 273"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel K is 0 °C?",
+   "answers": {
+    "a": "−273 K",
+    "b": "100 K",
+    "c": "273 K",
+    "d": "0 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel K is 20 °C?",
+   "answers": {
+    "a": "273 K",
+    "b": "20 K",
+    "c": "253 K",
+    "d": "293 K"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel °C is 273 K?",
+   "answers": {
+    "a": "0 °C",
+    "b": "−273 °C",
+    "c": "100 °C",
+    "d": "273 °C"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel °C is 293 K?",
+   "answers": {
+    "a": "−20 °C",
+    "b": "20 °C",
+    "c": "293 °C",
+    "d": "566 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel °C is 0 K?",
+   "answers": {
+    "a": "−100 °C",
+    "b": "273 °C",
+    "c": "0 °C",
+    "d": "−273 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke Binas-tabellen vind je de voorvoegsels en de omrekenregels?",
+   "answers": {
+    "a": "tabel 2 en 3",
+    "b": "tabel 4, 5 en 6",
+    "c": "tabel 7, 8 en 9",
+    "d": "tabel 10, 11 en 12"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

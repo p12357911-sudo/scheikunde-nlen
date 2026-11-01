@@ -1,0 +1,349 @@
+{
+ "title": "Kracht en beweging - 123 school",
+ "heading": "Kracht en beweging",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de SI-eenheid van snelheid?",
+   "answers": {
+    "a": "km/h",
+    "b": "m/s<sup>2</sup>",
+    "c": "m/s",
+    "d": "N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken om: 20 m/s in km/h.",
+   "answers": {
+    "a": "7,2 km/h",
+    "b": "72 km/h",
+    "c": "20 km/h",
+    "d": "5,6 km/h"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken om: 54 km/h in m/s.",
+   "answers": {
+    "a": "1,5 m/s",
+    "b": "194 m/s",
+    "c": "15 m/s",
+    "d": "54 m/s"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule geldt voor de snelheid bij een constante snelheid?",
+   "answers": {
+    "a": "v = t / s",
+    "b": "v = s / t",
+    "c": "v = s × t",
+    "d": "v = s / t<sup>2</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een fietser rijdt met 5,0 m/s. Hoe ver komt hij in 12 s?",
+   "answers": {
+    "a": "0,42 m",
+    "b": "17 m",
+    "c": "2,4 m",
+    "d": "60 m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een hardloper rent 150 m met een snelheid van 6,0 m/s. Hoe lang doet hij erover?",
+   "answers": {
+    "a": "900 s",
+    "b": "25 s",
+    "c": "0,040 s",
+    "d": "144 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een wandelaar legt 3,0 km af in 20 minuten. Wat is zijn gemiddelde snelheid in km/h?",
+   "answers": {
+    "a": "0,15 km/h",
+    "b": "18 km/h",
+    "c": "9,0 km/h",
+    "d": "60 km/h"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een auto rijdt 60 km in 1,0 uur en daarna 100 km in 1,0 uur. Wat is de gemiddelde snelheid?",
+   "answers": {
+    "a": "40 km/h",
+    "b": "100 km/h",
+    "c": "80 km/h",
+    "d": "160 km/h"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zie je in een (s,t)-diagram bij een horizontale lijn?",
+   "answers": {
+    "a": "Het voorwerp staat stil",
+    "b": "Het voorwerp rijdt met constante snelheid",
+    "c": "Het voorwerp remt af",
+    "d": "Het voorwerp versnelt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent een rechte, schuin omhoog lopende lijn in een (s,t)-diagram?",
+   "answers": {
+    "a": "Constante snelheid",
+    "b": "Stilstand",
+    "c": "Constante kracht",
+    "d": "Constante versnelling"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent een horizontale lijn in een (v,t)-diagram?",
+   "answers": {
+    "a": "Stilstand",
+    "b": "Constante snelheid",
+    "c": "Afnemende snelheid",
+    "d": "Constante versnelling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent een rechte, schuin omhoog lopende lijn in een (v,t)-diagram?",
+   "answers": {
+    "a": "Constante versnelling",
+    "b": "Constante afstand",
+    "c": "Stilstand",
+    "d": "Constante snelheid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe bepaal je in een (v,t)-diagram de afgelegde afstand?",
+   "answers": {
+    "a": "Met de oppervlakte onder de grafiek",
+    "b": "Met de hoogte van de grafiek",
+    "c": "Met de helling van de grafiek",
+    "d": "Met het laagste punt van de grafiek"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In een (v,t)-diagram is de snelheid 6,0 s lang constant 10 m/s. Hoe ver komt het voorwerp?",
+   "answers": {
+    "a": "60 m",
+    "b": "1,7 m",
+    "c": "6,0 m",
+    "d": "16 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de SI-eenheid van versnelling?",
+   "answers": {
+    "a": "m/s<sup>2</sup>",
+    "b": "N",
+    "c": "km/h",
+    "d": "m/s"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een auto trekt op van 0 tot 20 m/s in 8,0 s. Hoe groot is de gemiddelde versnelling?",
+   "answers": {
+    "a": "160 m/s<sup>2</sup>",
+    "b": "20 m/s<sup>2</sup>",
+    "c": "0,40 m/s<sup>2</sup>",
+    "d": "2,5 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een auto remt in 5,0 s af van 25 m/s tot stilstand. Hoe groot is de vertraging?",
+   "answers": {
+    "a": "125 m/s<sup>2</sup>",
+    "b": "0,20 m/s<sup>2</sup>",
+    "c": "5,0 m/s<sup>2</sup>",
+    "d": "25 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een auto van 1200 kg versnelt met 2,0 m/s<sup>2</sup>. Hoe groot is de resulterende kracht?",
+   "answers": {
+    "a": "6,0 × 10<sup>2</sup> N",
+    "b": "1,2 × 10<sup>3</sup> N",
+    "c": "2,4 × 10<sup>3</sup> N",
+    "d": "2,4 × 10<sup>6</sup> N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een resulterende kracht van 300 N geeft een voorwerp een versnelling van 1,5 m/s<sup>2</sup>. Wat is de massa?",
+   "answers": {
+    "a": "2,0 kg",
+    "b": "200 kg",
+    "c": "0,0050 kg",
+    "d": "450 kg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een resulterende kracht van 50 N werkt op een kar van 10 kg. Hoe groot is de versnelling?",
+   "answers": {
+    "a": "5,0 m/s<sup>2</sup>",
+    "b": "0,20 m/s<sup>2</sup>",
+    "c": "60 m/s<sup>2</sup>",
+    "d": "500 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met een voorwerp als de resulterende kracht 0 N is?",
+   "answers": {
+    "a": "Het gaat steeds langzamer",
+    "b": "Het blijft in rust of beweegt met constante snelheid",
+    "c": "Het valt naar beneden",
+    "d": "Het gaat steeds sneller"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "De motorkracht van een auto is 500 N en de wrijvingskracht is ook 500 N. Wat voor beweging maakt de auto?",
+   "answers": {
+    "a": "Versnelde beweging",
+    "b": "Beweging met constante snelheid",
+    "c": "De auto valt om",
+    "d": "Vertraagde beweging"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "De motorkracht is 800 N en de wrijvingskracht is 300 N. Wat is de resulterende kracht?",
+   "answers": {
+    "a": "0 N",
+    "b": "1100 N in de rijrichting",
+    "c": "500 N in de rijrichting",
+    "d": "500 N tegen de rijrichting"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zegt de derde wet van Newton (actie en reactie)?",
+   "answers": {
+    "a": "De kracht die je uitoefent is groter dan de reactiekracht",
+    "b": "De reactiekracht werkt in dezelfde richting als de actiekracht",
+    "c": "Een kracht werkt altijd op één voorwerp en heeft geen tegenkracht",
+    "d": "Twee voorwerpen oefenen even grote, tegengestelde krachten op elkaar uit"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je duwt met een kracht van 40 N een kist 5,0 m vooruit. Hoeveel arbeid verricht je? (W = F × s)",
+   "answers": {
+    "a": "0,13 J",
+    "b": "45 J",
+    "c": "8,0 J",
+    "d": "200 J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij het optillen van een voorwerp over 6,0 m is 300 J arbeid verricht. Hoe groot is de kracht?",
+   "answers": {
+    "a": "306 N",
+    "b": "50 N",
+    "c": "1800 N",
+    "d": "0,020 N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een automobilist rijdt 20 m/s en heeft 0,75 s reactietijd. Hoe groot is de reactieafstand?",
+   "answers": {
+    "a": "15 m",
+    "b": "0,038 m",
+    "c": "21 m",
+    "d": "27 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De reactieafstand is 14 m en de remweg is 26 m. Hoe groot is de stopafstand?",
+   "answers": {
+    "a": "12 m",
+    "b": "364 m",
+    "c": "20 m",
+    "d": "40 m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een auto rijdt twee keer zo hard. Wat gebeurt er met de remweg?",
+   "answers": {
+    "a": "De remweg wordt ongeveer 4 keer zo groot",
+    "b": "De remweg wordt de helft",
+    "c": "De remweg wordt 2 keer zo groot",
+    "d": "De remweg blijft gelijk"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een steen valt zonder luchtweerstand. De valversnelling is 9,8 m/s<sup>2</sup>. Hoe groot is de snelheid na 2,0 s?",
+   "answers": {
+    "a": "9,8 m/s",
+    "b": "4,9 m/s",
+    "c": "39 m/s",
+    "d": "20 m/s"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een parachutist daalt met constante snelheid. Welke uitspraak is juist?",
+   "answers": {
+    "a": "De zwaartekracht is even groot als de luchtweerstand",
+    "b": "De zwaartekracht is groter dan de luchtweerstand",
+    "c": "De luchtweerstand is groter dan de zwaartekracht",
+    "d": "Er werkt geen zwaartekracht"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom schuif je naar voren als een auto plotseling remt?",
+   "answers": {
+    "a": "Doordat de auto je een zetje geeft",
+    "b": "Door de zwaartekracht",
+    "c": "Door de traagheid blijf je met dezelfde snelheid doorbewegen",
+    "d": "Doordat de gordel je naar voren trekt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom verkleint een kreukelzone de kracht op de inzittenden bij een botsing?",
+   "answers": {
+    "a": "De auto remt over een kortere tijd af",
+    "b": "De auto remt over een langere tijd af, dus de vertraging is kleiner",
+    "c": "De snelheid is bij de botsing lager",
+    "d": "De auto wordt lichter"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de eenheid van arbeid?",
+   "answers": {
+    "a": "Newton (N)",
+    "b": "Watt (W)",
+    "c": "Joule (J)",
+    "d": "Pascal (Pa)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

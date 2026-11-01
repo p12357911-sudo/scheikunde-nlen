@@ -1,0 +1,132 @@
+{
+ "title": "Breuken, procenten en eenheden - 123 school",
+ "heading": "Breuken, procenten en eenheden",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden."
+ ],
+ "questions": [
+  {
+   "q": "Hoeveel is 2/5 van 50 mL?",
+   "a": "20 mL",
+   "e": "2/5 × 50 mL = 20 mL"
+  },
+  {
+   "q": "Hoeveel is 5/8 van 64 mL?",
+   "a": "40 mL",
+   "e": "5/8 × 64 mL = 40 mL"
+  },
+  {
+   "q": "Schrijf de breuk 10/15 zo eenvoudig mogelijk.",
+   "a": "2/3",
+   "e": "10/15 = 2/3 (deel boven en onder door 5)"
+  },
+  {
+   "q": "Schrijf 3/4 als decimaal getal.",
+   "a": "0,75",
+   "e": "3 : 4 = 0,75"
+  },
+  {
+   "q": "Schrijf 2/5 als percentage.",
+   "a": "40%",
+   "e": "2/5 = 0,4 = 40%"
+  },
+  {
+   "q": "Schrijf 35% als eenvoudige breuk.",
+   "a": "7/20",
+   "e": "35% = 35/100 = 7/20"
+  },
+  {
+   "q": "Wat is 5 g / 1 mL?",
+   "a": "5 g/mL",
+   "e": "Delen door 1: 5 g per 1 mL = 5 g/mL"
+  },
+  {
+   "q": "Welke breuk is kleiner: 5/8 of 3/4?",
+   "a": "5/8",
+   "e": "5/8 en 3/4 = 6/8, dus 5/8 is kleiner"
+  },
+  {
+   "q": "Wat betekent een concentratie van 25 g/L?",
+   "a": "1 L oplossing bevat 25 g opgeloste stof",
+   "e": "g/L lees je als \"gram per liter\": in 1 L zit 25 g"
+  },
+  {
+   "q": "Je deelt een massa in g door een volume in mL. Welke eenheid heeft het antwoord?",
+   "a": "g/mL"
+  },
+  {
+   "q": "Je deelt een afstand in km door een tijd in h. Welke eenheid heeft het antwoord?",
+   "a": "km/h"
+  },
+  {
+   "q": "Een voorwerp legt 100 m af in 12 s. Bereken de snelheid in m/s. Rond af op 1 decimaal.",
+   "a": "8,3 m/s",
+   "e": "100 m : 12 s = 8,3 m/s"
+  },
+  {
+   "q": "Hoeveel is 12 g / 1 g?",
+   "a": "12"
+  },
+  {
+   "q": "Een mengsel bevat 20% van een stof. Hoeveel gram van die stof zit er in 100 g van het mengsel?",
+   "a": "20 g",
+   "e": "Bij 100 g hoort 20%: 20% van 100 g = 20 g"
+  },
+  {
+   "q": "Schrijf 4,5% als decimaal getal.",
+   "a": "0,045",
+   "e": "4,5% = 4,5/100 = 0,045"
+  },
+  {
+   "q": "Een hoeveelheid van 150 g neemt met 20% toe. Hoeveel gram is het daarna? Je hoeft niet af te ronden.",
+   "a": "180 g",
+   "e": "150 g × 1,2 = 180 g"
+  },
+  {
+   "q": "Hoeveel is 10% van 350 g?",
+   "a": "35 g",
+   "e": "10% = 1/10 deel: 350 g : 10 = 35 g"
+  },
+  {
+   "q": "Hoeveel is 1% van 2400 g?",
+   "a": "24 g",
+   "e": "1% = 1/100 deel: 2400 g : 100 = 24 g"
+  },
+  {
+   "q": "Een mengsel bestaat uit 15 g zand en 6 g zout. Wat is de massaverhouding zand : zout?",
+   "a": "5 : 2",
+   "e": "15 : 6 = 5 : 2 (deel beide getallen door 3)"
+  },
+  {
+   "q": "Reken 25 mg om naar g. Je hoeft niet af te ronden.",
+   "a": "0,025 g",
+   "e": "1 g = 1000 mg, dus 25 mg = 0,025 g"
+  },
+  {
+   "q": "Reken 1234 g om naar kg. Rond af op 1 decimaal.",
+   "a": "1,2 kg",
+   "e": "1 kg = 1000 g, dus 1234 g = 1,234 kg, afgerond 1,2 kg"
+  },
+  {
+   "q": "Reken 3 min om naar s. Je hoeft niet af te ronden.",
+   "a": "180 s",
+   "e": "1 min = 60 s, dus 3 min = 180 s"
+  },
+  {
+   "q": "Hoeveel gram is 1 kg?",
+   "a": "1000 g",
+   "e": "1 kg = 1000 g"
+  },
+  {
+   "q": "Welk volume is gelijk aan 1 dm<sup>3</sup>?",
+   "a": "1 L",
+   "e": "1 dm<sup>3</sup> = 1 L"
+  },
+  {
+   "q": "Hoeveel seconden zijn 2 minuten?",
+   "a": "120 s",
+   "e": "2 × 60 s = 120 s"
+  }
+ ]
+}

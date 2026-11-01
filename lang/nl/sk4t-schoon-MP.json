@@ -1,0 +1,349 @@
+{
+ "title": "Schoonmaken en verzorgen - 123 school",
+ "heading": "Schoonmaken en verzorgen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Waarvan wordt natuurlijke zeep gemaakt?",
+   "answers": {
+    "a": "Aardolieproducten",
+    "b": "Metalen",
+    "c": "Zand en klei",
+    "d": "Plantaardige en dierlijke oliën en vetten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk deel van een zeepmolecuul lost goed op in water?",
+   "answers": {
+    "a": "Het hele molecuul",
+    "b": "Geen enkel deel",
+    "c": "De staart",
+    "d": "De kop"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk deel van een zeepmolecuul lost goed op in vet?",
+   "answers": {
+    "a": "Geen enkel deel",
+    "b": "De staart",
+    "c": "Het hele molecuul",
+    "d": "De kop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Zeep is een…",
+   "answers": {
+    "a": "Oplosmiddel",
+    "b": "Suspensie",
+    "c": "Emulgator",
+    "d": "Zuivere stof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je hebt vet op je handen. Wat gebruik je om je handen schoon te krijgen?",
+   "answers": {
+    "a": "Alleen koud water",
+    "b": "Alleen zand",
+    "c": "Water en zeep",
+    "d": "Alleen warm water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is hard water?",
+   "answers": {
+    "a": "Water met veel opgeloste zeep",
+    "b": "Water zonder opgeloste stoffen",
+    "c": "Water met weinig opgeloste kalk",
+    "d": "Water met veel opgeloste kalk"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat ontstaat er als zeep reageert met kalk?",
+   "answers": {
+    "a": "Keukenzout",
+    "b": "Gedestilleerd water",
+    "c": "Kalkzeep",
+    "d": "Een emulsie"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je hebt hard water. Hoeveel zeep heb je nodig om iets schoon te maken, vergeleken met zacht water?",
+   "answers": {
+    "a": "Meer zeep",
+    "b": "Geen zeep",
+    "c": "Evenveel zeep",
+    "d": "Minder zeep"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk middel is een cosmetisch middel?",
+   "answers": {
+    "a": "Wasbenzine",
+    "b": "Afwasmiddel",
+    "c": "Zonnebrandcrème",
+    "d": "Allesreiniger"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een crème?",
+   "answers": {
+    "a": "Een zuivere stof die je op je huid smeert",
+    "b": "Een suspensie die je op je huid smeert",
+    "c": "Een emulsie die je op je huid smeert",
+    "d": "Een oplossing die je op je huid smeert"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat zijn de hoofdbestanddelen van een crème?",
+   "answers": {
+    "a": "Water, schuurmiddel en zeep",
+    "b": "Water, zeep en keukenzout",
+    "c": "Alleen water en alcohol",
+    "d": "Water, olie of vet en een emulgator"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat zijn de hoofdbestanddelen van shampoo?",
+   "answers": {
+    "a": "Water, schuurmiddel en zeep",
+    "b": "Alleen water en alcohol",
+    "c": "Water, zeep en keukenzout",
+    "d": "Water, olie of vet en een emulgator"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk bestanddeel zit altijd in tandpasta, naast zeep?",
+   "answers": {
+    "a": "Olie",
+    "b": "Keukenzout",
+    "c": "Een schuurmiddel",
+    "d": "Alcohol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk bestanddeel in tandpasta versnelt het herstel van je tandglazuur?",
+   "answers": {
+    "a": "Het schuurmiddel",
+    "b": "Fluoride",
+    "c": "Zeep",
+    "d": "Keukenzout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is talg?",
+   "answers": {
+    "a": "Een soort tandpasta",
+    "b": "Een emulgator",
+    "c": "Het vetlaagje op je huid",
+    "d": "Een soort zeep"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom kun je talg niet met alleen water verwijderen?",
+   "answers": {
+    "a": "Talg is te warm",
+    "b": "Talg lost op in water maar heel langzaam",
+    "c": "Talg is vet en vet lost niet op in water",
+    "d": "Talg is een zuivere stof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bacteriën in tandplak zetten suiker om in…",
+   "answers": {
+    "a": "Zeep",
+    "b": "Zuur",
+    "c": "Zout",
+    "d": "Fluoride"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom heb je met hard water meer zeep nodig?",
+   "answers": {
+    "a": "Een deel van de zeep reageert met kalk tot kalkzeep",
+    "b": "Hard water bevat geen zeep",
+    "c": "Hard water is warmer",
+    "d": "Zeep lost niet op in hard water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met je huid als je alle talg weg wast?",
+   "answers": {
+    "a": "Je huid wordt vetter",
+    "b": "Je huid wordt harder",
+    "c": "Er gebeurt niets",
+    "d": "Je huid droogt uit"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent hydrofiel?",
+   "answers": {
+    "a": "Waterminnend: de stof of het deel van het molecuul lost goed op in water",
+    "b": "Brandbaar en explosief",
+    "c": "Vetminnend en niet waterminnend",
+    "d": "Watervrezend: lost niet op in water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent hydrofoob?",
+   "answers": {
+    "a": "Watervrezend: de stof of het deel van het molecuul lost niet op in water",
+    "b": "Waterminnend: lost goed op in water",
+    "c": "Vloeibaar bij kamertemperatuur",
+    "d": "Zuur en bijtend"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk deel van een zeepmolecuul is hydrofiel en welk deel is hydrofoob?",
+   "answers": {
+    "a": "Allebei hydrofiel",
+    "b": "De kop is hydrofoob, de staart is hydrofiel",
+    "c": "Allebei hydrofoob",
+    "d": "De kop is hydrofiel, de staart is hydrofoob"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom lost vet niet op in water?",
+   "answers": {
+    "a": "Vet is zwaarder dan water",
+    "b": "Vet is een zout",
+    "c": "Vet is hydrofoob",
+    "d": "Vet is hydrofiel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe zorgen zeepmoleculen ervoor dat een vetdruppel kan wegspoelen?",
+   "answers": {
+    "a": "De zeep verandert het vet in water",
+    "b": "De staarten zitten in het vet en de koppen steken in het water",
+    "c": "De koppen zitten in het vet en de staarten steken in het water",
+    "d": "De zeep lost het vet op tot gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke functie heeft water bij het wassen van kleding?",
+   "answers": {
+    "a": "Koelmiddel",
+    "b": "Oplosmiddel en spoelmiddel",
+    "c": "Katalysator",
+    "d": "Brandstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke pH heeft een allesreiniger voor vet meestal?",
+   "answers": {
+    "a": "Precies 0",
+    "b": "Hoger dan 7 (basisch)",
+    "c": "Precies 7",
+    "d": "Lager dan 7 (zuur)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke pH heeft een ontkalker meestal?",
+   "answers": {
+    "a": "Hoger dan 7 (basisch)",
+    "b": "Lager dan 7 (zuur)",
+    "c": "Precies 7",
+    "d": "Precies 14"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom helpt een zuur zoals azijn tegen kalkaanslag?",
+   "answers": {
+    "a": "Het zuur laat de kalk verdampen",
+    "b": "Het zuur maakt de kalk harder",
+    "c": "Het zuur verandert kalk in zeep",
+    "d": "Het zuur reageert met kalk tot een oplosbaar zout, water en koolstofdioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je giet ontkalker op kalkaanslag en het gaat borrelen. Welk gas ontstaat er?",
+   "answers": {
+    "a": "Koolstofdioxide",
+    "b": "Stikstof",
+    "c": "Waterstof",
+    "d": "Zuurstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke soort stof is een afvoerontstopper met natronloog?",
+   "answers": {
+    "a": "Een zuur",
+    "b": "Een sterke base",
+    "c": "Een zout",
+    "d": "Een neutrale stof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom is frisdrank slecht voor je tanden?",
+   "answers": {
+    "a": "Frisdrank is te koud",
+    "b": "Frisdrank is basisch en maakt tanden zacht",
+    "c": "Frisdrank bevat zeep",
+    "d": "Frisdrank is zuur en tast het tandglazuur aan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Salmiak (NH<sub>4</sub>Cl) ontleedt bij verhitten. Wat is de reactievergelijking?",
+   "answers": {
+    "a": "NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (g)",
+    "b": "NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (s)",
+    "c": "NH<sub>4</sub>Cl (s) → N (g) + H (g) + Cl (g)",
+    "d": "NH<sub>4</sub>Cl (s) → NH<sub>4</sub> (g) + Cl (g)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een emulsie?",
+   "answers": {
+    "a": "Een vaste stof met een gas erin",
+    "b": "Een mengsel waarin kleine druppeltjes van de ene vloeistof in een andere vloeistof zitten",
+    "c": "Een helder mengsel van twee gassen",
+    "d": "Een oplossing van een zout in water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een emulgator?",
+   "answers": {
+    "a": "Een stof die een reactie versnelt",
+    "b": "Een stof die zuur neutraliseert",
+    "c": "Een stof die water laat verdampen",
+    "d": "Een stof die ervoor zorgt dat water en olie of vet mengen"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

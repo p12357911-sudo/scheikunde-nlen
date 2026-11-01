@@ -1,0 +1,349 @@
+{
+ "title": "Basiskennis scheikunde - 123 school",
+ "heading": "Basiskennis scheikunde",
+ "intro": [
+  "Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is het symbool van natrium?",
+   "answers": {
+    "a": "N",
+    "b": "Na",
+    "c": "Nt",
+    "d": "Ni"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van chloor?",
+   "answers": {
+    "a": "Ch",
+    "b": "Cl",
+    "c": "C",
+    "d": "Co"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van ijzer?",
+   "answers": {
+    "a": "Ir",
+    "b": "I",
+    "c": "Fe",
+    "d": "Ij"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van koper?",
+   "answers": {
+    "a": "Co",
+    "b": "Cu",
+    "c": "Cp",
+    "d": "Ko"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van zwavel?",
+   "answers": {
+    "a": "Zw",
+    "b": "Sw",
+    "c": "S",
+    "d": "Z"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk element heeft het symbool Mg?",
+   "answers": {
+    "a": "Kwik",
+    "b": "Molybdeen",
+    "c": "Mangaan",
+    "d": "Magnesium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk element heeft het symbool Ag? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Argon",
+    "c": "Goud",
+    "d": "Zilver"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van water?",
+   "answers": {
+    "a": "OH",
+    "b": "H<sub>2</sub>O",
+    "c": "H<sub>2</sub>O<sub>2</sub>",
+    "d": "HO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van koolstofdioxide?",
+   "answers": {
+    "a": "C<sub>2</sub>O<sub>2</sub>",
+    "b": "CO",
+    "c": "C<sub>2</sub>O",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van keukenzout (natriumchloride)?",
+   "answers": {
+    "a": "Na<sub>2</sub>Cl",
+    "b": "NaCl<sub>2</sub>",
+    "c": "NaCl",
+    "d": "NCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van zuurstofgas?",
+   "answers": {
+    "a": "O",
+    "b": "2O",
+    "c": "O<sub>2</sub>",
+    "d": "OO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van waterstofchloride (zoutzuur is hiervan de oplossing in water)?",
+   "answers": {
+    "a": "NaOH",
+    "b": "HCl",
+    "c": "HCl<sub>2</sub>",
+    "d": "H<sub>2</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken om naar kelvin: 27 °C",
+   "answers": {
+    "a": "300 K",
+    "b": "200 K",
+    "c": "27 K",
+    "d": "400 K"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Reken om naar kelvin: 100 °C",
+   "answers": {
+    "a": "473 K",
+    "b": "373 K",
+    "c": "100 K",
+    "d": "273 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken om naar graden Celsius: 300 K",
+   "answers": {
+    "a": "-73 °C",
+    "b": "27 °C",
+    "c": "573 °C",
+    "d": "127 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reken om naar graden Celsius: 250 K",
+   "answers": {
+    "a": "-123 °C",
+    "b": "77 °C",
+    "c": "523 °C",
+    "d": "-23 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een blokje heeft een massa van 120 g en een volume van 40 cm³. Wat is de dichtheid?",
+   "answers": {
+    "a": "0,33 g/cm³",
+    "b": "3,0 g/cm³",
+    "c": "80 g/cm³",
+    "d": "160 g/cm³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een vloeistof heeft een dichtheid van 0,80 g/mL. Wat is de massa van 250 mL?",
+   "answers": {
+    "a": "312 g",
+    "b": "0,0032 g",
+    "c": "200 g",
+    "d": "250 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stof heeft een dichtheid van 2,5 g/cm³ en een massa van 75 g. Wat is het volume?",
+   "answers": {
+    "a": "30 cm³",
+    "b": "187,5 cm³",
+    "c": "0,033 cm³",
+    "d": "77,5 cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een stof heeft een dichtheid van 0,90 g/mL. Zinkt of drijft de stof in water (1,0 g/mL)?",
+   "answers": {
+    "a": "Hij drijft, want de dichtheid is kleiner dan die van water",
+    "b": "Hij zinkt, want 0,90 is bijna 1",
+    "c": "Hij lost op in water",
+    "d": "Hij zinkt, want de dichtheid is kleiner dan die van water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In 500 g brood zit 10 g zout. Wat is het massapercentage zout?",
+   "answers": {
+    "a": "0,020%",
+    "b": "20%",
+    "c": "5,0%",
+    "d": "2,0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een oplossing van 40 g suiker in 160 g water heeft een totale massa van 200 g. Wat is het massapercentage suiker?",
+   "answers": {
+    "a": "80%",
+    "b": "40%",
+    "c": "25%",
+    "d": "20%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel gram zout zit er in 800 g brood met 1,5 massa% zout?",
+   "answers": {
+    "a": "53 g",
+    "b": "12 g",
+    "c": "120 g",
+    "d": "1,2 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In 200 mL desinfectiemiddel zit 140 mL alcohol. Wat is het volumepercentage alcohol?",
+   "answers": {
+    "a": "14%",
+    "b": "30%",
+    "c": "70%",
+    "d": "143%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een drankje van 250 mL bevat 5,0 volume% alcohol. Hoeveel mL alcohol zit erin?",
+   "answers": {
+    "a": "245 mL",
+    "b": "1,25 mL",
+    "c": "12,5 mL",
+    "d": "50 mL"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Lucht bevat ongeveer 21 volume% zuurstof. Hoeveel mL zuurstof zit er in 1000 mL lucht?",
+   "answers": {
+    "a": "210 mL",
+    "b": "21 mL",
+    "c": "2100 mL",
+    "d": "790 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Met welke methode scheid je zand en water?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Filtreren (of bezinken en afgieten)",
+    "c": "Destilleren",
+    "d": "Indampen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Met welke methode haal je opgelost zout uit zout water terug, zonder het water te bewaren?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Bezinken en afgieten",
+    "c": "Extraheren",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Met welke methode maak je uit zeewater drinkwater en bewaar je het water?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Indampen",
+    "c": "Destilleren",
+    "d": "Adsorberen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op welk verschil tussen stoffen berust destilleren?",
+   "answers": {
+    "a": "Het verschil in dichtheid",
+    "b": "Het verschil in oplosbaarheid",
+    "c": "Het verschil in kookpunt",
+    "d": "Het verschil in deeltjesgrootte"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet een zuivere stof die uit één soort atoom bestaat, zoals ijzer?",
+   "answers": {
+    "a": "Een mengsel",
+    "b": "Een verbinding",
+    "c": "Een element",
+    "d": "Een oplossing"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulmassa van CO<sub>2</sub>? (C = 12,0 u; O = 16,0 u)",
+   "answers": {
+    "a": "56,0 u",
+    "b": "60,0 u",
+    "c": "44,0 u",
+    "d": "28,0 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "3",
+    "b": "7",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet de overgang van gas naar vloeistof?",
+   "answers": {
+    "a": "Verdampen",
+    "b": "Sublimeren",
+    "c": "Stollen",
+    "d": "Condenseren"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

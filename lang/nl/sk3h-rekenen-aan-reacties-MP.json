@@ -1,0 +1,349 @@
+{
+ "title": "Rekenen aan reacties - 123 school",
+ "heading": "Rekenen aan reacties",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op één decimaal als er niet staat hoe."
+ ],
+ "questions": [
+  {
+   "question": "Wat zegt de wet van behoud van massa?",
+   "answers": {
+    "a": "Bij een reactie verdwijnt er altijd een beetje massa",
+    "b": "De massa van de reactieproducten is altijd groter dan die van de beginstoffen",
+    "c": "De totale massa vóór de reactie is gelijk aan de totale massa na de reactie",
+    "d": "De massa van de beginstoffen is altijd groter dan die van de reactieproducten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bij een reactie in een gesloten fles reageert 12 g magnesium met 8 g zuurstof. Hoeveel gram magnesiumoxide ontstaat er?",
+   "answers": {
+    "a": "20 g",
+    "b": "96 g",
+    "c": "24 g",
+    "d": "4 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bij het verhitten van 10,0 g kalk (CaCO<sub>3</sub>) ontstaat 5,6 g calciumoxide en koolstofdioxide. Hoeveel gram koolstofdioxide ontstaat?",
+   "answers": {
+    "a": "15,6 g",
+    "b": "4,4 g",
+    "c": "5,6 g",
+    "d": "10,0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je laat staalwol verbranden in de open lucht. De massa wordt groter. Hoe komt dat?",
+   "answers": {
+    "a": "Het staalwol neemt zuurstof uit de lucht op",
+    "b": "Er ontstaat nieuwe massa uit het niets",
+    "c": "Er ontsnapt een gas",
+    "d": "Het staalwol heeft een lagere dichtheid gekregen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een kaars brandt in de open lucht en de massa wordt kleiner. Hoe komt dat?",
+   "answers": {
+    "a": "De kaars wordt omgezet in energie en niets anders",
+    "b": "De kaars neemt zuurstof op",
+    "c": "De gevormde gassen koolstofdioxide en waterdamp ontsnappen in de lucht",
+    "d": "De massa verdwijnt bij het verbranden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van H<sub>2</sub>O. Atoommassa’s: H = 1,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "19 u",
+    "b": "17 u",
+    "c": "34 u",
+    "d": "18 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van CO<sub>2</sub>. Atoommassa’s: C = 12,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "28 u",
+    "b": "56 u",
+    "c": "44 u",
+    "d": "32 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van NH<sub>3</sub>. Atoommassa’s: N = 14,0 u, H = 1,0 u.",
+   "answers": {
+    "a": "3 u",
+    "b": "31 u",
+    "c": "17 u",
+    "d": "15 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van H<sub>2</sub>SO<sub>4</sub>. Atoommassa’s: H = 1,0 u, S = 32,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "49 u",
+    "b": "98 u",
+    "c": "97 u",
+    "d": "99 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van CaCO<sub>3</sub>. Atoommassa’s: Ca = 40,0 u, C = 12,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "100 u",
+    "b": "140 u",
+    "c": "60 u",
+    "d": "68 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van Ca(OH)<sub>2</sub>. Atoommassa’s: Ca = 40,0 u, O = 16,0 u, H = 1,0 u.",
+   "answers": {
+    "a": "57 u",
+    "b": "34 u",
+    "c": "74 u",
+    "d": "114 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de molecuulmassa (of formulemassa) van Fe<sub>2</sub>O<sub>3</sub>. Atoommassa’s: Fe = 56,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "160 u",
+    "b": "104 u",
+    "c": "216 u",
+    "d": "72 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken het massapercentage koolstof in CO<sub>2</sub>. Atoommassa’s: C = 12,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "27,3%",
+    "b": "13,6%",
+    "c": "21,4%",
+    "d": "72,7%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken het massapercentage zuurstof in H<sub>2</sub>O. Atoommassa’s: H = 1,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "47,1%",
+    "b": "11,1%",
+    "c": "44,4%",
+    "d": "88,9%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken het massapercentage ijzer in Fe<sub>2</sub>O<sub>3</sub>. Atoommassa’s: Fe = 56,0 u, O = 16,0 u.",
+   "answers": {
+    "a": "51,9%",
+    "b": "30,0%",
+    "c": "35,0%",
+    "d": "70,0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waterstof en zuurstof reageren tot water: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. Atoommassa’s: H = 1,0 u, O = 16,0 u. Hoeveel gram water ontstaat uit 4,0 g waterstof?",
+   "answers": {
+    "a": "72,0 g",
+    "b": "18,0 g",
+    "c": "20,0 g",
+    "d": "36,0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Koolstof verbrandt tot koolstofdioxide: C + O<sub>2</sub> → CO<sub>2</sub>. Atoommassa’s: C = 12,0 u, O = 16,0 u. Hoeveel gram koolstofdioxide ontstaat er uit 12,0 g koolstof?",
+   "answers": {
+    "a": "28,0 g",
+    "b": "32,0 g",
+    "c": "56,0 g",
+    "d": "44,0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Kalk wordt verhit: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. Atoommassa’s: Ca = 40,0 u, C = 12,0 u, O = 16,0 u. Hoeveel gram calciumoxide ontstaat uit 50,0 g kalk?",
+   "answers": {
+    "a": "56,0 g",
+    "b": "63,6 g",
+    "c": "28,0 g",
+    "d": "22,0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Magnesium verbrandt: 2 Mg + O<sub>2</sub> → 2 MgO. Atoommassa’s: Mg = 24,0 u, O = 16,0 u. Hoeveel gram magnesiumoxide ontstaat uit 12,0 g magnesium?",
+   "answers": {
+    "a": "28,0 g",
+    "b": "20,0 g",
+    "c": "40,0 g",
+    "d": "30,0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Magnesium en zuurstof reageren in de massaverhouding 3 : 2. Hoeveel gram zuurstof is nodig voor 9,0 g magnesium?",
+   "answers": {
+    "a": "13,5 g",
+    "b": "18,0 g",
+    "c": "6,0 g",
+    "d": "7,0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Koper en zwavel reageren tot koper(I)sulfide in de massaverhouding 4 : 1. Hoeveel gram sulfide ontstaat er uit 8,0 g koper en 2,0 g zwavel?",
+   "answers": {
+    "a": "6,0 g",
+    "b": "8,0 g",
+    "c": "10,0 g",
+    "d": "16,0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "IJzer en zwavel reageren in de massaverhouding 7 : 4. Hoeveel gram zwavel heb je nodig voor 14 g ijzer?",
+   "answers": {
+    "a": "8 g",
+    "b": "10 g",
+    "c": "56 g",
+    "d": "24,5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De molaire massa van water is 18 g/mol. Hoeveel mol water zit er in 36 g water?",
+   "answers": {
+    "a": "648 mol",
+    "b": "18,0 mol",
+    "c": "0,5 mol",
+    "d": "2,0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "De molaire massa van CO<sub>2</sub> is 44 g/mol. Hoeveel mol CO<sub>2</sub> zit er in 4,4 g CO<sub>2</sub>?",
+   "answers": {
+    "a": "194 mol",
+    "b": "0,2 mol",
+    "c": "0,10 mol",
+    "d": "10 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "De molaire massa van NaCl is 58,5 g/mol. Hoeveel gram NaCl is 0,40 mol?",
+   "answers": {
+    "a": "58,9 g",
+    "b": "146 g",
+    "c": "0,01 g",
+    "d": "23,4 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "De molaire massa van H<sub>2</sub>SO<sub>4</sub> is 98 g/mol. Hoeveel mol is 49 g H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "4802 mol",
+    "b": "2,0 mol",
+    "c": "51 mol",
+    "d": "0,5 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In de reactie 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O reageert 3,0 mol H<sub>2</sub>. Hoeveel mol H<sub>2</sub>O ontstaat er?",
+   "answers": {
+    "a": "2,0 mol",
+    "b": "6,0 mol",
+    "c": "3,0 mol",
+    "d": "1,5 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In de reactie 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O reageert 4,0 mol H<sub>2</sub>. Hoeveel mol O<sub>2</sub> is daarvoor nodig?",
+   "answers": {
+    "a": "1,0 mol",
+    "b": "8,0 mol",
+    "c": "4,0 mol",
+    "d": "2,0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij de reactie N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> reageert 6,0 mol H<sub>2</sub>. Hoeveel mol NH<sub>3</sub> ontstaat er?",
+   "answers": {
+    "a": "9,0 mol",
+    "b": "6,0 mol",
+    "c": "2,0 mol",
+    "d": "4,0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 0,50 mol Mg. Hoeveel mol MgO ontstaat er?",
+   "answers": {
+    "a": "0,50 mol",
+    "b": "0,75 mol",
+    "c": "0,25 mol",
+    "d": "1,00 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent een molaire massa van 18 g/mol voor water?",
+   "answers": {
+    "a": "Eén mol water heeft een massa van 18 g",
+    "b": "Eén molecuul water heeft een massa van 18 g",
+    "c": "Water heeft een dichtheid van 18 g/cm<sup>3</sup>",
+    "d": "18 mol water heeft een massa van 1 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de massa van 2,0 mol CO<sub>2</sub>? Molaire massa CO<sub>2</sub> = 44 g/mol.",
+   "answers": {
+    "a": "22 g",
+    "b": "88 g",
+    "c": "176 g",
+    "d": "46 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat lees je af uit 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "2 mol H<sub>2</sub> reageert met 2 mol O<sub>2</sub> tot 2 mol H<sub>2</sub>O",
+    "b": "2 mol H<sub>2</sub> en 1 mol O<sub>2</sub> geven 3 mol H<sub>2</sub>O",
+    "c": "1 mol H<sub>2</sub> reageert met 1 mol O<sub>2</sub> tot 1 mol H<sub>2</sub>O",
+    "d": "2 mol H<sub>2</sub> reageert met 1 mol O<sub>2</sub> tot 2 mol H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel mol CO<sub>2</sub> is 22 g CO<sub>2</sub>? Molaire massa CO<sub>2</sub> = 44 g/mol.",
+   "answers": {
+    "a": "968 mol",
+    "b": "0,5 mol",
+    "c": "2 mol",
+    "d": "28 mol"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "title": "Basiskennis scheikunde - 123 school",
+ "heading": "Basiskennis scheikunde",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is het symbool van natrium?",
+   "a": "Na"
+  },
+  {
+   "q": "Wat is het symbool van chloor?",
+   "a": "Cl"
+  },
+  {
+   "q": "Wat is het symbool van ijzer?",
+   "a": "Fe"
+  },
+  {
+   "q": "Wat is het symbool van koper?",
+   "a": "Cu"
+  },
+  {
+   "q": "Wat is het symbool van zwavel?",
+   "a": "S"
+  },
+  {
+   "q": "Welk element heeft het symbool Mg?",
+   "a": "Magnesium"
+  },
+  {
+   "q": "Welk element heeft het symbool Ag? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "a": "Zilver"
+  },
+  {
+   "q": "Wat is de formule van water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Wat is de formule van koolstofdioxide?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de formule van keukenzout (natriumchloride)?",
+   "a": "NaCl"
+  },
+  {
+   "q": "Wat is de formule van zuurstofgas?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de formule van waterstofchloride (zoutzuur is hiervan de oplossing in water)?",
+   "a": "HCl"
+  },
+  {
+   "q": "Reken om naar kelvin: 27 °C",
+   "a": "27 + 273 = 300 K"
+  },
+  {
+   "q": "Reken om naar kelvin: 100 °C",
+   "a": "100 + 273 = 373 K"
+  },
+  {
+   "q": "Reken om naar graden Celsius: 300 K",
+   "a": "300 − 273 = 27 °C"
+  },
+  {
+   "q": "Reken om naar graden Celsius: 250 K",
+   "a": "250 − 273 = -23 °C"
+  },
+  {
+   "q": "Een blokje heeft een massa van 120 g en een volume van 40 cm³. Wat is de dichtheid?",
+   "a": "120 / 40 = 3,0 g/cm³"
+  },
+  {
+   "q": "Een vloeistof heeft een dichtheid van 0,80 g/mL. Wat is de massa van 250 mL?",
+   "a": "0,80 × 250 = 200 g"
+  },
+  {
+   "q": "Een stof heeft een dichtheid van 2,5 g/cm³ en een massa van 75 g. Wat is het volume?",
+   "a": "75 / 2,5 = 30 cm³"
+  },
+  {
+   "q": "Een stof heeft een dichtheid van 0,90 g/mL. Zinkt of drijft de stof in water (1,0 g/mL)?",
+   "a": "Hij drijft, want de dichtheid is kleiner dan die van water"
+  },
+  {
+   "q": "In 500 g brood zit 10 g zout. Wat is het massapercentage zout?",
+   "a": "10 / 500 × 100% = 2,0%"
+  },
+  {
+   "q": "Een oplossing van 40 g suiker in 160 g water heeft een totale massa van 200 g. Wat is het massapercentage suiker?",
+   "a": "40 / 200 × 100% = 20%"
+  },
+  {
+   "q": "Hoeveel gram zout zit er in 800 g brood met 1,5 massa% zout?",
+   "a": "1,5% van 800 g = 0,015 × 800 = 12 g"
+  },
+  {
+   "q": "In 200 mL desinfectiemiddel zit 140 mL alcohol. Wat is het volumepercentage alcohol?",
+   "a": "140 / 200 × 100% = 70%"
+  },
+  {
+   "q": "Een drankje van 250 mL bevat 5,0 volume% alcohol. Hoeveel mL alcohol zit erin?",
+   "a": "0,050 × 250 = 12,5 mL (13 mL in 2 significante cijfers)",
+   "goed": [
+    "12,5 mL",
+    "13 mL"
+   ]
+  },
+  {
+   "q": "Lucht bevat ongeveer 21 volume% zuurstof. Hoeveel mL zuurstof zit er in 1000 mL lucht?",
+   "a": "0,21 × 1000 = 210 mL"
+  },
+  {
+   "q": "Waar staan de letters van BAEDFIA voor?",
+   "a": "Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen"
+  },
+  {
+   "q": "Met welke methode scheid je zand en water?",
+   "a": "Filtreren (of bezinken en afgieten)"
+  },
+  {
+   "q": "Met welke methode haal je opgelost zout uit zout water terug, zonder het water te bewaren?",
+   "a": "Indampen"
+  },
+  {
+   "q": "Met welke methode maak je uit zeewater drinkwater en bewaar je het water?",
+   "a": "Destilleren"
+  },
+  {
+   "q": "Op welk verschil tussen stoffen berust destilleren?",
+   "a": "Het verschil in kookpunt"
+  },
+  {
+   "q": "Hoe heet een zuivere stof die uit één soort atoom bestaat, zoals ijzer?",
+   "a": "Een element"
+  },
+  {
+   "q": "Wat is de molecuulmassa van CO<sub>2</sub>? (C = 12,0 u; O = 16,0 u)",
+   "a": "12,0 + 2 × 16,0 = 44,0 u"
+  },
+  {
+   "q": "Hoeveel atomen zitten er in H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "2 + 1 + 4 = 7 atomen"
+  },
+  {
+   "q": "Hoe heet de overgang van gas naar vloeistof?",
+   "a": "Condenseren"
+  }
+ ]
+}

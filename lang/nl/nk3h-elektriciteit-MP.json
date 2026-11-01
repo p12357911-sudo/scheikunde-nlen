@@ -1,0 +1,347 @@
+{
+ "title": "Elektriciteit - 123 school",
+ "heading": "Elektriciteit",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat doet een generator?",
+   "answers": {
+    "a": "Hij slaat elektrische energie op",
+    "b": "Hij zet bewegingsenergie om in elektrische energie",
+    "c": "Hij zet elektrische energie om in bewegingsenergie",
+    "d": "Hij maakt de spanning hoger of lager"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een elektriciteitscentrale?",
+   "answers": {
+    "a": "Een plek waar elektrische energie wordt opgewekt",
+    "b": "Een plek waar de spanning in huis wordt verlaagd",
+    "c": "Een plek waar elektrische energie wordt opgeslagen",
+    "d": "Een plek waar het stroomverbruik wordt gemeten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom gebruikt men hoogspanning om elektriciteit over lange afstand te vervoeren?",
+   "answers": {
+    "a": "Het is veiliger voor mensen",
+    "b": "De kabels worden dan warmer",
+    "c": "De elektriciteit gaat dan langzamer",
+    "d": "Er gaat dan minder energie verloren in de kabels"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat doet een transformator?",
+   "answers": {
+    "a": "Hij maakt elektrische energie",
+    "b": "Hij zet elektrische energie om in warmte",
+    "c": "Hij maakt de spanning hoger of lager",
+    "d": "Hij meet de spanning"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de eenheid van spanning?",
+   "answers": {
+    "a": "Joule",
+    "b": "Volt",
+    "c": "Watt",
+    "d": "Ampère"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de eenheid van vermogen?",
+   "answers": {
+    "a": "Newton",
+    "b": "Volt",
+    "c": "Watt",
+    "d": "Kilowattuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule geldt voor vermogen (P), energie (E) en tijd (t)?",
+   "answers": {
+    "a": "P = t : E",
+    "b": "P = E × t",
+    "c": "P = E + t",
+    "d": "P = E : t"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke eenheid staat op je energierekening?",
+   "answers": {
+    "a": "kWh",
+    "b": "W",
+    "c": "kW",
+    "d": "V"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een apparaat van 2000 W staat 3 uur aan. Hoeveel energie gebruikt het?",
+   "answers": {
+    "a": "0,67 kWh",
+    "b": "1,5 kWh",
+    "c": "6 kWh",
+    "d": "2003 kWh"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel kW is 1500 W?",
+   "answers": {
+    "a": "1,5 kW",
+    "b": "15 kW",
+    "c": "150 kW",
+    "d": "0,15 kW"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een kilowattuur kost € 0,30. Wat kosten 5 kWh?",
+   "answers": {
+    "a": "€ 5,30",
+    "b": "€ 15,00",
+    "c": "€ 0,06",
+    "d": "€ 1,50"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een apparaat gebruikt 600 J energie in 10 s. Wat is het vermogen?",
+   "answers": {
+    "a": "590 W",
+    "b": "60 W",
+    "c": "0,6 W",
+    "d": "6000 W"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een lamp van 40 W brandt twee keer zo lang. Wat wordt dan twee keer zo groot?",
+   "answers": {
+    "a": "De weerstand",
+    "b": "De spanning",
+    "c": "Het vermogen",
+    "d": "De verbruikte energie"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de spanning van het stopcontact in huis?",
+   "answers": {
+    "a": "12 V",
+    "b": "230 V",
+    "c": "2300 V",
+    "d": "23 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk apparaat meet spanning en stroomsterkte?",
+   "answers": {
+    "a": "Een multimeter",
+    "b": "Een transformator",
+    "c": "Een generator",
+    "d": "Een zekering"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Op welke draad in een stopcontact staat spanning?",
+   "answers": {
+    "a": "De aardedraad",
+    "b": "Op geen enkele draad",
+    "c": "De fasedraad",
+    "d": "De nuldraad"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een zekering bij een te grote stroomsterkte?",
+   "answers": {
+    "a": "Hij slaat energie op",
+    "b": "Hij onderbreekt de stroomkring",
+    "c": "Hij maakt de spanning hoger",
+    "d": "Hij maakt de stroom sterker"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je sluit te veel apparaten tegelijk aan op één groep. Hoe heet dit?",
+   "answers": {
+    "a": "Spanningsval",
+    "b": "Aarding",
+    "c": "Kortsluiting",
+    "d": "Overbelasting"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is kortsluiting?",
+   "answers": {
+    "a": "De stroom loopt langs een weg met bijna geen weerstand",
+    "b": "Het snoer is te lang",
+    "c": "Er zijn te veel apparaten aangesloten",
+    "d": "De spanning is te laag"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doet een aardlekschakelaar?",
+   "answers": {
+    "a": "Hij maakt de spanning lager",
+    "b": "Hij meet het stroomverbruik",
+    "c": "Hij schakelt de stroom uit als er stroom weglekt naar de aarde",
+    "d": "Hij voorkomt dat een zekering doorsmelt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarvoor dient de aardedraad?",
+   "answers": {
+    "a": "Om meer spanning te krijgen",
+    "b": "Om energie te meten",
+    "c": "Om het vermogen te verhogen",
+    "d": "Voor veiligheid bij een defect aan een apparaat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke situatie is gevaarlijk?",
+   "answers": {
+    "a": "Een telefoon opladen met de oplader",
+    "b": "Een stekker met droge handen uit het stopcontact trekken",
+    "c": "Een föhn gebruiken terwijl je in bad zit",
+    "d": "Een lamp aanzetten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de eenheid van stroomsterkte?",
+   "answers": {
+    "a": "Ohm (Ω)",
+    "b": "Volt (V)",
+    "c": "Watt (W)",
+    "d": "Ampère (A)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule geldt voor het elektrisch vermogen?",
+   "answers": {
+    "a": "P = U / I",
+    "b": "P = U + I",
+    "c": "P = I / U",
+    "d": "P = U × I"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een wasmachine werkt op 230 V en neemt 10 A op. Hoeveel is het vermogen?",
+   "answers": {
+    "a": "2300 W",
+    "b": "0,043 W",
+    "c": "23 W",
+    "d": "240 W"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een föhn van 1840 W is aangesloten op 230 V. Hoe groot is de stroomsterkte?",
+   "answers": {
+    "a": "8,0 A",
+    "b": "0,13 A",
+    "c": "1610 A",
+    "d": "4,2 × 10<sup>5</sup> A"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel joule is 1 kWh?",
+   "answers": {
+    "a": "1,0 × 10<sup>3</sup> J",
+    "b": "3,6 × 10<sup>3</sup> J",
+    "c": "6,0 × 10<sup>4</sup> J",
+    "d": "3,6 × 10<sup>6</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een apparaat van 1200 W staat 2,5 uur aan. Een kWh kost € 0,30. Hoeveel kost dat?",
+   "answers": {
+    "a": "€ 0,36",
+    "b": "€ 3,00",
+    "c": "€ 0,90",
+    "d": "€ 9,00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reken om: 250 mA in A.",
+   "answers": {
+    "a": "250 A",
+    "b": "0,0250 A",
+    "c": "2,50 A",
+    "d": "0,250 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een apparaat van 4,0 W staat een heel jaar (365 dagen) dag en nacht op stand-by. Hoeveel kWh is dat?",
+   "answers": {
+    "a": "1,4 × 10<sup>3</sup> kWh",
+    "b": "35 kWh",
+    "c": "0,096 kWh",
+    "d": "96 kWh"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je hebt lampen van 11 W, 40 W en 60 W. Welke gebruikt in 1 uur de meeste energie?",
+   "answers": {
+    "a": "De lamp van 60 W",
+    "b": "De lamp van 40 W",
+    "c": "Alle lampen gebruiken evenveel",
+    "d": "De lamp van 11 W"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet het apparaat waarmee een energiebedrijf je verbruik meet?",
+   "answers": {
+    "a": "Een voltmeter",
+    "b": "Een kWh-meter (energiemeter)",
+    "c": "Een krachtmeter",
+    "d": "Een thermometer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de eenheid van energie?",
+   "answers": {
+    "a": "Newton (N)",
+    "b": "Ampère (A)",
+    "c": "Joule (J)",
+    "d": "Watt (W)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er met de stroomsterkte als het vermogen groter wordt bij dezelfde spanning?",
+   "answers": {
+    "a": "De stroomsterkte wordt nul",
+    "b": "De stroomsterkte blijft gelijk",
+    "c": "De stroomsterkte wordt kleiner",
+    "d": "De stroomsterkte wordt groter"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

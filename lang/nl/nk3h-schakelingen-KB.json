@@ -1,0 +1,150 @@
+{
+ "title": "Schakelingen - 123 school",
+ "heading": "Schakelingen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "q": "Hoe wordt een ampèremeter in een schakeling geplaatst?",
+   "a": "In serie met het onderdeel"
+  },
+  {
+   "q": "Hoe wordt een voltmeter in een schakeling geplaatst?",
+   "a": "Parallel aan het onderdeel"
+  },
+  {
+   "q": "Wat is de wet van Ohm?",
+   "a": "U = I × R"
+  },
+  {
+   "q": "Door een weerstand van 12 Ω loopt 0,50 A. Hoe groot is de spanning?",
+   "a": "U = I × R = 0,50 × 12 = 6,0 V"
+  },
+  {
+   "q": "Over een weerstand staat 9,0 V en er loopt 0,30 A. Hoe groot is de weerstand?",
+   "a": "R = U / I = 9,0 / 0,30 = 30 Ω"
+  },
+  {
+   "q": "Een verwarmingselement van 46 Ω staat aan 230 V. Hoe groot is de stroomsterkte?",
+   "a": "I = U / R = 230 / 46 = 5,0 A"
+  },
+  {
+   "q": "Wat is de eenheid van weerstand?",
+   "a": "Ohm (Ω)"
+  },
+  {
+   "q": "Wat geldt voor de stroomsterkte in een serieschakeling?",
+   "a": "De stroomsterkte is overal gelijk"
+  },
+  {
+   "q": "Wat geldt voor de spanning in een serieschakeling?",
+   "a": "De bronspanning verdeelt zich over de onderdelen"
+  },
+  {
+   "q": "Wat geldt voor de spanning over onderdelen die parallel zijn geschakeld?",
+   "a": "Over elk onderdeel staat dezelfde spanning"
+  },
+  {
+   "q": "Wat geldt voor de stroomsterkte in een parallelschakeling?",
+   "a": "De totale stroom is de som van de stromen door de takken"
+  },
+  {
+   "q": "Wat gebeurt er met de andere lampen als één lamp in een serieschakeling doorbrandt?",
+   "a": "Alle lampen gaan uit"
+  },
+  {
+   "q": "Wat gebeurt er met de andere lampen als één lamp in een parallelschakeling doorbrandt?",
+   "a": "De andere lampen blijven branden"
+  },
+  {
+   "q": "Hoe zijn de apparaten in een huis aangesloten?",
+   "a": "Parallel"
+  },
+  {
+   "q": "Twee weerstanden van 10 Ω en 15 Ω staan in serie. Wat is de vervangingsweerstand?",
+   "a": "R<sub>v</sub> = R<sub>1</sub> + R<sub>2</sub> = 10 + 15 = 25 Ω"
+  },
+  {
+   "q": "Drie weerstanden van 8,0 Ω staan in serie. Wat is de vervangingsweerstand?",
+   "a": "R<sub>v</sub> = 3 × 8,0 = 24 Ω"
+  },
+  {
+   "q": "Twee weerstanden van 6,0 Ω en 3,0 Ω staan parallel. Wat is de vervangingsweerstand? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)",
+   "a": "1/R<sub>v</sub> = 1/6,0 + 1/3,0 = 1/2,0, dus R<sub>v</sub> = 2,0 Ω"
+  },
+  {
+   "q": "Twee gelijke weerstanden van 20 Ω staan parallel. Wat is de vervangingsweerstand?",
+   "a": "Bij twee gelijke weerstanden is R<sub>v</sub> de helft: 10 Ω"
+  },
+  {
+   "q": "Wat gebeurt er met de vervangingsweerstand als je een extra weerstand parallel schakelt?",
+   "a": "De vervangingsweerstand wordt kleiner"
+  },
+  {
+   "q": "Twee weerstanden van 10 Ω en 15 Ω staan in serie op een bron van 12 V. Hoe groot is de stroomsterkte?",
+   "a": "R<sub>v</sub> = 25 Ω; I = U / R<sub>v</sub> = 12 / 25 = 0,48 A"
+  },
+  {
+   "q": "Dezelfde schakeling: 10 Ω en 15 Ω in serie op 12 V, stroom 0,48 A. Hoe groot is de spanning over de weerstand van 10 Ω?",
+   "a": "U = I × R = 0,48 × 10 = 4,8 V"
+  },
+  {
+   "q": "Een weerstand van 6,0 Ω en een weerstand van 12 Ω staan parallel op 12 V. Hoe groot is de totale stroomsterkte?",
+   "a": "I<sub>1</sub> = 12 / 6,0 = 2,0 A; I<sub>2</sub> = 12 / 12 = 1,0 A; I<sub>tot</sub> = 3,0 A"
+  },
+  {
+   "q": "In een parallelschakeling meten twee ampèremeters in de takken 0,30 A en 0,20 A. Hoe groot is de totale stroom?",
+   "a": "0,30 + 0,20 = 0,50 A"
+  },
+  {
+   "q": "In een serieschakeling meten twee voltmeters over twee lampen 4,0 V en 2,0 V. Hoe groot is de bronspanning?",
+   "a": "4,0 + 2,0 = 6,0 V"
+  },
+  {
+   "q": "Je schakelt twee batterijen van 1,5 V in serie. Hoe groot is de totale spanning?",
+   "a": "1,5 + 1,5 = 3,0 V"
+  },
+  {
+   "q": "Een lamp van 6,0 V heeft een vermogen van 3,0 W. Hoe groot is de stroomsterkte door de lamp? (P = U × I)",
+   "a": "I = P / U = 3,0 / 6,0 = 0,50 A"
+  },
+  {
+   "q": "Wat gebeurt er met de weerstand van een dunne draad ten opzichte van een dikke draad (zelfde materiaal en lengte)?",
+   "a": "De dunne draad heeft een grotere weerstand"
+  },
+  {
+   "q": "Wat gebeurt er met de weerstand van een draad als je de draad twee keer zo lang maakt?",
+   "a": "De weerstand wordt twee keer zo groot"
+  },
+  {
+   "q": "Wat doet een NTC bij een hogere temperatuur?",
+   "a": "De weerstand wordt kleiner"
+  },
+  {
+   "q": "Wat doet een LDR als er meer licht op valt?",
+   "a": "De weerstand wordt kleiner"
+  },
+  {
+   "q": "Waarvoor gebruik je een schuifweerstand (variabele weerstand)?",
+   "a": "Om de weerstand en daarmee de stroomsterkte te regelen"
+  },
+  {
+   "q": "Wat gebeurt er bij kortsluiting?",
+   "a": "Er loopt een zeer grote stroom doordat de weerstand heel klein is"
+  },
+  {
+   "q": "Drie gelijke weerstanden van 30 Ω staan parallel. Wat is de vervangingsweerstand?",
+   "a": "Bij drie gelijke weerstanden is R<sub>v</sub> een derde: 30 / 3 = 10 Ω"
+  },
+  {
+   "q": "Waar sluit je een voltmeter aan om de spanning over een lamp te meten?",
+   "a": "Parallel aan de lamp (aan beide kanten van de lamp aangesloten)"
+  },
+  {
+   "q": "Noem twee voordelen van een parallelschakeling in huis.",
+   "a": "Elk apparaat krijgt de volle netspanning en je kunt apparaten apart aan- en uitzetten"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "title": "Significante cijfers en stapelopdrachten - 123 school",
+ "heading": "Significante cijfers en stapelopdrachten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden. Bij een stapelopdracht staat in de tip hoeveel stappen je nodig hebt."
+ ],
+ "questions": [
+  {
+   "q": "Hoeveel significante cijfers heeft 0,0480?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,0070?",
+   "a": "2"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,300?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 6,0?",
+   "a": "2"
+  },
+  {
+   "q": "Rond 1,0449 af op 3 significante cijfers.",
+   "a": "1,04",
+   "e": "1,0449 afgerond op 3 significante cijfers = 1,04"
+  },
+  {
+   "q": "Rond 29,995 af op 4 significante cijfers.",
+   "a": "30,00",
+   "e": "29,995 afgerond op 4 significante cijfers = 30,00"
+  },
+  {
+   "q": "Bereken 12,5 + 3,25. Geef het antwoord met het juiste aantal decimalen.",
+   "a": "15,8",
+   "e": "12,5 + 3,25 = 15,75; de getallen hebben 1 en 2 decimalen, dus afronden op 1 decimaal geeft 15,8"
+  },
+  {
+   "q": "Bereken 0,056 + 1,2. Geef het antwoord met het juiste aantal decimalen.",
+   "a": "1,3",
+   "e": "0,056 + 1,2 = 1,256; de getallen hebben 3 en 1 decimalen, dus afronden op 1 decimaal geeft 1,3"
+  },
+  {
+   "q": "Bereken 45,67 − 0,2. Geef het antwoord met het juiste aantal decimalen.",
+   "a": "45,5",
+   "e": "45,67 − 0,2 = 45,47; de getallen hebben 2 en 1 decimalen, dus afronden op 1 decimaal geeft 45,5"
+  },
+  {
+   "q": "Bereken 7,0 + 0,25. Geef het antwoord met het juiste aantal decimalen.",
+   "a": "7,3",
+   "e": "7,0 + 0,25 = 7,25; de getallen hebben 1 en 2 decimalen, dus afronden op 1 decimaal geeft 7,3"
+  },
+  {
+   "q": "Welke regel geldt bij vermenigvuldigen en delen?",
+   "a": "Het antwoord heeft evenveel significante cijfers als het getal met de minste significante cijfers."
+  },
+  {
+   "q": "Wat moet je doen vóór je 2,5 g en 125 mg optelt?",
+   "a": "Eerst beide in dezelfde eenheid zetten"
+  },
+  {
+   "q": "Schrijf de formule n = m / M om, zodat M links staat.",
+   "a": "M = m / n"
+  },
+  {
+   "q": "Schrijf de formule c = n / V om, zodat n links staat.",
+   "a": "n = c × V"
+  },
+  {
+   "q": "Hoeveel K is 25 °C?",
+   "a": "298 K",
+   "e": "T = 25 + 273 = 298 K"
+  },
+  {
+   "q": "Los op: x / 18,0 = 2,50. Wat is x?",
+   "a": "45,0",
+   "e": "x = 2,50 × 18,0 = 45,0"
+  },
+  {
+   "q": "Los op: 2x − 1,0 = 5,0. Wat is x?",
+   "a": "3,0",
+   "e": "2x = 6,0, dus x = 3,0"
+  },
+  {
+   "q": "Een oplossing heeft een concentratie van 0,80 g/L. Hoeveel gram opgeloste stof zit er in 250 mL van deze oplossing? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,20 g",
+   "e": "Stap 1: 250 mL = 0,250 L. Stap 2: 0,80 g/L × 0,250 L = 0,20 g"
+  },
+  {
+   "q": "Een vloeistof heeft een dichtheid van 0,92 g/mL. Wat is het volume in L van 150 g van deze vloeistof? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,16 L",
+   "e": "Stap 1: 150 g : 0,92 g/mL = 163,0 mL. Stap 2: 163,0 mL = 0,16 L"
+  },
+  {
+   "q": "Je hebt 25,0 mL ethanol met een dichtheid van 0,79 g/mL. De molaire massa is 46,0 g/mol. Hoeveel mol ethanol is dat? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,43 mol",
+   "e": "Stap 1: 0,79 g/mL × 25,0 mL = 19,75 g. Stap 2: 19,75 g : 46,0 g/mol = 0,43 mol"
+  },
+  {
+   "q": "Je hebt 250 mL oplossing met een concentratie van 0,200 mol/L. Hoeveel mol opgeloste stof zit erin? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,050 mol",
+   "e": "Stap 1: 250 mL = 0,250 L. Stap 2: 0,200 mol/L × 0,250 L = 0,050 mol"
+  },
+  {
+   "q": "Een lamp van 75 W brandt 4,0 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,30 kWh",
+   "e": "Stap 1: 75 W = 0,075 kW. Stap 2: 0,075 kW × 4,0 h = 0,30 kWh"
+  },
+  {
+   "q": "Je mengt 125 mL water (1,00 g/mL) met 45,0 mL ethanol (0,790 g/mL). Wat is de totale massa van het mengsel in gram? Rond af op 3 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "161 g",
+   "e": "Stap 1: 1,00 g/mL × 125 mL = 125 g water en 0,790 g/mL × 45,0 mL = 35,55 g ethanol. Stap 2: 125 g + 35,55 g = 161 g"
+  },
+  {
+   "q": "Je hebt 150 mL oplossing met een concentratie van 0,240 mol/L. Hoeveel mol opgeloste stof zit erin? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,036 mol",
+   "e": "Stap 1: 150 mL = 0,150 L. Stap 2: 0,240 mol/L × 0,150 L = 0,036 mol"
+  },
+  {
+   "q": "Je mengt 125 mL water (1,00 g/mL) met 45,0 mL ethanol (0,790 g/mL). Bereken het massapercentage water in het mengsel. Rond af op 3 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "77,9 %",
+   "e": "Stap 1: massa water = 125 g en massa ethanol = 35,55 g. Stap 2: totale massa = 160,55 g. Stap 3: 125 g : 160,55 g × 100% = 77,9%"
+  },
+  {
+   "q": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 3,20 g O<sub>2</sub>. De molaire massa van O<sub>2</sub> is 32,0 g/mol en van MgO is 40,3 g/mol. Hoeveel gram MgO is er nodig of ontstaat er? Rond af op 3 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "8,06 g",
+   "e": "Stap 1: 3,20 g : 32,0 g/mol = 0,100 mol O<sub>2</sub>. Stap 2: molverhouding O<sub>2</sub> : MgO, dus 0,200 mol MgO. Stap 3: 0,200 mol × 40,3 g/mol = 8,06 g"
+  },
+  {
+   "q": "Je verdunt 25,0 mL oplossing van 2,00 mol/L met water tot 250 mL. Wat is de concentratie van de verdunde oplossing in mol/L? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,20 mol/L",
+   "e": "Stap 1: n = 2,00 mol/L × 0,0250 L = 0,0500 mol. Stap 2: 250 mL = 0,250 L. Stap 3: 0,0500 mol : 0,250 L = 0,20 mol/L"
+  }
+ ]
+}

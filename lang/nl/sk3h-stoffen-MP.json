@@ -1,0 +1,347 @@
+{
+ "title": "Materialen en stoffen - 123 school",
+ "heading": "Materialen en stoffen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat is dichtheid?",
+   "answers": {
+    "a": "De temperatuur waarbij een stof smelt",
+    "b": "Het volume van een stof per massa",
+    "c": "De hoeveelheid stof die oplost in water",
+    "d": "De massa van een stof per volume"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule geldt voor de dichtheid (ρ)?",
+   "answers": {
+    "a": "ρ = m × V",
+    "b": "ρ = m : V",
+    "c": "ρ = V : m",
+    "d": "ρ = m − V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke eenheid hoort bij dichtheid?",
+   "answers": {
+    "a": "mL",
+    "b": "°C",
+    "c": "g/cm<sup>3</sup>",
+    "d": "g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een blokje heeft een massa van 54 g en een volume van 20 cm<sup>3</sup>. Wat is de dichtheid?",
+   "answers": {
+    "a": "2,7 g/cm<sup>3</sup>",
+    "b": "0,37 g/cm<sup>3</sup>",
+    "c": "1080 g/cm<sup>3</sup>",
+    "d": "34 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Olie heeft een lagere dichtheid dan water. Wat gebeurt er als je olie op water giet?",
+   "answers": {
+    "a": "De olie zinkt naar de bodem",
+    "b": "De olie verdampt direct",
+    "c": "De olie drijft op het water",
+    "d": "De olie lost op in het water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een stofeigenschap?",
+   "answers": {
+    "a": "Een eigenschap die bij een stof hoort, ongeacht de hoeveelheid",
+    "b": "De vorm van het voorwerp waar de stof in zit",
+    "c": "Een eigenschap die verandert als je meer stof pakt",
+    "d": "De verpakking van de stof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke eigenschap is een stofeigenschap?",
+   "answers": {
+    "a": "Volume",
+    "b": "Massa",
+    "c": "Lengte",
+    "d": "Smeltpunt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het smeltpunt van een stof?",
+   "answers": {
+    "a": "De temperatuur waarbij een stof ontleedt",
+    "b": "De temperatuur waarbij een vaste stof vloeibaar wordt",
+    "c": "De temperatuur waarbij een vloeistof gaat koken",
+    "d": "De temperatuur van de ruimte waarin je werkt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het kookpunt van water?",
+   "answers": {
+    "a": "50 °C",
+    "b": "0 °C",
+    "c": "100 °C",
+    "d": "37 °C"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is hydrofiel?",
+   "answers": {
+    "a": "Is erg zwaar",
+    "b": "Lost slecht op in water",
+    "c": "Kookt bij een lage temperatuur",
+    "d": "Lost goed op in water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een stof lost slecht op in water. Hoe noem je zo'n stof?",
+   "answers": {
+    "a": "Homogeen",
+    "b": "Hydrofoob",
+    "c": "Hydrofiel",
+    "d": "Heterogeen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat nemen we waar op macroniveau?",
+   "answers": {
+    "a": "Wat je met je zintuigen of metingen kunt zien",
+    "b": "Wat de moleculen doen",
+    "c": "Hoe atomen aan elkaar zitten",
+    "d": "Wat alleen een model kan beschrijven"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke uitspraak gaat over het microniveau?",
+   "answers": {
+    "a": "De stof is vloeibaar",
+    "b": "De moleculen bewegen sneller",
+    "c": "De stof is blauw",
+    "d": "De stof heeft een kookpunt van 78 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe zitten de moleculen in een gas?",
+   "answers": {
+    "a": "Ver uit elkaar en ze bewegen alle kanten op",
+    "b": "Ver uit elkaar en ze staan stil",
+    "c": "Dicht op elkaar, maar ze schuiven langs elkaar",
+    "d": "Dicht op elkaar op vaste plaatsen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er op microniveau als je een vloeistof verwarmt?",
+   "answers": {
+    "a": "De moleculen worden groter",
+    "b": "De moleculen verdwijnen",
+    "c": "De moleculen worden zwaarder",
+    "d": "De moleculen bewegen sneller"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke bewering over een zuivere stof klopt?",
+   "answers": {
+    "a": "Het kookpunt verandert tijdens het koken",
+    "b": "Het heeft een smelttraject",
+    "c": "Het heeft een vast smeltpunt",
+    "d": "Het bestaat uit meer soorten moleculen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stof begint bij 80 °C te smelten. Bij 85 °C is alles vloeibaar. Wat is deze stof?",
+   "answers": {
+    "a": "Een oplosmiddel",
+    "b": "Een element",
+    "c": "Een zuivere stof",
+    "d": "Een mengsel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk mengsel is homogeen?",
+   "answers": {
+    "a": "Water met olie",
+    "b": "Zand en grind",
+    "c": "Suiker opgelost in water",
+    "d": "Modderwater"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een suspensie?",
+   "answers": {
+    "a": "Een mengsel van vaste deeltjes in een vloeistof",
+    "b": "Een mengsel van gassen",
+    "c": "Een stof die helemaal is opgelost",
+    "d": "Een mengsel van twee vloeistoffen die niet mengen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Mayonaise is een voorbeeld van een…",
+   "answers": {
+    "a": "Suspensie",
+    "b": "Emulsie",
+    "c": "Oplossing",
+    "d": "Zuivere stof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je wilt zand en water scheiden. Welke methode gebruik je?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Chromatografie",
+    "c": "Indampen",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je wilt zuiver water uit zeewater halen. Welke methode gebruik je?",
+   "answers": {
+    "a": "Chromatografie",
+    "b": "Bezinken",
+    "c": "Destilleren",
+    "d": "Filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je wilt het opgeloste zout uit een zoutoplossing halen. Het water mag verdampen. Welke methode gebruik je?",
+   "answers": {
+    "a": "Chromatografie",
+    "b": "Filtreren",
+    "c": "Bezinken",
+    "d": "Indampen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Op welk verschil is destilleren gebaseerd?",
+   "answers": {
+    "a": "Verschil in smeltpunt",
+    "b": "Verschil in kookpunt",
+    "c": "Verschil in dichtheid",
+    "d": "Verschil in deeltjesgrootte"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Op welk verschil is filtreren gebaseerd?",
+   "answers": {
+    "a": "Verschil in dichtheid",
+    "b": "Verschil in smeltpunt",
+    "c": "Verschil in deeltjesgrootte",
+    "d": "Verschil in kookpunt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op welk verschil is chromatografie gebaseerd?",
+   "answers": {
+    "a": "Stoffen hebben een andere dichtheid",
+    "b": "Stoffen lopen verschillend ver mee met de vloeistof over het papier",
+    "c": "Stoffen hebben een andere deeltjesgrootte",
+    "d": "Stoffen koken bij een andere temperatuur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat blijft achter op het filter bij filtreren?",
+   "answers": {
+    "a": "Het filtraat",
+    "b": "Het destillaat",
+    "c": "De oplossing",
+    "d": "Het residu"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet de vloeistof die je opvangt bij destilleren?",
+   "answers": {
+    "a": "Destillaat",
+    "b": "Residu",
+    "c": "Oplosmiddel",
+    "d": "Filtraat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een vloeistof heeft een massa van 160 g en een volume van 200 cm<sup>3</sup>. Wat is de dichtheid?",
+   "answers": {
+    "a": "32 g/cm<sup>3</sup>",
+    "b": "0,80 g/cm<sup>3</sup>",
+    "c": "1,25 g/cm<sup>3</sup>",
+    "d": "80,00 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "IJzer heeft een dichtheid van 7,9 g/cm<sup>3</sup>. Een blokje ijzer heeft een volume van 5,0 cm<sup>3</sup>. Wat is de massa?",
+   "answers": {
+    "a": "2,9 g",
+    "b": "395 g",
+    "c": "0,63 g",
+    "d": "39,5 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een oplossing van 100 g bevat 12 g opgelost zout. Hoeveel massaprocent zout is dat?",
+   "answers": {
+    "a": "1,2%",
+    "b": "88%",
+    "c": "24%",
+    "d": "12%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een onbekend metaal heeft een massa van 27,0 g en een volume van 10,0 cm<sup>3</sup>. Dichtheden: aluminium 2,70 g/cm<sup>3</sup>, ijzer 7,87 g/cm<sup>3</sup>, koper 8,96 g/cm<sup>3</sup>, lood 11,3 g/cm<sup>3</sup>. Welk metaal is het?",
+   "answers": {
+    "a": "Koper",
+    "b": "Lood",
+    "c": "IJzer",
+    "d": "Aluminium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er bij adsorberen?",
+   "answers": {
+    "a": "De stof zakt naar de bodem",
+    "b": "Een stof hecht zich aan het oppervlak van een vaste stof, zoals actieve kool",
+    "c": "De stof lost op in water",
+    "d": "De stof verdampt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe bepaal je het volume van een onregelmatig voorwerp zoals een steen?",
+   "answers": {
+    "a": "Je meet het kookpunt",
+    "b": "Je weegt het voorwerp",
+    "c": "Je dompelt het onder in water en leest af hoeveel het waterniveau stijgt",
+    "d": "Je meet lengte, breedte en hoogte met een liniaal"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

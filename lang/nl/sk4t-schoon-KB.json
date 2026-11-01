@@ -1,0 +1,150 @@
+{
+ "title": "Schoonmaken en verzorgen - 123 school",
+ "heading": "Schoonmaken en verzorgen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Waarvan wordt natuurlijke zeep gemaakt?",
+   "a": "Van plantaardige en dierlijke oliën en vetten (synthetische zeep: van aardolieproducten)"
+  },
+  {
+   "q": "Uit welke twee delen bestaat een zeepmolecuul?",
+   "a": "Een kop en een staart"
+  },
+  {
+   "q": "Welk deel van een zeepmolecuul lost op in water?",
+   "a": "De kop"
+  },
+  {
+   "q": "Welk deel van een zeepmolecuul lost op in vet?",
+   "a": "De staart"
+  },
+  {
+   "q": "Wat is zeep voor soort stof?",
+   "a": "Een emulgator"
+  },
+  {
+   "q": "Wat doet zeep bij het schoonmaken?",
+   "a": "Het zorgt dat vet en water mengen, zodat het vet kan wegspoelen"
+  },
+  {
+   "q": "Wat is hard water?",
+   "a": "Water waarin veel kalk is opgelost. Zacht water bevat weinig kalk."
+  },
+  {
+   "q": "Wat is kalkzeep?",
+   "a": "Een witte vaste stof die ontstaat als zeep met kalk reageert"
+  },
+  {
+   "q": "Heb je met hard water meer of minder zeep nodig dan met zacht water?",
+   "a": "Meer zeep"
+  },
+  {
+   "q": "Wat zijn cosmetische middelen? Geef twee voorbeelden",
+   "a": "Middelen om je lichaam te verzorgen of te verfraaien. Bijvoorbeeld shampoo en tandpasta."
+  },
+  {
+   "q": "Wat is een crème?",
+   "a": "Een emulsie die je op je huid smeert"
+  },
+  {
+   "q": "Wat zijn de hoofdbestanddelen van een crème?",
+   "a": "Water, olie of vet en een emulgator"
+  },
+  {
+   "q": "Wat zijn de hoofdbestanddelen van shampoo?",
+   "a": "Water, zeep en keukenzout"
+  },
+  {
+   "q": "Wat zijn de hoofdbestanddelen van tandpasta?",
+   "a": "Zeep en een schuurmiddel"
+  },
+  {
+   "q": "Wat doet het schuurmiddel in tandpasta?",
+   "a": "Het poetst je tanden schoon"
+  },
+  {
+   "q": "Welk bestanddeel in tandpasta versnelt het herstel van je tandglazuur?",
+   "a": "Fluoride"
+  },
+  {
+   "q": "Wat is talg?",
+   "a": "Het vetlaagje (huidvet) op je huid"
+  },
+  {
+   "q": "Waarom kun je talg niet met alleen water verwijderen?",
+   "a": "Talg is vet en vet lost niet op in water"
+  },
+  {
+   "q": "Waarom heb je met hard water meer zeep nodig?",
+   "a": "Een deel van de zeep reageert met kalk tot kalkzeep. Er is dan minder werkzame zeep over."
+  },
+  {
+   "q": "Wat gebeurt er met je huid als je alle talg weg wast?",
+   "a": "Je huid droogt uit"
+  },
+  {
+   "q": "Wat betekent hydrofiel?",
+   "a": "Waterminnend: de stof of het deel van het molecuul lost goed op in water"
+  },
+  {
+   "q": "Wat betekent hydrofoob?",
+   "a": "Watervrezend: de stof of het deel van het molecuul lost niet op in water"
+  },
+  {
+   "q": "Welk deel van een zeepmolecuul is hydrofiel en welk deel is hydrofoob?",
+   "a": "De kop is hydrofiel, de staart is hydrofoob"
+  },
+  {
+   "q": "Waarom lost vet niet op in water?",
+   "a": "Vet is hydrofoob"
+  },
+  {
+   "q": "Hoe zorgen zeepmoleculen ervoor dat een vetdruppel kan wegspoelen?",
+   "a": "De staarten zitten in het vet en de koppen steken in het water"
+  },
+  {
+   "q": "Welke functie heeft water bij het wassen van kleding?",
+   "a": "Oplosmiddel en spoelmiddel"
+  },
+  {
+   "q": "Welke pH heeft een allesreiniger voor vet meestal?",
+   "a": "Hoger dan 7 (basisch)"
+  },
+  {
+   "q": "Welke pH heeft een ontkalker meestal?",
+   "a": "Lager dan 7 (zuur)"
+  },
+  {
+   "q": "Waarom helpt een zuur zoals azijn tegen kalkaanslag?",
+   "a": "Het zuur reageert met kalk tot een oplosbaar zout, water en koolstofdioxide"
+  },
+  {
+   "q": "Je giet ontkalker op kalkaanslag en het gaat borrelen. Welk gas ontstaat er?",
+   "a": "Koolstofdioxide"
+  },
+  {
+   "q": "Welke soort stof is een afvoerontstopper met natronloog?",
+   "a": "Een sterke base"
+  },
+  {
+   "q": "Waarom is frisdrank slecht voor je tanden?",
+   "a": "Frisdrank is zuur en tast het tandglazuur aan"
+  },
+  {
+   "q": "Salmiak (NH<sub>4</sub>Cl) ontleedt bij verhitten. Wat is de reactievergelijking?",
+   "a": "NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (g)"
+  },
+  {
+   "q": "Wat is een emulsie?",
+   "a": "Een mengsel waarin kleine druppeltjes van de ene vloeistof in een andere vloeistof zitten"
+  },
+  {
+   "q": "Wat is een emulgator?",
+   "a": "Een stof die ervoor zorgt dat water en olie of vet mengen"
+  }
+ ]
+}

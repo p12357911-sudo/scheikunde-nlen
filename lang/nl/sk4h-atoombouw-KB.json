@@ -1,0 +1,149 @@
+{
+ "title": "Atoombouw en periodiek systeem - 123 school",
+ "heading": "Atoombouw en periodiek systeem",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Welke lading hebben een proton, een neutron en een elektron?",
+   "a": "Proton positief (1+), neutron geen lading, elektron negatief (1−)"
+  },
+  {
+   "q": "Waar zit bijna alle massa van een atoom?",
+   "a": "In de kern"
+  },
+  {
+   "q": "Wat is het atoomnummer?",
+   "a": "Het aantal protonen"
+  },
+  {
+   "q": "Wat is het massagetal?",
+   "a": "Het aantal protonen plus het aantal neutronen"
+  },
+  {
+   "q": "Hoe bereken je het aantal neutronen?",
+   "a": "Massagetal min atoomnummer"
+  },
+  {
+   "q": "Een chlooratoom heeft massagetal 35 en atoomnummer 17. Hoeveel neutronen heeft het?",
+   "a": "35 − 17 = 18"
+  },
+  {
+   "q": "Hoeveel elektronen heeft een neutraal atoom?",
+   "a": "Evenveel als het aantal protonen"
+  },
+  {
+   "q": "Wat zijn isotopen?",
+   "a": "Atomen van hetzelfde element met een verschillend aantal neutronen"
+  },
+  {
+   "q": "Wat is de eenheid van atoommassa?",
+   "a": "u"
+  },
+  {
+   "q": "Waarom is de atoommassa in BINAS (tabel 99) geen heel getal?",
+   "a": "Het is een gemiddelde van de massa's van de isotopen"
+  },
+  {
+   "q": "Hoe heten de rijen en de kolommen van het periodiek systeem?",
+   "a": "Rijen: perioden. Kolommen: groepen."
+  },
+  {
+   "q": "Wat hebben elementen in dezelfde groep gelijk?",
+   "a": "Hetzelfde aantal valentie-elektronen"
+  },
+  {
+   "q": "Wat hebben elementen in dezelfde periode gelijk?",
+   "a": "Hetzelfde aantal schillen met elektronen"
+  },
+  {
+   "q": "Hoeveel elektronen kunnen er maximaal in de K-, L- en M-schil?",
+   "a": "K: 2, L: 8, M: 18"
+  },
+  {
+   "q": "Wat zijn valentie-elektronen?",
+   "a": "De elektronen in de buitenste schil"
+  },
+  {
+   "q": "Wat is de elektronenverdeling van zuurstof (atoomnummer 8)?",
+   "a": "K = 2, L = 6"
+  },
+  {
+   "q": "Wat is de elektronenverdeling van chloor (atoomnummer 17)?",
+   "a": "K = 2, L = 8, M = 7"
+  },
+  {
+   "q": "Hoeveel valentie-elektronen heeft een element in groep 17?",
+   "a": "7"
+  },
+  {
+   "q": "Wat is een edelgasconfiguratie?",
+   "a": "Een buitenste schil die helemaal gevuld is"
+  },
+  {
+   "q": "Welke groep bevat de edelgassen?",
+   "a": "Groep 18"
+  },
+  {
+   "q": "Hoe heten de elementen in groep 1 (behalve waterstof) en in groep 17?",
+   "a": "Groep 1: alkalimetalen. Groep 17: halogenen."
+  },
+  {
+   "q": "Wat is een ion?",
+   "a": "Een geladen deeltje (een atoom dat elektronen heeft opgenomen of afgestaan)"
+  },
+  {
+   "q": "Wat gebeurt er als natrium (atoomnummer 11) een Na<sup>+</sup>-ion wordt?",
+   "a": "Het staat 1 elektron af"
+  },
+  {
+   "q": "Hoeveel elektronen heeft een O<sup>2-</sup>-ion (atoomnummer 8)?",
+   "a": "10"
+  },
+  {
+   "q": "Welke ionen vormen metalen en welke ionen vormen niet-metalen?",
+   "a": "Metalen vormen positieve ionen, niet-metalen vormen negatieve ionen"
+  },
+  {
+   "q": "Hoeveel protonen, neutronen en elektronen heeft een atoom Na-23? (atoomnummer 11)",
+   "a": "Protonen = atoomnummer = 11; neutronen = 23 − 11 = 12; elektronen = 11 (atoom is neutraal)"
+  },
+  {
+   "q": "Hoeveel protonen, neutronen en elektronen heeft het ion Mg<sup>2+</sup> met massagetal 24? (atoomnummer 12)",
+   "a": "Protonen = 12; neutronen = 24 − 12 = 12; elektronen = 12 − 2 = 10"
+  },
+  {
+   "q": "Wat is de elektronenverdeling van aluminium? (atoomnummer 13)",
+   "a": "K = 2, L = 8, M = 3"
+  },
+  {
+   "q": "Welk ion vormt een calciumatoom? (atoomnummer 20)",
+   "a": "Calcium staat in groep 2: het atoom staat 2 elektronen af en wordt Ca<sup>2+</sup>"
+  },
+  {
+   "q": "Hoeveel elektronen heeft het ion S<sup>2-</sup>? (atoomnummer 16)",
+   "a": "16 + 2 = 18 elektronen"
+  },
+  {
+   "q": "Een atoom heeft de elektronenverdeling K = 2, L = 8, M = 5. In welke groep en periode staat het element?",
+   "a": "3 schillen is periode 3; 5 valentie-elektronen is groep 15 (fosfor)"
+  },
+  {
+   "q": "Boor komt voor als B-10 (19,9%) en B-11 (80,1%). Bereken de gemiddelde atoommassa, met de massagetallen als massa.",
+   "a": "(10 × 19,9 + 11 × 80,1) : 100 = 10,8 u"
+  },
+  {
+   "q": "Welke ionlading vormen elementen uit groep 2 en uit groep 16?",
+   "a": "Groep 2: 2+ (twee elektronen afstaan); groep 16: 2- (twee elektronen opnemen)"
+  },
+  {
+   "q": "Hoe bereken je de gemiddelde atoommassa van een element met meer isotopen?",
+   "a": "Vermenigvuldig de massa van elke isotoop met zijn percentage, tel op en deel door 100 (gewogen gemiddelde)"
+  },
+  {
+   "q": "Hoeveel schillen en hoeveel valentie-elektronen heeft kalium? (atoomnummer 19)",
+   "a": "4 schillen (K = 2, L = 8, M = 8, N = 1) en 1 valentie-elektron"
+  }
+ ]
+}

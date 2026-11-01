@@ -1,0 +1,119 @@
+{
+ "title": "Significante cijfers en stapelopdrachten - 123 school",
+ "heading": "Significante cijfers en stapelopdrachten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden. Bij een stapelopdracht staat in de tip hoeveel stappen je nodig hebt."
+ ],
+ "questions": [
+  {
+   "q": "Hoeveel significante cijfers heeft 0,0250?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,00450?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,100?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 80,0?",
+   "a": "3"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 1,0·10<sup>3</sup>?",
+   "a": "2"
+  },
+  {
+   "q": "Rond 3,14159 af op 3 significante cijfers.",
+   "a": "3,14",
+   "e": "3,14159 afgerond op 3 significante cijfers = 3,14"
+  },
+  {
+   "q": "Rond 0,09996 af op 2 significante cijfers.",
+   "a": "0,10",
+   "e": "0,09996 afgerond op 2 significante cijfers = 0,10"
+  },
+  {
+   "q": "Rond 6,0221 af op 3 significante cijfers.",
+   "a": "6,02",
+   "e": "6,0221 afgerond op 3 significante cijfers = 6,02"
+  },
+  {
+   "q": "Schrijf de formule ρ = m / V om, zodat V links staat.",
+   "a": "V = m / ρ"
+  },
+  {
+   "q": "Hoeveel K is −10 °C?",
+   "a": "263 K",
+   "e": "T = −10 + 273 = 263 K"
+  },
+  {
+   "q": "Los op: x / 8 = 2,5. Wat is x?",
+   "a": "20",
+   "e": "x = 2,5 × 8 = 20"
+  },
+  {
+   "q": "Los op: 12 / x = 0,5. Wat is x?",
+   "a": "24",
+   "e": "x = 12 : 0,5 = 24"
+  },
+  {
+   "q": "Los op: x / 5 + 2 = 6. Wat is x?",
+   "a": "20",
+   "e": "x / 5 = 4, dus x = 20"
+  },
+  {
+   "q": "Een oplossing heeft een concentratie van 0,45 g/L. Hoeveel gram opgeloste stof zit er in 60 mL van deze oplossing? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,027 g",
+   "e": "Stap 1: 60 mL = 0,060 L. Stap 2: 0,45 g/L × 0,060 L = 0,027 g"
+  },
+  {
+   "q": "Een vloeistof heeft een dichtheid van 0,79 g/mL. Wat is het volume in L van 80 g van deze vloeistof? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,101 L",
+   "e": "Stap 1: 80 g : 0,79 g/mL = 101,27 mL. Stap 2: 101,27 mL = 0,101 L"
+  },
+  {
+   "q": "Je hebt 10 mL ethanol met een dichtheid van 0,92 g/mL. De molaire massa is 60,0 g/mol. Hoeveel mol ethanol is dat? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,153 mol",
+   "e": "Stap 1: 0,92 g/mL × 10 mL = 9,2 g. Stap 2: 9,2 g : 60,0 g/mol = 0,153 mol"
+  },
+  {
+   "q": "Je hebt 40 mL oplossing met een concentratie van 0,15 mol/L. Hoeveel mol opgeloste stof zit erin? Rond af op 4 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,0060 mol",
+   "e": "Stap 1: 40 mL = 0,040 L. Stap 2: 0,15 mol/L × 0,040 L = 0,0060 mol"
+  },
+  {
+   "q": "Een oplossing van 250 g bevat 12 massaprocent zout. Hoeveel gram water zit er in de oplossing? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "220,0 g",
+   "e": "Stap 1: 12% van 250 g = 30 g zout. Stap 2: 250 g − 30 g = 220,0 g water"
+  },
+  {
+   "q": "Een lamp van 1500 W brandt 2,5 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "3,75 kWh",
+   "e": "Stap 1: 1500 W = 1,500 kW. Stap 2: 1,500 kW × 2,5 h = 3,75 kWh"
+  },
+  {
+   "q": "Je mengt 200 mL water (1,00 g/mL) met 80 mL ethanol (0,79 g/mL). Wat is de totale massa van het mengsel in gram? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "263,2 g",
+   "e": "Stap 1: 1,00 g/mL × 200 mL = 200 g water en 0,79 g/mL × 80 mL = 63,2 g ethanol. Stap 2: 200 g + 63,2 g = 263,2 g"
+  },
+  {
+   "q": "Een lamp van 800 W brandt 3,0 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "2,40 kWh",
+   "e": "Stap 1: 800 W = 0,800 kW. Stap 2: 0,800 kW × 3,0 h = 2,40 kWh"
+  },
+  {
+   "q": "Je lost 2,00 g natriumhydroxide (molaire massa 40,0 g/mol) op in water tot 250 mL oplossing. Wat is de concentratie in mol/L? Rond af op 3 decimalen. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,200 mol/L",
+   "e": "Stap 1: 2,00 g : 40,0 g/mol = 0,0500 mol. Stap 2: 250 mL = 0,250 L. Stap 3: 0,0500 mol : 0,250 L = 0,200 mol/L"
+  },
+  {
+   "q": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 3,20 g O<sub>2</sub>. De molaire massa van O<sub>2</sub> is 32,0 g/mol en van MgO is 40,3 g/mol. Hoeveel gram MgO is er nodig of ontstaat er? Rond af op 1 decimaal. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "8,1 g",
+   "e": "Stap 1: 3,20 g : 32,0 g/mol = 0,100 mol O<sub>2</sub>. Stap 2: molverhouding O<sub>2</sub> : MgO, dus 0,200 mol MgO. Stap 3: 0,200 mol × 40,3 g/mol = 8,1 g"
+  }
+ ]
+}

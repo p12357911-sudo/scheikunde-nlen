@@ -1,0 +1,221 @@
+{
+ "title": "Zuur-basen - 123 school",
+ "heading": "Zuur-basen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een zuur?",
+   "a": "Een deeltje dat een proton kan afstaan."
+  },
+  {
+   "q": "Wat is een base?",
+   "a": "Een deeltje dat een proton kan opnemen."
+  },
+  {
+   "q": "Hoe bereken je de [H<sup>+</sup>] uit de pH?",
+   "a": "De concentratie protonen is [H<sup>+</sup>] is tien tot de macht -pH  (dus: [H<sup>+</sup>] = 10<sup>-pH</sup>)"
+  },
+  {
+   "q": "Wat is het wiskundige verband tussen de pH en pOH",
+   "a": "pH + pOH = 14"
+  },
+  {
+   "q": "Wat kun je doen met universeel pH papier?",
+   "a": "Daar kun je de pH mee bepalen. Het papier verkleurt rood in een zure omgeving en blauw in een basische omgeving"
+  },
+  {
+   "q": "Hoe noteer je een oplossing van het sterke zuur zoutzuur?",
+   "a": "H<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)"
+  },
+  {
+   "q": "Hoe noteer je een oplossing van het zwakke zuur azijnzuur?",
+   "a": "CH<sub>3</sub>COOH (aq)"
+  },
+  {
+   "q": "Hoe bereken je de pOH uit de [OH<sup>-</sup>]?",
+   "a": "De pOH is gelijk aan de min log van de concentratie hydroxide ionen dus pOH = -log[OH<sup>-</sup>]"
+  },
+  {
+   "q": "Is NaOH een sterke of een zwakke base? (gebruik evt. BINAS tabel 49)",
+   "a": "NaOH splitst in Na<sup>+</sup> en OH<sup>-</sup>; OH<sup>-</sup> is een sterke base (zie tabel 49)"
+  },
+  {
+   "q": "Wat is de [OH<sup>-</sup>] concentratie van een 0,1 M NaOH oplossing? (gebruik BINAS tabel 49)",
+   "a": "NaOH is een sterke base (zie tabel 49) dus [OH<sup>-</sup>] = 0,1 M gelijk aan de concentratie NaOH"
+  },
+  {
+   "q": "Geef de zuur-base reactie als je evenveel HCl met NaOH mengt",
+   "a": "H<sup>+</sup> (aq) + OH<sup>-</sup>(aq) -> H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Wat is de pH van een 0,1 M NaOH oplossing?",
+   "a": "Sterke base dus [OH<sup>-</sup>] = 0.1 M en gegeven is pOH = -log [OH<sup>-</sup>] en pH = 14 - pOH dus pH = 14 + log [0,1] = 14 + (-1) = 13"
+  },
+  {
+   "q": "Wat is de base constante van ammoniak NH<sub>3</sub>? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) 1,8 ∙ 10<sup>-5</sup>"
+  },
+  {
+   "q": "Wat is de base constante van NH<sub>2</sub><sup>-</sup>? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) >> 1"
+  },
+  {
+   "q": "Wat is de base constante van CO<sub>3</sub><sup>2-</sup>? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) >> 2,1 ∙ 10<sup>-4</sup>"
+  },
+  {
+   "q": "Wat is de base constante van CH<sub>3</sub>COO<sup>-</sup>? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) >> 5,8 ∙ 10<sup>-10</sup>"
+  },
+  {
+   "q": "Waar staan de sterke basen in Binas 49?",
+   "a": "Rechter kolom onder OH<sup>-</sup>"
+  },
+  {
+   "q": "Waar staan de zwakke basen in Binas 49?",
+   "a": "Rechter kolom tussen  H<sub>2</sub>O en OH<sup>-</sup>"
+  },
+  {
+   "q": "Waar staan de theoretische basen in Binas 49?",
+   "a": "Rechter kolom boven H<sub>2</sub>O"
+  },
+  {
+   "q": "Noem een sterke base",
+   "a": "Bijvoorbeeld: S<sup>2-</sup>, CH<sub>3</sub>CH<sub>2</sub>O<sup>-</sup>, NH<sub>2</sub><sup>-</sup>, O<sup>2-</sup>"
+  },
+  {
+   "q": "Waar staan de sterke zuren in Binas 49?",
+   "a": "Linker kolom boven H<sub>3</sub>O<sup>+</sup>"
+  },
+  {
+   "q": "Waar staan de zwakke zuren in Binas 49?",
+   "a": "Linker kolom onder H<sub>3</sub>O<sup>+</sup>"
+  },
+  {
+   "q": "Wat is de notatie van een zwak zuur oplossing (gebruik Z voor zuur)",
+   "a": "HZ (aq)"
+  },
+  {
+   "q": "Wat is de notatie van een sterk zuur oplossing (gebruik Z voor zuur)",
+   "a": "H<sup>+</sup> (aq) + Z<sup>-</sup>  (aq)"
+  },
+  {
+   "q": "Wat is de zuurconstante van het sterke zuur HBr? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) >>1"
+  },
+  {
+   "q": "Wat is de zuurconstante van azijnzuur? (gebruik BINAS tabel 49)",
+   "a": "(Binas 49) 1,7 ∙ 10<sup>-5</sup>"
+  },
+  {
+   "q": "Wat is de triviale naam van H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "Zwavelzuur"
+  },
+  {
+   "q": "Welke koolstof bevattende deeltjes kunnen ontstaan als je CO<sub>2</sub> (g) oplost in water?",
+   "a": "H<sub>2</sub>CO<sub>3</sub> (aq), HCO<sub>3</sub><sup>-</sup> (aq), CO<sub>3</sub><sup>2-</sup> (aq)"
+  },
+  {
+   "q": "Wat is de zuurconstante van NH<sub>4</sub><sup>+</sup> ? (gebruik BINAS tabel 49)",
+   "a": "5,6 ∙ 10<sup>-10</sup>"
+  },
+  {
+   "q": "Welke stikstof bevattende deeltjes kunnen aanwezig zijn in een waterige ammoniakoplossing?",
+   "a": "NH<sub>4</sub><sup>+</sup> (aq) en NH<sub>3</sub> (aq)"
+  },
+  {
+   "q": "Als je NH<sub>3</sub> (g) oplost in water dat basisch is welk deeltje zal dan vnl aanwezig zijn?",
+   "a": "NH<sub>3</sub>  (aq)"
+  },
+  {
+   "q": "Als je NH<sub>3</sub> (g) oplost in water dat zuur is welk deeltje zal dan ontstaan?",
+   "a": "NH<sub>4</sub><sup>+</sup> (aq)"
+  },
+  {
+   "q": "Geeft de evenwichtsvergelijking voor een ammoniak oplossing",
+   "a": "Kb = [NH<sub>4</sub><sup>+</sup> ][OH<sup>-</sup>]/[NH<sub>3</sub>] = 1,8 ∙ 10<sup>-5</sup>"
+  },
+  {
+   "q": "1 molair is gelijk aan 1 x/y; geef x/y",
+   "a": "mol/L"
+  },
+  {
+   "q": "Wat is de concentratie [OH<sup>-</sup>] in een 0,10M NH<sub>3</sub> oplossing? (gebruik BINAS tabel 49)",
+   "a": "Er geldt: NH<sub>3</sub>  = 0,1 & Kb= [NH<sub>4</sub><sup>+</sup> ][OH<sup>-</sup>]/[NH<sub>3</sub>] = 1,8 ∙ 10<sup>-5</sup>  & [NH<sub>4</sub><sup>+</sup> ]=[OH<sup>-</sup>] dus [OH<sup>-</sup>] = wortel(1,8  ∙ 10<sup>-5</sup> ∙ 0,1) = 1,34 ∙ 10<sup>-3</sup> M"
+  },
+  {
+   "q": "Wat is de pH van een 0,1M NH<sub>3</sub> oplossing? (gebruik BINAS tabel 49)",
+   "a": "bekend is [OH<sup>-</sup>] = 1,34 ∙ 10<sup>-3</sup> M en gegeven pOH = -log([OH<sup>-</sup>]) & pH + pOH = 14 dus pOH = 2,87 en pH = 14 - 2,87 = 11,13"
+  },
+  {
+   "q": "Wat is het water evenwicht in termen van zuren en basen?",
+   "a": "H<sub>2</sub>O (l) <=> H<sup>+</sup> (aq) + OH<sup>-</sup>(aq)"
+  },
+  {
+   "q": "Bij welke temperatuur gelden de base en zuurconstanten?",
+   "a": "298K"
+  },
+  {
+   "q": "Zuiver water is pH=7. Wat is de [H<sup>+</sup>] concentratie?",
+   "a": "[H<sup>+</sup>] = 10<sup>-pH</sup> dus [H<sup>+</sup>] = 1 ∙ 10<sup>-7</sup> (0,0000001 mol/L)"
+  },
+  {
+   "q": "Wat is de triviale naam van HNO<sub>3</sub>?",
+   "a": "Salpeterzuur"
+  },
+  {
+   "q": "Wat is de triviale naam van HCl",
+   "a": "Zoutzuur"
+  },
+  {
+   "q": "Welk gas is koolzuurgas?",
+   "a": "CO<sub>2</sub> (g)"
+  },
+  {
+   "q": "Natronloog is?",
+   "a": "Een oplossing van NaOH (s) in water: Na<sup>+</sup> (aq) + OH<sup>-</sup> (aq)"
+  },
+  {
+   "q": "Geef de molecuulformule van zwavelzuur",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Je lost 6,00 g azijnzuur op in 1 Liter water. Welke concentratie (in M) azijnzuur krijg je?",
+   "a": "Azijnzuur, CH<sub>3</sub>COOH, heeft een molecuul massa van 60,053 g/mol. Dus: 6g / (60,053 g/mol) = 0,10 mol. Dat geeft: 0,10 mol / 1 L = 0,10 M (Titratie stap 1)"
+  },
+  {
+   "q": "Welke deeltjes ontstaan als je azijnzuur oplost in water?",
+   "a": "CH<sub>3</sub>COO<sup>-</sup>, H<sup>+</sup> en CH<sub>3</sub>COOH (titratie stap 2)"
+  },
+  {
+   "q": "Wat is de pH van 0,1 M  azijnzuur? Je mag aan nemen dat protonen concentratie verwaarloosbaar is tov de azijnzuur concentratie. (gebruik BINAS tabel 49)",
+   "a": "De pH = -log[H<sup>+</sup>] & azijnzuur is een zwakzuur en er geldt het volgende evenwicht: Kz = [CH<sub>3</sub>COO<sup>-</sup> ][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. Binas 49 geeft Kz=1,7 ∙ 10<sup>-5</sup>. Azijnzuur is een enkelvoudig zuur dus [CH<sub>3</sub>COO<sup>-</sup> ] = [H<sup>+</sup>] stel dit gelijk aan X .<b>Dit geeft</b>: 1,7 ∙ 10<sup>-5</sup> = X<sup>2</sup> / 0,10. Dat geeft X = √ (1,7 ∙ 10<sup>-5</sup> ∙ 0,10) = 1,3 ∙ 10<sup>-3</sup>. De pH = -log 1,3 ∙ 10<sup>-3</sup> = 2,88 (titratie stap 3)"
+  },
+  {
+   "q": "Welke kleur krijgt lakmoes in 0,1 M azijnzuur? (gebruik BINAS tabel 52A)",
+   "a": "Binas 52A: pH is lager dan 5,5 dus rood (titratie stap 4)"
+  },
+  {
+   "q": "Welke reactie treedt op als je een druppel 1 M NaOH bij een 0,1 M azijnzuur oplossing doet?",
+   "a": "De volgende zuur-base reactie: H<sup>+</sup> + OH<sup>-</sup> -> H<sub>2</sub>O (titratie stap 5)"
+  },
+  {
+   "q": "Je druppelt door met de 1 M NaOH oplossing totdat de kleur van de zuur-base indicator lakmoes net omslaat. Neem aan dat de pH 8,50 wordt. (gebruik BINAS tabel 52A)",
+   "a": "Binas 52A: pH is hoger dan 8 dus blauw (titratie stap 6)"
+  },
+  {
+   "q": "Wat is de [OH<sup>-</sup>] als je NaOH hebt toegevoegd  aan de 1 L 0,1 M azijnzuur om pH = 8,50 te krijgen?",
+   "a": "Er geldt: pOH=14 - pH = 5,50. [OH<sup>-</sup>] = 10<sup>-pOH</sup> = 10<sup>-5,50</sup> = 3,2 ∙ 10<sup>-6</sup>. (titratie stap 7)"
+  },
+  {
+   "q": "Hoeveel mol NaOH moest je toevoegen aan de 1 L 0,1 M azijnzuur om pH = 8,50 te krijgen?",
+   "a": "Door de OH <sup>-</sup> bij de oplossing te titreren zal het azijnzuur al zijn protonen kwijt raken, en zullen met OH <sup>-</sup> tot neutraal water reageren. Tot dat alle protonen van het azijn zuur af zijn, en de OH <sup>-</sup> concentratie begint op te lopen en de pH 8,50 bereikt. Er zal precies even veel mol OH <sup>-</sup> nodig zijn als er azijnzuur in de oplossing zat aan het begin. Dus 0,1 mol NaOH en dus 0,1 L van de 1 M NaOH oplossing. De concentratie azijnzuur heb je dus eigenlijk vast gesteld door evenveel NaOH toe te voegen als er azijnzuur in de oplossing zat om de pH boven de 8 te krijgen en een omslag van de indicator te bewerkstelligen (titratie stap 8)"
+  },
+  {
+   "q": "Kun je narekenen dat bij pH=8,50 alle azijnzuur zijn protonen heeft verloren (dit vergt een beetje wiskunde).",
+   "a": "De pH = 8,50 dus [H<sup>+</sup>] = 3,2 ∙ 10<sup>-9</sup> mol/L. Er geldt het volgende evenwicht: Kz = [CH<sub>3</sub>COO<sup>-</sup> ][H<sup>+</sup>]/[CH<sub>3</sub>COOH]. Dit kun je omschrijven naar [CH<sub>3</sub>COO<sup>-</sup> ][H<sup>+</sup>]= Kz ∙ [CH<sub>3</sub>COOH] (vergelijking 1). Verder geldt dat totale azijnzuur hoeveelheid blijft gelijk dus 0,1 = [CH<sub>3</sub>COO<sup>-</sup> ] + [CH<sub>3</sub>COOH] en dit geeft 0,1 - [CH<sub>3</sub>COO<sup>-</sup> ] = [CH<sub>3</sub>COOH] (vergelijking 2). Combineren van vergelijking 1 en 2 geeft: [CH<sub>3</sub>COO<sup>-</sup>][H<sup>+</sup>] = Kz ∙ (0,1 - [CH<sub>3</sub>COO<sup>-</sup>]) wat omgeschreven kan worden tot [CH<sub>3</sub>COO<sup>-</sup>] = Kz  ∙ 0,1 /([H<sup>+</sup>]+ Kz). [H<sup>+</sup>] = 3,2 ∙ 10<sup>-9</sup> mol/L en verwaarloosbaar tov de Kz, waaruit volgt dat: [CH<sub>3</sub>COO<sup>-</sup>] = Kz  ∙ 0,1 / (0 + Kz) = 0,1 Kz/Kz = 0,1 mol/L"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "title": "Significante cijfers en stapelopdrachten - 123 school",
+ "heading": "Significante cijfers en stapelopdrachten",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden. Bij een stapelopdracht staat in de tip hoeveel stappen je nodig hebt."
+ ],
+ "questions": [
+  {
+   "question": "Hoeveel significante cijfers heeft 0,0480?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "5",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 0,0070?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 0,300?",
+   "answers": {
+    "a": "5",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 6,0?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rond 1,0449 af op 3 significante cijfers.",
+   "answers": {
+    "a": "1,05",
+    "b": "1,0",
+    "c": "1,04",
+    "d": "1,045"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Rond 29,995 af op 4 significante cijfers.",
+   "answers": {
+    "a": "29,995",
+    "b": "29,99",
+    "c": "30,0",
+    "d": "30,00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken 12,5 + 3,25. Geef het antwoord met het juiste aantal decimalen.",
+   "answers": {
+    "a": "15,7",
+    "b": "15,75",
+    "c": "16",
+    "d": "15,8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken 0,056 + 1,2. Geef het antwoord met het juiste aantal decimalen.",
+   "answers": {
+    "a": "1,256",
+    "b": "1,26",
+    "c": "1",
+    "d": "1,3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken 45,67 − 0,2. Geef het antwoord met het juiste aantal decimalen.",
+   "answers": {
+    "a": "45,4",
+    "b": "45",
+    "c": "45,5",
+    "d": "45,47"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken 7,0 + 0,25. Geef het antwoord met het juiste aantal decimalen.",
+   "answers": {
+    "a": "7,25",
+    "b": "7,3",
+    "c": "7,2",
+    "d": "7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke regel geldt bij vermenigvuldigen en delen?",
+   "answers": {
+    "a": "Het antwoord heeft evenveel significante cijfers als de som van beide getallen.",
+    "b": "Het antwoord heeft evenveel decimalen als het getal met de minste decimalen.",
+    "c": "Het antwoord heeft evenveel significante cijfers als het getal met de minste significante cijfers.",
+    "d": "Het antwoord heeft evenveel significante cijfers als het getal met de meeste significante cijfers."
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat moet je doen vóór je 2,5 g en 125 mg optelt?",
+   "answers": {
+    "a": "Eerst beide in dezelfde eenheid zetten",
+    "b": "Eerst beide afronden op 1 significant cijfer",
+    "c": "Eerst het aantal significante cijfers van het antwoord bepalen",
+    "d": "Niets, je kunt ze zo optellen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf de formule n = m / M om, zodat M links staat.",
+   "answers": {
+    "a": "M = m / n",
+    "b": "M = n / m",
+    "c": "M = m × n",
+    "d": "M = n − m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf de formule c = n / V om, zodat n links staat.",
+   "answers": {
+    "a": "n = c × V",
+    "b": "n = c − V",
+    "c": "n = V / c",
+    "d": "n = c / V"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel K is 25 °C?",
+   "answers": {
+    "a": "−248 K",
+    "b": "273 K",
+    "c": "298 K",
+    "d": "25 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Los op: x / 18,0 = 2,50. Wat is x?",
+   "answers": {
+    "a": "7,20",
+    "b": "20,5",
+    "c": "0,139",
+    "d": "45,0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Los op: 2x − 1,0 = 5,0. Wat is x?",
+   "answers": {
+    "a": "2,5",
+    "b": "2,0",
+    "c": "3,0",
+    "d": "6,0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een oplossing heeft een concentratie van 0,80 g/L. Hoeveel gram opgeloste stof zit er in 250 mL van deze oplossing? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "2,0 g",
+    "b": "3,2 g",
+    "c": "0,020 g",
+    "d": "0,20 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een vloeistof heeft een dichtheid van 0,92 g/mL. Wat is het volume in L van 150 g van deze vloeistof? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,016 L",
+    "b": "0,14 L",
+    "c": "0,16 L",
+    "d": "1,6 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je hebt 25,0 mL ethanol met een dichtheid van 0,79 g/mL. De molaire massa is 46,0 g/mol. Hoeveel mol ethanol is dat? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "4,3 mol",
+    "b": "0,69 mol",
+    "c": "0,54 mol",
+    "d": "0,43 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je hebt 250 mL oplossing met een concentratie van 0,200 mol/L. Hoeveel mol opgeloste stof zit erin? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,0050 mol",
+    "b": "0,050 mol",
+    "c": "0,80 mol",
+    "d": "0,50 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een lamp van 75 W brandt 4,0 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "3,0 kWh",
+    "b": "0,019 kWh",
+    "c": "0,30 kWh",
+    "d": "0,030 kWh"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je mengt 125 mL water (1,00 g/mL) met 45,0 mL ethanol (0,790 g/mL). Wat is de totale massa van het mengsel in gram? Rond af op 3 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "89,5 g",
+    "b": "125 g",
+    "c": "304 g",
+    "d": "161 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je hebt 150 mL oplossing met een concentratie van 0,240 mol/L. Hoeveel mol opgeloste stof zit erin? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,0036 mol",
+    "b": "0,36 mol",
+    "c": "1,6 mol",
+    "d": "0,036 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je mengt 125 mL water (1,00 g/mL) met 45,0 mL ethanol (0,790 g/mL). Bereken het massapercentage water in het mengsel. Rond af op 3 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "352 %",
+    "b": "77,9 %",
+    "c": "73,5 %",
+    "d": "0,779 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 3,20 g O<sub>2</sub>. De molaire massa van O<sub>2</sub> is 32,0 g/mol en van MgO is 40,3 g/mol. Hoeveel gram MgO is er nodig of ontstaat er? Rond af op 3 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "4,03 g",
+    "b": "6,40 g",
+    "c": "2,02 g",
+    "d": "8,06 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je verdunt 25,0 mL oplossing van 2,00 mol/L met water tot 250 mL. Wat is de concentratie van de verdunde oplossing in mol/L? Rond af op 2 significante cijfers. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "answers": {
+    "a": "0,050 mol/L",
+    "b": "8,0 mol/L",
+    "c": "1,8 mol/L",
+    "d": "0,20 mol/L"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

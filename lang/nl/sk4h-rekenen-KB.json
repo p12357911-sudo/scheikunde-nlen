@@ -1,0 +1,152 @@
+{
+ "title": "Rekenen en meten - 123 school",
+ "heading": "Rekenen en meten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een mol?",
+   "a": "Een hoeveelheid stof van 6,02 × 10<sup>23</sup> deeltjes"
+  },
+  {
+   "q": "Hoe heet het getal 6,02 × 10<sup>23</sup> per mol en welk symbool heeft het?",
+   "a": "De constante van Avogadro (N<sub>A</sub>)"
+  },
+  {
+   "q": "Wat is de molaire massa?",
+   "a": "De massa van 1 mol stof in g/mol"
+  },
+  {
+   "q": "Hoe vind je de molaire massa van een stof?",
+   "a": "Tel de atoommassa's (u) uit BINAS tabel 99 bij elkaar op. Het getal is gelijk aan g/mol."
+  },
+  {
+   "q": "Geef de formule voor het aantal mol",
+   "a": "n = m : M"
+  },
+  {
+   "q": "Wat is de molaire massa van H<sub>2</sub>O? (gebruik BINAS tabel 99)",
+   "a": "2 × 1,008 + 16,00 = 18,02 g/mol"
+  },
+  {
+   "q": "Wat is de molaire massa van CO<sub>2</sub>? (gebruik BINAS tabel 99)",
+   "a": "12,01 + 2 × 16,00 = 44,01 g/mol"
+  },
+  {
+   "q": "Hoeveel mol is 36,0 g water (M = 18,02 g/mol)?",
+   "a": "36,0 : 18,02 = 2,00 mol"
+  },
+  {
+   "q": "Hoeveel gram is 0,50 mol NaCl (M = 58,44 g/mol)?",
+   "a": "0,50 × 58,44 = 29 g"
+  },
+  {
+   "q": "Hoeveel gram is 0,25 mol H<sub>2</sub>O? (gebruik BINAS tabel 99)",
+   "a": "0,25 × 18,02 = 4,5 g"
+  },
+  {
+   "q": "Hoeveel mol is 4,0 g H<sub>2</sub> (M = 2,016 g/mol)?",
+   "a": "4,0 : 2,016 = 1,984 = 2,0 mol (2 significante cijfers)",
+   "goed": [
+    "2,0 mol"
+   ]
+  },
+  {
+   "q": "Hoeveel moleculen zijn 2,0 mol? (gebruik BINAS tabel 7A)",
+   "a": "2,0 × 6,02 × 10<sup>23</sup> = 1,2 × 10<sup>24</sup>"
+  },
+  {
+   "q": "Hoeveel mol H-atomen zitten er in 3,5 mol H<sub>2</sub>O?",
+   "a": "2 × 3,5 = 7,0 mol"
+  },
+  {
+   "q": "Wat is de molverhouding in een reactievergelijking?",
+   "a": "De verhouding van de getallen vóór de formules"
+  },
+  {
+   "q": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: hoeveel mol H<sub>2</sub>O ontstaat er uit 3 mol O<sub>2</sub>?",
+   "a": "6 mol"
+  },
+  {
+   "q": "Wat is een stof in overmaat?",
+   "a": "Een stof die na de reactie overblijft"
+  },
+  {
+   "q": "Wat is een stof in ondermaat?",
+   "a": "Een stof die als eerste op is"
+  },
+  {
+   "q": "Geef de formule voor het massapercentage",
+   "a": "massa stof : totale massa × 100%"
+  },
+  {
+   "q": "Er zit 30 g zout in 200 g mengsel. Wat is het massapercentage zout?",
+   "a": "30 : 200 × 100% = 15%"
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,0230?",
+   "a": "3"
+  },
+  {
+   "q": "Met hoeveel significante cijfers geef je het antwoord bij vermenigvuldigen en delen?",
+   "a": "Evenveel als het getal met de minste significante cijfers"
+  },
+  {
+   "q": "Schrijf 0,0023 in wetenschappelijke notatie",
+   "a": "2,3 × 10<sup>-3</sup>"
+  },
+  {
+   "q": "Hoeveel m<sup>3</sup> is 1 L?",
+   "a": "0,001 m<sup>3</sup>"
+  },
+  {
+   "q": "Hoeveel gram is 250 mg?",
+   "a": "0,250 g"
+  },
+  {
+   "q": "Wat is meetonzekerheid?",
+   "a": "De marge waarbinnen de echte waarde ligt"
+  },
+  {
+   "q": "Welk apparaat gebruik je om nauwkeurig een volume vloeistof te meten?",
+   "a": "Een maatcilinder (of pipet, buret)"
+  },
+  {
+   "q": "Wat is de molaire massa van CaCO<sub>3</sub>? (gebruik BINAS tabel 99)",
+   "a": "40,08 + 12,01 + 3 × 16,00 = 100,09 g/mol"
+  },
+  {
+   "q": "Wat is de molaire massa van Ca(OH)<sub>2</sub>? (gebruik BINAS tabel 99)",
+   "a": "40,08 + 2 × (16,00 + 1,008) = 74,10 g/mol"
+  },
+  {
+   "q": "Hoeveel moleculen zijn er in 0,50 mol CO<sub>2</sub>? (gebruik BINAS tabel 7A)",
+   "a": "0,50 × 6,02 × 10<sup>23</sup> = 3,0 × 10<sup>23</sup>"
+  },
+  {
+   "q": "Hoeveel gram NaOH (M = 40,00 g/mol) is 0,250 mol?",
+   "a": "0,250 × 40,00 = 10,0 g"
+  },
+  {
+   "q": "In 2,0 kg water zit 6,0 mg nitraat. Hoeveel ppm is dat?",
+   "a": "1 ppm = 1 mg per kg; 6,0 mg : 2,0 kg = 3,0 ppm"
+  },
+  {
+   "q": "Je lost 0,50 mol NaCl op tot 2,0 L oplossing. Wat is de molariteit?",
+   "a": "c = n : V = 0,50 : 2,0 = 0,25 mol/L"
+  },
+  {
+   "q": "Hoeveel mol is 10,0 g CaCO<sub>3</sub> (M = 100,09 g/mol)?",
+   "a": "10,0 : 100,09 = 0,0999 mol"
+  },
+  {
+   "q": "Hoeveel gram water ontstaat er uit 4,0 g H<sub>2</sub> volgens 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? (M(H<sub>2</sub>) = 2,016 g/mol; M(H<sub>2</sub>O) = 18,02 g/mol)",
+   "a": "Stap 1: reactievergelijking 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (molverhouding H<sub>2</sub> : H<sub>2</sub>O = 1 : 1). n(H<sub>2</sub>) = 4,0 : 2,016 = 1,984 mol (nog niet afronden), dus n(H<sub>2</sub>O) = 1,984 mol. m(H<sub>2</sub>O) = 1,984 × 18,02 = 35,75 g = 36 g (2 significante cijfers)"
+  },
+  {
+   "q": "Wat betekent ppm?",
+   "a": "Parts per million: 1 deel op een miljoen, bijvoorbeeld 1 mg per kg"
+  }
+ ]
+}

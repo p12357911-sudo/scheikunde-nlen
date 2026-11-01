@@ -1,0 +1,213 @@
+{
+ "title": "Stoffen sorteren - 123 school",
+ "heading": "Stoffen sorteren",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Noem drie scheidingsmethoden",
+   "a": "Filtreren, indampen, destilleren, adsorberen, extraheren, bezinken"
+  },
+  {
+   "q": "Noem 5 stappen in het proces waarbij suiker uit suikerbieten wordt gehaald",
+   "a": "Bieten wegen, bieten wassen, bieten in stukjes hakken, stukjes in heet water laten weken en het suiker extraheren, bieten stukjes verwijderen door te zeven, suikerwater indampen tot diksap"
+  },
+  {
+   "q": "Wat is de formule voor de dichtheid?",
+   "a": "Dichtheid (ρ) = massa/volume in g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Wat is een suspensie?",
+   "a": "Een mengsel van een kleine deeltjes van een vaste stof in een vloeistof die niet goed mengen"
+  },
+  {
+   "q": "Zijn suspensies helder of troebel?",
+   "a": "Troebel"
+  },
+  {
+   "q": "Is een oplossing altijd troebel of helder?",
+   "a": "Helder"
+  },
+  {
+   "q": "Heeft een oplossing altijd een kleur?",
+   "a": "Nee, deze kan ook kleurloos zijn. Suspensies hebben altijd een kleur"
+  },
+  {
+   "q": "Wat is een oplosmiddel?",
+   "a": "Een vloeistof waarin andere stoffen zijn opgelost"
+  },
+  {
+   "q": "Noem 5 scheidingsmethoden",
+   "a": "Adsorberen, bezinken en afgieten, (centrifugeren), destilleren, extraheren, filtreren, indampen"
+  },
+  {
+   "q": "Wat wordt bedoeld met scheiden in de scheikunde?",
+   "a": "Splitsen/zuiveren van een mengsel in afzonderlijke of zuiverdere stoffen"
+  },
+  {
+   "q": "Noem een scheidingsmethode die op het kookpunt gebaseerd is",
+   "a": "Destilleren, indampen"
+  },
+  {
+   "q": "Noem een scheidingsmethode die op de dichtheid gebaseerd is",
+   "a": "Bezinken (en centrifugeren)"
+  },
+  {
+   "q": "Bij welke scheidingsmethode is de deeltjes grote bepalend?",
+   "a": "Filtreren, zeven"
+  },
+  {
+   "q": "Noem een voorbeeld van een extractiemethode",
+   "a": "Koffie of theezetten"
+  },
+  {
+   "q": "Wat is de algemene naam van materiaal dat achter blijft op een filter of in een destillatie kolf?",
+   "a": "Het residu"
+  },
+  {
+   "q": "Wat is de algemene naam van materiaal dat gezuiverd en gewonnen door destillatie?",
+   "a": "Het destilaat"
+  },
+  {
+   "q": "Hoeveel mL is een L?",
+   "a": "1L = 1000 mL"
+  },
+  {
+   "q": "Omschrijf een zuivere stof",
+   "a": "Een zuivere stof bestaat uit 1 soort deeltjes/moleculen"
+  },
+  {
+   "q": "Omschrijf een mengsel",
+   "a": "Een mengsel bestaat uit meerdere soorten deeltjes/moleculen"
+  },
+  {
+   "q": "Wat wordt bedoeld met scheiden in de scheikunde?",
+   "a": "Splitsen/zuiveren van een mengsel in afzonderlijke of zuiverdere stoffen"
+  },
+  {
+   "q": "Bij welke scheidingsmethode wordt vaak actieve kool gebruikt?",
+   "a": "Adsorptie"
+  },
+  {
+   "q": "Wat moet verschillen tussen twee vloeistoffen om ze via destillatie te kunnen scheiden?",
+   "a": "Ze moeten een verschillend kookpunt hebben"
+  },
+  {
+   "q": "Hoe kun je een kleine hoeveelheid van een schadelijke stof uit de lucht of water halen?",
+   "a": "Doormiddel van adsorptie"
+  },
+  {
+   "q": "Als je snel een kleine hoeveelheid van een suspensie wil scheiden voor welke scheidingsmethode kies je dan?",
+   "a": "Filtreren"
+  },
+  {
+   "q": "Welke scheidingsprocessen vinden plaats bij waterzuivering?",
+   "a": "Bezinken en filtreren"
+  },
+  {
+   "q": "Noem minimaal 3 type water die we onderscheiden in de waterkringloop?",
+   "a": "Oppervlakte water, grondwater, regenwater, zout water, zoet water, waterdamp"
+  },
+  {
+   "q": "Wanneer noemen we water 'zoet water'?",
+   "a": "Als er geen zout in zit. Bijv zeewater waar zout in zit noemen we 'zout water' en dus niet 'zoet water'"
+  },
+  {
+   "q": "Noem 3 functies waar we water voor gebruiken?",
+   "a": "Drinken (drinkwater), koelen (koelwater), schoonmaken, spoelen en oplossen (oplosmiddel), extractie bijv in de voedsel bereiding"
+  },
+  {
+   "q": "Wat doen drinkwaterbedrijven?",
+   "a": "Die zuiveren water om er drinkwater van te maken, en controleren hoe zuiver gemaakte water is"
+  },
+  {
+   "q": "Welke type water gebruiken drinkwaterbedrijven?",
+   "a": "Drinkwater bedrijven maken drinkwater van grondwater en oppervlakte water"
+  },
+  {
+   "q": "Waaruit bestaat diksap in het suiker isolatie proces?",
+   "a": "Diksap bestaat uit circa 70% suiker in water"
+  },
+  {
+   "q": "Wat staat er in een blokschema in een blok weergegeven?",
+   "a": "In het blok wordt het process gezet"
+  },
+  {
+   "q": "Hoe geef je in een blokschema aan dat je iets toevoegt aan een process bijv als je water toevoegt",
+   "a": "Door een pijl boven het blok, van boven naar beneden, met er bij geschreven wat je toevoegt"
+  },
+  {
+   "q": "Hoe geef je in een blokschema aan dat je iets verwijdert uit het proces?",
+   "a": "Door een pijl onder het blok, van boven naar beneden, met er bij geschreven wat uit het proces wordt weggenomen"
+  },
+  {
+   "q": "Hoe wordt zout uit de grond gehaald bij zouthuisjes in Hengelo? Noem ook hoe het materiaal heet dat uit de grond wordt gehaald en of dat zuiver is.",
+   "a": "Er wordt door een leiding heet water de grond in gepompt, waarin het zout oplost, waarna door de druk omhoog wordt geperst. Het heet dan ruwe pekel. Dat bevat opgelost zout en vervuilende kalksteen resten. Dit moet verder worden gezuiverd."
+  },
+  {
+   "q": "Hoe heet het chemische proces dat onder de grond het zout uit de zoutlaag haalt?",
+   "a": "Extraheren"
+  },
+  {
+   "q": "Welke scheidingsmethode kun je kiezen om vaste stoffen uit een vloeistof te halen?",
+   "a": "Filteren, bezinken"
+  },
+  {
+   "q": "Welke scheidingsmethode kun je kiezen om vaste goed opgeloste stoffen uit een vloeistof te halen?",
+   "a": "Indampen"
+  },
+  {
+   "q": "Welke scheidingsmethode kun je kiezen om vaste stof uit een mix van vaste stoffen te halen?",
+   "a": "Extraheren met een oplosmiddel waarin alleen de stof van interesse oplost"
+  },
+  {
+   "q": "Wat is een verzadigde oplossing van keukenzout?",
+   "a": "Een oplossing waarin de maximale hoeveelheid keukenzout per liter is opgelost en waarbij extra zout dat wordt toegevoegd niet wil oplossen"
+  },
+  {
+   "q": "Kristalliseert zout uit een verzadigde of een onverzadigde oplossing?",
+   "a": "Verzadigde oplossing"
+  },
+  {
+   "q": "1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?",
+   "a": "1 cm<sup>3</sup>"
+  },
+  {
+   "q": "Een maatcilinder weegt 100 gram. Een analist voegt daar 50 milliliter diksap aan toe en weegt de gevulde maatcilinder  en meet 155 gram. Wat is de dichtheid van het diksap?",
+   "a": "Het gewicht van de 50 mL diksap is 155 g - 100 g = 55 g. De dichtheid is de massa gedeeld door het volume dus 55/50=1,1 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Hoe noemen we (regen)water dat in de grond is gezakt?",
+   "a": "Grondwater"
+  },
+  {
+   "q": "Hoe noemen we het water in beken, meren en rivieren?",
+   "a": "Oppervlakte water"
+  },
+  {
+   "q": "Waarvoor wordt water vaak gebruikt in de industrie?",
+   "a": "Koelwater"
+  },
+  {
+   "q": "Kun je aangeven of er meer dan genoeg drinkwater is of te weinig op de wereld?",
+   "a": "Drink water is schaars, vooral in veel landen buiten Nederland waar het water uit de kraan nog niet schoon genoeg is om te drinken. Verder is in arme landen met weinig drinkwater voorzieningen vaak te kort aan genoeg schoon drinkwater en moeten mensen vervuild drinkwater gebruiken."
+  },
+  {
+   "q": "Naast scheidingsprocessen wordt drinkwater in Nederland ook met UV of ozon behandeld, kun je uitleggen waarom?",
+   "a": "Schoon en gezuiverd drinkwater wordt voordat het in ons drinkwaterleidingsysteem komt met UV of ozon behandeld om het te desinfecteren en schadelijke micro-organismen te doden."
+  },
+  {
+   "q": "Wat staat er in het drinkwaterbesluit?",
+   "a": "In het drinkwaterbesluit staat hoe schoon water moet zijn voordat het als drinkwater mag worden aangemerkt"
+  },
+  {
+   "q": "Een reep van 250 g bevat 160 g cacao. Wat is het massapercentage cacao?",
+   "a": "massa % =  massa (g)/massa totaal (g) ∙ 100% = 160/250 ∙ 100% = 64,0%"
+  },
+  {
+   "q": "Een drankje bevat 20 g suiker per 250 mL. Wat is het massa percentage suikers? Je mag er vanuit gaan dat 1 mL vloeistof 1.1 g weegt. Geeft het antwoord in 2 decimalen weer",
+   "a": "massa % = massa suiker/volume drankje *100% = 20g/(250mL*1.1g/mL)*100% = 7,27%"
+  }
+ ]
+}

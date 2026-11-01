@@ -1,0 +1,133 @@
+{
+ "title": "Eenheden, gehaltes en verhoudingen - 123 school",
+ "heading": "Eenheden, gehaltes en verhoudingen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden."
+ ],
+ "questions": [
+  {
+   "q": "Wat betekent een concentratie van 0,25 mol/L?",
+   "a": "1 L oplossing bevat 0,25 mol opgeloste stof"
+  },
+  {
+   "q": "Schrijf g/mol met een negatieve macht.",
+   "a": "g·mol<sup>−1</sup>",
+   "e": "g/mol = g·mol<sup>−1</sup>"
+  },
+  {
+   "q": "Schrijf m·s<sup>−2</sup> als breuk.",
+   "a": "m/s<sup>2</sup>",
+   "e": "s<sup>−2</sup> = 1/s<sup>2</sup>"
+  },
+  {
+   "q": "Je deelt een hoeveelheid in mol door een volume in L. Welke eenheid heeft het antwoord?",
+   "a": "mol/L"
+  },
+  {
+   "q": "Je deelt een volume in L door een molair volume in L/mol. Welke eenheid heeft het antwoord?",
+   "a": "mol"
+  },
+  {
+   "q": "Reken 125 mg om naar g. Behoud het aantal significante cijfers.",
+   "a": "0,125 g",
+   "e": "125 mg = 0,125 g"
+  },
+  {
+   "q": "Reken 6,5 μg om naar mg. Behoud het aantal significante cijfers.",
+   "a": "0,0065 mg",
+   "e": "6,5 μg = 0,0065 mg"
+  },
+  {
+   "q": "Reken 150 mm om naar m. Behoud het aantal significante cijfers.",
+   "a": "0,150 m",
+   "e": "150 mm = 0,150 m"
+  },
+  {
+   "q": "Welke macht van 10 hoort bij het voorvoegsel micro (μ)?",
+   "a": "10<sup>−6</sup>"
+  },
+  {
+   "q": "Welke macht van 10 hoort bij het voorvoegsel nano (n)?",
+   "a": "10<sup>−9</sup>"
+  },
+  {
+   "q": "Welke macht van 10 hoort bij het voorvoegsel centi (c)?",
+   "a": "10<sup>−2</sup>"
+  },
+  {
+   "q": "Schrijf 6,2·10<sup>5</sup> als gewoon getal.",
+   "a": "620 000",
+   "e": "6,2·10<sup>5</sup> = 620 000"
+  },
+  {
+   "q": "Bereken 10<sup>8</sup> : 10<sup>3</sup>.",
+   "a": "10<sup>5</sup>"
+  },
+  {
+   "q": "Bereken 10<sup>2</sup> : 10<sup>−3</sup>.",
+   "a": "10<sup>5</sup>"
+  },
+  {
+   "q": "Welk getal is het grootst?",
+   "a": "3,2·10<sup>−3</sup>"
+  },
+  {
+   "q": "Wat is 10<sup>0</sup>?",
+   "a": "1"
+  },
+  {
+   "q": "Reken 0,0025 % om naar ppm (1 % = 10<sup>4</sup> ppm). Rond af op 2 significante cijfers.",
+   "a": "25 ppm",
+   "e": "0,0025 × 10<sup>4</sup> = 25"
+  },
+  {
+   "q": "Reken 4,5 ppm om naar procent (1 % = 10<sup>4</sup> ppm). Rond af op 2 significante cijfers.",
+   "a": "0,00045 %",
+   "e": "4,5 / 10<sup>4</sup> = 0,00045"
+  },
+  {
+   "q": "Reken 35 ‰ om naar procent (1 % = 10 ‰). Rond af op 2 significante cijfers.",
+   "a": "3,5 %",
+   "e": "35 / 10 = 3,5"
+  },
+  {
+   "q": "Reken 3,0·10<sup>3</sup> ppb om naar ppm (1 ppm = 10<sup>3</sup> ppb). Rond af op 2 significante cijfers.",
+   "a": "3,0 ppm",
+   "e": "3,0·10<sup>3</sup> / 10<sup>3</sup> = 3,0"
+  },
+  {
+   "q": "Wat is 1 ppb, uitgedrukt in massa?",
+   "a": "1 μg per kg"
+  },
+  {
+   "q": "Wat betekent 1 procent (1 %)?",
+   "a": "1 deel op 100"
+  },
+  {
+   "q": "Wat is de molverhouding N<sub>2</sub> : NH<sub>3</sub> in de reactievergelijking N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>?",
+   "a": "1 : 2",
+   "e": "De getallen voor de formules zijn de coëfficiënten: 1 : 2"
+  },
+  {
+   "q": "Wat is de molverhouding Fe : O<sub>2</sub> in de reactievergelijking 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>?",
+   "a": "4 : 3",
+   "e": "De getallen voor de formules zijn de coëfficiënten: 4 : 3"
+  },
+  {
+   "q": "Bij de reactie 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O reageert 3,0 mol O<sub>2</sub>. Hoeveel mol H<sub>2</sub>O is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "a": "6,0 mol",
+   "e": "O<sub>2</sub> : H<sub>2</sub>O = 1 : 2, dus 3,0 mol × 2 / 1 = 6,0 mol"
+  },
+  {
+   "q": "Bij de reactie N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> reageert 6,0 mol H<sub>2</sub>. Hoeveel mol NH<sub>3</sub> is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "a": "4,0 mol",
+   "e": "H<sub>2</sub> : NH<sub>3</sub> = 3 : 2, dus 6,0 mol × 2 / 3 = 4,0 mol"
+  },
+  {
+   "q": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO reageert 0,30 mol Mg. Hoeveel mol O<sub>2</sub> is er nodig of ontstaat er? Rond af op 2 significante cijfers.",
+   "a": "0,15 mol",
+   "e": "Mg : O<sub>2</sub> = 2 : 1, dus 0,30 mol × 1 / 2 = 0,15 mol"
+  }
+ ]
+}

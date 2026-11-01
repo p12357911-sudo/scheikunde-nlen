@@ -1,0 +1,211 @@
+{
+ "title": "Rekenen aan reacties - 123 school",
+ "heading": "Rekenen aan reacties",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Bij elke som staan de atoommassa's in de vraag."
+ ],
+ "questions": [
+  {
+   "q": "Welke wet zegt dat de totale massa bij een reactie gelijk blijft?",
+   "a": "De wet van behoud van massa"
+  },
+  {
+   "q": "Wat is stap 1 bij chemisch rekenen?",
+   "a": "De reactievergelijking opstellen (en kloppend maken)"
+  },
+  {
+   "q": "Bereken de molecuulmassa van H<sub>2</sub>O. Atoommassa's: H = 1,0 u; O = 16,0 u.",
+   "a": "2 × 1,0 + 16,0 = 18,0 u"
+  },
+  {
+   "q": "Bereken de molecuulmassa van CO<sub>2</sub>. Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 + 2 × 16,0 = 44,0 u"
+  },
+  {
+   "q": "Bereken de molecuulmassa van NH<sub>3</sub>. Atoommassa's: H = 1,0 u; N = 14,0 u.",
+   "a": "14,0 + 3 × 1,0 = 17,0 u"
+  },
+  {
+   "q": "Bereken de molecuulmassa van CH<sub>4</sub>. Atoommassa's: H = 1,0 u; C = 12,0 u.",
+   "a": "12,0 + 4 × 1,0 = 16,0 u"
+  },
+  {
+   "q": "Bereken de molecuulmassa van H<sub>2</sub>SO<sub>4</sub>. Atoommassa's: H = 1,0 u; O = 16,0 u; S = 32,1 u.",
+   "a": "2 × 1,0 + 32,1 + 4 × 16,0 = 98,1 u"
+  },
+  {
+   "q": "Bereken de formulemassa van NaCl. Atoommassa's: Na = 23,0 u; Cl = 35,5 u.",
+   "a": "23,0 + 35,5 = 58,5 u"
+  },
+  {
+   "q": "Bereken de formulemassa van CaCO<sub>3</sub>. Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u.",
+   "a": "40,1 + 12,0 + 3 × 16,0 = 100,1 u"
+  },
+  {
+   "q": "Bereken de formulemassa van Fe<sub>2</sub>O<sub>3</sub>. Atoommassa's: O = 16,0 u; Fe = 55,8 u.",
+   "a": "2 × 55,8 + 3 × 16,0 = 159,6 u"
+  },
+  {
+   "q": "Bij de reactie 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O reageert 4,0 g waterstof met 32,0 g zuurstof. Hoeveel g water ontstaat er?",
+   "a": "4,0 + 32,0 = 36,0 g (wet van behoud van massa)"
+  },
+  {
+   "q": "Wat is de massaverhouding waterstof : zuurstof : water bij 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? Atoommassa's: H = 1,0 u; O = 16,0 u.",
+   "a": "2 × 2,0 = 4,0 g H<sub>2</sub>; 32,0 g O<sub>2</sub>; 2 × 18,0 = 36,0 g H<sub>2</sub>O"
+  },
+  {
+   "q": "Wat is de massaverhouding koolstof : zuurstof : koolstofdioxide bij C + O<sub>2</sub> → CO<sub>2</sub>? Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 : 32,0 : 44,0"
+  },
+  {
+   "q": "Bij C + O<sub>2</sub> → CO<sub>2</sub> verbrand je 6,0 g koolstof. Hoeveel g zuurstof is er minstens nodig? Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 g C hoort bij 32,0 g O<sub>2</sub>. 6,0 g C hoort bij 6,0 / 12,0 × 32,0 = 16,0 g"
+  },
+  {
+   "q": "Bij C + O<sub>2</sub> → CO<sub>2</sub> verbrand je 6,0 g koolstof volledig. Hoeveel g koolstofdioxide ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 g C geeft 44,0 g CO<sub>2</sub>. 6,0 g C geeft 6,0 / 12,0 × 44,0 = 22,0 g"
+  },
+  {
+   "q": "Bij de reactie 2 Mg + O<sub>2</sub> → 2 MgO: hoeveel g magnesiumoxide ontstaat er uit 24,3 g magnesium? Atoommassa's: O = 16,0 u; Mg = 24,3 u.",
+   "a": "48,6 g Mg geeft 80,6 g MgO. 24,3 g Mg geeft 40,3 g MgO"
+  },
+  {
+   "q": "Hoeveel g zuurstof reageert met 24,3 g magnesium volledig? (2 Mg + O<sub>2</sub> → 2 MgO) Atoommassa's: O = 16,0 u; Mg = 24,3 u.",
+   "a": "48,6 g Mg reageert met 32,0 g O<sub>2</sub>. 24,3 g Mg met 16,0 g O<sub>2</sub>"
+  },
+  {
+   "q": "Je verbrandt 4,0 g waterstof volledig met genoeg zuurstof (2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O). Hoeveel g water ontstaat er? Atoommassa's: H = 1,0 u; O = 16,0 u.",
+   "a": "2 H<sub>2</sub> = 4,0 g geeft 2 H<sub>2</sub>O = 36,0 g"
+  },
+  {
+   "q": "Bij 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub> wordt 36 g water ontleed. Hoeveel g waterstof en zuurstof ontstaan er samen?",
+   "a": "De massa blijft gelijk: 36 g (4 g waterstof en 32 g zuurstof)"
+  },
+  {
+   "q": "Bij het verhitten van CaCO<sub>3</sub> ontstaat CaO en CO<sub>2</sub>: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. Je verhit 10,0 g kalk. Er ontstaat 4,4 g CO<sub>2</sub>. Hoeveel g CaO blijft er over?",
+   "a": "10,0 − 4,4 = 5,6 g (wet van behoud van massa)"
+  },
+  {
+   "q": "In water (H<sub>2</sub>O) zit waterstof en zuurstof in de massaverhouding 1 : 8. Hoeveel g zuurstof zit er in 45 g water?",
+   "a": "1 + 8 = 9 delen. 8/9 × 45 = 40 g"
+  },
+  {
+   "q": "Bij de verbranding van methaan (CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O) reageert 16,0 g methaan met 64,0 g zuurstof. Hoeveel g koolstofdioxide en water ontstaan er samen?",
+   "a": "16,0 + 64,0 = 80,0 g"
+  },
+  {
+   "q": "Bij de verbranding van methaan ontstaat uit 16,0 g methaan 44,0 g koolstofdioxide. Hoeveel g zuurstof is er nodig als er ook 36,0 g water ontstaat?",
+   "a": "44,0 + 36,0 = 80,0 g rechts. Links: 80,0 − 16,0 = 64,0 g zuurstof"
+  },
+  {
+   "q": "Bereken het massapercentage waterstof in water (H<sub>2</sub>O). Atoommassa's: H = 1,0 u; O = 16,0 u.",
+   "a": "2,0 / 18,0 × 100% = 11,1%"
+  },
+  {
+   "q": "Bereken het massapercentage zuurstof in water (H<sub>2</sub>O). Atoommassa's: H = 1,0 u; O = 16,0 u.",
+   "a": "16,0 / 18,0 × 100% = 88,9%"
+  },
+  {
+   "q": "Bereken het massapercentage koolstof in koolstofdioxide (CO<sub>2</sub>). Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 / 44,0 × 100% = 27,3%"
+  },
+  {
+   "q": "Bereken het massapercentage stikstof in ammoniak (NH<sub>3</sub>). Atoommassa's: H = 1,0 u; N = 14,0 u.",
+   "a": "14,0 / 17,0 × 100% = 82,4%"
+  },
+  {
+   "q": "Bereken het massapercentage ijzer in Fe<sub>2</sub>O<sub>3</sub>. Atoommassa's: O = 16,0 u; Fe = 55,8 u.",
+   "a": "111,6 / 159,6 × 100% = 69,9%"
+  },
+  {
+   "q": "Hoeveel g ijzer kun je maximaal halen uit 100 g Fe<sub>2</sub>O<sub>3</sub>? Atoommassa's: O = 16,0 u; Fe = 55,8 u.",
+   "a": "111,6 / 159,6 × 100 = 69,9 g"
+  },
+  {
+   "q": "Je laat 24,3 g magnesium reageren met 32,0 g zuurstof (2 Mg + O<sub>2</sub> → 2 MgO). Voor 24,3 g Mg is 16,0 g O<sub>2</sub> nodig. Welke stof is in overmaat en hoeveel g blijft er over?",
+   "a": "Er is 32,0 g O<sub>2</sub> en er is 16,0 g nodig. Er blijft 16,0 g O<sub>2</sub> over."
+  },
+  {
+   "q": "Hoeveel g koolstofdioxide ontstaat als je 12,0 g koolstof laat reageren met 64,0 g zuurstof? (C + O<sub>2</sub> → CO<sub>2</sub>). Atoommassa's: C = 12,0 u; O = 16,0 u.",
+   "a": "12,0 g C reageert met 32,0 g O<sub>2</sub> tot 44,0 g CO<sub>2</sub>. Er blijft 32,0 g O<sub>2</sub> over (overmaat)."
+  },
+  {
+   "q": "In 250 mL alcoholhoudende drank zit 40 mL alcohol. Wat is het volumepercentage alcohol?",
+   "a": "40 / 250 × 100% = 16%"
+  },
+  {
+   "q": "Een mengsel van 300 mL bevat 15 volume% aceton. Hoeveel mL aceton zit erin?",
+   "a": "0,15 × 300 = 45 mL"
+  },
+  {
+   "q": "Hoeveel gram zout zit er in 2,0 kg zeewater met 3,5 massa% zout?",
+   "a": "2,0 kg = 2000 g. 0,035 × 2000 = 70 g"
+  },
+  {
+   "q": "In een erts van 500 g zit 70 massa% ijzeroxide. Hoeveel g ijzeroxide zit erin?",
+   "a": "0,70 × 500 = 350 g"
+  },
+  {
+   "q": "Wat zijn de vijf stappen bij chemisch rekenen, in de goede volgorde?",
+   "a": "1 Reactievergelijking opstellen (kloppend, met toestandsaanduidingen)<br/>2 Gegeven en gevraagd opschrijven en de massa's (u) onder de vergelijking zetten<br/>3 Verhoudingstabel maken<br/>4 Berekening uitvoeren<br/>5 Antwoord opschrijven, met eenheid"
+  },
+  {
+   "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 1: schrijf de kloppende reactievergelijking op, met toestandsaanduidingen.",
+   "a": "2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)"
+  },
+  {
+   "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 2: zet de massa's (u) van butaan en zuurstof onder de reactievergelijking.",
+   "a": "2 C<sub>4</sub>H<sub>10</sub>: 2 × 58,0 = 116,0 u<br/>13 O<sub>2</sub>: 13 × 32,0 = 416,0 u"
+  },
+  {
+   "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 3: maak de verhoudingstabel voor 29 g butaan. Je zoekt de massa zuurstof.",
+   "a": "Factor: 29 : 116,0 = 0,25"
+  },
+  {
+   "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 116,0 u hoort bij 416,0 u, en 29 g hoort bij x g.",
+   "a": "x = 416,0 × 29 : 116,0 = 104 g<br/>Antwoord: 104 g zuurstof"
+  },
+  {
+   "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 1: schrijf de kloppende reactievergelijking op, met toestandsaanduidingen.",
+   "a": "N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)"
+  },
+  {
+   "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 2: zet de massa's (u) van stikstof en ammoniak onder de reactievergelijking.",
+   "a": "N<sub>2</sub>: 1 × 28,0 = 28,0 u<br/>2 NH<sub>3</sub>: 2 × 17,0 = 34,0 u"
+  },
+  {
+   "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 3: maak de verhoudingstabel voor 14 g stikstof. Je zoekt de massa ammoniak.",
+   "a": "Factor: 14 : 28,0 = 0,5"
+  },
+  {
+   "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 28,0 u hoort bij 34,0 u, en 14 g hoort bij x g.",
+   "a": "x = 34,0 × 14 : 28,0 = 17 g<br/>Antwoord: 17 g ammoniak"
+  },
+  {
+   "q": "Kalksteen (CaCO<sub>3</sub>) wordt verhit tot ongebluste kalk (CaO) en koolstofdioxide. Je verhit 250 g kalksteen. Hoeveel g ongebluste kalk ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u. Stap 3: maak de verhoudingstabel voor 250 g kalksteen. Je zoekt de massa ongebluste kalk.",
+   "a": "Factor: 250 : 100,1 = 2,4975"
+  },
+  {
+   "q": "Kalksteen (CaCO<sub>3</sub>) wordt verhit tot ongebluste kalk (CaO) en koolstofdioxide. Je verhit 250 g kalksteen. Hoeveel g ongebluste kalk ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 100,1 u hoort bij 56,1 u, en 250 g hoort bij x g.",
+   "a": "x = 56,1 × 250 : 100,1 = 140,1 = 1,40 × 10<sup>2</sup> g (3 significante cijfers)<br/>Antwoord: 1,40 × 10<sup>2</sup> g ongebluste kalk",
+   "goed": [
+    "140 g",
+    "1,40 × 10^2 g",
+    "1,4 × 10^2 g"
+   ]
+  },
+  {
+   "q": "In koperoxide zitten koper en zuurstof in de massaverhouding 4 : 1. Hoeveel g koper zit er in 30 g koperoxide? Gebruik een verhoudingstabel.",
+   "a": "x = 4 × 30 : 5 = 24 g. Antwoord: er zit 24 g koper in."
+  },
+  {
+   "q": "Je laat 3,0 g koolstof reageren met 10,0 g zuurstof (C + O<sub>2</sub> → CO<sub>2</sub>). Welke stof is in overmaat en hoeveel g blijft er over? Atoommassa's: C = 12,0 u; O = 16,0 u. Gebruik een verhoudingstabel.",
+   "a": "x = 32,0 × 3,0 : 12,0 = 8,0 g zuurstof nodig. Je hebt 10,0 g, dus zuurstof is in overmaat. Er blijft 10,0 − 8,0 = 2,0 g zuurstof over."
+  },
+  {
+   "q": "Waarom zet je onder de reactievergelijking de coëfficiënt maal de molecuulmassa (bijvoorbeeld 2 × 58,0 u voor 2 C<sub>4</sub>H<sub>10</sub>)?",
+   "a": "Omdat in de vergelijking staat hoeveel moleculen reageren: bij 2 moleculen hoort de dubbele massa"
+  }
+ ]
+}

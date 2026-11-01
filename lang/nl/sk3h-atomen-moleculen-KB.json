@@ -1,0 +1,149 @@
+{
+ "title": "Atomen en moleculen - 123 school",
+ "heading": "Atomen en moleculen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Omschrijf een chemische reactie",
+   "a": "In een chemische reactie verdwijnen de beginstoffen en ontstaan er nieuwe stoffen met nieuwe eigenschappen"
+  },
+  {
+   "q": "Wat zijn de kleinste deeltjes die stofeigenschappen bepalen?",
+   "a": "Moleculen"
+  },
+  {
+   "q": "Waaruit bestaan moleculen",
+   "a": "Uit een of meerdere soorten atomen"
+  },
+  {
+   "q": "Atomen worden ook wel eens … genoemd",
+   "a": "Elementen"
+  },
+  {
+   "q": "Geef de namen van: Al, B, Ca, Cl, P, Fe, I, K, C, Cu",
+   "a": "Aluminium, Boor, Calcium, Chloor, Fosfor, Ijzer, Jood, Kalium, Koolstof, Koper"
+  },
+  {
+   "q": "Geef het atoomsymbool van: Broom, Kwik, Lood, Magnesium, Natrium, Stikstof, Uraan, Waterstof, Zilver, Zink, Zuurstof, Zwavel",
+   "a": "Br, Hg, Pb, Mg, Na, N, U, H, Ag, Zn, O, S"
+  },
+  {
+   "q": "De molecuulformule geeft wat aan?",
+   "a": "Uit welke en uit hoeveel atomen een molecuul bestaat"
+  },
+  {
+   "q": "In H<sub>2</sub>O is 2 de index. Wat geeft de 2 aan?",
+   "a": "Dat er 2 waterstof atomen (en 1 zuurstof atoom) in H<sub>2</sub>O, water zitten"
+  },
+  {
+   "q": "Geef de molecuulformule van: ammoniak, koolstofdioxide, methaan, waterstofperoxide, ethanol, water",
+   "a": "NH<sub>3</sub>, CO<sub>2</sub>, CH<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, C<sub>2</sub>H<sub>6</sub>O, H<sub>2</sub>O"
+  },
+  {
+   "q": "Elementaire stoffen bestaan uit 1 soort atoom. Noem er 3.",
+   "a": "Br<sub>2</sub>, Cl<sub>2</sub>, F<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>"
+  },
+  {
+   "q": "H<sub>2</sub> (g) is?",
+   "a": "Waterstof gas"
+  },
+  {
+   "q": "Wat is de vervoeging de tweede atoomsoort van: chloor, zuurstof, zwavel, fluor",
+   "a": "chloride, oxide, sulfide, fluoride"
+  },
+  {
+   "q": "Geef de griekse telwoorden voor 1 tm 8",
+   "a": "mono, di, tri, tetra, penta, hexa, hepta, octa"
+  },
+  {
+   "q": "Geef de molecuulformule van distikstoftetraoxide",
+   "a": "N<sub>2</sub>O<sub>4</sub>"
+  },
+  {
+   "q": "Geef de systematische naam van P<sub>2</sub>S<sub>5</sub>",
+   "a": "difosforpentasulfide"
+  },
+  {
+   "q": "Omschrijf het begrip triviale naam",
+   "a": "De alledaagse naam van een stof"
+  },
+  {
+   "q": "Omschrijf systematische naam",
+   "a": "Door regels systematisch opgestelde naam van een stof"
+  },
+  {
+   "q": "Hoeveel atomen en hoeveel atomensoorten zitten er in C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>",
+   "a": "24 atomen; 4 atoomsoorten"
+  },
+  {
+   "q": "Welk atoomsymbool hoort bij natrium?",
+   "a": "Na"
+  },
+  {
+   "q": "Welk atoomsymbool hoort bij kalium?",
+   "a": "K"
+  },
+  {
+   "q": "Welk element heeft het symbool Fe?",
+   "a": "IJzer"
+  },
+  {
+   "q": "Welk element heeft het symbool Pb?",
+   "a": "Lood"
+  },
+  {
+   "q": "Welk element heeft het symbool Hg?",
+   "a": "Kwik"
+  },
+  {
+   "q": "Welk element heeft het symbool Cu?",
+   "a": "Koper"
+  },
+  {
+   "q": "Hoeveel atomen zitten er in één molecuul H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "7"
+  },
+  {
+   "q": "Hoeveel atomen zijn er in totaal in 3 H<sub>2</sub>O?",
+   "a": "9"
+  },
+  {
+   "q": "Hoeveel waterstofatomen zijn er in totaal in 2 CH<sub>4</sub>?",
+   "a": "8"
+  },
+  {
+   "q": "Wat is de molecuulformule van koolstofmono-oxide?",
+   "a": "CO"
+  },
+  {
+   "q": "Wat is de systematische naam van CO<sub>2</sub>?",
+   "a": "Koolstofdioxide"
+  },
+  {
+   "q": "Wat is de systematische naam van SO<sub>3</sub>?",
+   "a": "Zwaveltrioxide"
+  },
+  {
+   "q": "Schrijf stap 1 en 2 van het stappenplan voor de vorming van ammoniak uit stikstof en waterstof",
+   "a": "Stap 1: stikstof + waterstof → ammoniak. Stap 2: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>"
+  },
+  {
+   "q": "Hoeveel atomen en hoeveel atoomsoorten zitten er in Ca(OH)<sub>2</sub>?",
+   "a": "5 atomen; 3 atoomsoorten"
+  },
+  {
+   "q": "Maak kloppend: Na + Cl<sub>2</sub> → NaCl",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  },
+  {
+   "q": "Maak kloppend: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Geef de systematische naam en de formule van de stof die bestaat uit 1 koolstofatoom en 2 zuurstofatomen",
+   "a": "Koolstofdioxide, CO<sub>2</sub>"
+  }
+ ]
+}

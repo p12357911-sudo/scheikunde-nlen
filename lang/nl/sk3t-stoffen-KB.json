@@ -1,0 +1,161 @@
+{
+ "title": "Stoffen en mengsels - 123 school",
+ "heading": "Stoffen en mengsels",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Noem drie stofeigenschappen",
+   "a": "Bijvoorbeeld: kleur, geur, smaak, fase, smeltpunt, kookpunt, dichtheid"
+  },
+  {
+   "q": "Wat is een chemiekaart?",
+   "a": "Een kaart met informatie over de eigenschappen van een stof, ook de gevaarlijke"
+  },
+  {
+   "q": "Noem twee gevarensymbolen",
+   "a": "Bijvoorbeeld: ontvlambaar, schadelijk, explosief, corrosief (bijtend), giftig"
+  },
+  {
+   "q": "Wat is het smeltpunt?",
+   "a": "De temperatuur waarbij een stof smelt. Het stolpunt is hetzelfde."
+  },
+  {
+   "q": "Wat is het kookpunt?",
+   "a": "De temperatuur waarbij een stof kookt"
+  },
+  {
+   "q": "Wat zijn het smeltpunt en het kookpunt van water?",
+   "a": "Smeltpunt 0 °C en kookpunt 100 °C"
+  },
+  {
+   "q": "Wat is het kookpunt van alcohol (ethanol) in kelvin? (gebruik BINAS tabel 16)",
+   "a": "351 K (dat is 78 °C)"
+  },
+  {
+   "q": "Geef de formule voor dichtheid",
+   "a": "dichtheid = massa : volume (ρ = m : V)"
+  },
+  {
+   "q": "Welke eenheid hoort bij dichtheid?",
+   "a": "g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Een stof heeft een massa van 60 g en een volume van 20 cm<sup>3</sup>. Wat is de dichtheid?",
+   "a": "60 g : 20 cm<sup>3</sup> = 3 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Wat is de dichtheid van aluminium? (gebruik BINAS tabel 15)",
+   "a": "2,70 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Drijft een blokje koper op water? Zoek de dichtheden op. (gebruik BINAS tabel 15 en 16)",
+   "a": "Nee. Koper heeft een dichtheid van 8,96 g/cm<sup>3</sup> en water 1,00 g/cm<sup>3</sup>. De dichtheid van koper is groter, dus koper zinkt."
+  },
+  {
+   "q": "Hout heeft een dichtheid van 0,6 g/cm<sup>3</sup> en water van 1,0 g/cm<sup>3</sup>. Drijft het hout op water?",
+   "a": "Ja, de dichtheid van hout is kleiner dan die van water"
+  },
+  {
+   "q": "Noem de vier toestandsaanduidingen",
+   "a": "(s) vast, (l) vloeibaar, (g) gas en (aq) opgelost in water"
+  },
+  {
+   "q": "Noem de zes faseovergangen",
+   "a": "Smelten, stollen, verdampen, condenseren, sublimeren en rijpen"
+  },
+  {
+   "q": "Hoe heet de faseovergang van vast naar gas?",
+   "a": "Sublimeren"
+  },
+  {
+   "q": "Hoe heet de faseovergang van gas naar vast?",
+   "a": "Rijpen"
+  },
+  {
+   "q": "Is een faseovergang een chemische reactie?",
+   "a": "Nee, de moleculen veranderen niet"
+  },
+  {
+   "q": "Wat gebeurt er met de moleculen als je een stof verwarmt?",
+   "a": "Ze gaan sneller bewegen"
+  },
+  {
+   "q": "Hoe zitten de moleculen in een vaste stof?",
+   "a": "Dicht op elkaar op vaste plaatsen. Ze trillen."
+  },
+  {
+   "q": "Wat is een zuivere stof?",
+   "a": "Een stof die uit één soort moleculen bestaat"
+  },
+  {
+   "q": "Wat is een mengsel?",
+   "a": "Een stof die uit meerdere soorten moleculen bestaat"
+  },
+  {
+   "q": "Noem twee zuivere stoffen",
+   "a": "Bijvoorbeeld: alcohol, aceton, diamant, kristalsuiker, soda, gedestilleerd water"
+  },
+  {
+   "q": "Noem twee mengsels",
+   "a": "Bijvoorbeeld: lucht, kraanwater, cola, verf, cement, koffie"
+  },
+  {
+   "q": "Wat gebeurt er met de temperatuur als een zuivere stof smelt?",
+   "a": "De temperatuur blijft gelijk"
+  },
+  {
+   "q": "Wat gebeurt er met de temperatuur als een mengsel smelt?",
+   "a": "De temperatuur verandert. Het gebied heet het smelttraject (bij stollen of koken: stoltraject of kooktraject)."
+  },
+  {
+   "q": "Wat is een oplossing?",
+   "a": "Een heldere, soms gekleurde vloeistof waarin een of meer stoffen zijn opgelost"
+  },
+  {
+   "q": "Wat is een oplosmiddel?",
+   "a": "De vloeistof waarin je een stof oplost. Bijvoorbeeld water."
+  },
+  {
+   "q": "Wat is een suspensie?",
+   "a": "Een troebel mengsel van vaste deeltjes in een vloeistof. Verf is een voorbeeld."
+  },
+  {
+   "q": "Wat is een emulsie?",
+   "a": "Een troebel mengsel van twee vloeistoffen die niet mengen, met kleine druppeltjes"
+  },
+  {
+   "q": "Wat is een emulgator?",
+   "a": "Een stof die een emulsie bij elkaar houdt. Bijvoorbeeld zeep of eigeel."
+  },
+  {
+   "q": "Wat gebeurt er bij een chemische reactie?",
+   "a": "Beginstoffen verdwijnen en er ontstaan nieuwe stoffen (reactieproducten)"
+  },
+  {
+   "q": "Waar staan de beginstoffen in een reactieschema?",
+   "a": "Voor de pijl"
+  },
+  {
+   "q": "Geef het reactieschema van de verbranding van magnesium",
+   "a": "magnesium (s) + zuurstof (g) → magnesiumoxide (s)"
+  },
+  {
+   "q": "Waarvoor gebruik je aceton, wasbenzine en spiritus als oplosmiddel?",
+   "a": "Aceton: nagellak. Wasbenzine en spiritus: vet."
+  },
+  {
+   "q": "Noem de drie soorten brandervlam en waarvoor je ze gebruikt",
+   "a": "Gele vlam (pauzevlam), blauwe vlam (normaal verwarmen) en kleurloze, ruisende vlam (sterk verhitten)"
+  },
+  {
+   "q": "Hoe bepaal je veilig de geur van een stof?",
+   "a": "Je wuift een beetje van de geur naar je neus"
+  },
+  {
+   "q": "Geef het reactieschema van het roesten van ijzer, met toestandsaanduidingen",
+   "a": "ijzer (s) + water (l) + zuurstof (g) → roest (s)"
+  }
+ ]
+}

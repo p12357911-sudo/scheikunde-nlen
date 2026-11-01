@@ -1,0 +1,149 @@
+{
+ "title": "Elektriciteit - 123 school",
+ "heading": "Elektriciteit",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat doet een generator?",
+   "a": "Hij zet bewegingsenergie om in elektrische energie"
+  },
+  {
+   "q": "Wat is een elektriciteitscentrale?",
+   "a": "Een plek waar elektrische energie wordt opgewekt"
+  },
+  {
+   "q": "Waarom gebruikt men hoogspanning om elektriciteit over lange afstand te vervoeren?",
+   "a": "Er gaat dan minder energie verloren als warmte in de kabels"
+  },
+  {
+   "q": "Wat doet een transformator?",
+   "a": "Hij maakt de spanning hoger of lager"
+  },
+  {
+   "q": "Wat is de eenheid van spanning?",
+   "a": "Volt (V)"
+  },
+  {
+   "q": "Wat is de eenheid van vermogen?",
+   "a": "Watt (W)"
+  },
+  {
+   "q": "Welke eenheid staat op je energierekening?",
+   "a": "Kilowattuur (kWh)"
+  },
+  {
+   "q": "Geef de formule voor vermogen",
+   "a": "P = E : t (vermogen = energie : tijd)"
+  },
+  {
+   "q": "Geef de formule voor energie",
+   "a": "E = P × t (energie = vermogen × tijd)"
+  },
+  {
+   "q": "Welke eenheden horen bij P, E en t in de formule P = E : t?",
+   "a": "P in watt (W), E in joule (J), t in seconde (s)"
+  },
+  {
+   "q": "Wat is een kilowattuur?",
+   "a": "De energie die een apparaat van 1 kW gebruikt in 1 uur"
+  },
+  {
+   "q": "Hoeveel kW is 1500 W?",
+   "a": "1,5 kW"
+  },
+  {
+   "q": "Een apparaat van 2,0 kW staat 3,0 uur aan. Hoeveel kWh gebruikt het?",
+   "a": "2,0 kW × 3,0 h = 6,0 kWh"
+  },
+  {
+   "q": "Een kilowattuur kost € 0,30. Wat kosten 5 kWh?",
+   "a": "5 × € 0,30 = € 1,50"
+  },
+  {
+   "q": "Een apparaat gebruikt 800 J in 20 s. Wat is het vermogen?",
+   "a": "800 J : 20 s = 40 W"
+  },
+  {
+   "q": "Een lamp van 60 W brandt 10 s. Hoeveel energie gebruikt de lamp?",
+   "a": "60 W × 10 s = 600 J"
+  },
+  {
+   "q": "Wat is de spanning van het stopcontact in huis?",
+   "a": "230 V"
+  },
+  {
+   "q": "Welk apparaat meet spanning en stroomsterkte?",
+   "a": "Een multimeter"
+  },
+  {
+   "q": "Op welke draad staat spanning?",
+   "a": "De fasedraad"
+  },
+  {
+   "q": "Wat doet een zekering?",
+   "a": "Hij onderbreekt de stroomkring bij een te grote stroomsterkte"
+  },
+  {
+   "q": "Wat is overbelasting?",
+   "a": "Er zijn te veel apparaten tegelijk aangesloten, dus de stroomsterkte wordt te groot"
+  },
+  {
+   "q": "Wat is kortsluiting?",
+   "a": "De stroom loopt langs een weg met bijna geen weerstand"
+  },
+  {
+   "q": "Wat doet een aardlekschakelaar?",
+   "a": "Hij schakelt de stroom uit als er stroom weglekt naar de aarde"
+  },
+  {
+   "q": "Waarvoor dient de aardedraad?",
+   "a": "Voor veiligheid bij een defect aan een apparaat"
+  },
+  {
+   "q": "Waarom mag je een stopcontact niet met natte handen aanraken?",
+   "a": "Water geleidt stroom, dus je kunt een elektrische schok krijgen"
+  },
+  {
+   "q": "Wat is de eenheid van stroomsterkte?",
+   "a": "Ampère (A)"
+  },
+  {
+   "q": "Welke formule geldt voor het elektrisch vermogen?",
+   "a": "P = U × I"
+  },
+  {
+   "q": "Een wasmachine werkt op 230 V en neemt 10 A op. Hoeveel is het vermogen?",
+   "a": "P = U × I = 230 × 10 = 2300 W"
+  },
+  {
+   "q": "Een föhn van 1840 W is aangesloten op 230 V. Hoe groot is de stroomsterkte?",
+   "a": "I = P / U = 1840 / 230 = 8,0 A"
+  },
+  {
+   "q": "Hoeveel joule is 1 kWh?",
+   "a": "1 kWh = 1000 W × 3600 s = 3,6 × 10<sup>6</sup> J"
+  },
+  {
+   "q": "Een apparaat van 1200 W staat 2,5 uur aan. Een kWh kost € 0,30. Hoeveel kost dat?",
+   "a": "E = 1,2 kW × 2,5 h = 3,0 kWh; kosten = 3,0 × 0,30 = € 0,90"
+  },
+  {
+   "q": "Reken om: 250 mA in A.",
+   "a": "250 mA = 250 / 1000 = 0,250 A"
+  },
+  {
+   "q": "Een apparaat van 4,0 W staat een heel jaar (365 dagen) dag en nacht op stand-by. Hoeveel kWh is dat?",
+   "a": "4,0 W × 24 h × 365 = 35 040 Wh ≈ 35 kWh"
+  },
+  {
+   "q": "Je hebt lampen van 11 W, 40 W en 60 W. Welke gebruikt in 1 uur de meeste energie?",
+   "a": "60 W gebruikt 60 Wh, de andere lampen minder"
+  },
+  {
+   "q": "Hoe heet het apparaat waarmee een energiebedrijf je verbruik meet?",
+   "a": "Een kWh-meter (energiemeter)"
+  }
+ ]
+}

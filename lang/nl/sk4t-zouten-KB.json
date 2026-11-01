@@ -1,0 +1,201 @@
+{
+ "title": "Zouten - 123 school",
+ "heading": "Zouten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "In welke drie chemische groepen kunnen we alle stoffen op aarde indelen?",
+   "a": "Moleculaire stoffen, zouten en metalen"
+  },
+  {
+   "q": "Wat is de chemische formule van water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Tot welke van de 3 chemische groepen behoort water? kun je nog een stof noemen in deze groep",
+   "a": "Moleculaire stoffen. Bijvoorbeeld polymeren, zuurstof gas O<sub>2</sub> (g), waterstof gas H<sub>2</sub> (g)"
+  },
+  {
+   "q": "Vast, vloeibaar, gasvormig en in water opgelost: hoe geef je dat aan in een chemische formule?",
+   "a": "s, l, g, aq"
+  },
+  {
+   "q": "Zouten bestaan uit geladen deeltjes, hoe noemen we die?",
+   "a": "Ionen"
+  },
+  {
+   "q": "Welke lading vind je altijd in zouten",
+   "a": "Positieve + en negatieve - lading (kationen en anionen respectievelijk)"
+  },
+  {
+   "q": "Kunnen zouten elektrische stroom geleiden?",
+   "a": "Ja, wanneer ze in water zijn opgelost. In vaste, kristal, vorm niet."
+  },
+  {
+   "q": "Welke kleur heeft Cu<sup>2+</sup> (aq)?",
+   "a": "Blauw"
+  },
+  {
+   "q": "Hoe geef je weer in een chemische formule dat ijzer een driewaardige lading heeft?",
+   "a": "Fe(III)"
+  },
+  {
+   "q": "Geef de chemische formule van vast calciumchloride",
+   "a": "CaCl<sub>2</sub> (s)"
+  },
+  {
+   "q": "Wat is de lading van chloor, broom en jood ionen?",
+   "a": "1-"
+  },
+  {
+   "q": "Wat is de lading van de meeste metaal ionen?",
+   "a": "2+"
+  },
+  {
+   "q": "wat is de lading van K en Na?",
+   "a": "1+"
+  },
+  {
+   "q": "Wat is de lading van de atomen in groep 18, de edelgassen?",
+   "a": "Deze atomen komen niet voor in zouten en hebben daarom 0 lading"
+  },
+  {
+   "q": "Hoeveel mL is een L?",
+   "a": "1L = 1000 mL"
+  },
+  {
+   "q": "Hoeveel gram is 1 kg?",
+   "a": "1kg = 1000 g"
+  },
+  {
+   "q": "Welke scheidingsmethode kun je kiezen om vaste goed opgelost zout uit een vloeistof te halen?",
+   "a": "Indampen of neer laten slaan met een ander zout om het van interesse neer te laten slaan of het ongewenste zout neer te laten slaan en vervolgens te zuiveren door bezinken en/of filteren"
+  },
+  {
+   "q": "Leg uit wat een verzadigde oplossing van keukenzout",
+   "a": "Een oplossing waarin de maximale hoeveelheid keukenzout per liter is opgelost en waarbij extra zout dat wordt toegevoegd niet wil oplossen"
+  },
+  {
+   "q": "Wat is de chemische formule van keukenzout?",
+   "a": "NaCl"
+  },
+  {
+   "q": "Hoe schrijf je opgelost keukenzout in een chemische formule?",
+   "a": "Na<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)"
+  },
+  {
+   "q": "Wat is de dichtheid van goud? (gebruik BINAS tabel 15)",
+   "a": "19,30 g/cm<sup>3</sup> (opzoeken in BINAS)"
+  },
+  {
+   "q": "1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?",
+   "a": "1 cm<sup>3</sup>"
+  },
+  {
+   "q": "Omschrijf wat een kristalrooster is",
+   "a": "In een kristal rooster zitten de positieve en negatieve ionen van een zout systematisch gerangschikt."
+  },
+  {
+   "q": "Is de totale lading van een zout positief, negatief of neutraal.",
+   "a": "De totale lading van een zout is altijd nul/neutraal, waarbij de positieve lading en negatieve lading elkaar precies opheffen"
+  },
+  {
+   "q": "Hoe verandert de elektrische geleidbaarheid als je meer zout toevoegt aan een zoutoplossing?",
+   "a": "Deze neemt toe met de concentratie zout"
+  },
+  {
+   "q": "Uit welke twee ionen bestaan de meeste zouten?",
+   "a": "Uit metaal ionen en niet-metaal ionen"
+  },
+  {
+   "q": "Welk ion staat altijd voorop in de zoutformule?",
+   "a": "Het metaal ion bijv. het is NaCl en dus niet ClNa"
+  },
+  {
+   "q": "Hoe kun je zout kristallen sneller laten oplossen?",
+   "a": "Door ze fijner te maken (meer contact oppervlak) of de temperatuur te verhogen"
+  },
+  {
+   "q": "Hoe kun je de oplosbaarheid van bepaalde zouten beïnvloeden?",
+   "a": "Voor een grote groep zouten neemt de oplosbaarheid toe met de temperatuur, dit is niet voor alle zouten het geval en is afhankelijk van het soort zout"
+  },
+  {
+   "q": "In welke BINAS tabel vind je de oplosbaarheid van zouten?",
+   "a": "Tabel 35"
+  },
+  {
+   "q": "Zouten waarvan meer dan 10 g per liter oplost noemen we goed/matig/slecht oplosbaar?",
+   "a": "goed oplosbaar"
+  },
+  {
+   "q": "Wat is de concentratie van 12 gram van een zout in 2,5 Liter water?",
+   "a": "De concentratie in g/L is 12/2,5 = 4,8 g/L"
+  },
+  {
+   "q": "Wat is de concentratie in g/L van 200mg van een zout in 2,5 mL",
+   "a": "200mg = 0,2 g en 2,5 mL is 0,0025 L dus de  0,2g / 0,0025 L = 80 g/L"
+  },
+  {
+   "q": "Wat zijn de namen van chloor, broom en fluor ionen in een zout formule?",
+   "a": "Chloride, bromide, fluoride bijvoorbeeld natriumchloride"
+  },
+  {
+   "q": "Welke twee metaal ionen kunnen een driewaardige positieve lading hebben?",
+   "a": "Fe(III) of Fe<sup>3+</sup> en Al(III) of Al<sup>3+</sup>"
+  },
+  {
+   "q": "Hoe noem je een zuurstof en een zwavel ion in een zoutformule?",
+   "a": "oxide en sulfide, bijvoorbeeld ijzer(III)oxide"
+  },
+  {
+   "q": "Geef de zoutformule van magnesiumchloride",
+   "a": "MgCl<sub>2</sub>  (nb. het is Mg<sup>2+</sup> en Cl<sup>-</sup>, je hebt dus twee chloride ionen nodig om de magnesium lading te neutraliseren)"
+  },
+  {
+   "q": "Geef de zoutformule van ijzer(III)oxide",
+   "a": "Fe<sub>2</sub>O<sub>3</sub>  (nb. het is Fe<sup>3+</sup> en O<sup>2-</sup>, je hebt dus twee ijzer ionen en 3 oxide-ionen nodig om een neutraal zout te kunnen vormen)"
+  },
+  {
+   "q": "Geef de oplosvergelijking van MgCl<sub>2</sub>",
+   "a": "MgCl<sub>2</sub> (s) --->  Mg<sup>2+</sup> (aq) + 2Cl<sup>-</sup> (aq)"
+  },
+  {
+   "q": "Geef de indampvergelijking van een oplossing van bariumjodide",
+   "a": "Ba<sup>2+</sup> (aq) + 2I<sup>-</sup> (aq) ---> BaI<sub>2</sub> (s)"
+  },
+  {
+   "q": "Geef de chemische formule van het samengestelde  ammonium-ion",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Geef de chemische formule van het samengestelde sulfaat-ion",
+   "a": "SO<sub>4</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Geef de zoutformule van ammoniumsulfaat (let op neutraliteit van het zout)",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de lading van chroom in het zout CrCl<sub>3</sub>?",
+   "a": "3+"
+  },
+  {
+   "q": "Wat is de lading van het samengestelde fosfaation?",
+   "a": "3-"
+  },
+  {
+   "q": "Geef de chemische formule voor het hydroxide ion",
+   "a": "OH<sup>-</sup>"
+  },
+  {
+   "q": "Welke zouten zijn allemaal goed oplosbaar?",
+   "a": "Zouten van Na<sup>+</sup>, K<sup>+</sup> , NO<sub>3</sub><sup>-</sup> en NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Is PbI<sub>2</sub> goed slecht of matig oplosbaar in water? (gebruik BINAS tabel 35)",
+   "a": "slecht (zie BINAS tabel 35)"
+  }
+ ]
+}

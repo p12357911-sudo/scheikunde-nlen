@@ -1,0 +1,1253 @@
+{
+ "pagina": {
+  "Kunststoffen1KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "Matriaalenstof1MP": {
+   "soort": "mp",
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": true,
+   "fixed": true
+  },
+  "MolBouw1KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "NL1": {
+   "soort": "mp",
+   "ai": false,
+   "kop": "em",
+   "cont_id": "polymeren",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "acidbase1KB": {
+   "soort": "kb",
+   "wissel": [
+    "acidbase1KB",
+    "acidbase1MP"
+   ],
+   "ai": false,
+   "id_genormaliseerd": 49,
+   "vrij": "alle",
+   "opnieuw": false,
+   "opnieuw_wrap": ""
+  },
+  "acidbase1MP": {
+   "soort": "mp",
+   "wissel": [
+    "acidbase1KB",
+    "acidbase1MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": true
+  },
+  "duurzaamheidMP": {
+   "soort": "mp",
+   "ai": false,
+   "kop": "em",
+   "cont_id": "duurzaamheid",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "kunststoffenMP": {
+   "soort": "mp",
+   "ai": false,
+   "kop": "em",
+   "cont_id": "polymeren",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-elektriciteit-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-elektriciteit-KB",
+    "nk3h-elektriciteit-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-elektriciteit-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-elektriciteit-KB",
+    "nk3h-elektriciteit-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-energie-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-energie-KB",
+    "nk3h-energie-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-energie-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-energie-KB",
+    "nk3h-energie-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-kracht-en-beweging-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-kracht-en-beweging-KB",
+    "nk3h-kracht-en-beweging-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-kracht-en-beweging-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-kracht-en-beweging-KB",
+    "nk3h-kracht-en-beweging-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-krachten-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-krachten-KB",
+    "nk3h-krachten-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-krachten-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-krachten-KB",
+    "nk3h-krachten-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-schakelingen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-schakelingen-KB",
+    "nk3h-schakelingen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-schakelingen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-schakelingen-KB",
+    "nk3h-schakelingen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "nk3h-straling-KB": {
+   "soort": "kb",
+   "wissel": [
+    "nk3h-straling-KB",
+    "nk3h-straling-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "nk3h-straling-MP": {
+   "soort": "mp",
+   "wissel": [
+    "nk3h-straling-KB",
+    "nk3h-straling-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "redox1KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv3h-breuken-procenten-eenheden-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv3h-breuken-procenten-eenheden-KB",
+    "rv3h-breuken-procenten-eenheden-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv3h-breuken-procenten-eenheden-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv3h-breuken-procenten-eenheden-KB",
+    "rv3h-breuken-procenten-eenheden-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "rv3h-significante-cijfers-stappen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv3h-significante-cijfers-stappen-KB",
+    "rv3h-significante-cijfers-stappen-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv3h-significante-cijfers-stappen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv3h-significante-cijfers-stappen-KB",
+    "rv3h-significante-cijfers-stappen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "rv3t-afronden-stappen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv3t-afronden-stappen-KB",
+    "rv3t-afronden-stappen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv3t-afronden-stappen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv3t-afronden-stappen-KB",
+    "rv3t-afronden-stappen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "rv3t-breuken-procenten-eenheden-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv3t-breuken-procenten-eenheden-KB",
+    "rv3t-breuken-procenten-eenheden-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv3t-breuken-procenten-eenheden-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv3t-breuken-procenten-eenheden-KB",
+    "rv3t-breuken-procenten-eenheden-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "rv4h-eenheden-gehaltes-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv4h-eenheden-gehaltes-KB",
+    "rv4h-eenheden-gehaltes-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv4h-eenheden-gehaltes-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv4h-eenheden-gehaltes-KB",
+    "rv4h-eenheden-gehaltes-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "rv4h-significante-cijfers-stappen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "rv4h-significante-cijfers-stappen-KB",
+    "rv4h-significante-cijfers-stappen-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "rv4h-significante-cijfers-stappen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "rv4h-significante-cijfers-stappen-KB",
+    "rv4h-significante-cijfers-stappen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-atomen-moleculen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-atomen-moleculen-KB",
+    "sk3h-atomen-moleculen-MP"
+   ],
+   "ai": true,
+   "vrij": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "opnieuw": false,
+   "opnieuw_wrap": ""
+  },
+  "sk3h-atomen-moleculen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-atomen-moleculen-KB",
+    "sk3h-atomen-moleculen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-bouw-van-stoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-bouw-van-stoffen-KB",
+    "sk3h-bouw-van-stoffen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3h-bouw-van-stoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-bouw-van-stoffen-KB",
+    "sk3h-bouw-van-stoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-brandstoffen-kunststoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-brandstoffen-kunststoffen-KB",
+    "sk3h-brandstoffen-kunststoffen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3h-brandstoffen-kunststoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-brandstoffen-kunststoffen-KB",
+    "sk3h-brandstoffen-kunststoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-reacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-reacties-KB",
+    "sk3h-reacties-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3h-reacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-reacties-KB",
+    "sk3h-reacties-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-rekenen-aan-reacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-rekenen-aan-reacties-KB",
+    "sk3h-rekenen-aan-reacties-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3h-rekenen-aan-reacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-rekenen-aan-reacties-KB",
+    "sk3h-rekenen-aan-reacties-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-stoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-stoffen-KB",
+    "sk3h-stoffen-MP"
+   ],
+   "ai": true,
+   "vrij": "alle",
+   "opnieuw": false,
+   "opnieuw_wrap": ""
+  },
+  "sk3h-stoffen-KBAI": {
+   "soort": "kb",
+   "ai": true,
+   "vrij": "alle",
+   "opnieuw": false,
+   "opnieuw_wrap": ""
+  },
+  "sk3h-stoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-stoffen-KB",
+    "sk3h-stoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3h-voeding-verzorging-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3h-voeding-verzorging-KB",
+    "sk3h-voeding-verzorging-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3h-voeding-verzorging-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3h-voeding-verzorging-KB",
+    "sk3h-voeding-verzorging-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-atomen-moleculen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-atomen-moleculen-KB",
+    "sk3t-atomen-moleculen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-atomen-moleculen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-atomen-moleculen-KB",
+    "sk3t-atomen-moleculen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-basiskennis-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-basiskennis-KB",
+    "sk3t-basiskennis-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-basiskennis-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-basiskennis-KB",
+    "sk3t-basiskennis-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-begrippen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-begrippen-KB",
+    "sk3t-begrippen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-begrippen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-begrippen-KB",
+    "sk3t-begrippen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-reacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-reacties-KB",
+    "sk3t-reacties-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-reacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-reacties-KB",
+    "sk3t-reacties-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-reactiesnelheid-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-reactiesnelheid-KB",
+    "sk3t-reactiesnelheid-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-reactiesnelheid-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-reactiesnelheid-KB",
+    "sk3t-reactiesnelheid-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-rekenen-aan-reacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-rekenen-aan-reacties-KB",
+    "sk3t-rekenen-aan-reacties-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-rekenen-aan-reacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-rekenen-aan-reacties-KB",
+    "sk3t-rekenen-aan-reacties-MP"
+   ],
+   "ai": false,
+   "kop": "h2",
+   "cont_id": "meerkeuzevragen",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-scheidingsmethoden-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-scheidingsmethoden-KB",
+    "sk3t-scheidingsmethoden-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-scheidingsmethoden-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-scheidingsmethoden-KB",
+    "sk3t-scheidingsmethoden-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-stoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-stoffen-KB",
+    "sk3t-stoffen-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-stoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-stoffen-KB",
+    "sk3t-stoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-verbranding-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-verbranding-KB",
+    "sk3t-verbranding-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-verbranding-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-verbranding-KB",
+    "sk3t-verbranding-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk3t-water-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk3t-water-KB",
+    "sk3t-water-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk3t-water-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk3t-water-KB",
+    "sk3t-water-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-atoombouw-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-atoombouw-KB",
+    "sk4h-atoombouw-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-atoombouw-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-atoombouw-KB",
+    "sk4h-atoombouw-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-atoombouw-rekenen-KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-begrippen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-begrippen-KB",
+    "sk4h-begrippen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-begrippen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-begrippen-KB",
+    "sk4h-begrippen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-chemische-binding-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-chemische-binding-KB",
+    "sk4h-chemische-binding-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-chemische-binding-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-chemische-binding-KB",
+    "sk4h-chemische-binding-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-koolwaterstoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-koolwaterstoffen-KB",
+    "sk4h-koolwaterstoffen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-koolwaterstoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-koolwaterstoffen-KB",
+    "sk4h-koolwaterstoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-reactiekinetiek-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-reactiekinetiek-KB",
+    "sk4h-reactiekinetiek-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-reactiekinetiek-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-reactiekinetiek-KB",
+    "sk4h-reactiekinetiek-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-rekenen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-rekenen-KB",
+    "sk4h-rekenen-MP"
+   ],
+   "ai": true,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-rekenen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-rekenen-KB",
+    "sk4h-rekenen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-zouten-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-zouten-KB",
+    "sk4h-zouten-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-zouten-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-zouten-KB",
+    "sk4h-zouten-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4h-zuren-basen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4h-zuren-basen-KB",
+    "sk4h-zuren-basen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4h-zuren-basen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4h-zuren-basen-KB",
+    "sk4h-zuren-basen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-begrippen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-begrippen-KB",
+    "sk4t-begrippen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-begrippen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-begrippen-KB",
+    "sk4t-begrippen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-metalen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-metalen-KB",
+    "sk4t-metalen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-metalen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-metalen-KB",
+    "sk4t-metalen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-rekenen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-rekenen-KB",
+    "sk4t-rekenen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-rekenen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-rekenen-KB",
+    "sk4t-rekenen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-schoon-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-schoon-KB",
+    "sk4t-schoon-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-schoon-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-schoon-KB",
+    "sk4t-schoon-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-stoffen-uit-de-aarde-KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-zouten-KB": {
+   "soort": "kb",
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-zoutreacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-zoutreacties-KB",
+    "sk4t-zoutreacties-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-zoutreacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-zoutreacties-KB",
+    "sk4t-zoutreacties-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-zuren-basen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-zuren-basen-KB",
+    "sk4t-zuren-basen-MP"
+   ],
+   "ai": false,
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-zuren-basen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-zuren-basen-KB",
+    "sk4t-zuren-basen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  }
+ },
+ "stubs": [
+  "BegrippenHavoVwo4KB",
+  "BegrippenHavoVwo4MP",
+  "BegrippenVmbo3KB",
+  "BegrippenVmbo3MP",
+  "BegrippenVmbo4KB",
+  "BegrippenVmbo4MP",
+  "ChemBonds1KB",
+  "ChemCalcPeriodSys1KB",
+  "ChemReactions1KB",
+  "Matriaalenstof1KB",
+  "Matriaalenstof1KBAI",
+  "NovaHavo3H1StoffenMP",
+  "NovaHavo3H2Reacties2KB",
+  "NovaHavo3H2ReactiesMP",
+  "NovaNatHavo3H1ElektriciteitKB",
+  "NovaNatHavo3H1ElektriciteitMP",
+  "NovaNatHavo3H2KrachtenKB",
+  "NovaNatHavo3H2KrachtenMP",
+  "NovaVmbo3H1StoffenKB",
+  "NovaVmbo3H1StoffenMP",
+  "NovaVmbo3H2WaterKB",
+  "NovaVmbo3H2WaterMP",
+  "PolarisHavo4H1AtoombouwKB",
+  "PolarisHavo4H1AtoombouwMP",
+  "PolarisHavo4H2RekenenKB",
+  "PolarisHavo4H2RekenenMP",
+  "Sorterenvmbo3Hst2",
+  "Uitdeaardevmbo4Hst9",
+  "Zoutenvmbo4Hst10",
+  "chemrekenenVMBO3MP",
+  "rv3h-breuken-KB",
+  "rv3h-breuken-MP",
+  "rv3h-eenheden-breuken-KB",
+  "rv3h-eenheden-breuken-MP",
+  "rv3h-formules-omschrijven-KB",
+  "rv3h-formules-omschrijven-MP",
+  "rv3h-omrekenen-KB",
+  "rv3h-omrekenen-MP",
+  "rv3h-procenten-verhoudingen-KB",
+  "rv3h-procenten-verhoudingen-MP",
+  "rv3h-significante-cijfers-KB",
+  "rv3h-significante-cijfers-MP",
+  "rv3h-stapelopdrachten-KB",
+  "rv3h-stapelopdrachten-MP",
+  "rv3t-afronden-KB",
+  "rv3t-afronden-MP",
+  "rv3t-breuken-KB",
+  "rv3t-breuken-MP",
+  "rv3t-eenheden-breuken-KB",
+  "rv3t-eenheden-breuken-MP",
+  "rv3t-formules-omschrijven-KB",
+  "rv3t-formules-omschrijven-MP",
+  "rv3t-omrekenen-KB",
+  "rv3t-omrekenen-MP",
+  "rv3t-procenten-verhoudingen-KB",
+  "rv3t-procenten-verhoudingen-MP",
+  "rv3t-stapelopdrachten-KB",
+  "rv3t-stapelopdrachten-MP",
+  "rv4h-eenheden-breuken-KB",
+  "rv4h-eenheden-breuken-MP",
+  "rv4h-formules-omschrijven-KB",
+  "rv4h-formules-omschrijven-MP",
+  "rv4h-gehaltes-KB",
+  "rv4h-gehaltes-MP",
+  "rv4h-rekenen-met-significante-cijfers-KB",
+  "rv4h-rekenen-met-significante-cijfers-MP",
+  "rv4h-significante-cijfers-KB",
+  "rv4h-significante-cijfers-MP",
+  "rv4h-stapelopdrachten-KB",
+  "rv4h-stapelopdrachten-MP",
+  "rv4h-verhoudingen-mol-KB",
+  "rv4h-verhoudingen-mol-MP",
+  "rv4h-voorvoegsels-omrekenen-KB",
+  "rv4h-voorvoegsels-omrekenen-MP",
+  "rv4h-wetenschappelijke-notatie-KB",
+  "rv4h-wetenschappelijke-notatie-MP",
+  "sk3t-metalen-KB",
+  "sk3t-metalen-MP"
+ ]
+}

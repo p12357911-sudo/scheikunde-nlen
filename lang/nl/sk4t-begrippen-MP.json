@@ -1,0 +1,2079 @@
+{
+ "title": "Begrippen scheikunde - 123 school",
+ "heading": "Begrippen scheikunde",
+ "intro": [
+  "Deze begrippen leer je uit je hoofd. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de naam van het element met het symbool Na?",
+   "answers": {
+    "a": "fosfor",
+    "b": "zink",
+    "c": "natrium",
+    "d": "waterstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van natrium?",
+   "answers": {
+    "a": "N",
+    "b": "Pb",
+    "c": "Na",
+    "d": "O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool K?",
+   "answers": {
+    "a": "waterstof",
+    "b": "zink",
+    "c": "lithium",
+    "d": "kalium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van kalium?",
+   "answers": {
+    "a": "Cu",
+    "b": "Br",
+    "c": "K",
+    "d": "Mg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Li?",
+   "answers": {
+    "a": "lithium",
+    "b": "lood",
+    "c": "aluminium",
+    "d": "chloor"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van lithium?",
+   "answers": {
+    "a": "Pb",
+    "b": "H",
+    "c": "Li",
+    "d": "O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Ca?",
+   "answers": {
+    "a": "calcium",
+    "b": "fluor",
+    "c": "chloor",
+    "d": "zilver"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van calcium?",
+   "answers": {
+    "a": "Ca",
+    "b": "Pb",
+    "c": "Cl",
+    "d": "Fe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Mg?",
+   "answers": {
+    "a": "ijzer",
+    "b": "aluminium",
+    "c": "lithium",
+    "d": "magnesium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van magnesium?",
+   "answers": {
+    "a": "O",
+    "b": "F",
+    "c": "Mg",
+    "d": "C"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Al?",
+   "answers": {
+    "a": "aluminium",
+    "b": "broom",
+    "c": "lood",
+    "d": "natrium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van aluminium?",
+   "answers": {
+    "a": "Fe",
+    "b": "F",
+    "c": "I",
+    "d": "Al"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Fe?",
+   "answers": {
+    "a": "ijzer",
+    "b": "fluor",
+    "c": "zilver",
+    "d": "aluminium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van ijzer?",
+   "answers": {
+    "a": "Fe",
+    "b": "Al",
+    "c": "Ca",
+    "d": "Cu"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Cu?",
+   "answers": {
+    "a": "koper",
+    "b": "koolstof",
+    "c": "waterstof",
+    "d": "kalium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van koper?",
+   "answers": {
+    "a": "Na",
+    "b": "N",
+    "c": "Ca",
+    "d": "Cu"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Pb?",
+   "answers": {
+    "a": "lood",
+    "b": "lithium",
+    "c": "calcium",
+    "d": "stikstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van lood?",
+   "answers": {
+    "a": "Pb",
+    "b": "N",
+    "c": "O",
+    "d": "Li"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Ag?",
+   "answers": {
+    "a": "koper",
+    "b": "ijzer",
+    "c": "calcium",
+    "d": "zilver"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van zilver?",
+   "answers": {
+    "a": "P",
+    "b": "Li",
+    "c": "Ag",
+    "d": "O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Sn?",
+   "answers": {
+    "a": "koolstof",
+    "b": "tin",
+    "c": "natrium",
+    "d": "jood"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van tin?",
+   "answers": {
+    "a": "H",
+    "b": "F",
+    "c": "O",
+    "d": "Sn"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Zn?",
+   "answers": {
+    "a": "magnesium",
+    "b": "zink",
+    "c": "aluminium",
+    "d": "koolstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van zink?",
+   "answers": {
+    "a": "Sn",
+    "b": "Mg",
+    "c": "Cu",
+    "d": "Zn"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool F?",
+   "answers": {
+    "a": "zilver",
+    "b": "fosfor",
+    "c": "fluor",
+    "d": "aluminium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van fluor?",
+   "answers": {
+    "a": "Ca",
+    "b": "K",
+    "c": "Mg",
+    "d": "F"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Cl?",
+   "answers": {
+    "a": "broom",
+    "b": "chloor",
+    "c": "tin",
+    "d": "koolstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van chloor?",
+   "answers": {
+    "a": "Cl",
+    "b": "F",
+    "c": "Pb",
+    "d": "Fe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool Br?",
+   "answers": {
+    "a": "broom",
+    "b": "aluminium",
+    "c": "zilver",
+    "d": "magnesium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van broom?",
+   "answers": {
+    "a": "Fe",
+    "b": "Li",
+    "c": "Br",
+    "d": "Al"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool I?",
+   "answers": {
+    "a": "aluminium",
+    "b": "jood",
+    "c": "zuurstof",
+    "d": "natrium"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van jood?",
+   "answers": {
+    "a": "K",
+    "b": "I",
+    "c": "Zn",
+    "d": "O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool N?",
+   "answers": {
+    "a": "ijzer",
+    "b": "lood",
+    "c": "zuurstof",
+    "d": "stikstof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het symbool van stikstof?",
+   "answers": {
+    "a": "Ca",
+    "b": "Ag",
+    "c": "Br",
+    "d": "N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool O?",
+   "answers": {
+    "a": "koolstof",
+    "b": "magnesium",
+    "c": "zuurstof",
+    "d": "ijzer"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van zuurstof?",
+   "answers": {
+    "a": "Ag",
+    "b": "O",
+    "c": "Ca",
+    "d": "Mg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool P?",
+   "answers": {
+    "a": "zilver",
+    "b": "zuurstof",
+    "c": "fosfor",
+    "d": "ijzer"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het symbool van fosfor?",
+   "answers": {
+    "a": "P",
+    "b": "Pb",
+    "c": "I",
+    "d": "Sn"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool C?",
+   "answers": {
+    "a": "koolstof",
+    "b": "fosfor",
+    "c": "chloor",
+    "d": "ijzer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van koolstof?",
+   "answers": {
+    "a": "Na",
+    "b": "C",
+    "c": "F",
+    "d": "O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het element met het symbool H?",
+   "answers": {
+    "a": "lithium",
+    "b": "waterstof",
+    "c": "natrium",
+    "d": "tin"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van waterstof?",
+   "answers": {
+    "a": "Fe",
+    "b": "Sn",
+    "c": "H",
+    "d": "Br"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke lading heeft het ion van natrium (Na)?",
+   "answers": {
+    "a": "3−",
+    "b": "2+",
+    "c": "2−",
+    "d": "1+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk ion hoort bij natrium?",
+   "answers": {
+    "a": "Na<sup>3−</sup>",
+    "b": "Na<sup>3+</sup>",
+    "c": "Na<sup>2−</sup>",
+    "d": "Na<sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading heeft het ion van kalium (K)?",
+   "answers": {
+    "a": "2−",
+    "b": "3−",
+    "c": "1+",
+    "d": "1−"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk ion hoort bij kalium?",
+   "answers": {
+    "a": "K<sup>3+</sup>",
+    "b": "K<sup>3−</sup>",
+    "c": "K<sup>−</sup>",
+    "d": "K<sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading heeft het ion van lithium (Li)?",
+   "answers": {
+    "a": "2−",
+    "b": "1+",
+    "c": "2+",
+    "d": "1−"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion hoort bij lithium?",
+   "answers": {
+    "a": "Li<sup>+</sup>",
+    "b": "Li<sup>3+</sup>",
+    "c": "Li<sup>−</sup>",
+    "d": "Li<sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke lading heeft het ion van calcium (Ca)?",
+   "answers": {
+    "a": "2+",
+    "b": "1−",
+    "c": "1+",
+    "d": "3+"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion hoort bij calcium?",
+   "answers": {
+    "a": "Ca<sup>+</sup>",
+    "b": "Ca<sup>2−</sup>",
+    "c": "Ca<sup>3+</sup>",
+    "d": "Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading heeft het ion van magnesium (Mg)?",
+   "answers": {
+    "a": "2−",
+    "b": "2+",
+    "c": "1−",
+    "d": "3−"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion hoort bij magnesium?",
+   "answers": {
+    "a": "Mg<sup>2+</sup>",
+    "b": "Mg<sup>2−</sup>",
+    "c": "Mg<sup>3−</sup>",
+    "d": "Mg<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke lading heeft het ion van aluminium (Al)?",
+   "answers": {
+    "a": "3−",
+    "b": "2−",
+    "c": "2+",
+    "d": "3+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk ion hoort bij aluminium?",
+   "answers": {
+    "a": "Al<sup>+</sup>",
+    "b": "Al<sup>3+</sup>",
+    "c": "Al<sup>3−</sup>",
+    "d": "Al<sup>2−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke lading heeft het ion van koper (Cu)?",
+   "answers": {
+    "a": "2+",
+    "b": "3+",
+    "c": "1−",
+    "d": "2−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion hoort bij koper?",
+   "answers": {
+    "a": "Cu<sup>2−</sup>",
+    "b": "Cu<sup>−</sup>",
+    "c": "Cu<sup>3−</sup>",
+    "d": "Cu<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading heeft het ion van lood (Pb)?",
+   "answers": {
+    "a": "2+",
+    "b": "1+",
+    "c": "2−",
+    "d": "3+"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion hoort bij lood?",
+   "answers": {
+    "a": "Pb<sup>2+</sup>",
+    "b": "Pb<sup>3+</sup>",
+    "c": "Pb<sup>−</sup>",
+    "d": "Pb<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke lading heeft het ion van zilver (Ag)?",
+   "answers": {
+    "a": "2+",
+    "b": "1−",
+    "c": "1+",
+    "d": "3−"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk ion hoort bij zilver?",
+   "answers": {
+    "a": "Ag<sup>2−</sup>",
+    "b": "Ag<sup>+</sup>",
+    "c": "Ag<sup>2+</sup>",
+    "d": "Ag<sup>−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke lading heeft het ion van tin (Sn)?",
+   "answers": {
+    "a": "3−",
+    "b": "2−",
+    "c": "2+",
+    "d": "1+"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk ion hoort bij tin?",
+   "answers": {
+    "a": "Sn<sup>+</sup>",
+    "b": "Sn<sup>2+</sup>",
+    "c": "Sn<sup>3+</sup>",
+    "d": "Sn<sup>2−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke lading heeft het ion van zink (Zn)?",
+   "answers": {
+    "a": "1+",
+    "b": "1−",
+    "c": "2+",
+    "d": "3+"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk ion hoort bij zink?",
+   "answers": {
+    "a": "Zn<sup>+</sup>",
+    "b": "Zn<sup>2−</sup>",
+    "c": "Zn<sup>2+</sup>",
+    "d": "Zn<sup>3+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke lading heeft het ion van fluor (F)?",
+   "answers": {
+    "a": "1−",
+    "b": "2+",
+    "c": "3−",
+    "d": "2−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion hoort bij fluor?",
+   "answers": {
+    "a": "F<sup>2−</sup>",
+    "b": "F<sup>+</sup>",
+    "c": "F<sup>3+</sup>",
+    "d": "F<sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading heeft het ion van chloor (Cl)?",
+   "answers": {
+    "a": "3−",
+    "b": "1−",
+    "c": "2+",
+    "d": "2−"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion hoort bij chloor?",
+   "answers": {
+    "a": "Cl<sup>2−</sup>",
+    "b": "Cl<sup>−</sup>",
+    "c": "Cl<sup>3+</sup>",
+    "d": "Cl<sup>2+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke lading heeft het ion van broom (Br)?",
+   "answers": {
+    "a": "3+",
+    "b": "1−",
+    "c": "2−",
+    "d": "1+"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion hoort bij broom?",
+   "answers": {
+    "a": "Br<sup>3−</sup>",
+    "b": "Br<sup>+</sup>",
+    "c": "Br<sup>−</sup>",
+    "d": "Br<sup>3+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke lading heeft het ion van jood (I)?",
+   "answers": {
+    "a": "2+",
+    "b": "1−",
+    "c": "1+",
+    "d": "3−"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk ion hoort bij jood?",
+   "answers": {
+    "a": "I<sup>2+</sup>",
+    "b": "I<sup>2−</sup>",
+    "c": "I<sup>−</sup>",
+    "d": "I<sup>3−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke lading heeft het ion van ijzer?",
+   "answers": {
+    "a": "2+ of 3+",
+    "b": "1+",
+    "c": "2−",
+    "d": "1−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kleur heeft koper(II) (Cu<sup>2+</sup>) in je lijst?",
+   "answers": {
+    "a": "paars",
+    "b": "blauw",
+    "c": "geel",
+    "d": "kleurloos"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke kleuren worden in je lijst genoemd bij ijzer(II) en ijzer(III)?",
+   "answers": {
+    "a": "rood en paars",
+    "b": "blauw en geel",
+    "c": "blauw en groen",
+    "d": "groen en bruin"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het ion S<sup>2−</sup>?",
+   "answers": {
+    "a": "chloride",
+    "b": "oxide",
+    "c": "sulfide",
+    "d": "nitride"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het ion O<sup>2−</sup>?",
+   "answers": {
+    "a": "hydroxide",
+    "b": "oxide",
+    "c": "sulfide",
+    "d": "chloride"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het ion F<sup>−</sup>?",
+   "answers": {
+    "a": "sulfide",
+    "b": "fluoride",
+    "c": "jodide",
+    "d": "bromide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het ion Cl<sup>−</sup>?",
+   "answers": {
+    "a": "chloride",
+    "b": "fluoride",
+    "c": "sulfide",
+    "d": "jodide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het ion Br<sup>−</sup>?",
+   "answers": {
+    "a": "fluoride",
+    "b": "bromide",
+    "c": "oxide",
+    "d": "jodide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van het ion I<sup>−</sup>?",
+   "answers": {
+    "a": "jodide",
+    "b": "chloride",
+    "c": "oxide",
+    "d": "fluoride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is Fe(II)S?",
+   "answers": {
+    "a": "kopersulfide",
+    "b": "ijzeroxide",
+    "c": "ijzerchloride",
+    "d": "ijzersulfide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof is CuO?",
+   "answers": {
+    "a": "ijzeroxide",
+    "b": "kopercarbonaat",
+    "c": "koperoxide",
+    "d": "kopersulfide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion CO<sub>3</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "nitriet-ion",
+    "b": "sulfaat-ion",
+    "c": "ammonium-ion",
+    "d": "carbonaat-ion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van het carbonaat-ion?",
+   "answers": {
+    "a": "SO<sub>4</sub><sup>2−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>",
+    "c": "NO<sub>3</sub><sup>−</sup>",
+    "d": "PO<sub>4</sub><sup>3−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion NO<sub>3</sub><sup>−</sup>?",
+   "answers": {
+    "a": "nitraat-ion",
+    "b": "sulfaat-ion",
+    "c": "nitriet-ion",
+    "d": "fosfaat-ion"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van het nitraat-ion?",
+   "answers": {
+    "a": "CO<sub>3</sub><sup>2−</sup>",
+    "b": "PO<sub>4</sub><sup>3−</sup>",
+    "c": "NO<sub>3</sub><sup>−</sup>",
+    "d": "SO<sub>3</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion NO<sub>2</sub><sup>−</sup>?",
+   "answers": {
+    "a": "sulfiet-ion",
+    "b": "ammonium-ion",
+    "c": "sulfaat-ion",
+    "d": "nitriet-ion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van het nitriet-ion?",
+   "answers": {
+    "a": "SO<sub>3</sub><sup>2−</sup>",
+    "b": "NO<sub>2</sub><sup>−</sup>",
+    "c": "NO<sub>3</sub><sup>−</sup>",
+    "d": "CO<sub>3</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion PO<sub>4</sub><sup>3−</sup>?",
+   "answers": {
+    "a": "carbonaat-ion",
+    "b": "fosfaat-ion",
+    "c": "sulfiet-ion",
+    "d": "nitraat-ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het fosfaat-ion?",
+   "answers": {
+    "a": "SO<sub>3</sub><sup>2−</sup>",
+    "b": "SO<sub>4</sub><sup>2−</sup>",
+    "c": "PO<sub>4</sub><sup>3−</sup>",
+    "d": "NO<sub>3</sub><sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion NH<sub>4</sub><sup>+</sup>?",
+   "answers": {
+    "a": "sulfaat-ion",
+    "b": "ammonium-ion",
+    "c": "carbonaat-ion",
+    "d": "sulfiet-ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het ammonium-ion?",
+   "answers": {
+    "a": "SO<sub>3</sub><sup>2−</sup>",
+    "b": "SO<sub>4</sub><sup>2−</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "NO<sub>3</sub><sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion SO<sub>3</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "carbonaat-ion",
+    "b": "sulfiet-ion",
+    "c": "fosfaat-ion",
+    "d": "nitriet-ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het sulfiet-ion?",
+   "answers": {
+    "a": "SO<sub>4</sub><sup>2−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>",
+    "c": "NO<sub>3</sub><sup>−</sup>",
+    "d": "SO<sub>3</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het samengestelde ion SO<sub>4</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "sulfiet-ion",
+    "b": "sulfaat-ion",
+    "c": "nitraat-ion",
+    "d": "nitriet-ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het sulfaat-ion?",
+   "answers": {
+    "a": "CO<sub>3</sub><sup>2−</sup>",
+    "b": "NH<sub>4</sub><sup>+</sup>",
+    "c": "SO<sub>4</sub><sup>2−</sup>",
+    "d": "NO<sub>3</sub><sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heten de elementen uit groep 1 van het periodiek systeem?",
+   "answers": {
+    "a": "edelgassen",
+    "b": "aardalkalimetalen",
+    "c": "halogenen",
+    "d": "alkalimetalen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke groep van het periodiek systeem heet alkalimetalen?",
+   "answers": {
+    "a": "groep 18",
+    "b": "groep 17",
+    "c": "groep 2",
+    "d": "groep 1"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heten de elementen uit groep 2 van het periodiek systeem?",
+   "answers": {
+    "a": "alkalimetalen",
+    "b": "aardalkalimetalen",
+    "c": "edelgassen",
+    "d": "halogenen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke groep van het periodiek systeem heet aardalkalimetalen?",
+   "answers": {
+    "a": "groep 18",
+    "b": "groep 1",
+    "c": "groep 2",
+    "d": "groep 17"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heten de elementen uit groep 17 van het periodiek systeem?",
+   "answers": {
+    "a": "edelgassen",
+    "b": "alkalimetalen",
+    "c": "aardalkalimetalen",
+    "d": "halogenen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke groep van het periodiek systeem heet halogenen?",
+   "answers": {
+    "a": "groep 2",
+    "b": "groep 17",
+    "c": "groep 18",
+    "d": "groep 1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Van welk ion lossen alle zouten goed op?",
+   "answers": {
+    "a": "Ag<sup>+</sup>",
+    "b": "Pb<sup>2+</sup>",
+    "c": "Ca<sup>2+</sup>",
+    "d": "Na<sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Van welk ion lossen alle zouten goed op in water?",
+   "answers": {
+    "a": "K<sup>+</sup>",
+    "b": "Ca<sup>2+</sup>",
+    "c": "Pb<sup>2+</sup>",
+    "d": "Ag<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Van welk samengesteld ion lossen alle zouten goed op?",
+   "answers": {
+    "a": "PO<sub>4</sub><sup>3−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>",
+    "c": "S<sup>2−</sup>",
+    "d": "NO<sub>3</sub><sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk gas is giftig?",
+   "answers": {
+    "a": "zuurstofgas (O<sub>2</sub>)",
+    "b": "waterstofgas (H<sub>2</sub>)",
+    "c": "stikstofgas (N<sub>2</sub>)",
+    "d": "koolstofmonoxide (CO)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van koolstofmonoxide?",
+   "answers": {
+    "a": "C<sub>2</sub>O",
+    "b": "CH",
+    "c": "CO",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule hoort bij het gas zuurstof dat we inademen met de lucht?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "CO",
+    "c": "CO<sub>2</sub>",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule hoort bij het gas stikstof dat we inademen met de lucht?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "N<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "CO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk gas geeft in water zuurvorming?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "O<sub>2</sub>",
+    "c": "H<sub>2</sub>",
+    "d": "N<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat zijn koolwaterstoffen?",
+   "answers": {
+    "a": "moleculen die voornamelijk C-atomen en O-atomen bevatten",
+    "b": "moleculen die voornamelijk H-atomen en O-atomen bevatten",
+    "c": "moleculen die voornamelijk C-atomen en H-atomen bevatten",
+    "d": "moleculen die voornamelijk N-atomen en H-atomen bevatten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Uit welke twee atoomsoorten bestaan koolwaterstoffen voornamelijk?",
+   "answers": {
+    "a": "waterstof (H) en zuurstof (O)",
+    "b": "koolstof (C) en zuurstof (O)",
+    "c": "stikstof (N) en waterstof (H)",
+    "d": "koolstof (C) en waterstof (H)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de kleinste koolwaterstof?",
+   "answers": {
+    "a": "methaan",
+    "b": "butaan",
+    "c": "ethaan",
+    "d": "propaan"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof hoort bij de formule H<sub>2</sub>O?",
+   "answers": {
+    "a": "koolstofdioxide",
+    "b": "water",
+    "c": "methaan",
+    "d": "keukenzout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van water?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "CH<sub>4</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof hoort bij de formule CH<sub>4</sub>?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "water",
+    "c": "methaan",
+    "d": "keukenzout"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van methaan?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "CH<sub>4</sub>",
+    "d": "HCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof hoort bij de formule CO<sub>2</sub>?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "water",
+    "c": "methaan",
+    "d": "koolstofdioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van koolstofdioxide?",
+   "answers": {
+    "a": "NaCl",
+    "b": "H<sub>2</sub>O",
+    "c": "HCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het zuur met formule H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "azijnzuur",
+    "b": "salpeterzuur",
+    "c": "zoutzuur",
+    "d": "zwavelzuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van zwavelzuur?",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub>",
+    "b": "HNO<sub>3</sub>",
+    "c": "HCl",
+    "d": "HAc"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het zuur met formule HNO<sub>3</sub>?",
+   "answers": {
+    "a": "zwavelzuur",
+    "b": "salpeterzuur",
+    "c": "azijnzuur",
+    "d": "zoutzuur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van salpeterzuur?",
+   "answers": {
+    "a": "HAc",
+    "b": "H<sub>2</sub>SO<sub>4</sub>",
+    "c": "HNO<sub>3</sub>",
+    "d": "HCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van het zuur met formule HCl?",
+   "answers": {
+    "a": "salpeterzuur",
+    "b": "zwavelzuur",
+    "c": "zoutzuur",
+    "d": "azijnzuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van zoutzuur?",
+   "answers": {
+    "a": "HCl",
+    "b": "HAc",
+    "c": "H<sub>2</sub>SO<sub>4</sub>",
+    "d": "HNO<sub>3</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van het zuur met formule HAc?",
+   "answers": {
+    "a": "salpeterzuur",
+    "b": "zoutzuur",
+    "c": "azijnzuur",
+    "d": "zwavelzuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van azijnzuur?",
+   "answers": {
+    "a": "HAc",
+    "b": "H<sub>2</sub>SO<sub>4</sub>",
+    "c": "HNO<sub>3</sub>",
+    "d": "HCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van de stof met formule NH<sub>3</sub>?",
+   "answers": {
+    "a": "ammoniak",
+    "b": "kaliloog",
+    "c": "natronloog",
+    "d": "calciumhydroxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van ammoniak?",
+   "answers": {
+    "a": "KOH",
+    "b": "NaOH",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van de stof met formule KOH?",
+   "answers": {
+    "a": "calciumhydroxide",
+    "b": "kaliloog",
+    "c": "ammoniak",
+    "d": "natronloog"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van kaliloog?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub>",
+    "b": "NaOH",
+    "c": "KOH",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van de stof met formule NaOH?",
+   "answers": {
+    "a": "kaliloog",
+    "b": "calciumhydroxide",
+    "c": "natronloog",
+    "d": "ammoniak"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van natronloog?",
+   "answers": {
+    "a": "KOH",
+    "b": "NH<sub>3</sub>",
+    "c": "NaOH",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van de stof met formule Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "ammoniak",
+    "b": "kaliloog",
+    "c": "natronloog",
+    "d": "calciumhydroxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van calciumhydroxide?",
+   "answers": {
+    "a": "KOH",
+    "b": "NaOH",
+    "c": "NH<sub>3</sub>",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke formule hoort bij kalk en marmer?",
+   "answers": {
+    "a": "NaCl",
+    "b": "CaCO<sub>3</sub>",
+    "c": "KOH",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van een oplossing van Ca(OH)<sub>2</sub> in water?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "kaliloog",
+    "c": "natronloog",
+    "d": "kalkwater"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe schrijf je op dat HCl oplost in water?",
+   "answers": {
+    "a": "HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "b": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "HCl (s) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)",
+    "d": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe schrijf je op dat NaOH oplost in water?",
+   "answers": {
+    "a": "NaOH (g) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "b": "NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)",
+    "c": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "d": "NaOH (s) → Na<sup>+</sup> (aq) + O<sup>2−</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke deeltjes zitten er in keukenzout dat is opgelost in water?",
+   "answers": {
+    "a": "Na<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "b": "NaCl (s)",
+    "c": "Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)",
+    "d": "Na (aq) + Cl<sub>2</sub> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet de stof NaCl in het dagelijks leven?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "natronloog",
+    "c": "keukenzout",
+    "d": "kalkwater"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is HCl een zuur, een base of een zout?",
+   "answers": {
+    "a": "een base",
+    "b": "een zuur",
+    "c": "een metaal",
+    "d": "een zout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is NaOH een zuur, een base of een zout?",
+   "answers": {
+    "a": "een zuur",
+    "b": "een base",
+    "c": "een metaal",
+    "d": "een zout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is KOH een zuur, een base of een zout?",
+   "answers": {
+    "a": "een metaal",
+    "b": "een zuur",
+    "c": "een zout",
+    "d": "een base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is NaCl een zuur, een base of een zout?",
+   "answers": {
+    "a": "een metaal",
+    "b": "een base",
+    "c": "een zout",
+    "d": "een zuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is CaCO<sub>3</sub> een zuur, een base of een zout?",
+   "answers": {
+    "a": "een base",
+    "b": "een zout",
+    "c": "een zuur",
+    "d": "een metaal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de pH van een neutrale oplossing?",
+   "answers": {
+    "a": "10",
+    "b": "1",
+    "c": "14",
+    "d": "7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een pH van 14?",
+   "answers": {
+    "a": "basisch",
+    "b": "neutraal",
+    "c": "zwak zuur",
+    "d": "zuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een pH van 1?",
+   "answers": {
+    "a": "neutraal",
+    "b": "zwak basisch",
+    "c": "zuur",
+    "d": "basisch"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Tussen welke getallen loopt de pH-schaal in je lijst?",
+   "answers": {
+    "a": "1 en 7",
+    "b": "1 en 14",
+    "c": "7 en 14",
+    "d": "0 en 7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet het ion H<sup>+</sup>?",
+   "answers": {
+    "a": "hydroxide-ion",
+    "b": "waterstofion (proton)",
+    "c": "chloride-ion",
+    "d": "oxide-ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet het ion OH<sup>−</sup>?",
+   "answers": {
+    "a": "waterstofion (proton)",
+    "b": "chloride-ion",
+    "c": "hydroxide-ion",
+    "d": "oxide-ion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk ion is een proton?",
+   "answers": {
+    "a": "Na<sup>+</sup>",
+    "b": "OH<sup>−</sup>",
+    "c": "H<sup>+</sup>",
+    "d": "Cl<sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat ontstaat er als je H<sup>+</sup> en OH<sup>−</sup> in de verhouding 1 : 1 mengt?",
+   "answers": {
+    "a": "zoutzuur",
+    "b": "neutraal water",
+    "c": "kalkwater",
+    "d": "natronloog"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat zit er veel in een zure oplossing?",
+   "answers": {
+    "a": "veel H<sup>+</sup> en weinig OH<sup>−</sup>",
+    "b": "geen H<sup>+</sup> en geen OH<sup>−</sup>",
+    "c": "veel H<sup>+</sup> en veel OH<sup>−</sup>",
+    "d": "veel OH<sup>−</sup> en weinig H<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar staat (s) achter een stofnaam voor?",
+   "answers": {
+    "a": "in water opgelost (aqua)",
+    "b": "vloeibaar (liquid)",
+    "c": "gas",
+    "d": "vast (solid)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: vast (solid)?",
+   "answers": {
+    "a": "(aq)",
+    "b": "(s)",
+    "c": "(l)",
+    "d": "(g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waar staat (l) achter een stofnaam voor?",
+   "answers": {
+    "a": "vloeibaar (liquid)",
+    "b": "gas",
+    "c": "in water opgelost (aqua)",
+    "d": "vast (solid)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: vloeibaar (liquid)?",
+   "answers": {
+    "a": "(l)",
+    "b": "(g)",
+    "c": "(aq)",
+    "d": "(s)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar staat (g) achter een stofnaam voor?",
+   "answers": {
+    "a": "vloeibaar (liquid)",
+    "b": "gas",
+    "c": "in water opgelost (aqua)",
+    "d": "vast (solid)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: gas?",
+   "answers": {
+    "a": "(s)",
+    "b": "(g)",
+    "c": "(l)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waar staat (aq) achter een stofnaam voor?",
+   "answers": {
+    "a": "vloeibaar (liquid)",
+    "b": "gas",
+    "c": "vast (solid)",
+    "d": "in water opgelost (aqua)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke fase-aanduiding hoort bij: in water opgelost (aqua)?",
+   "answers": {
+    "a": "(aq)",
+    "b": "(l)",
+    "c": "(g)",
+    "d": "(s)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel faseovergangen zijn er?",
+   "answers": {
+    "a": "6",
+    "b": "4",
+    "c": "5",
+    "d": "8"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze is een faseovergang?",
+   "answers": {
+    "a": "stollen",
+    "b": "bezinken",
+    "c": "oplossen",
+    "d": "filtreren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze hoort ook bij de faseovergangen?",
+   "answers": {
+    "a": "filtreren",
+    "b": "oplossen",
+    "c": "indampen",
+    "d": "rijpen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke van deze is GEEN faseovergang?",
+   "answers": {
+    "a": "sublimeren",
+    "b": "oplossen",
+    "c": "smelten",
+    "d": "verdampen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke van deze is ook GEEN faseovergang?",
+   "answers": {
+    "a": "stollen",
+    "b": "rijpen",
+    "c": "condenseren",
+    "d": "filtreren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet de alledaagse naam van een stof, zoals keukenzout?",
+   "answers": {
+    "a": "formule",
+    "b": "fase-aanduiding",
+    "c": "triviale naam",
+    "d": "atoomsymbool"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de triviale namen en de chemische namen van stoffen?",
+   "answers": {
+    "a": "tabel 2",
+    "b": "tabel 42",
+    "c": "tabel 52",
+    "d": "tabel 9"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je het periodiek systeem?",
+   "answers": {
+    "a": "tabel 39",
+    "b": "tabel 52",
+    "c": "tabel 34",
+    "d": "tabel 9"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke zin is de ezelsbrug voor de scheidingsmethoden?",
+   "answers": {
+    "a": "Bart &amp; Anne Eten Dikke Friet In Amsterdam",
+    "b": "Bart &amp; Anne Eten Dikke Friet In Rotterdam",
+    "c": "Bart &amp; Anne Eten Dunne Friet In Amsterdam",
+    "d": "Anne &amp; Bart Eten Dikke Friet In Amsterdam"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel scheidingsmethoden staan er in de ezelsbrug?",
+   "answers": {
+    "a": "8",
+    "b": "5",
+    "c": "7",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter D in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Filtreren",
+    "c": "Destilleren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter F in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Extraheren",
+    "b": "Filtreren",
+    "c": "Indampen",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter I in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Destilleren",
+    "c": "Filtreren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter E in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Destilleren",
+    "b": "Extraheren",
+    "c": "Filtreren",
+    "d": "Indampen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke scheidingsmethode hoort bij de letter B in de ezelsbrug ‘Bart &amp; Anne Eten Dikke Friet In Amsterdam’?",
+   "answers": {
+    "a": "Destilleren",
+    "b": "Adsorberen",
+    "c": "Filtreren",
+    "d": "Bezinken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarop is bezinken en afgieten als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "kookpunt",
+    "b": "aanhechtingsvermogen",
+    "c": "dichtheid",
+    "d": "deeltjesgrootte"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarop is filtreren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "dichtheid",
+    "b": "aanhechtingsvermogen",
+    "c": "deeltjesgrootte",
+    "d": "kookpunt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarop is indampen als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "kookpunt",
+    "c": "aanhechtingsvermogen",
+    "d": "dichtheid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop is destilleren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "kookpuntverschil tussen vloeistoffen",
+    "c": "aanhechtingsvermogen",
+    "d": "dichtheid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop is adsorberen als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "deeltjesgrootte",
+    "b": "aanhechtingsvermogen",
+    "c": "dichtheid",
+    "d": "kookpunt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop is extraheren als scheidingsmethode gebaseerd?",
+   "answers": {
+    "a": "kookpunt",
+    "b": "dichtheid",
+    "c": "een vaste stof lost beter op in een vloeistof",
+    "d": "deeltjesgrootte"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van dichtheid?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Indampen",
+    "c": "Filtreren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van deeltjesgrootte?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Destilleren",
+    "c": "Filtreren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van kookpuntverschil tussen vloeistoffen?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Adsorberen",
+    "c": "Bezinken en afgieten",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode scheidt op basis van aanhechtingsvermogen?",
+   "answers": {
+    "a": "Adsorberen",
+    "b": "Filtreren",
+    "c": "Destilleren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om zout te winnen uit zout water?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Bezinken en afgieten",
+    "c": "Filtreren",
+    "d": "Extraheren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Thee zetten is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Destilleren",
+    "b": "Extraheren",
+    "c": "Adsorberen",
+    "d": "Indampen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Alcohol uit wijn halen is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Filtreren",
+    "b": "Adsorberen",
+    "c": "Destilleren",
+    "d": "Bezinken en afgieten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Kleur verwijderen uit spiritus met actieve kool is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Adsorberen",
+    "c": "Bezinken en afgieten",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Giftige stoffen met een gasmasker uit de lucht halen is een voorbeeld van welke scheidingsmethode?",
+   "answers": {
+    "a": "Indampen",
+    "b": "Extraheren",
+    "c": "Adsorberen",
+    "d": "Destilleren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent het voorvoegsel milli?",
+   "answers": {
+    "a": "1/1000",
+    "b": "1/100",
+    "c": "1/10",
+    "d": "maal 1000"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent het voorvoegsel kilo?",
+   "answers": {
+    "a": "maal 100",
+    "b": "1/1000",
+    "c": "maal 10",
+    "d": "maal 1000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel liter is 4000 mL?",
+   "answers": {
+    "a": "4 L",
+    "b": "40 L",
+    "c": "400 L",
+    "d": "0,4 L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel liter is 1000 mL?",
+   "answers": {
+    "a": "100 L",
+    "b": "1 L",
+    "c": "0,1 L",
+    "d": "10 L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel gram is 3 kg?",
+   "answers": {
+    "a": "0,3 g",
+    "b": "300 g",
+    "c": "30 g",
+    "d": "3000 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel kg is 2000 g?",
+   "answers": {
+    "a": "20 kg",
+    "b": "0,2 kg",
+    "c": "2 kg",
+    "d": "200 kg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke formule gebruik je om graden Celsius om te rekenen naar Kelvin?",
+   "answers": {
+    "a": "K = °C × 273",
+    "b": "K = °C + 273",
+    "c": "K = °C − 273",
+    "d": "°C = K + 273"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel K is 0 °C?",
+   "answers": {
+    "a": "0 K",
+    "b": "100 K",
+    "c": "273 K",
+    "d": "−273 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel K is 20 °C?",
+   "answers": {
+    "a": "253 K",
+    "b": "20 K",
+    "c": "293 K",
+    "d": "273 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel °C is 273 K?",
+   "answers": {
+    "a": "273 °C",
+    "b": "−273 °C",
+    "c": "100 °C",
+    "d": "0 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel °C is 293 K?",
+   "answers": {
+    "a": "293 °C",
+    "b": "20 °C",
+    "c": "566 °C",
+    "d": "−20 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel °C is 0 K?",
+   "answers": {
+    "a": "−100 °C",
+    "b": "273 °C",
+    "c": "0 °C",
+    "d": "−273 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke Binas-tabellen vind je de voorvoegsels en de omrekenregels?",
+   "answers": {
+    "a": "tabel 2 en 3",
+    "b": "tabel 4, 5 en 6",
+    "c": "tabel 7, 8 en 9",
+    "d": "tabel 10, 11 en 12"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

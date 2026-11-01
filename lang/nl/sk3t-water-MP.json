@@ -1,0 +1,357 @@
+{
+ "title": "Water - 123 school",
+ "heading": "Water",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Welke functie heeft water als je het toilet doortrekt?",
+   "answers": {
+    "a": "Spoelmiddel",
+    "b": "Hulp bij de bereiding van voedsel",
+    "c": "Oplosmiddel",
+    "d": "Drinkwater"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke functie heeft water als je suiker in thee oplost?",
+   "answers": {
+    "a": "Hulp bij de bereiding van voedsel",
+    "b": "Drinkwater",
+    "c": "Oplosmiddel",
+    "d": "Spoelmiddel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is oppervlaktewater?",
+   "answers": {
+    "a": "Water uit de kraan",
+    "b": "Water onder de grond",
+    "c": "Water in de lucht",
+    "d": "Water in rivieren, meren en oceanen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is grondwater?",
+   "answers": {
+    "a": "Water uit de kraan",
+    "b": "Water in de bodem, onder de grond",
+    "c": "Water in rivieren en meren",
+    "d": "Water in de lucht"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk water bevat meestal minder vervuiling?",
+   "answers": {
+    "a": "Oppervlaktewater",
+    "b": "Rioolwater",
+    "c": "Grondwater",
+    "d": "Alle water even veel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet water zonder opgeloste stoffen?",
+   "answers": {
+    "a": "Drinkwater",
+    "b": "Gedestilleerd water",
+    "c": "Zeewater",
+    "d": "Grondwater"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk water bevat de hoogste concentratie zouten?",
+   "answers": {
+    "a": "Grondwater",
+    "b": "Gedestilleerd water",
+    "c": "Drinkwater",
+    "d": "Zeewater"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de dichtheid van zeewater? (gebruik BINAS tabel 16)",
+   "answers": {
+    "a": "1,02 g/cm<sup>3</sup>",
+    "b": "0,92 g/cm<sup>3</sup>",
+    "c": "1,00 g/cm<sup>3</sup>",
+    "d": "1,84 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Zeewater bevat veel keukenzout (natriumchloride, Na<sup>+</sup> en Cl<sup>-</sup>). Is keukenzout goed, matig of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "Slecht oplosbaar",
+    "b": "Matig oplosbaar",
+    "c": "Reageert met water",
+    "d": "Goed oplosbaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een rivier stroomt minder water. De hoeveelheid vervuiling blijft gelijk. Wat gebeurt er met de concentratie vervuiling?",
+   "answers": {
+    "a": "Die verdwijnt",
+    "b": "Die blijft gelijk",
+    "c": "Die wordt hoger",
+    "d": "Die wordt lager"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent ontsmetten?",
+   "answers": {
+    "a": "Ziekteverwekkers onschadelijk maken",
+    "b": "Vet laten oplossen",
+    "c": "Vuil wegspoelen met water",
+    "d": "Kalk verwijderen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe kun je iets ontsmetten?",
+   "answers": {
+    "a": "Met koud water",
+    "b": "Met verhitting of met een ontsmettingsmiddel",
+    "c": "Met zeep zonder water",
+    "d": "Met zand"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke functie heeft water als het een motor of een fabriek koel houdt?",
+   "answers": {
+    "a": "Oplosmiddel",
+    "b": "Spoelmiddel",
+    "c": "Drinkwater",
+    "d": "Koelmiddel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een koelmiddel?",
+   "answers": {
+    "a": "Een stof die dingen schoonspoelt",
+    "b": "Een stof waarin andere stoffen oplossen",
+    "c": "Een stof die warmte opneemt en afvoert",
+    "d": "Een stof die een reactie versnelt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom is water zo geschikt als koelmiddel?",
+   "answers": {
+    "a": "Water kookt al bij 20 °C",
+    "b": "Water is altijd ijskoud",
+    "c": "Water bevat altijd opgelost zout",
+    "d": "Water kan veel warmte opnemen en is goedkoop en ruim beschikbaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is industriewater?",
+   "answers": {
+    "a": "Water dat fabrieken gebruiken, bijvoorbeeld voor koelen of schoonmaken",
+    "b": "Water dat niet kan verdampen",
+    "c": "Water dat alleen in huis wordt gebruikt",
+    "d": "Water uit de kraan dat je mag drinken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke functie heeft water als je pasta kookt?",
+   "answers": {
+    "a": "Koelmiddel",
+    "b": "Hulp bij de bereiding van voedsel",
+    "c": "Industriewater",
+    "d": "Spoelmiddel"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke functie heeft water als je vuile pannen afspoelt?",
+   "answers": {
+    "a": "Koelmiddel",
+    "b": "Drinkwater",
+    "c": "Spoelmiddel",
+    "d": "Hulp bij de bereiding van voedsel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een oplosmiddel?",
+   "answers": {
+    "a": "Een stof die een reactie stopt",
+    "b": "Een stof die altijd een vaste stof is",
+    "c": "Een stof die alleen warmte afvoert",
+    "d": "Een stof waarin je een andere stof kunt oplossen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een oplossing?",
+   "answers": {
+    "a": "Een troebel mengsel van twee vloeistoffen",
+    "b": "Een zuivere stof zonder opgeloste delen",
+    "c": "Een helder mengsel van een opgeloste stof in een oplosmiddel",
+    "d": "Een mengsel van twee vaste stoffen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je lost zout op in water. Wat is de opgeloste stof en wat is het oplosmiddel?",
+   "answers": {
+    "a": "Water is de opgeloste stof, zout is het oplosmiddel",
+    "b": "Zout is allebei",
+    "c": "Water is allebei",
+    "d": "Zout is de opgeloste stof, water is het oplosmiddel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Uit welke twee soorten water maakt een drinkwaterbedrijf in Nederland vooral drinkwater?",
+   "answers": {
+    "a": "Rioolwater en gedestilleerd water",
+    "b": "Industriewater en zeewater",
+    "c": "Zeewater en regenwater",
+    "d": "Grondwater en oppervlaktewater"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom moet oppervlaktewater gezuiverd worden voordat je het kunt drinken?",
+   "answers": {
+    "a": "Het is altijd te warm",
+    "b": "Het bevat geen water",
+    "c": "Er zitten vuil, bacteriën en opgeloste stoffen in",
+    "d": "Het is altijd gedestilleerd"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de eerste stap bij het zuiveren van oppervlaktewater?",
+   "answers": {
+    "a": "Grof vuil verwijderen met roosters en zeven",
+    "b": "Actieve kool toevoegen",
+    "c": "Het water ontsmetten",
+    "d": "Het water destilleren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor gebruikt een drinkwaterbedrijf een zandfilter?",
+   "answers": {
+    "a": "Om het water te laten verdampen",
+    "b": "Om zout uit het water te halen",
+    "c": "Om kleine vaste deeltjes uit het water te filtreren",
+    "d": "Om het water te koelen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het filtraat als je water door een zandfilter laat lopen?",
+   "answers": {
+    "a": "Het zand zelf",
+    "b": "Het gas dat vrijkomt",
+    "c": "Het vuil dat in het filter blijft",
+    "d": "Het water dat door het filter komt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor wordt actieve kool gebruikt bij het zuiveren van water?",
+   "answers": {
+    "a": "Het maakt het water zachter door verdamping",
+    "b": "Het zorgt dat het water kookt",
+    "c": "Geur- en smaakstoffen blijven aan de kool hechten (adsorberen)",
+    "d": "Het zorgt dat zout oplost"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op welke eigenschap berust adsorberen met actieve kool?",
+   "answers": {
+    "a": "Aanhechtingsvermogen",
+    "b": "Dichtheid",
+    "c": "Deeltjesgrootte",
+    "d": "Kookpunt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom wordt drinkwater ontsmet?",
+   "answers": {
+    "a": "Om het water te laten schuimen",
+    "b": "Om het water kleurloos te maken",
+    "c": "Om zout toe te voegen",
+    "d": "Om bacteriën en andere ziekteverwekkers onschadelijk te maken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe kun je van zeewater drinkwater maken?",
+   "answers": {
+    "a": "Door te filtreren met een zandfilter",
+    "b": "Door het water te laten bezinken",
+    "c": "Door er actieve kool in te doen",
+    "d": "Door te destilleren: het water verdampt en het zout blijft achter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het destillaat als je zeewater destilleert?",
+   "answers": {
+    "a": "Een mengsel van water en zand",
+    "b": "Zout",
+    "c": "Zuiver water",
+    "d": "Zeewater met meer zout"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe kun je zout uit zeewater halen?",
+   "answers": {
+    "a": "Door het water te laten bezinken",
+    "b": "Door het water te filtreren",
+    "c": "Door het water in te dampen",
+    "d": "Door het water af te gieten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom is zeewater niet geschikt om te drinken?",
+   "answers": {
+    "a": "Het bevat alleen zand",
+    "b": "Het is altijd bevroren",
+    "c": "Het bevat te veel opgeloste zouten",
+    "d": "Het bevat geen water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom mag een fabriek afvalwater niet zomaar in een rivier lozen?",
+   "answers": {
+    "a": "Afvalwater is altijd drinkwater",
+    "b": "Het afvalwater vervuilt het oppervlaktewater",
+    "c": "Het water kookt dan weg",
+    "d": "Rivieren hebben geen water meer nodig"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met afvalwater in een rioolwaterzuiveringsinstallatie?",
+   "answers": {
+    "a": "Het wordt in de grond gepompt zonder te zuiveren",
+    "b": "Het wordt gezuiverd voordat het weer in het oppervlaktewater komt",
+    "c": "Het wordt gedestilleerd tot zout",
+    "d": "Het wordt direct als drinkwater verkocht"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "title": "Koolwaterstoffen - 123 school",
+ "heading": "Koolwaterstoffen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat zijn koolwaterstoffen?",
+   "a": "Stoffen die alleen uit koolstof en waterstof bestaan"
+  },
+  {
+   "q": "Wat is de algemene formule van de alkanen?",
+   "a": "C<sub>n</sub>H<sub>2n+2</sub>"
+  },
+  {
+   "q": "Wat is de algemene formule van de alkenen (met één dubbele binding)?",
+   "a": "C<sub>n</sub>H<sub>2n</sub>"
+  },
+  {
+   "q": "Wat is de molecuulformule van hexaan?",
+   "a": "C<sub>6</sub>H<sub>14</sub>"
+  },
+  {
+   "q": "Wat is de molecuulformule van propeen?",
+   "a": "C<sub>3</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Welke naam hoort bij C<sub>4</sub>H<sub>10</sub>?",
+   "a": "Butaan"
+  },
+  {
+   "q": "Welke naam hoort bij C<sub>5</sub>H<sub>12</sub>?",
+   "a": "Pentaan"
+  },
+  {
+   "q": "Hoeveel waterstofatomen heeft een alkaan met 7 koolstofatomen?",
+   "a": "16: C<sub>n</sub>H<sub>2n+2</sub> met n = 7: 2 × 7 + 2 = 16 (heptaan, C<sub>7</sub>H<sub>16</sub>)"
+  },
+  {
+   "q": "Wat betekent verzadigd bij een koolwaterstof?",
+   "a": "Er zitten alleen enkele bindingen tussen de koolstofatomen"
+  },
+  {
+   "q": "Wat is het kenmerk van een alkeen?",
+   "a": "Een dubbele binding tussen twee koolstofatomen (C=C)"
+  },
+  {
+   "q": "Hoe toon je aan dat een stof een alkeen is?",
+   "a": "Broomwater wordt ontkleurd"
+  },
+  {
+   "q": "Wat zijn isomeren?",
+   "a": "Stoffen met dezelfde molecuulformule maar een verschillende structuurformule"
+  },
+  {
+   "q": "Welke stof is een isomeer van butaan?",
+   "a": "2-methylpropaan: dit heeft ook de formule C<sub>4</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "Hoeveel isomeren heeft C<sub>5</sub>H<sub>12</sub>?",
+   "a": "3: pentaan, 2-methylbutaan en 2,2-dimethylpropaan"
+  },
+  {
+   "q": "Hoe heet de stof met formule C<sub>2</sub>H<sub>5</sub>OH?",
+   "a": "Ethanol"
+  },
+  {
+   "q": "Wat is een cycloalkaan?",
+   "a": "Bijvoorbeeld cyclohexaan, C<sub>6</sub>H<sub>12</sub>"
+  },
+  {
+   "q": "Welke stoffen ontstaan bij volledige verbranding van een koolwaterstof?",
+   "a": "Koolstofdioxide en water"
+  },
+  {
+   "q": "Welke stoffen kunnen ontstaan bij onvolledige verbranding van een koolwaterstof?",
+   "a": "Koolstofmono-oxide, roet (koolstof) en water"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de volledige verbranding van methaan?",
+   "a": "Stap 1 (in woorden): methaan + zuurstof → koolstofdioxide + water. Stap 2 (formules): CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Stap 3 (atoombalans): CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de volledige verbranding van propaan?",
+   "a": "Stap 1 (in woorden): propaan + zuurstof → koolstofdioxide + water. Stap 2 (formules): C<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Stap 3 (atoombalans): C<sub>3</sub>H<sub>8</sub> + 5 O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de volledige verbranding van butaan?",
+   "a": "Stap 1 (in woorden): butaan + zuurstof → koolstofdioxide + water. Stap 2 (formules): C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Stap 3 (atoombalans): C<sub>4</sub>H<sub>10</sub> + 6½ O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O. Stap 4 (vereenvoudigen): Vermenigvuldig met 2: 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O. Reactievergelijking: 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de volledige verbranding van etheen?",
+   "a": "Stap 1 (in woorden): etheen + zuurstof → koolstofdioxide + water. Stap 2 (formules): C<sub>2</sub>H<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Stap 3 (atoombalans): C<sub>2</sub>H<sub>4</sub> + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 2 H<sub>2</sub>O. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de volledige verbranding van ethanol?",
+   "a": "Stap 1 (in woorden): ethanol + zuurstof → koolstofdioxide + water. Stap 2 (formules): C<sub>2</sub>H<sub>5</sub>OH + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Stap 3 (atoombalans): C<sub>2</sub>H<sub>5</sub>OH + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 3 H<sub>2</sub>O. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Etheen reageert met broom. Wat is de reactievergelijking?",
+   "a": "Stap 1 (in woorden): etheen + broom → 1,2-dibroomethaan. Stap 2 (formules): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Stap 3 (atoombalans): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)"
+  },
+  {
+   "q": "Methaan reageert met broom onder invloed van licht. Wat is de reactievergelijking?",
+   "a": "Stap 1 (in woorden): methaan + broom → broommethaan + waterstofbromide. Stap 2 (formules): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Stap 3 (atoombalans): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Stap 4 (vereenvoudigen): Niet nodig: de coëfficiënten zijn al de kleinste gehele getallen. Reactievergelijking: CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)"
+  },
+  {
+   "q": "Hoe heet de reactie waarbij etheen en broom samen één stof vormen?",
+   "a": "Additie"
+  },
+  {
+   "q": "Hoe heet de reactie waarbij een H-atoom van een alkaan wordt vervangen door een broomatoom?",
+   "a": "Substitutie"
+  },
+  {
+   "q": "Welke karakteristieke groep hoort bij een alcohol?",
+   "a": "De hydroxylgroep (–OH)"
+  },
+  {
+   "q": "Welke karakteristieke groep hoort bij een carbonzuur?",
+   "a": "De carboxylgroep (–COOH)"
+  },
+  {
+   "q": "Wat is de formule van ethaanzuur?",
+   "a": "CH<sub>3</sub>COOH"
+  },
+  {
+   "q": "Welke stoffen ontstaan als ethaanzuur reageert met ethanol?",
+   "a": "Ethylethanoaat en water"
+  },
+  {
+   "q": "Waarop berust het scheiden van aardolie in fracties (fractionele destillatie)?",
+   "a": "Op verschil in kookpunt"
+  },
+  {
+   "q": "Welke stof heeft het hoogste kookpunt: pentaan of hexaan? (gebruik BINAS tabel 42B)",
+   "a": "Hexaan: hoe langer de koolstofketen, hoe hoger het kookpunt"
+  },
+  {
+   "q": "Noem twee toepassingen van koolwaterstoffen.",
+   "a": "Bijvoorbeeld brandstof (aardgas, benzine) en grondstof voor kunststoffen"
+  },
+  {
+   "q": "Waarom is koolstofmono-oxide dat bij onvolledige verbranding ontstaat gevaarlijk?",
+   "a": "Het is giftig: CO bindt aan het hemoglobine in het bloed, waardoor er minder zuurstof wordt vervoerd"
+  }
+ ]
+}

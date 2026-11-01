@@ -1,0 +1,349 @@
+{
+ "title": "Bouw van stoffen - 123 school",
+ "heading": "Bouw van stoffen",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag."
+ ],
+ "questions": [
+  {
+   "question": "Welke deeltjes zitten in de kern van een atoom?",
+   "answers": {
+    "a": "Neutronen en elektronen",
+    "b": "Protonen en elektronen",
+    "c": "Protonen en neutronen",
+    "d": "Alleen elektronen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk deeltje in een atoom heeft geen lading?",
+   "answers": {
+    "a": "Ion",
+    "b": "Proton",
+    "c": "Neutron",
+    "d": "Elektron"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat geeft het atoomnummer aan?",
+   "answers": {
+    "a": "Het aantal neutronen in de kern",
+    "b": "Het aantal schillen",
+    "c": "Het aantal protonen en neutronen samen",
+    "d": "Het aantal protonen in de kern"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat geeft het massagetal aan?",
+   "answers": {
+    "a": "Het aantal protonen plus elektronen",
+    "b": "Het aantal elektronen",
+    "c": "Alleen het aantal neutronen",
+    "d": "Het aantal protonen plus neutronen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een atoom heeft 11 protonen en 12 neutronen. Wat is het massagetal?",
+   "answers": {
+    "a": "23",
+    "b": "12",
+    "c": "11",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een atoom heeft atoomnummer 17 en massagetal 35. Hoeveel neutronen heeft het?",
+   "answers": {
+    "a": "35",
+    "b": "17",
+    "c": "18",
+    "d": "52"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel elektronen heeft een neutraal atoom met 15 protonen?",
+   "answers": {
+    "a": "15",
+    "b": "30",
+    "c": "0",
+    "d": "16"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel elektronen passen er maximaal in de tweede elektronenschil?",
+   "answers": {
+    "a": "18",
+    "b": "10",
+    "c": "8",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een natriumatoom heeft 11 elektronen. Wat is de elektronenverdeling over de schillen?",
+   "answers": {
+    "a": "8-3",
+    "b": "2-1-8",
+    "c": "2-8-1",
+    "d": "2-9"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een chlooratoom heeft 17 elektronen. Wat is de elektronenverdeling over de schillen?",
+   "answers": {
+    "a": "2-8-7",
+    "b": "2-8-8-1",
+    "c": "8-9",
+    "d": "2-7-8"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een zuurstofatoom heeft atoomnummer 8. Hoeveel elektronen zitten er in de buitenste schil?",
+   "answers": {
+    "a": "2",
+    "b": "6",
+    "c": "4",
+    "d": "8"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom reageren edelgassen nauwelijks met andere stoffen?",
+   "answers": {
+    "a": "Ze hebben geen elektronen",
+    "b": "Ze hebben maar één proton",
+    "c": "Ze zijn altijd een vloeistof",
+    "d": "Hun buitenste schil is vol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een ion?",
+   "answers": {
+    "a": "Een atoom zonder elektronen en protonen",
+    "b": "Een geladen atoom of groepje atomen",
+    "c": "Een atoom met een extra neutron",
+    "d": "Een neutraal molecuul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een natriumatoom geeft één elektron af. Welk ion ontstaat er?",
+   "answers": {
+    "a": "Na",
+    "b": "Na<sup>−</sup>",
+    "c": "Na<sup>+</sup>",
+    "d": "Na<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een chlooratoom neemt één elektron op. Welk ion ontstaat er?",
+   "answers": {
+    "a": "Cl<sup>+</sup>",
+    "b": "Cl",
+    "c": "Cl<sup>2−</sup>",
+    "d": "Cl<sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een magnesiumatoom (atoomnummer 12) wil twee elektronen afgeven. Welk ion ontstaat er?",
+   "answers": {
+    "a": "Mg<sup>2−</sup>",
+    "b": "Mg<sup>+</sup>",
+    "c": "Mg<sup>2+</sup>",
+    "d": "Mg<sup>12+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke atomen vormen meestal positieve ionen?",
+   "answers": {
+    "a": "Metaalatomen",
+    "b": "Niet-metaalatomen",
+    "c": "Edelgasatomen",
+    "d": "Alle atomen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel elektronen heeft een S<sup>2−</sup> ion? Zwavel heeft atoomnummer 16.",
+   "answers": {
+    "a": "14",
+    "b": "16",
+    "c": "18",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel elektronen heeft een Al<sup>3+</sup> ion? Aluminium heeft atoomnummer 13.",
+   "answers": {
+    "a": "16",
+    "b": "10",
+    "c": "3",
+    "d": "13"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Mg<sup>2+</sup> en Cl<sup>−</sup> ionen?",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl<sub>2</sub>",
+    "b": "MgCl<sub>2</sub>",
+    "c": "Mg<sub>2</sub>Cl",
+    "d": "MgCl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en O<sup>2−</sup> ionen?",
+   "answers": {
+    "a": "Ca<sub>2</sub>O",
+    "b": "CaO<sub>2</sub>",
+    "c": "CaO",
+    "d": "Ca<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Al<sup>3+</sup> en O<sup>2−</sup> ionen?",
+   "answers": {
+    "a": "AlO",
+    "b": "Al<sub>2</sub>O<sub>3</sub>",
+    "c": "Al<sub>3</sub>O<sub>2</sub>",
+    "d": "Al<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Na<sup>+</sup> en SO<sub>4</sub><sup>2−</sup> ionen?",
+   "answers": {
+    "a": "NaSO<sub>4</sub>",
+    "b": "Na(SO<sub>4</sub>)<sub>2</sub>",
+    "c": "Na<sub>2</sub>SO<sub>4</sub>",
+    "d": "Na<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en NO<sub>3</sub><sup>−</sup> ionen?",
+   "answers": {
+    "a": "CaNO<sub>6</sub>",
+    "b": "CaNO<sub>3</sub>",
+    "c": "Ca<sub>2</sub>NO<sub>3</sub>",
+    "d": "Ca(NO<sub>3</sub>)<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het zout met formule Na<sub>2</sub>S?",
+   "answers": {
+    "a": "Zwaveldinatrium",
+    "b": "Natriumsulfide",
+    "c": "Dinatriumsulfide",
+    "d": "Natriumsulfaat"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe worden de ionen in een zout bij elkaar gehouden?",
+   "answers": {
+    "a": "Door de zwaartekracht",
+    "b": "Door de aantrekking tussen positieve en negatieve ionen",
+    "c": "Door vrij bewegende elektronen",
+    "d": "Door gedeelde elektronenparen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wanneer geleidt een zout elektrische stroom?",
+   "answers": {
+    "a": "Nooit",
+    "b": "Alleen als het koud is",
+    "c": "Als het is opgelost of gesmolten",
+    "d": "Alleen als het vast is"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom hebben zouten een hoog smeltpunt?",
+   "answers": {
+    "a": "De aantrekking tussen de ionen is sterk",
+    "b": "Zouten bestaan uit zware atomen",
+    "c": "Zouten bestaan uit losse atomen",
+    "d": "De moleculen zijn heel groot"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe ontstaat een atoombinding?",
+   "answers": {
+    "a": "Een atoom neemt een proton op",
+    "b": "Twee metaalkernen trekken elkaar aan",
+    "c": "Een atoom geeft elektronen af aan een ander atoom",
+    "d": "Atomen delen een of meer elektronenparen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Tussen welke atomen komt een atoombinding meestal voor?",
+   "answers": {
+    "a": "Tussen metaalatomen",
+    "b": "Tussen een metaal- en een edelgasatoom",
+    "c": "Tussen niet-metaalatomen",
+    "d": "Alleen tussen gelijke atomen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel elektronenparen delen de twee waterstofatomen in een H<sub>2</sub> molecuul?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "0"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom geleiden metalen elektrische stroom?",
+   "answers": {
+    "a": "Ze hebben vrij bewegende elektronen",
+    "b": "Ze bestaan uit moleculen",
+    "c": "Ze hebben geen elektronen",
+    "d": "Ze bestaan uit positieve en negatieve ionen die kunnen bewegen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof bestaat uit moleculen?",
+   "answers": {
+    "a": "Natriumchloride",
+    "b": "IJzer",
+    "c": "Magnesiumoxide",
+    "d": "Water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof geleidt in vaste toestand elektrische stroom?",
+   "answers": {
+    "a": "Keukenzout",
+    "b": "Suiker",
+    "c": "Koper",
+    "d": "Zwavel"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

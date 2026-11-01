@@ -1,0 +1,150 @@
+{
+ "title": "Zouten - 123 school",
+ "heading": "Zouten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een zout?",
+   "a": "Een stof opgebouwd uit positieve en negatieve ionen"
+  },
+  {
+   "q": "Welke binding houdt de ionen in een zout bij elkaar?",
+   "a": "De ionbinding (aantrekking tussen positieve en negatieve ionen)"
+  },
+  {
+   "q": "Uit welke soorten elementen bestaat een zout meestal?",
+   "a": "Uit een metaal en een niet-metaal"
+  },
+  {
+   "q": "Wat is de formule van magnesiumchloride? (Mg<sup>2+</sup> en Cl<sup>-</sup>)",
+   "a": "MgCl<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de formule van aluminiumoxide? (Al<sup>3+</sup> en O<sup>2-</sup>)",
+   "a": "Al<sub>2</sub>O<sub>3</sub>: lading in evenwicht: 2 × 3+ = 6+ en 3 × 2- = 6-"
+  },
+  {
+   "q": "Wat is de formule van calciumfosfaat? (Ca<sup>2+</sup> en PO<sub>4</sub><sup>3-</sup>)",
+   "a": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>: lading in evenwicht: 3 × 2+ = 6+ en 2 × 3- = 6-"
+  },
+  {
+   "q": "Wat is de formule van ammoniumsulfaat? (NH<sub>4</sub><sup>+</sup> en SO<sub>4</sub><sup>2-</sup>)",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de formule van ijzer(III)chloride?",
+   "a": "FeCl<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de naam van Na<sub>2</sub>CO<sub>3</sub>?",
+   "a": "Natriumcarbonaat"
+  },
+  {
+   "q": "Wat is de naam van KNO<sub>3</sub>?",
+   "a": "Kaliumnitraat"
+  },
+  {
+   "q": "Wat is de naam van CuSO<sub>4</sub>?",
+   "a": "Koper(II)sulfaat"
+  },
+  {
+   "q": "Wat is de naam van Ba(OH)<sub>2</sub>?",
+   "a": "Bariumhydroxide"
+  },
+  {
+   "q": "Wat is de naam van Fe<sub>2</sub>O<sub>3</sub>?",
+   "a": "IJzer(III)oxide"
+  },
+  {
+   "q": "Wat is de lading van het ijzerion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)",
+   "a": "3+: 3 chloride-ionen geven 3-; het ijzerion is dus 3+"
+  },
+  {
+   "q": "Wat is de vergelijking voor het oplossen van natriumchloride in water?",
+   "a": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)"
+  },
+  {
+   "q": "Wat is de vergelijking voor het oplossen van calciumchloride in water?",
+   "a": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)"
+  },
+  {
+   "q": "Wat is de vergelijking voor het oplossen van aluminiumsulfaat in water?",
+   "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)"
+  },
+  {
+   "q": "Wat is de vergelijking voor het oplossen van ammoniumsulfaat in water?",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)"
+  },
+  {
+   "q": "Hoeveel mol ionen komt er vrij als 1,0 mol CaCl<sub>2</sub> oplost?",
+   "a": "3,0 mol: 1,0 mol Ca<sup>2+</sup> en 2,0 mol Cl<sup>-</sup>: samen 3,0 mol"
+  },
+  {
+   "q": "Een oplossing van calciumchloride heeft een concentratie van 0,10 mol/L. Wat is de concentratie Cl<sup>-</sup> in deze oplossing?",
+   "a": "0,20 mol/L: per CaCl<sub>2</sub> komen er 2 Cl<sup>-</sup> vrij: 2 × 0,10 = 0,20 mol/L"
+  },
+  {
+   "q": "Hoeveel gram NaCl (M = 58,44 g/mol) is nodig voor 0,500 L oplossing van 0,10 mol/L?",
+   "a": "2,9 g: n = 0,10 × 0,500 = 0,050 mol; m = 0,050 × 58,44 = 2,9 g"
+  },
+  {
+   "q": "Wat is een neerslag?",
+   "a": "Een vaste stof die ontstaat als je twee oplossingen mengt"
+  },
+  {
+   "q": "Waarom geleidt vast keukenzout geen stroom?",
+   "a": "De ionen zitten vast op hun plaats in het rooster"
+  },
+  {
+   "q": "Waarom geleidt een zoutoplossing wel stroom?",
+   "a": "Er zijn vrij bewegende ionen"
+  },
+  {
+   "q": "Je mengt oplossingen van zilvernitraat en natriumchloride. Welke stof slaat neer? (gebruik BINAS tabel 45A)",
+   "a": "Zilverchloride"
+  },
+  {
+   "q": "Wat is de vergelijking van de neerslagreactie van zilverionen met chloride-ionen?",
+   "a": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)"
+  },
+  {
+   "q": "Je mengt bariumchloride-oplossing met natriumsulfaat-oplossing. Welke stof slaat neer? (gebruik BINAS tabel 45A)",
+   "a": "Bariumsulfaat"
+  },
+  {
+   "q": "Wat is de vergelijking van de neerslagreactie waarbij kalkaanslag (CaCO<sub>3</sub>) ontstaat uit ionen?",
+   "a": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)"
+  },
+  {
+   "q": "Je mengt oplossingen van natriumchloride en kaliumnitraat. Wat gebeurt er? (gebruik BINAS tabel 45A)",
+   "a": "Er slaat niets neer, alle combinaties zijn goed oplosbaar"
+  },
+  {
+   "q": "Welk zout is slecht oplosbaar in water? (gebruik BINAS tabel 45A)",
+   "a": "Bariumsulfaat"
+  },
+  {
+   "q": "Wat is de vergelijking van de neerslagreactie van ijzer(III)ionen met hydroxide-ionen?",
+   "a": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)"
+  },
+  {
+   "q": "Wat is kristalwater?",
+   "a": "Water dat is ingebouwd in het kristalrooster van een zout"
+  },
+  {
+   "q": "Bereken het massapercentage kristalwater in CuSO<sub>4</sub>·5H<sub>2</sub>O. (gebruik BINAS tabel 99; M(H<sub>2</sub>O) = 18,02 g/mol)",
+   "a": "36,1%: M(CuSO<sub>4</sub>·5H<sub>2</sub>O) = 63,55 + 32,06 + 4 × 16,00 + 5 × 18,02 = 249,71 g/mol; 5 × 18,02 : 249,71 × 100% = 36,1%"
+  },
+  {
+   "q": "Noem twee zouten uit het dagelijks leven en hun gebruik.",
+   "a": "Bijvoorbeeld keukenzout (NaCl) voor het eten, kalk (CaCO<sub>3</sub>) in bouwmaterialen of kunstmest (NH<sub>4</sub>NO<sub>3</sub>) voor planten"
+  },
+  {
+   "q": "Wat gebeurt er met de ionen als een zout smelt en waarom geleidt het dan stroom?",
+   "a": "De ionen komen los van hun plaats in het rooster en kunnen vrij bewegen, dus de gesmolten stof geleidt stroom"
+  }
+ ]
+}

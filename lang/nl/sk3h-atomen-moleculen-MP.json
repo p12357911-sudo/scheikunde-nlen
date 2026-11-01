@@ -1,0 +1,347 @@
+{
+ "title": "Atomen en moleculen - 123 school",
+ "heading": "Atomen en moleculen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Hoe noem je het kleinste deeltje van een element?",
+   "answers": {
+    "a": "Molecuul",
+    "b": "Ion",
+    "c": "Atoom",
+    "d": "Verbinding"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een molecuul?",
+   "answers": {
+    "a": "Een groepje atomen dat aan elkaar vastzit",
+    "b": "Een enkel atoom van een element",
+    "c": "Een mengsel van verschillende stoffen",
+    "d": "Een stof die altijd uit één soort atoom bestaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe schrijf je een atoomsymbool?",
+   "answers": {
+    "a": "Altijd met twee hoofdletters",
+    "b": "Alleen met kleine letters",
+    "c": "Een hoofdletter, eventueel gevolgd door een kleine letter",
+    "d": "Een getal gevolgd door een letter"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk atoomsymbool hoort bij natrium?",
+   "answers": {
+    "a": "K",
+    "b": "N",
+    "c": "Ni",
+    "d": "Na"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk atoomsymbool hoort bij kalium?",
+   "answers": {
+    "a": "K",
+    "b": "Ka",
+    "c": "P",
+    "d": "Kr"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk element heeft het symbool Fe?",
+   "answers": {
+    "a": "IJzer",
+    "b": "Fluor",
+    "c": "Lood",
+    "d": "Fosfor"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk element heeft het symbool Pb?",
+   "answers": {
+    "a": "Platina",
+    "b": "Fosfor",
+    "c": "Kwik",
+    "d": "Lood"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk element heeft het symbool Hg?",
+   "answers": {
+    "a": "Zilver",
+    "b": "Helium",
+    "c": "Kwik",
+    "d": "Waterstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk element heeft het symbool Cu?",
+   "answers": {
+    "a": "Chroom",
+    "b": "Koper",
+    "c": "Calcium",
+    "d": "Koolstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in één molecuul H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "3",
+    "b": "7",
+    "c": "6",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel atomen zijn er in totaal in 3 H<sub>2</sub>O?",
+   "answers": {
+    "a": "9",
+    "b": "5",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent het grote getal 4 vóór de formule in 4 NH<sub>3</sub>?",
+   "answers": {
+    "a": "Het molecuul bestaat uit 4 atomen",
+    "b": "Er zijn 4 moleculen NH<sub>3</sub>",
+    "c": "Er zitten 4 stikstofatomen in één molecuul",
+    "d": "Er zitten 4 waterstofatomen in één molecuul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel waterstofatomen zijn er in totaal in 2 CH<sub>4</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "8",
+    "c": "6",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij een elementaire stof (bestaat uit één soort atoom)?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "N<sub>2</sub>",
+    "c": "NH<sub>3</sub>",
+    "d": "NO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij een verbinding?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "Cl<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van koolstofmono-oxide?",
+   "answers": {
+    "a": "Co",
+    "b": "CO<sub>2</sub>",
+    "c": "C<sub>2</sub>O",
+    "d": "CO"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de systematische naam van CO<sub>2</sub>?",
+   "answers": {
+    "a": "Koolstofmono-oxide",
+    "b": "Koolstoftrioxide",
+    "c": "Koolstofdioxide",
+    "d": "Dikoolstofoxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de systematische naam van SO<sub>3</sub>?",
+   "answers": {
+    "a": "Zwaveltrioxide",
+    "b": "Trizwaveloxide",
+    "c": "Zwaveldioxide",
+    "d": "Zwaveloxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk telwoord gebruik je in een stofnaam voor het getal 4?",
+   "answers": {
+    "a": "Di",
+    "b": "Penta",
+    "c": "Tetra",
+    "d": "Tri"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heten de verticale kolommen in het periodiek systeem?",
+   "answers": {
+    "a": "Rijen",
+    "b": "Reeksen",
+    "c": "Groepen",
+    "d": "Perioden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heten de horizontale rijen in het periodiek systeem?",
+   "answers": {
+    "a": "Blokken",
+    "b": "Groepen",
+    "c": "Kolommen",
+    "d": "Perioden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat geldt voor elementen die in dezelfde groep van het periodiek systeem staan?",
+   "answers": {
+    "a": "Ze hebben allemaal dezelfde kleur",
+    "b": "Ze hebben dezelfde massa",
+    "c": "Ze hebben vergelijkbare chemische eigenschappen",
+    "d": "Ze zijn allemaal gassen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk element is een edelgas?",
+   "answers": {
+    "a": "Natrium",
+    "b": "Neon",
+    "c": "Fluor",
+    "d": "Stikstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk element is een metaal?",
+   "answers": {
+    "a": "Chloor",
+    "b": "Magnesium",
+    "c": "Zwavel",
+    "d": "Koolstof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waar staan de metalen in het periodiek systeem?",
+   "answers": {
+    "a": "Alleen in de bovenste rij",
+    "b": "Rechts",
+    "c": "Alleen in de laatste kolom",
+    "d": "Links en in het midden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waaruit bestaat een atoom?",
+   "answers": {
+    "a": "Alleen uit protonen",
+    "b": "Uit twee of meer moleculen",
+    "c": "Uit een kern met daaromheen neutronen",
+    "d": "Uit een kern met daaromheen elektronen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke lading hebben elektronen?",
+   "answers": {
+    "a": "Negatief",
+    "b": "Neutraal",
+    "c": "Positief",
+    "d": "Wisselend"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Stikstof + waterstof → ammoniak. Wat is het reactieschema in molecuulformules (stap 2)?",
+   "answers": {
+    "a": "N + H → NH<sub>3</sub>",
+    "b": "N + H → NH",
+    "c": "N<sub>2</sub> + H<sub>2</sub> → N<sub>2</sub>H<sub>3</sub>",
+    "d": "N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke reactievergelijking van het ontleden van water klopt?",
+   "answers": {
+    "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + 2 O<sub>2</sub>",
+    "b": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 H<sub>2</sub>O → H<sub>2</sub> + 2 O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel waterstofatomen staan er links van de pijl in 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk getal moet vóór HCl staan om kloppend te maken? Mg + … HCl → MgCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in één formule Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "5",
+    "b": "4",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het reactieschema in woorden van 2 Na + Cl<sub>2</sub> → 2 NaCl?",
+   "answers": {
+    "a": "Natrium + chloor → natriumchloride",
+    "b": "Natrium + chloride → natriumchloor",
+    "c": "Natrium + chloor → chloornatrium",
+    "d": "Natriumchloride → natrium + chloor"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het verschil tussen 2 O en O<sub>2</sub>?",
+   "answers": {
+    "a": "2 O zijn twee losse zuurstofatomen, O<sub>2</sub> is één molecuul van twee atomen",
+    "b": "2 O is een verbinding, O<sub>2</sub> is een element",
+    "c": "Er is geen verschil",
+    "d": "2 O is één molecuul, O<sub>2</sub> zijn twee losse atomen"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

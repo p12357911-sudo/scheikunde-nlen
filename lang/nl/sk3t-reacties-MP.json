@@ -1,0 +1,347 @@
+{
+ "title": "Reacties - 123 school",
+ "heading": "Reacties",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat gebeurt er bij een chemische reactie?",
+   "answers": {
+    "a": "De atomen verdwijnen en er ontstaan nieuwe atomen",
+    "b": "Er ontstaat een mengsel van dezelfde stoffen",
+    "c": "Beginstoffen verdwijnen en er ontstaan nieuwe stoffen met andere eigenschappen",
+    "d": "Een stof verandert alleen van fase"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is het smelten van ijs een chemische reactie?",
+   "answers": {
+    "a": "Nee, want ijs is een mengsel",
+    "b": "Nee, het is een faseovergang. Het blijven watermoleculen",
+    "c": "Ja, want het wordt vloeibaar",
+    "d": "Ja, want er ontstaat een nieuwe stof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de atomen tijdens een chemische reactie?",
+   "answers": {
+    "a": "De atomen veranderen in een andere atoomsoort",
+    "b": "Er ontstaan nieuwe atomen",
+    "c": "Een deel van de atomen verdwijnt",
+    "d": "Ze worden anders gerangschikt. Er komen geen atomen bij en er gaan geen atomen weg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat staat links van de pijl in een reactieschema?",
+   "answers": {
+    "a": "De reactieproducten",
+    "b": "De katalysator",
+    "c": "De beginstoffen",
+    "d": "De temperatuur"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat staat rechts van de pijl in een reactieschema?",
+   "answers": {
+    "a": "De reactieproducten",
+    "b": "De coëfficiënten",
+    "c": "De atoommassa's",
+    "d": "De beginstoffen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je ziet dat er een gas ontsnapt tijdens een reactie. Is dat een waarneming of een conclusie?",
+   "answers": {
+    "a": "Een waarneming",
+    "b": "Een reactieproduct",
+    "c": "Een beginstof",
+    "d": "Een conclusie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Geef het reactieschema in woorden van het ontleden van water, met toestandsaanduidingen",
+   "answers": {
+    "a": "water (l) → waterstof (l) + zuurstof (l)",
+    "b": "water (g) + zuurstof (g) → waterstof (g)",
+    "c": "waterstof (g) + zuurstof (g) → water (l)",
+    "d": "water (l) → waterstof (g) + zuurstof (g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Geef het reactieschema in woorden van natrium dat reageert met water (er ontstaan natronloog en waterstof)",
+   "answers": {
+    "a": "natrium (s) → water (l) + waterstof (g)",
+    "b": "natrium (s) + water (l) → natronloog (aq) + waterstof (g)",
+    "c": "natronloog (aq) + waterstof (g) → natrium (s) + water (l)",
+    "d": "natrium (s) + water (l) → natronloog (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een ontledingsreactie?",
+   "answers": {
+    "a": "Een reactie waarbij een mengsel wordt gescheiden",
+    "b": "Een reactie waarbij een stof alleen van fase verandert",
+    "c": "Een reactie waarbij één beginstof wordt gesplitst in meerdere reactieproducten",
+    "d": "Een reactie waarbij twee stoffen samen één nieuwe stof vormen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een synthesereactie?",
+   "answers": {
+    "a": "Een reactie waarbij uit twee of meer stoffen één nieuwe stof wordt gemaakt",
+    "b": "Een reactie waarbij één stof wordt gesplitst",
+    "c": "Een reactie waarbij niets verandert",
+    "d": "Een reactie waarbij alleen warmte vrijkomt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet ontleden met behulp van elektrische stroom?",
+   "answers": {
+    "a": "Elektrolyse",
+    "b": "Thermolyse",
+    "c": "Destillatie",
+    "d": "Fotolyse"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet ontleden met behulp van warmte?",
+   "answers": {
+    "a": "Elektrolyse",
+    "b": "Filtratie",
+    "c": "Fotolyse",
+    "d": "Thermolyse"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet ontleden met behulp van licht?",
+   "answers": {
+    "a": "Elektrolyse",
+    "b": "Extractie",
+    "c": "Fotolyse",
+    "d": "Thermolyse"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke van deze stoffen kun je niet ontleden: zuurstof, water, koolstofdioxide of glucose?",
+   "answers": {
+    "a": "Glucose",
+    "b": "Zuurstof, want het is een element",
+    "c": "Koolstofdioxide",
+    "d": "Water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je waterstofgas aan?",
+   "answers": {
+    "a": "Met kalkwater: het wordt troebel",
+    "b": "Met een brandende houtspaander: de vlam dooft",
+    "c": "Met een brandende houtspaander: je hoort een knal (ploppend geluid)",
+    "d": "Met een gloeiend houtje: het vlamt op"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe toon je zuurstofgas aan?",
+   "answers": {
+    "a": "Met een brandende houtspaander: de vlam dooft",
+    "b": "Met een gloeiend houtje: het vlamt op",
+    "c": "Met een brandende houtspaander: je hoort een knal",
+    "d": "Met kalkwater: het wordt troebel"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je koolstofdioxide aan?",
+   "answers": {
+    "a": "Met een brandende houtspaander: je hoort een knal",
+    "b": "Met een brandende houtspaander: de vlam dooft, of met kalkwater: dat wordt troebel (wit)",
+    "c": "Met wit kopersulfaat: het wordt blauw",
+    "d": "Met een gloeiend houtje: het vlamt op"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij de elektrolyse van water ontstaan twee gassen. Welke?",
+   "answers": {
+    "a": "Waterstof en zuurstof",
+    "b": "Waterstof en chloor",
+    "c": "Waterstof en stikstof",
+    "d": "Zuurstof en koolstofdioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar is dit een voorbeeld van: CaCO<sub>3</sub> wordt verwarmd en ontleedt in CaO en CO<sub>2</sub>?",
+   "answers": {
+    "a": "Fotolyse",
+    "b": "Thermolyse",
+    "c": "Synthese",
+    "d": "Elektrolyse"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is stap 1 van het stappenplan voor een reactievergelijking?",
+   "answers": {
+    "a": "Het reactieschema in woorden opschrijven",
+    "b": "De coëfficiënten vereenvoudigen",
+    "c": "Het reactieschema in molecuulformules opschrijven",
+    "d": "De atoombalans opstellen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doe je in stap 3 van het stappenplan?",
+   "answers": {
+    "a": "Het reactieschema in woorden opschrijven",
+    "b": "De reactievergelijking vereenvoudigen",
+    "c": "Het reactieschema in molecuulformules opschrijven",
+    "d": "De atoombalans opstellen: kloppend maken met coëfficiënten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat doe je in stap 4 van het stappenplan?",
+   "answers": {
+    "a": "De reactievergelijking vereenvoudigen",
+    "b": "De atoombalans opstellen",
+    "c": "Het reactieschema in woorden opschrijven",
+    "d": "De atoommassa's opzoeken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat zet je voor een molecuulformule om de atoombalans kloppend te maken: een index of een coëfficiënt?",
+   "answers": {
+    "a": "Allebei mag",
+    "b": "Een coëfficiënt. De index (kleine cijfer) mag je nooit veranderen",
+    "c": "Een index, want die staat onderaan",
+    "d": "Een nieuwe pijl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "answers": {
+    "a": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "H<sub>2</sub> + 2 O<sub>2</sub> → H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "answers": {
+    "a": "N<sub>2</sub> + H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "b": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "c": "2 N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "d": "N<sub>2</sub> + 3 H<sub>2</sub> → NH<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maak kloppend: Mg + O<sub>2</sub> → MgO",
+   "answers": {
+    "a": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "b": "Mg + O<sub>2</sub> → MgO",
+    "c": "2 Mg + 2 O<sub>2</sub> → 2 MgO",
+    "d": "Mg + O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Maak kloppend: Na + Cl<sub>2</sub> → NaCl",
+   "answers": {
+    "a": "Na + Cl<sub>2</sub> → 2 NaCl",
+    "b": "Na + Cl<sub>2</sub> → NaCl",
+    "c": "2 Na + 2 Cl<sub>2</sub> → 2 NaCl",
+    "d": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Maak kloppend: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+   "answers": {
+    "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "b": "H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "2 H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Maak kloppend: C + O<sub>2</sub> → CO",
+   "answers": {
+    "a": "2 C + 2 O<sub>2</sub> → 2 CO",
+    "b": "C + 2 O<sub>2</sub> → CO",
+    "c": "2 C + O<sub>2</sub> → 2 CO",
+    "d": "C + O<sub>2</sub> → CO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Klopt deze reactievergelijking? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O",
+   "answers": {
+    "a": "Nee: links staan meer N-atomen dan rechts",
+    "b": "Nee: links staan meer H-atomen dan rechts",
+    "c": "Nee: rechts staan meer O-atomen dan links",
+    "d": "Ja: links en rechts staan 4 N, 12 H en 10 O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Klopt deze reactievergelijking? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "answers": {
+    "a": "Nee: links staan 2 O-atomen en rechts 1 O-atoom",
+    "b": "Nee: links staan 2 H-atomen en rechts 1 H-atoom",
+    "c": "Nee: rechts staan meer H-atomen dan links",
+    "d": "Ja: er staan links en rechts evenveel H-atomen en O-atomen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Vereenvoudig: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O (deze is al zo eenvoudig mogelijk)",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een gesloten bak reageren 50 g beginstoffen volledig tot reactieproducten. Hoeveel g reactieproducten ontstaat er?",
+   "answers": {
+    "a": "50 g, want de massa blijft gelijk (wet van behoud van massa)",
+    "b": "Minder dan 50 g",
+    "c": "25 g",
+    "d": "Meer dan 50 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze reacties is een ontledingsreactie?",
+   "answers": {
+    "a": "C + O<sub>2</sub> → CO<sub>2</sub>",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 Mg + O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

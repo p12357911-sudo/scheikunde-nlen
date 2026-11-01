@@ -1,0 +1,113 @@
+{
+ "title": "Molecuul bouw - 123 school",
+ "heading": "Molecuul bouw",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Leg de octetregel uit",
+   "a": "Het streven van atomen om aan de edelgas configuratie te voldoen en zich te omringen met 8 elektronen. Het aantal ontbrekende elektronen wordt geleend bij een bindend atoom door deze te delen, dit aantal geeft het aantal bindingen."
+  },
+  {
+   "q": "Welke uitzonderingen zijn er op de op octetregel",
+   "a": "Voor helium, He, en waterstof, H, hier geldt de deutregel: in H<sub>2</sub> levert ieder H atoom 1 van zijn valentie elektronen. He omringt zich met 2 eigen valentie elektronen. Voor de overgangsmetalen geldt de 18 elektronen regel."
+  },
+  {
+   "q": "Noem 6 atomen waarvoor de octetregel opgaat",
+   "a": "C, O, F, N, S, Li,"
+  },
+  {
+   "q": "Welk atoom heeft soms een afwijkend aantal binding tov de octetregel",
+   "a": "S"
+  },
+  {
+   "q": "Leg uit wat de octetregel voor koolstof betekent",
+   "a": "Koolstof, C, heeft 4 valentie elektronen. Door 4 covalente binding aan te gaan krijgt C een 8 omringing, bijvoorbeeld in CH<sub>4</sub>"
+  },
+  {
+   "q": "Leg uit wat de octetregel voor chloor betekent",
+   "a": "Chloor, Cl, heeft 7 valentie elektronen. Door 1 covalente binding aan te gaan krijgt Cl een 8 omringing, bijvoorbeeld in Cl<sub>2</sub>"
+  },
+  {
+   "q": "Hoe geef je niet bindende valentie elektronen weer in een lewisstructuur",
+   "a": "Met een puntje"
+  },
+  {
+   "q": "Hoe geef je bindende elektronen weer in een lewisstructuur",
+   "a": "Twee bindende elektronen door een streepje; in een dubbele binding zijn 4 elektronen betrokken bij de covalente binding dus 2 streepjes"
+  },
+  {
+   "q": "Stel het stappen plan voor de lewisstructuur op voor NH<sub>3</sub>",
+   "a": "Stap 1: N heeft 5 valentie elektronen, H 1, bij elkaar 8 elektronen. Stap 2: N octetregel, H deutregel. Stap 3: 6 elektronen (3 paren) in 3 bindingen tussen H en N. H deutregel klopt. 2 Elektronen. Stap 4: 2 niet bindende elektronen geven N 5 valentie elektronen, en maakt de structuur neutraal."
+  },
+  {
+   "q": "Hoe ziet de lewisstructuur eruit voor het ion NH<sub>2</sub><sup>-</sup>",
+   "a": "N gaat twee bindingen aan H. Voor H klopt de deutregel. N voldoet aan de octetregel, met 4 elektronen in de 2 covalente bindingen en 4 niet bindende elektronen, dat levert 6 elektronen op voor N,  1 elektron meer dan de 5 valentie elektronen van N wat een formele negatieve lading op het N atoom oplevert: [NH<sub>2</sub>]<sup>-</sup>"
+  },
+  {
+   "q": "Hoe is de formele lading in CO<sub>3</sub><sup>2-</sup> verdeeld?",
+   "a": "C gaat 4 binding aan, 1 dubbele met O, en 2x een enkele binding met O. Het dubbele gebonden O atoom heeft 2 niet bindende elektronenparen en voldoet zo aan de octetregel. De 2 enkel bindende O atomen hebben ieder 3 niet bindend elektronenparen, voldoet zo aan de octetregel, en ieder O atoom heeft hierdoor 1 elektron meer dan zijn aantal valentie elektronen en is negatief geladen."
+  },
+  {
+   "q": "VSEPR staat voor?",
+   "a": "Valence Shell Electron Pair Repulsion"
+  },
+  {
+   "q": "Welk omringingsgetal hebben CO<sub>2</sub>, SO<sub>2</sub>,  CF<sub>4</sub> en NH<sub>3</sub>?",
+   "a": "2, 3, 4, 4"
+  },
+  {
+   "q": "Geef de structuur voor moleculen met een omringingsgetal van 2, 3, 4",
+   "a": "Lineair, gelijkzijdige driehoek, tetraëder"
+  },
+  {
+   "q": "Geef de hoeken in graden voor moleculen met een omringingsgetal van 2, 3, 4",
+   "a": "180, 120, 109 graden"
+  },
+  {
+   "q": "Leg uit wat dipolen zijn",
+   "a": "Partiële ladingen binden een molecuul"
+  },
+  {
+   "q": "Leg uit wat het omringingsgetal is",
+   "a": "De som van het aantal atomen dat direct aan het centrale atoom bind plus het aantal niet bindende paren"
+  },
+  {
+   "q": "Heeft CO<sub>2</sub> een dipool?",
+   "a": "Nee. CO<sub>2</sub> heeft een lineaire structuur, er is partiële negatieve lading in de zuurstof atomen en positieve lading in het centrale koolstof atoom, maar door de symmetrie heffen de ladingen elkaar op"
+  },
+  {
+   "q": "Heeft SO<sub>2</sub> een dipool?",
+   "a": "Ja. SO<sub>2</sub> heeft volgens VSEPR een gelijkzijdige driehoek structuur. Er is partiële negatieve lading in de zuurstof atomen, en positieve lading in het centrale S atoom. Door het niet bindende elektronenpaar van het S atoom, krijgt het molecuul een driehoekstructuur waardoor de negatieve ladingen elkaar niet opheffen. Zo ontstaat er een dipool"
+  },
+  {
+   "q": "Waarom lost SO<sub>2</sub> wel goed op in water en CO<sub>2</sub> niet?",
+   "a": "SO<sub>2</sub> heeft een dipool. Water heeft ook een dipool, waardoor een dipoolbinding kan ontstaan tussen de twee moleculen"
+  },
+  {
+   "q": "Leg uit wat mesomerie is",
+   "a": "Het verplaatsen van elektronen binnen een molecuul zonder dat het molecuul chemisch veranderd."
+  },
+  {
+   "q": "Hoe kun je aan de structuurformule zien of een stof mesomerie vertoont?",
+   "a": "Als je meerdere lewisstructuren van hetzelfde molecuul kunt tekenen is er sprake van mesomerie"
+  },
+  {
+   "q": "Welke algemene eigenschap hebben mesomeren",
+   "a": "Hoe meer mesomere structuren een molecuul heeft des te stabieler is de stof."
+  },
+  {
+   "q": "In benzeen C<sub>6</sub>H<sub>6</sub> zijn 3 dubbele bindingenen. Leg uit hoe mesomerie werkt?",
+   "a": "In benzeen zijn 3 dubbele en 3 enkele bindingen: de elektronen van 3 dubbele bindingen kunnen zich continu verplaatsen, waardoor de enkele bindingen dubbele worden en de eerdere dubbele enkele."
+  },
+  {
+   "q": "Hoe worden in benzeen de verschillende mesomere structuren weergegeven in een grensstructuur",
+   "a": "Door de dubbele binding als cirkel binnen de honingraad zeshoek structuur weer te geven"
+  },
+  {
+   "q": "Teken de mesomere grensstructuren van een fenolaation",
+   "a": "<div class=\"w3-center\"> <img alt=\"fenolaation\" class=\"w3-image\" src=\"fenolaation.png\" width=\"80%\"/></div>"
+  }
+ ]
+}

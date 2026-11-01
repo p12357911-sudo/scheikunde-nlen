@@ -1,0 +1,150 @@
+{
+ "title": "Voeding en verzorging - 123 school",
+ "heading": "Voeding en verzorging",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag."
+ ],
+ "questions": [
+  {
+   "q": "Welke drie hoofdgroepen voedingsstoffen leveren energie?",
+   "a": "Koolhydraten, vetten en eiwitten"
+  },
+  {
+   "q": "Welke voedingsstof wordt vooral gebruikt als bouwstof voor spieren?",
+   "a": "Eiwitten"
+  },
+  {
+   "q": "Welke voedingsstof is de belangrijkste energiebron voor het lichaam op korte termijn?",
+   "a": "Koolhydraten"
+  },
+  {
+   "q": "Uit welke stoffen bestaat een vet?",
+   "a": "Glycerol en vetzuren"
+  },
+  {
+   "q": "Welke voedingsstof levert per gram de meeste energie?",
+   "a": "Vet"
+  },
+  {
+   "q": "Waaruit bestaan eiwitten?",
+   "a": "Uit aminozuren"
+  },
+  {
+   "q": "Waaruit bestaat zetmeel?",
+   "a": "Uit lange ketens van glucose"
+  },
+  {
+   "q": "Een voedingsmiddel bevat 20 g vet. Vet levert 38 kJ per gram. Hoeveel energie levert het vet?",
+   "a": "760 kJ"
+  },
+  {
+   "q": "Een product bevat 50 g koolhydraten. Koolhydraten leveren 17 kJ per gram. Hoeveel energie is dat?",
+   "a": "850 kJ"
+  },
+  {
+   "q": "Een product bevat 10 g vet (38 kJ per gram), 30 g koolhydraten (17 kJ per gram) en 5 g eiwit (17 kJ per gram). Hoeveel energie levert dit product?",
+   "a": "975 kJ"
+  },
+  {
+   "q": "Waarmee toon je zetmeel aan?",
+   "a": "Met jodiumoplossing: blauwzwart"
+  },
+  {
+   "q": "Waarmee toon je glucose aan?",
+   "a": "Met Fehling of Benedict en verwarmen: rode neerslag"
+  },
+  {
+   "q": "Hoe toon je eiwit aan met de biureettest?",
+   "a": "Met natronloog en kopersulfaat: paarse kleur"
+  },
+  {
+   "q": "Hoe toon je vet aan?",
+   "a": "Een vetvlek op papier: het papier wordt doorschijnend"
+  },
+  {
+   "q": "Waarvoor heeft je lichaam mineralen zoals calcium nodig?",
+   "a": "Voor sterke botten en tanden"
+  },
+  {
+   "q": "Wat is een belangrijke functie van vitamines?",
+   "a": "Ze helpen het lichaam goed te laten werken, in kleine hoeveelheden"
+  },
+  {
+   "q": "Welke stof is een voorbeeld van een conserveermiddel in voeding?",
+   "a": "Zout"
+  },
+  {
+   "q": "Waarom conserveer je voedsel?",
+   "a": "Om te voorkomen dat bacteriën en schimmels het bederven"
+  },
+  {
+   "q": "Welke methode gebruikt geen chemische toevoeging om voedsel te bewaren?",
+   "a": "Invriezen"
+  },
+  {
+   "q": "Waarom wordt een doorgesneden appel bruin?",
+   "a": "De stoffen in de appel reageren met zuurstof uit de lucht"
+  },
+  {
+   "q": "Welke stof voorkomt bruinkleuring door zuurstof (antioxidant)?",
+   "a": "Vitamine C"
+  },
+  {
+   "q": "Wat betekent een pH van 3?",
+   "a": "De oplossing is zuur"
+  },
+  {
+   "q": "Wat is de pH van een neutrale oplossing?",
+   "a": "7"
+  },
+  {
+   "q": "Welke pH hoort bij een basische oplossing?",
+   "a": "10"
+  },
+  {
+   "q": "Welke kleur heeft blauwe lakmoes in een zure oplossing?",
+   "a": "Rood"
+  },
+  {
+   "q": "Welke stof in citroensap maakt het zuur?",
+   "a": "Citroenzuur"
+  },
+  {
+   "q": "Je verdunt een zure oplossing met water. Wat gebeurt er met de pH?",
+   "a": "De pH wordt hoger en komt dichter bij 7"
+  },
+  {
+   "q": "Welke reactievergelijking van zoutzuur met natronloog klopt?",
+   "a": "HCl + NaOH → NaCl + H<sub>2</sub>O"
+  },
+  {
+   "q": "Wat ontstaat er bij een neutralisatiereactie van een zuur en een base?",
+   "a": "Een zout en water"
+  },
+  {
+   "q": "Wat is een emulsie?",
+   "a": "Een mengsel van twee vloeistoffen die niet in elkaar oplossen, zoals olie en water"
+  },
+  {
+   "q": "Welke stof maakt dat olie en water in mayonaise gemengd blijven?",
+   "a": "Een emulgator zoals eigeel"
+  },
+  {
+   "q": "Hoe noem je het deel van een zeepmolecuul dat in water oplost?",
+   "a": "Hydrofiele kop"
+  },
+  {
+   "q": "Hoe noem je het deel van een zeepmolecuul dat goed in vet oplost?",
+   "a": "Hydrofobe staart"
+  },
+  {
+   "q": "Waarom kan zeep een vetvlek verwijderen?",
+   "a": "De hydrofobe staarten hechten aan het vet en de hydrofiele koppen aan het water"
+  },
+  {
+   "q": "Leg uit waarom je olie niet met alleen water uit je kleren krijgt",
+   "a": "Olie is hydrofoob en lost niet op in water. Zeep heeft een hydrofobe staart die aan de olie hecht en een hydrofiele kop die in water oplost"
+  }
+ ]
+}

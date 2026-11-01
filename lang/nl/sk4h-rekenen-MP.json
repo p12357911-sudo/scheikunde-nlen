@@ -1,0 +1,347 @@
+{
+ "title": "Rekenen en meten - 123 school",
+ "heading": "Rekenen en meten",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat is de eenheid van hoeveelheid stof?",
+   "answers": {
+    "a": "mol",
+    "b": "liter",
+    "c": "u",
+    "d": "gram"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel deeltjes zitten er in 1 mol?",
+   "answers": {
+    "a": "6,02 × 10<sup>20</sup>",
+    "b": "6,02 × 10<sup>3</sup>",
+    "c": "6,02 × 10<sup>-23</sup>",
+    "d": "6,02 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het getal 6,02 × 10<sup>23</sup> per mol?",
+   "answers": {
+    "a": "De constante van Faraday",
+    "b": "De constante van Avogadro",
+    "c": "De constante van Boltzmann",
+    "d": "De constante van Planck"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe bereken je het aantal mol (n) uit de massa (m) en de molaire massa (M)?",
+   "answers": {
+    "a": "n = M : m",
+    "b": "n = m × M",
+    "c": "n = m : M",
+    "d": "n = m + M"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de eenheid van molaire massa?",
+   "answers": {
+    "a": "mol",
+    "b": "g",
+    "c": "mol/g",
+    "d": "g/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molaire massa van H<sub>2</sub>O? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "17,01 g/mol",
+    "b": "16,00 g/mol",
+    "c": "18,02 g/mol",
+    "d": "34,02 g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molaire massa van CO<sub>2</sub>? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "22,00 g/mol",
+    "b": "44,01 g/mol",
+    "c": "60,01 g/mol",
+    "d": "28,01 g/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molaire massa van CH<sub>4</sub>? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "16,04 g/mol",
+    "b": "17,03 g/mol",
+    "c": "13,02 g/mol",
+    "d": "12,01 g/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De molaire massa van NaCl is 58,44 g/mol. Hoeveel mol is 117 g NaCl?",
+   "answers": {
+    "a": "0,500 mol",
+    "b": "2,00 mol",
+    "c": "6840 mol",
+    "d": "58,4 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "De molaire massa van NaCl is 58,44 g/mol. Hoeveel gram is 0,50 mol NaCl?",
+   "answers": {
+    "a": "29 g",
+    "b": "58 g",
+    "c": "117 g",
+    "d": "0,0086 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel gram is 0,25 mol H<sub>2</sub>O? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "72 g",
+    "b": "18 g",
+    "c": "0,014 g",
+    "d": "4,5 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel moleculen zitten er in 2,0 mol H<sub>2</sub>? (gebruik BINAS tabel 7A)",
+   "answers": {
+    "a": "3,0 × 10<sup>23</sup>",
+    "b": "2,0 × 10<sup>23</sup>",
+    "c": "1,2 × 10<sup>24</sup>",
+    "d": "6,0 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel mol H-atomen zitten er in 1 mol H<sub>2</sub>O?",
+   "answers": {
+    "a": "18 mol",
+    "b": "2 mol",
+    "c": "3 mol",
+    "d": "1 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: hoeveel mol H<sub>2</sub>O ontstaat er uit 1 mol O<sub>2</sub>?",
+   "answers": {
+    "a": "1 mol",
+    "b": "0,5 mol",
+    "c": "2 mol",
+    "d": "4 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: hoeveel mol H<sub>2</sub> heb je nodig voor 4 mol H<sub>2</sub>O?",
+   "answers": {
+    "a": "8 mol",
+    "b": "2 mol",
+    "c": "1 mol",
+    "d": "4 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je laat 2 mol C<sub>2</sub>H<sub>6</sub> reageren met 14 mol O<sub>2</sub> (2 C<sub>2</sub>H<sub>6</sub> + 7 O<sub>2</sub> → 4 CO<sub>2</sub> + 6 H<sub>2</sub>O). Welke stof is in overmaat?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "Geen van beide",
+    "d": "Allebei"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een stof in overmaat?",
+   "answers": {
+    "a": "Een stof die bij de reactie ontstaat",
+    "b": "Een stof die niet meedoet in de vergelijking",
+    "c": "Een stof die na de reactie overblijft",
+    "d": "Een stof die als eerste op is"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Er zit 30 g zout in 200 g mengsel. Wat is het massapercentage zout?",
+   "answers": {
+    "a": "0,15%",
+    "b": "6,7%",
+    "c": "150%",
+    "d": "15%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 0,0230?",
+   "answers": {
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rond 12,456 af op 3 significante cijfers.",
+   "answers": {
+    "a": "12",
+    "b": "12,5",
+    "c": "12,4",
+    "d": "12,46"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is 0,0023 in wetenschappelijke notatie?",
+   "answers": {
+    "a": "2,3 × 10<sup>-4</sup>",
+    "b": "2,3 × 10<sup>-2</sup>",
+    "c": "2,3 × 10<sup>3</sup>",
+    "d": "2,3 × 10<sup>-3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel m<sup>3</sup> is 1 L?",
+   "answers": {
+    "a": "10 m<sup>3</sup>",
+    "b": "0,01 m<sup>3</sup>",
+    "c": "0,001 m<sup>3</sup>",
+    "d": "1000 m<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel gram is 250 mg?",
+   "answers": {
+    "a": "0,250 g",
+    "b": "25 g",
+    "c": "0,025 g",
+    "d": "2,5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarmee meet je een volume vloeistof nauwkeurig?",
+   "answers": {
+    "a": "Met een weegschaal",
+    "b": "Met een maatcilinder",
+    "c": "Met een pH-meter",
+    "d": "Met een thermometer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molaire massa van CaCO<sub>3</sub>? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "84,09 g/mol",
+    "b": "116,09 g/mol",
+    "c": "100,09 g/mol",
+    "d": "68,09 g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molaire massa van Ca(OH)<sub>2</sub>? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "56,08 g/mol",
+    "b": "57,09 g/mol",
+    "c": "72,08 g/mol",
+    "d": "74,10 g/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel moleculen zijn er in 0,50 mol CO<sub>2</sub>? (gebruik BINAS tabel 7A)",
+   "answers": {
+    "a": "3,0 × 10<sup>22</sup>",
+    "b": "6,0 × 10<sup>23</sup>",
+    "c": "1,2 × 10<sup>24</sup>",
+    "d": "3,0 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel gram NaOH (M = 40,00 g/mol) is 0,250 mol?",
+   "answers": {
+    "a": "160 g",
+    "b": "1,00 g",
+    "c": "0,00625 g",
+    "d": "10,0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In 2,0 kg water zit 6,0 mg nitraat. Hoeveel ppm is dat?",
+   "answers": {
+    "a": "12 ppm",
+    "b": "3,0 ppm",
+    "c": "3,0 × 10<sup>-3</sup> ppm",
+    "d": "0,33 ppm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je lost 0,50 mol NaCl op tot 2,0 L oplossing. Wat is de molariteit?",
+   "answers": {
+    "a": "0,50 mol/L",
+    "b": "0,25 mol/L",
+    "c": "4,0 mol/L",
+    "d": "1,0 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel mol is 9,0 g water? (M = 18,02 g/mol)",
+   "answers": {
+    "a": "0,050 mol",
+    "b": "0,50 mol",
+    "c": "2,0 mol",
+    "d": "162 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Volgens N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: hoeveel mol NH<sub>3</sub> ontstaat uit 1,5 mol N<sub>2</sub>?",
+   "answers": {
+    "a": "1,5 mol",
+    "b": "4,5 mol",
+    "c": "3,0 mol",
+    "d": "0,75 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Volgens N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: hoeveel mol H<sub>2</sub> is nodig voor 1,0 mol NH<sub>3</sub>?",
+   "answers": {
+    "a": "3,0 mol",
+    "b": "1,5 mol",
+    "c": "0,50 mol",
+    "d": "1,0 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 1,200 × 10<sup>3</sup>?",
+   "answers": {
+    "a": "5",
+    "b": "4",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "title": "Chemische binding - 123 school",
+ "heading": "Chemische binding",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een atoombinding?",
+   "answers": {
+    "a": "Een binding tussen metaalatomen en vrije elektronen",
+    "b": "Een binding waarbij twee atomen elektronen delen",
+    "c": "Een binding tussen een positief en een negatief ion",
+    "d": "Een binding tussen twee moleculen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een gemeenschappelijk elektronenpaar?",
+   "answers": {
+    "a": "Twee elektronen die door twee atomen worden gedeeld",
+    "b": "Twee elektronen die een atoom afstaat",
+    "c": "Twee protonen in de kern",
+    "d": "Twee neutronen die samen blijven"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke covalentie heeft waterstof?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke covalentie heeft zuurstof?",
+   "answers": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke covalentie heeft stikstof?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "5",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke covalentie heeft koolstof?",
+   "answers": {
+    "a": "3",
+    "b": "2",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke covalentie heeft een atoom uit groep 16?",
+   "answers": {
+    "a": "2",
+    "b": "8",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk voorvoegsel hoort bij het getal 4 in de naam van een moleculaire stof?",
+   "answers": {
+    "a": "Penta",
+    "b": "Tri",
+    "c": "Tetra",
+    "d": "Di"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk voorvoegsel hoort bij het getal 3 in de naam van een moleculaire stof?",
+   "answers": {
+    "a": "Penta",
+    "b": "Di",
+    "c": "Tetra",
+    "d": "Tri"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van CO<sub>2</sub>?",
+   "answers": {
+    "a": "Dikoolstofoxide",
+    "b": "Koolstofdioxide",
+    "c": "Koolstoftrioxide",
+    "d": "Koolstofoxide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van SO<sub>3</sub>?",
+   "answers": {
+    "a": "Trizwaveloxide",
+    "b": "Zwaveloxide",
+    "c": "Zwaveldioxide",
+    "d": "Zwaveltrioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van distikstoftrioxide?",
+   "answers": {
+    "a": "N<sub>2</sub>O<sub>5</sub>",
+    "b": "N<sub>2</sub>O<sub>3</sub>",
+    "c": "N<sub>3</sub>O<sub>2</sub>",
+    "d": "NO<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van koolstoftetrachloride?",
+   "answers": {
+    "a": "C<sub>2</sub>Cl<sub>4</sub>",
+    "b": "CCl<sub>4</sub>",
+    "c": "CCl<sub>2</sub>",
+    "d": "C<sub>4</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel atoombindingen heeft het koolstofatoom in CH<sub>4</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel gemeenschappelijke elektronenparen zitten er tussen de atomen in een N<sub>2</sub>-molecuul?",
+   "answers": {
+    "a": "1",
+    "b": "6",
+    "c": "3",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel gemeenschappelijke elektronenparen zitten er tussen de atomen in een O<sub>2</sub>-molecuul?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel vrije (niet-bindende) elektronenparen heeft het zuurstofatoom in een H<sub>2</sub>O-molecuul?",
+   "answers": {
+    "a": "4",
+    "b": "0",
+    "c": "1",
+    "d": "2"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof bestaat uit moleculen?",
+   "answers": {
+    "a": "MgO",
+    "b": "Fe",
+    "c": "NaCl",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een polaire atoombinding?",
+   "answers": {
+    "a": "Een binding waarbij de elektronen gelijk verdeeld zijn",
+    "b": "Een binding zonder elektronen",
+    "c": "Een binding tussen twee ionen",
+    "d": "Een binding waarbij de elektronen niet gelijk verdeeld zijn tussen de atomen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke binding is polair? (elektronegativiteit: H = 2,1; Cl = 3,0)",
+   "answers": {
+    "a": "Geen van deze bindingen",
+    "b": "De binding Cl–Cl",
+    "c": "De binding H–H",
+    "d": "De binding H–Cl"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een H–Cl-binding is Cl sterker elektronegatief (3,0) dan H (2,1). Welk atoom krijgt de gedeeltelijk negatieve lading?",
+   "answers": {
+    "a": "Het chlooratoom",
+    "b": "Geen van beide",
+    "c": "Het waterstofatoom",
+    "d": "Beide atomen even veel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom is CO<sub>2</sub> een apolair molecuul, hoewel de C=O-bindingen polair zijn?",
+   "answers": {
+    "a": "De bindingen zijn niet polair",
+    "b": "Het molecuul is gebogen",
+    "c": "CO<sub>2</sub> bevat geen elektronen",
+    "d": "Het molecuul is lineair en symmetrisch, dus de ladingen heffen elkaar op"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is een H<sub>2</sub>O-molecuul polair?",
+   "answers": {
+    "a": "Het molecuul is gebogen, dus de ladingen heffen elkaar niet op",
+    "b": "Water bevat geen waterstof",
+    "c": "H<sub>2</sub>O heeft alleen apolaire bindingen",
+    "d": "Het molecuul is lineair"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vanderwaalsbinding?",
+   "answers": {
+    "a": "Een binding tussen metaalatomen",
+    "b": "Een binding tussen ionen",
+    "c": "Een sterke binding binnen een molecuul",
+    "d": "Een zwakke aantrekking tussen alle moleculen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er met de vanderwaalskracht als de molecuulmassa groter wordt?",
+   "answers": {
+    "a": "De vanderwaalskracht blijft gelijk",
+    "b": "De vanderwaalskracht wordt zwakker",
+    "c": "De vanderwaalskracht verdwijnt",
+    "d": "De vanderwaalskracht wordt sterker"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof heeft het hoogste kookpunt? (gebruik BINAS tabel 42B)",
+   "answers": {
+    "a": "Methaan",
+    "b": "Propaan",
+    "c": "Ze koken bij dezelfde temperatuur",
+    "d": "Ethaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Aan welke voorwaarde moet een molecuul voldoen om waterstofbruggen te kunnen vormen?",
+   "answers": {
+    "a": "Het is een ion",
+    "b": "Het bevat alleen koolstof en waterstof",
+    "c": "Het is een edelgas",
+    "d": "Het bevat een H-atoom gebonden aan O of N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Tussen de moleculen van welke stof zitten waterstofbruggen?",
+   "answers": {
+    "a": "Ethaan",
+    "b": "Etheen",
+    "c": "Methaan",
+    "d": "Ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is het kookpunt van water hoger dan dat van H<sub>2</sub>S?",
+   "answers": {
+    "a": "Water bestaat uit ionen",
+    "b": "Water bevat geen atoombindingen",
+    "c": "Water vormt waterstofbruggen",
+    "d": "Water heeft een grotere vanderwaalskracht dan H<sub>2</sub>S"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent hydrofiel?",
+   "answers": {
+    "a": "Altijd vast",
+    "b": "Goed oplosbaar in water",
+    "c": "Goed oplosbaar in olie",
+    "d": "Slecht oplosbaar in water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof is hydrofoob?",
+   "answers": {
+    "a": "Methanol",
+    "b": "Suiker",
+    "c": "Ethanol",
+    "d": "Hexaan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof lost goed op in hexaan (apolair)?",
+   "answers": {
+    "a": "Keukenzout",
+    "b": "Water",
+    "c": "Suiker",
+    "d": "Plantaardige olie"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom geleiden moleculaire stoffen in vloeibare toestand geen stroom?",
+   "answers": {
+    "a": "Moleculen hebben geen massa",
+    "b": "Er zijn geen vrije geladen deeltjes",
+    "c": "De atomen zijn te groot",
+    "d": "Moleculaire stoffen bevatten altijd ionen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke binding wordt verbroken als water kookt?",
+   "answers": {
+    "a": "De metaalbindingen",
+    "b": "De ionbindingen",
+    "c": "De atoombindingen binnen de moleculen",
+    "d": "De waterstofbruggen tussen de moleculen"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

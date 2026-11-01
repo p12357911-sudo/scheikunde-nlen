@@ -1,0 +1,150 @@
+{
+ "title": "Bouw van stoffen - 123 school",
+ "heading": "Bouw van stoffen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag."
+ ],
+ "questions": [
+  {
+   "q": "Welke deeltjes zitten in de kern van een atoom?",
+   "a": "Protonen en neutronen"
+  },
+  {
+   "q": "Welk deeltje in een atoom heeft geen lading?",
+   "a": "Neutron"
+  },
+  {
+   "q": "Wat geeft het atoomnummer aan?",
+   "a": "Het aantal protonen in de kern"
+  },
+  {
+   "q": "Wat geeft het massagetal aan?",
+   "a": "Het aantal protonen plus neutronen"
+  },
+  {
+   "q": "Een atoom heeft 11 protonen en 12 neutronen. Wat is het massagetal?",
+   "a": "23"
+  },
+  {
+   "q": "Een atoom heeft atoomnummer 17 en massagetal 35. Hoeveel neutronen heeft het?",
+   "a": "18"
+  },
+  {
+   "q": "Hoeveel elektronen heeft een neutraal atoom met 15 protonen?",
+   "a": "15"
+  },
+  {
+   "q": "Hoeveel elektronen passen er maximaal in de tweede elektronenschil?",
+   "a": "8"
+  },
+  {
+   "q": "Een natriumatoom heeft 11 elektronen. Wat is de elektronenverdeling over de schillen?",
+   "a": "2-8-1"
+  },
+  {
+   "q": "Een chlooratoom heeft 17 elektronen. Wat is de elektronenverdeling over de schillen?",
+   "a": "2-8-7"
+  },
+  {
+   "q": "Een zuurstofatoom heeft atoomnummer 8. Hoeveel elektronen zitten er in de buitenste schil?",
+   "a": "6"
+  },
+  {
+   "q": "Waarom reageren edelgassen nauwelijks met andere stoffen?",
+   "a": "Hun buitenste schil is vol"
+  },
+  {
+   "q": "Wat is een ion?",
+   "a": "Een geladen atoom of groepje atomen"
+  },
+  {
+   "q": "Een natriumatoom geeft één elektron af. Welk ion ontstaat er?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "Een chlooratoom neemt één elektron op. Welk ion ontstaat er?",
+   "a": "Cl<sup>−</sup>"
+  },
+  {
+   "q": "Een magnesiumatoom (atoomnummer 12) wil twee elektronen afgeven. Welk ion ontstaat er?",
+   "a": "Mg<sup>2+</sup>"
+  },
+  {
+   "q": "Welke atomen vormen meestal positieve ionen?",
+   "a": "Metaalatomen"
+  },
+  {
+   "q": "Hoeveel elektronen heeft een S<sup>2−</sup> ion? Zwavel heeft atoomnummer 16.",
+   "a": "18"
+  },
+  {
+   "q": "Hoeveel elektronen heeft een Al<sup>3+</sup> ion? Aluminium heeft atoomnummer 13.",
+   "a": "10"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Mg<sup>2+</sup> en Cl<sup>−</sup> ionen?",
+   "a": "MgCl<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en O<sup>2−</sup> ionen?",
+   "a": "CaO"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Al<sup>3+</sup> en O<sup>2−</sup> ionen?",
+   "a": "Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Na<sup>+</sup> en SO<sub>4</sub><sup>2−</sup> ionen?",
+   "a": "Na<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en NO<sub>3</sub><sup>−</sup> ionen?",
+   "a": "Ca(NO<sub>3</sub>)<sub>2</sub>"
+  },
+  {
+   "q": "Hoe heet het zout met formule Na<sub>2</sub>S?",
+   "a": "Natriumsulfide"
+  },
+  {
+   "q": "Hoe worden de ionen in een zout bij elkaar gehouden?",
+   "a": "Door de aantrekking tussen positieve en negatieve ionen"
+  },
+  {
+   "q": "Wanneer geleidt een zout elektrische stroom?",
+   "a": "Als het is opgelost of gesmolten"
+  },
+  {
+   "q": "Waarom hebben zouten een hoog smeltpunt?",
+   "a": "De aantrekking tussen de ionen is sterk"
+  },
+  {
+   "q": "Hoe ontstaat een atoombinding?",
+   "a": "Atomen delen een of meer elektronenparen"
+  },
+  {
+   "q": "Tussen welke atomen komt een atoombinding meestal voor?",
+   "a": "Tussen niet-metaalatomen"
+  },
+  {
+   "q": "Hoeveel elektronenparen delen de twee waterstofatomen in een H<sub>2</sub> molecuul?",
+   "a": "1"
+  },
+  {
+   "q": "Waarom geleiden metalen elektrische stroom?",
+   "a": "Ze hebben vrij bewegende elektronen"
+  },
+  {
+   "q": "Welke stof bestaat uit moleculen?",
+   "a": "Water"
+  },
+  {
+   "q": "Welke stof geleidt in vaste toestand elektrische stroom?",
+   "a": "Koper"
+  },
+  {
+   "q": "Wat is de vanderwaalsbinding?",
+   "a": "De zwakke aantrekking tussen moleculen"
+  }
+ ]
+}

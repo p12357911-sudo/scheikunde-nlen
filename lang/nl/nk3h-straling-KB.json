@@ -1,0 +1,150 @@
+{
+ "title": "Straling - 123 school",
+ "heading": "Straling",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "q": "Welke drie soorten straling komen vrij bij radioactief verval?",
+   "a": "Alfastraling, bètastraling en gammastraling"
+  },
+  {
+   "q": "Waaruit bestaat een alfadeeltje?",
+   "a": "Twee protonen en twee neutronen (een heliumkern)"
+  },
+  {
+   "q": "Waaruit bestaat een bètadeeltje (bèta-min)?",
+   "a": "Een snel elektron"
+  },
+  {
+   "q": "Wat is gammastraling?",
+   "a": "Elektromagnetische straling met veel energie"
+  },
+  {
+   "q": "Door welk materiaal wordt alfastraling al tegengehouden?",
+   "a": "Een vel papier"
+  },
+  {
+   "q": "Welk materiaal houdt bètastraling tegen?",
+   "a": "Een dun aluminiumplaatje"
+  },
+  {
+   "q": "Welk materiaal is geschikt om gammastraling af te schermen?",
+   "a": "Dik lood of beton"
+  },
+  {
+   "q": "Welke soort straling is het meest doordringend?",
+   "a": "Gammastraling"
+  },
+  {
+   "q": "Welke soort straling heeft de grootste ioniserende werking?",
+   "a": "Alfastraling"
+  },
+  {
+   "q": "Wat betekent ioniserende straling?",
+   "a": "Straling die elektronen uit atomen of moleculen kan losmaken"
+  },
+  {
+   "q": "Welke straling is ioniserend?",
+   "a": "Röntgenstraling"
+  },
+  {
+   "q": "Welke straling heeft de meeste energie?",
+   "a": "Gammastraling"
+  },
+  {
+   "q": "Wat is de eenheid van activiteit (aantal vervallen per seconde)?",
+   "a": "Becquerel (Bq)"
+  },
+  {
+   "q": "Wat is de eenheid van de stralingsdosis in het lichaam (een maat voor de schade door straling)?",
+   "a": "Sievert (Sv)"
+  },
+  {
+   "q": "Een radioactieve bron heeft een activiteit van 500 Bq. Hoeveel atoomkernen vervallen er per seconde?",
+   "a": "1 Bq = 1 verval per seconde, dus 500 per seconde"
+  },
+  {
+   "q": "Wat is de halveringstijd?",
+   "a": "De tijd waarin de helft van de radioactieve kernen is vervallen"
+  },
+  {
+   "q": "Van een radioactieve stof is 80 g aanwezig. De halveringstijd is 4,0 dagen. Hoeveel gram is er na 12 dagen nog over?",
+   "a": "12 dagen = 3 halveringstijden: 80 → 40 → 20 → 10 g"
+  },
+  {
+   "q": "Een bron heeft een activiteit van 100 Bq. Hoe groot is de activiteit na 3 halveringstijden?",
+   "a": "100 → 50 → 25 → 12,5 Bq"
+  },
+  {
+   "q": "Koolstof-14 heeft een halveringstijd van 5730 jaar. Hoeveel procent van een hoeveelheid C-14 is er na 11 460 jaar nog over?",
+   "a": "11 460 jaar = 2 halveringstijden: 100% → 50% → 25%"
+  },
+  {
+   "q": "Van een stof is nog 1/8 deel over. Hoeveel halveringstijden zijn verstreken?",
+   "a": "1/2 → 1/4 → 1/8: drie halveringstijden"
+  },
+  {
+   "q": "Radium-226 (atoomnummer 88) vervalt onder uitzending van een alfadeeltje. Welk atoomnummer heeft de dochterkern?",
+   "a": "Een alfadeeltje heeft 2 protonen: 88 − 2 = 86"
+  },
+  {
+   "q": "Radium-226 (atoomnummer 88) vervalt onder uitzending van een alfadeeltje. Welk massagetal heeft de dochterkern?",
+   "a": "Een alfadeeltje heeft massagetal 4: 226 − 4 = 222"
+  },
+  {
+   "q": "Koolstof-14 (atoomnummer 6) vervalt via bèta-min verval tot stikstof (atoomnummer 7). Wat gebeurt er met het massagetal?",
+   "a": "Er verandert een neutron in een proton: het massagetal blijft gelijk, het atoomnummer gaat met 1 omhoog"
+  },
+  {
+   "q": "Wat is achtergrondstraling?",
+   "a": "Straling die altijd om ons heen aanwezig is, bijvoorbeeld uit de bodem en de ruimte"
+  },
+  {
+   "q": "Wat is het verschil tussen bestraling en besmetting?",
+   "a": "Bij bestraling word je getroffen door straling van buiten; bij besmetting zit er radioactieve stof op of in je lichaam"
+  },
+  {
+   "q": "Hoe verklein je de stralingsbelasting door een radioactieve bron? Noem de drie manieren.",
+   "a": "Afstand vergroten, kortere tijd, afscherming gebruiken"
+  },
+  {
+   "q": "Waarmee meet je radioactieve straling?",
+   "a": "Met een geigerteller"
+  },
+  {
+   "q": "Waarvoor gebruik je röntgenstraling in het ziekenhuis?",
+   "a": "Om foto’s van botten en organen te maken"
+  },
+  {
+   "q": "Waarom is kernafval gevaarlijk voor lange tijd?",
+   "a": "Sommige stoffen hebben een zeer lange halveringstijd en blijven dus lang straling uitzenden"
+  },
+  {
+   "q": "Wat gebeurt er bij kernsplijting?",
+   "a": "Een zware atoomkern splitst in kleinere kernen en er komt energie vrij"
+  },
+  {
+   "q": "Welke straling gebruikt een magnetron?",
+   "a": "Microgolven"
+  },
+  {
+   "q": "In een rookmelder zit vaak een kleine bron die alfastraling uitzendt. Waarom is dat niet gevaarlijk zolang de melder heel is?",
+   "a": "Alfastraling wordt al door de behuizing en een laagje lucht tegengehouden"
+  },
+  {
+   "q": "Waarom is een alfabron vooral gevaarlijk als de radioactieve stof in je lichaam komt?",
+   "a": "Alfastraling ioniseert sterk en wordt volledig in het lichaam opgenomen"
+  },
+  {
+   "q": "Noem twee toepassingen van radioactieve straling.",
+   "a": "Bijvoorbeeld medische beeldvorming (tracer), bestraling van tumoren, sterilisatie van medische hulpmiddelen of het conserveren van voedsel"
+  },
+  {
+   "q": "Wat is het verschil tussen ioniserende en niet-ioniserende straling? Noem een voorbeeld van beide.",
+   "a": "Ioniserende straling kan atomen ioniseren (bijvoorbeeld röntgen- of gammastraling); niet-ioniserende straling kan dat niet (bijvoorbeeld radiogolven of zichtbaar licht)"
+  }
+ ]
+}

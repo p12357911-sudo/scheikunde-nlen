@@ -1,0 +1,150 @@
+{
+ "title": "Zuren en basen - 123 school",
+ "heading": "Zuren en basen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Welke pH heeft een zure oplossing?",
+   "a": "Lager dan 7"
+  },
+  {
+   "q": "Welke pH heeft een neutrale oplossing?",
+   "a": "7"
+  },
+  {
+   "q": "Welke pH heeft een basische oplossing?",
+   "a": "Hoger dan 7"
+  },
+  {
+   "q": "Welk ion zorgt ervoor dat een oplossing zuur is?",
+   "a": "H<sup>+</sup> (aq)"
+  },
+  {
+   "q": "Welk ion zorgt ervoor dat een oplossing basisch is?",
+   "a": "OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Wat weet je over het aantal H<sup>+</sup> en OH<sup>−</sup> ionen in een neutrale oplossing?",
+   "a": "Er zijn evenveel H<sup>+</sup> ionen als OH<sup>−</sup> ionen"
+  },
+  {
+   "q": "Welke pH is het zuurst: 2, 5, 7 of 9?",
+   "a": "pH 2: hoe lager de pH, hoe zuurder de oplossing"
+  },
+  {
+   "q": "Wat is de formule van zoutzuur?",
+   "a": "HCl (opgelost in water: HCl (aq))"
+  },
+  {
+   "q": "Wat is de formule van zwavelzuur?",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de formule van salpeterzuur?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de formule van azijnzuur?",
+   "a": "CH<sub>3</sub>COOH, ook geschreven als HAc"
+  },
+  {
+   "q": "Wat is de formule van natronloog?",
+   "a": "NaOH"
+  },
+  {
+   "q": "Wat is de formule van kaliloog?",
+   "a": "KOH"
+  },
+  {
+   "q": "Wat is de formule van kalkwater?",
+   "a": "Ca(OH)<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de formule van ammoniak, een base?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "Welke ionen ontstaan als HCl oplost in water? Schrijf de reactievergelijking op.",
+   "a": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op voor het oplossen van natriumhydroxide in water.",
+   "a": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op voor het oplossen van zwavelzuur (H<sub>2</sub>SO<sub>4</sub>) in water.",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+  },
+  {
+   "q": "Wat is neutralisatie?",
+   "a": "Een zuur reageert met een base tot een zout en water, en de pH wordt 7"
+  },
+  {
+   "q": "Wat is de reactievergelijking in ionen van de neutralisatie van een zuur met een base?",
+   "a": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Zoutzuur reageert met natronloog. Schrijf de reactievergelijking op.",
+   "a": "HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Zwavelzuur reageert met natronloog. Schrijf de reactievergelijking op.",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Welk zout ontstaat als salpeterzuur (HNO<sub>3</sub>) reageert met kaliloog (KOH)?",
+   "a": "Kaliumnitraat"
+  },
+  {
+   "q": "Zink reageert met zoutzuur. Schrijf de reactievergelijking op.",
+   "a": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)"
+  },
+  {
+   "q": "Welk gas ontstaat als een zuur reageert met een onedel metaal, en hoe toon je het aan?",
+   "a": "Waterstof; een brandende houtspaander geeft een knal"
+  },
+  {
+   "q": "Kalk (CaCO<sub>3</sub>) reageert met zoutzuur. Schrijf de reactievergelijking op.",
+   "a": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)"
+  },
+  {
+   "q": "Welke kleur heeft lakmoes in een zure oplossing? (gebruik BINAS tabel 36)",
+   "a": "Rood"
+  },
+  {
+   "q": "Welke kleur heeft broomthymolblauw in een basische oplossing? (gebruik BINAS tabel 36)",
+   "a": "Blauw"
+  },
+  {
+   "q": "Welke kleur heeft fenolftaleïen in een sterk basische oplossing? (gebruik BINAS tabel 36)",
+   "a": "Paars. In een zure of neutrale oplossing is fenolftaleïen kleurloos"
+  },
+  {
+   "q": "Universeelindicatorpapier wordt groen in een oplossing. Wat voor oplossing is dit?",
+   "a": "Een neutrale oplossing"
+  },
+  {
+   "q": "Je verdunt een zure oplossing met veel water. Wat gebeurt er met de pH?",
+   "a": "De pH wordt hoger, richting 7"
+  },
+  {
+   "q": "Je druppelt natronloog in zoutzuur. Wat gebeurt er met de pH?",
+   "a": "De pH stijgt tot 7 bij neutralisatie en daarna verder"
+  },
+  {
+   "q": "Welk pictogram staat op een fles geconcentreerd zoutzuur?",
+   "a": "Het pictogram voor bijtend (corrosief)"
+  },
+  {
+   "q": "Waarom houd je een sterk zuur of een sterke base niet op je huid?",
+   "a": "Ze zijn bijtend en beschadigen je huid"
+  },
+  {
+   "q": "Hoe kun je met een indicator de pH van een oplossing schatten?",
+   "a": "Je kijkt welke kleur de indicator heeft en zoekt in Binas tabel 36 bij welke pH die kleur hoort"
+  }
+ ]
+}

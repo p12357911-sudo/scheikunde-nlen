@@ -1,0 +1,597 @@
+{
+ "title": "Woordenschatlijst Meerkeuzevragen",
+ "heading": "Woordenschatlijst Meerkeuzevragen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Archeologen",
+   "answers": {
+    "a": "Boekenverzamelaars",
+    "b": "Kunstenaars",
+    "c": "Mensen die bijen houden",
+    "d": "Wetenschappers die overblijfselen uit het verleden bestuderen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Nederzetting",
+   "answers": {
+    "a": "Een plaats waar een groep mensen zich vestigt",
+    "b": "Een groot schip",
+    "c": "Een gebouw voor dieren",
+    "d": "Een bergtop"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hooglied",
+   "answers": {
+    "a": "Een beroemde symfonie",
+    "b": "Een bekend schilderij",
+    "c": "Een Bijbelboek over de liefde",
+    "d": "Een oude munt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Kopist",
+   "answers": {
+    "a": "Iemand die schilderijen maakt",
+    "b": "Iemand die beelden houwt",
+    "c": "Iemand die boeken schrijft",
+    "d": "Iemand die geschreven boeken overschrijft"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Allegaartje",
+   "answers": {
+    "a": "Een soort dier",
+    "b": "Een soort plant",
+    "c": "Een onduidelijke mix; mengelmoes",
+    "d": "Een duidelijk overzicht"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Klankwetten",
+   "answers": {
+    "a": "Wetten over verkeersgeluid",
+    "b": "Betrouwbare bewering over een bepaalde klankontwikkeling",
+    "c": "Muziekregels",
+    "d": "Regels voor theatergeluid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reconstructie",
+   "answers": {
+    "a": "Het bouwen van nieuwe huizen",
+    "b": "Een type machine",
+    "c": "Een soort feest",
+    "d": "Herbouw van de oorspronkelijke staat van iets"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Overgeleverd",
+   "answers": {
+    "a": "Mondeling doorgegeven; doorverteld",
+    "b": "Met de post verstuurd",
+    "c": "Handgeschreven",
+    "d": "Digitaal opgeslagen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Pennenproefsel",
+   "answers": {
+    "a": "Een manier van schrijven",
+    "b": "Een test om te controleren of je pen werkt",
+    "c": "Een type balpen",
+    "d": "Een tekenwedstrijd"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Samengesteld",
+   "answers": {
+    "a": "Gemengd",
+    "b": "Gemaakt van metaal",
+    "c": "Uit één deel bestaand",
+    "d": "Bijeengebracht; verzameld"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Liet links liggen",
+   "answers": {
+    "a": "Schreef erover",
+    "b": "Vond het leuk",
+    "c": "Negeerde; besteedde geen aandacht aan",
+    "d": "Keek ernaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Interpreteren",
+   "answers": {
+    "a": "Verduidelijken",
+    "b": "Vertalen",
+    "c": "Kopiëren",
+    "d": "Uitleggen; betekenis geven aan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Exotisch",
+   "answers": {
+    "a": "Lokaal",
+    "b": "Gewoon",
+    "c": "Uitheems; buitenlands; door een andere cultuur voortgebracht",
+    "d": "Inheems"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Redeneren",
+   "answers": {
+    "a": "Zingen",
+    "b": "Uitleggen van welke feiten en gedachten je uitgaat bij het maken van keuzes",
+    "c": "Schilderen",
+    "d": "Dansen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Zich voltrok",
+   "answers": {
+    "a": "Werd geschreven",
+    "b": "Werd vergeten",
+    "c": "Plaatsvond; gebeurde",
+    "d": "Werd gezongen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Taalfamilie",
+   "answers": {
+    "a": "Een verzameling van woorden",
+    "b": "Groep verwante talen die dezelfde geschiedenis hebben",
+    "c": "Een boek over talen",
+    "d": "Een school voor talen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Aanknopingspunt",
+   "answers": {
+    "a": "Een aanwijzing; iets wat je kunt gebruiken om een zaak (verder) te onderzoeken",
+    "b": "Een muziekinstrument",
+    "c": "Een plaats op een kaart",
+    "d": "Een punt in een verhaal"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Klerk",
+   "answers": {
+    "a": "Politieagent",
+    "b": "Leraar",
+    "c": "Kantoorbediende",
+    "d": "Dokter"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Laaggeletterdheid",
+   "answers": {
+    "a": "Het kunnen lezen en schrijven",
+    "b": "Snel kunnen lezen",
+    "c": "Het schrijven van gedichten",
+    "d": "Moeite hebben met lezen en/of schrijven"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Remedie",
+   "answers": {
+    "a": "Een type voedsel",
+    "b": "Een soort plant",
+    "c": "Een muziekinstrument",
+    "d": "Middel dat bedoeld is om iets beter te maken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Gepubliceerde",
+   "answers": {
+    "a": "Verloren",
+    "b": "Gestolen",
+    "c": "Uitgebrachte",
+    "d": "Onuitgebrachte"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Betoogd",
+   "answers": {
+    "a": "Geweigerd",
+    "b": "Geprobeerd te bewijzen",
+    "c": "Gezongen",
+    "d": "Geleerd"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Beroepsopvoeders",
+   "answers": {
+    "a": "Mensen die tuinen onderhouden",
+    "b": "Mensen die huizen bouwen",
+    "c": "Mensen die voor hun werk kinderen opvoeden",
+    "d": "Mensen die boeken schrijven"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Empathischer",
+   "answers": {
+    "a": "Sterker",
+    "b": "Minder emotioneel",
+    "c": "Beter in staat je in anderen in te leven",
+    "d": "Sneller"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Onomstotelijk",
+   "answers": {
+    "a": "Gemakkelijk te weerleggen",
+    "b": "Twijfelachtig",
+    "c": "Onweerlegbaar; niet tegen te spreken",
+    "d": "Zachtjes fluisterend"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Polariserende",
+   "answers": {
+    "a": "Vredelievende",
+    "b": "Samenvoegende",
+    "c": "Verdeelde; steeds meer tegenstellingen veroorzakend",
+    "d": "Verbindende"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Verrijkt",
+   "answers": {
+    "a": "Met minder kennis",
+    "b": "Met minder geld",
+    "c": "Met meer geld",
+    "d": "Met meer kennis"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Gemakshalve",
+   "answers": {
+    "a": "Voor de lol",
+    "b": "Voor de prijs",
+    "c": "Voor het gemak",
+    "d": "Voor de moeite"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Participeren",
+   "answers": {
+    "a": "Tegenwerken",
+    "b": "Observeren",
+    "c": "Ontkennen",
+    "d": "Meedoen; deelnemen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Het tij keren",
+   "answers": {
+    "a": "De situatie negeren",
+    "b": "De situatie veranderen",
+    "c": "De situatie accepteren",
+    "d": "De situatie verbeteren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Maakt zich hard",
+   "answers": {
+    "a": "Doet niets",
+    "b": "Verzet zich",
+    "c": "Luistert niet",
+    "d": "Spant zich in"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Initiatief",
+   "answers": {
+    "a": "Einde",
+    "b": "Vertraging",
+    "c": "Midden",
+    "d": "Begin; aanzet"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Neerlandistiek",
+   "answers": {
+    "a": "Wetenschap die zich bezighoudt met de Nederlandse taal en literatuur",
+    "b": "Wetenschap over de Duitse taal",
+    "c": "Wetenschap over dieren",
+    "d": "Wetenschap over planten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Opheffen",
+   "answers": {
+    "a": "Beginnen",
+    "b": "Dubbelen",
+    "c": "Beëindigen",
+    "d": "Halveren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Stimuleert",
+   "answers": {
+    "a": "Verlaat",
+    "b": "Ontmoedigt",
+    "c": "Moedigt aan",
+    "d": "Vermijdt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hiertoe nemen",
+   "answers": {
+    "a": "Verliezen",
+    "b": "Kopen",
+    "c": "(Vast) te pakken",
+    "d": "Weggooien"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Voedingsbodem",
+   "answers": {
+    "a": "Ijskoude bodem",
+    "b": "Plaats waar iets kan ontstaan en groeien",
+    "c": "Lege ruimte",
+    "d": "Droge plek"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Ontkennen",
+   "answers": {
+    "a": "Bevestigen",
+    "b": "Vergeten",
+    "c": "Een tegenargument geven; zeggen dat het niet waar is",
+    "d": "Leren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Beaamt",
+   "answers": {
+    "a": "Negeert",
+    "b": "Is het daarmee eens; bevestigt",
+    "c": "Verbetert",
+    "d": "Ontkent"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hiërarchie",
+   "answers": {
+    "a": "Gelijkheid",
+    "b": "Rangorde",
+    "c": "Nabijheid",
+    "d": "Afstand"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Taalverrijking",
+   "answers": {
+    "a": "Positieve ontwikkeling van een taal",
+    "b": "Verdwijning van een taal",
+    "c": "Verslechtering van een taal",
+    "d": "Verandering van een taal"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Woordensmeden",
+   "answers": {
+    "a": "Nieuwe talen",
+    "b": "Oude talen",
+    "c": "Verzonnen woordcombinaties",
+    "d": "Oude woorden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Geïnspireerd op",
+   "answers": {
+    "a": "Gemaakt onder invloed van; ingegeven door",
+    "b": "Geboren uit",
+    "c": "Gemaakt zonder bron",
+    "d": "Gemaakt zonder invloed van"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schiepen",
+   "answers": {
+    "a": "Vernielden",
+    "b": "Maakten; creëerden",
+    "c": "Ontkenden",
+    "d": "Verknoeiden"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Inlijven",
+   "answers": {
+    "a": "Verwerpen",
+    "b": "Bij je eigen land of groep voegen; in een groter geheel opnemen",
+    "c": "Verliezen",
+    "d": "Weggooien"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Vloot",
+   "answers": {
+    "a": "Aantal vliegtuigen",
+    "b": "Aantal schepen",
+    "c": "Groep dieren",
+    "d": "Groep mensen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Deceptie",
+   "answers": {
+    "a": "Blijdschap",
+    "b": "Teleurstelling",
+    "c": "Verrassing",
+    "d": "Ontkenning"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Heeft het uit eerste hand",
+   "answers": {
+    "a": "Heeft het zelf verzonnen",
+    "b": "Heeft het gekopieerd",
+    "c": "Heeft het gehoord van iemand die erbij stond",
+    "d": "Heeft het geraden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Verkrijgen",
+   "answers": {
+    "a": "Verliezen",
+    "b": "Vergeten",
+    "c": "Weggeven",
+    "d": "Met inspanning krijgen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bewegen tot",
+   "answers": {
+    "a": "Laten zitten",
+    "b": "Overhalen tot",
+    "c": "Wegjagen",
+    "d": "Verliezen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Gebikkeld",
+   "answers": {
+    "a": "Geleerd",
+    "b": "Gefluisterd",
+    "c": "Geruzied over kleinigheden",
+    "d": "Gezwommen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Initiatiefnemer",
+   "answers": {
+    "a": "Iemand die als laatste iets bedenkt",
+    "b": "Iemand die altijd luistert",
+    "c": "Iemand die niets doet",
+    "d": "Iemand die als eerste iets bedacht heeft te gaan doen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hield af",
+   "answers": {
+    "a": "Gaf door",
+    "b": "Verkocht",
+    "c": "Weerhield; stond niet toe",
+    "d": "Gaf mee"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Diverse",
+   "answers": {
+    "a": "Weinig",
+    "b": "Eén exemplaar",
+    "c": "Eén soort",
+    "d": "Verscheidene; een aantal"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Verkoopnet",
+   "answers": {
+    "a": "Een kring van leveranciers",
+    "b": "Een visnet",
+    "c": "Een basketbalnet",
+    "d": "Een verkooptent"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Klinisch",
+   "answers": {
+    "a": "Medisch",
+    "b": "Huiselijk",
+    "c": "Emotioneel",
+    "d": "Met een kliniek in verband staand; in een kliniek werkend"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Fysicus",
+   "answers": {
+    "a": "Dokter",
+    "b": "Natuurkundige",
+    "c": "Bioloog",
+    "d": "Chemicus"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Ondervond",
+   "answers": {
+    "a": "Leerde kennen; ervoer",
+    "b": "Verloor",
+    "c": "Vergat",
+    "d": "Leerde"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Krakkemikkig",
+   "answers": {
+    "a": "Wankel; niet zo stevig",
+    "b": "Snel",
+    "c": "Stevig",
+    "d": "Krachtig"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

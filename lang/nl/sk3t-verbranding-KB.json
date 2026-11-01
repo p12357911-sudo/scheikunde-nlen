@@ -1,0 +1,149 @@
+{
+ "title": "Verbranding - 123 school",
+ "heading": "Verbranding",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een brandstof?",
+   "a": "Een stof die je verbrandt om warmte (energie) te krijgen"
+  },
+  {
+   "q": "Noem de drie dingen die nodig zijn om iets te laten branden (branddriehoek)",
+   "a": "Brandstof, zuurstof en een temperatuur boven de ontbrandingstemperatuur"
+  },
+  {
+   "q": "Wat is de ontbrandingstemperatuur?",
+   "a": "De temperatuur waarbij een stof begint te branden"
+  },
+  {
+   "q": "Welk gas uit de lucht is nodig voor een verbranding?",
+   "a": "Zuurstof"
+  },
+  {
+   "q": "Hoe heet een verbranding waarbij genoeg zuurstof aanwezig is?",
+   "a": "Volledige verbranding"
+  },
+  {
+   "q": "Hoe heet een verbranding waarbij te weinig zuurstof aanwezig is?",
+   "a": "Onvolledige verbranding"
+  },
+  {
+   "q": "Welke twee stoffen ontstaan bij de volledige verbranding van een koolwaterstof?",
+   "a": "Koolstofdioxide en water"
+  },
+  {
+   "q": "Welke stoffen kunnen ontstaan bij onvolledige verbranding van een koolwaterstof?",
+   "a": "Koolstofmono-oxide (CO), roet (C), en ook water. Soms ook koolstofdioxide."
+  },
+  {
+   "q": "Wat voor kleur heeft de vlam bij een onvolledige verbranding van aardgas?",
+   "a": "Geel"
+  },
+  {
+   "q": "Wat voor kleur heeft de vlam bij een volledige verbranding in een brander?",
+   "a": "Blauw"
+  },
+  {
+   "q": "Waarom is koolstofmono-oxide (CO) gevaarlijk?",
+   "a": "Het is giftig en je ruikt het niet"
+  },
+  {
+   "q": "Wat is roet?",
+   "a": "Fijne zwarte koolstofdeeltjes (C) die ontstaan bij onvolledige verbranding"
+  },
+  {
+   "q": "Welke twee elementen zitten in een koolwaterstof?",
+   "a": "Koolstof en waterstof (C en H)"
+  },
+  {
+   "q": "Welke drie brandstoffen zijn fossiele brandstoffen?",
+   "a": "Steenkool, aardolie en aardgas"
+  },
+  {
+   "q": "Wat is de molecuulformule van methaan, het hoofdbestanddeel van aardgas?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "Hoe toon je aan dat er water ontstaat bij een verbranding?",
+   "a": "Wit kopersulfaat wordt blauw"
+  },
+  {
+   "q": "Hoe toon je aan dat er koolstofdioxide ontstaat bij een verbranding?",
+   "a": "Kalkwater wordt troebel (wit)"
+  },
+  {
+   "q": "Maak kloppend: CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O (links 1 C, 4 H en 4 O, rechts 1 C, 4 H en 4 O)"
+  },
+  {
+   "q": "Maak kloppend: C + O<sub>2</sub> → CO<sub>2</sub>",
+   "a": "C + O<sub>2</sub> → CO<sub>2</sub> (klopt al: links 1 C en 2 O, rechts 1 C en 2 O)"
+  },
+  {
+   "q": "Maak kloppend: 2 CH<sub>4</sub> + 3 O<sub>2</sub> → … CO + … H<sub>2</sub>O (onvolledige verbranding)",
+   "a": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 4 H<sub>2</sub>O (links 2 C, 8 H en 6 O, rechts 2 C, 8 H en 6 O)"
+  },
+  {
+   "q": "Maak kloppend: CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O (onvolledige verbranding met roet)",
+   "a": "CH<sub>4</sub> + O<sub>2</sub> → C + 2 H<sub>2</sub>O (links 1 C, 4 H en 2 O, rechts 1 C, 4 H en 2 O)"
+  },
+  {
+   "q": "Maak kloppend: C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (butaan, volledige verbranding)",
+   "a": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O (links 8 C, 20 H en 26 O, rechts 8 C, 20 H en 26 O)"
+  },
+  {
+   "q": "Maak kloppend: Mg + O<sub>2</sub> → MgO (verbranden van magnesium)",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "Bij een verbranding van 16 g methaan met 64 g zuurstof ontstaat 44 g koolstofdioxide en nog water. Hoeveel g water ontstaat?",
+   "a": "Massa links = massa rechts: 16 + 64 = 80 g. Water = 80 − 44 = 36 g"
+  },
+  {
+   "q": "Bij hoge temperatuur in een automotor reageren stikstof en zuurstof. Welke stoffen ontstaan?",
+   "a": "Stikstofoxiden (NO en NO<sub>2</sub>)"
+  },
+  {
+   "q": "Welk gas veroorzaakt (samen met stikstofoxiden) zure regen?",
+   "a": "Zwaveldioxide (SO<sub>2</sub>)"
+  },
+  {
+   "q": "Wat gebeurt er met een brandende kaars onder een omgekeerd glas?",
+   "a": "De kaars dooft, want de zuurstof raakt op"
+  },
+  {
+   "q": "Welk blusmiddel gebruik je nooit bij een vetbrand?",
+   "a": "Water. Het zakt onder het hete vet, kookt en laat brandend vet rondspatten."
+  },
+  {
+   "q": "Waarom dooft een blusdeken een brand?",
+   "a": "De zuurstof kan niet meer bij de brandstof komen"
+  },
+  {
+   "q": "Waarom koelt water een brand?",
+   "a": "De temperatuur zakt onder de ontbrandingstemperatuur"
+  },
+  {
+   "q": "Met welk proces maak je uit aardolie benzine en diesel?",
+   "a": "Fractionele destillatie"
+  },
+  {
+   "q": "Welke stof in de lucht zorgt vooral voor het versterkte broeikaseffect?",
+   "a": "Koolstofdioxide (CO<sub>2</sub>)"
+  },
+  {
+   "q": "Waardoor komt er door de mens steeds meer CO<sub>2</sub> in de lucht?",
+   "a": "Doordat we veel fossiele brandstoffen verbranden"
+  },
+  {
+   "q": "Noem twee gevolgen van het versterkte broeikaseffect",
+   "a": "Bijvoorbeeld: de temperatuur op aarde stijgt, het ijs smelt, de zeespiegel stijgt, vaker extreem weer"
+  },
+  {
+   "q": "Hoe kun je zorgen voor minder CO<sub>2</sub>-uitstoot?",
+   "a": "Bijvoorbeeld: zuiniger zijn met energie, zonne-energie en windenergie gebruiken, minder autorijden, bomen planten"
+  }
+ ]
+}

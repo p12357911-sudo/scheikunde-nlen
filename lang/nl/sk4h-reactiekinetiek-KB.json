@@ -1,0 +1,150 @@
+{
+ "title": "Reactiesnelheid en energie - 123 school",
+ "heading": "Reactiesnelheid en energie",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een exotherme reactie?",
+   "a": "Een reactie waarbij energie vrijkomt"
+  },
+  {
+   "q": "Wat is een endotherme reactie?",
+   "a": "Een reactie waarbij energie wordt opgenomen"
+  },
+  {
+   "q": "Is de verbranding van aardgas exotherm of endotherm?",
+   "a": "Exotherm"
+  },
+  {
+   "q": "Is de fotosynthese exotherm of endotherm?",
+   "a": "Endotherm (energie uit zonlicht wordt opgenomen)"
+  },
+  {
+   "q": "Wat is de activeringsenergie?",
+   "a": "De minimale energie die nodig is om een reactie te laten beginnen"
+  },
+  {
+   "q": "Wat is een katalysator?",
+   "a": "Een stof die een reactie versnelt en zelf niet wordt verbruikt"
+  },
+  {
+   "q": "Wat doet een katalysator met de activeringsenergie?",
+   "a": "Die wordt lager"
+  },
+  {
+   "q": "Wat doet een katalysator met de reactiewarmte?",
+   "a": "Niets, de reactiewarmte blijft gelijk"
+  },
+  {
+   "q": "Wat is een effectieve botsing?",
+   "a": "Een botsing tussen deeltjes met genoeg energie en in de juiste stand, waarna ze reageren"
+  },
+  {
+   "q": "Waarom verloopt een reactie sneller bij een hogere temperatuur?",
+   "a": "De deeltjes bewegen sneller, dus er zijn meer effectieve botsingen per seconde"
+  },
+  {
+   "q": "Waarom verloopt een reactie sneller bij een hogere concentratie?",
+   "a": "Er zijn meer deeltjes per volume, dus meer botsingen per seconde"
+  },
+  {
+   "q": "Waarom reageert zinkpoeder sneller met zoutzuur dan een stuk zink van dezelfde massa?",
+   "a": "Poeder heeft een groter contactoppervlak"
+  },
+  {
+   "q": "Wat gebeurt er met de reactiesnelheid van gassen als je de druk verhoogt?",
+   "a": "De snelheid wordt groter, want er zijn meer deeltjes per volume"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Wat gebeurt er met de snelheid bij 20 °C stijging?",
+   "a": "4 keer zo groot: 2 × 2 = 4"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 20 °C duurt een reactie 80 s. Hoe lang duurt de reactie bij 40 °C?",
+   "a": "20 s: 20 → 40 °C is 2 keer verdubbelen, de snelheid wordt 4 keer zo groot, dus 80 s : 4 = 20 s"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 50 °C duurt een reactie 12 s. Hoe lang duurt de reactie bij 30 °C?",
+   "a": "48 s: 50 → 30 °C is 2 keer halveren van de snelheid, de snelheid wordt 4 keer zo klein, dus 12 s × 4 = 48 s"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 20 °C duurt een reactie 100 s. Hoe lang duurt de reactie bij 30 °C?",
+   "a": "50 s: de snelheid wordt 2 keer zo groot, dus 100 s : 2 = 50 s"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Hoeveel keer zo groot is de snelheid bij 50 °C dan bij 20 °C?",
+   "a": "8 keer: 30 °C stijging is 3 keer verdubbelen, 2 × 2 × 2 = 8"
+  },
+  {
+   "q": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 60 °C duurt een reactie 5 s. Hoe lang duurt de reactie bij 20 °C?",
+   "a": "80 s: 60 → 20 °C is 4 keer halveren van de snelheid, de snelheid wordt 16 keer zo klein, dus 5 s × 16 = 80 s"
+  },
+  {
+   "q": "Hoe is de reactiesnelheid gedefinieerd?",
+   "a": "De verandering van de concentratie per tijd (Δc : Δt)"
+  },
+  {
+   "q": "Wat is een geschikte eenheid voor reactiesnelheid?",
+   "a": "mol/(L·s)"
+  },
+  {
+   "q": "De concentratie van stof A daalt in 30 s van 0,80 mol/L naar 0,50 mol/L. Bereken de gemiddelde reactiesnelheid.",
+   "a": "0,010 mol/(L·s): Δc = 0,80 − 0,50 = 0,30 mol/L; 0,30 : 30 = 0,010 mol/(L·s)"
+  },
+  {
+   "q": "Bij een reactie ontstaat in 40 s 12 mL gas. Bereken de gemiddelde reactiesnelheid in mL/s.",
+   "a": "0,30 mL/s: 12 mL : 40 s = 0,30 mL/s"
+  },
+  {
+   "q": "Hoe maak je de reactie tussen magnesium en zoutzuur langzamer?",
+   "a": "De temperatuur verlagen"
+  },
+  {
+   "q": "Hoe ligt in een energiediagram van een exotherme reactie het niveau van de producten?",
+   "a": "Lager dan het niveau van de beginstoffen"
+  },
+  {
+   "q": "Hoe ligt in een energiediagram van een endotherme reactie het niveau van de producten?",
+   "a": "Hoger dan het niveau van de beginstoffen"
+  },
+  {
+   "q": "Hoe lees je de reactiewarmte af uit een energiediagram?",
+   "a": "Het hoogteverschil tussen het niveau van de beginstoffen en dat van de producten"
+  },
+  {
+   "q": "In een energiediagram liggen de beginstoffen op 120 kJ, de producten op 80 kJ en de top van de heuvel op 150 kJ. Wat is de activeringsenergie?",
+   "a": "30 kJ: 150 − 120 = 30 kJ"
+  },
+  {
+   "q": "In een energiediagram liggen de beginstoffen op 120 kJ, de producten op 80 kJ en de top van de heuvel op 150 kJ. Hoeveel energie komt er bij de reactie vrij?",
+   "a": "40 kJ: 120 − 80 = 40 kJ"
+  },
+  {
+   "q": "De verbranding van methaan levert 8,9 × 10<sup>5</sup> J per mol methaan. Hoeveel energie komt er vrij bij de verbranding van 8,0 g methaan? (M = 16,04 g/mol)",
+   "a": "4,4 × 10<sup>5</sup> J: n = 8,0 : 16,04 = 0,4988 mol; 0,4988 × 8,9 × 10<sup>5</sup> = 4,4 × 10<sup>5</sup> J"
+  },
+  {
+   "q": "De verbranding van methaan levert 8,9 × 10<sup>5</sup> J per mol methaan. Hoeveel energie komt er vrij bij de verbranding van 2,0 mol methaan?",
+   "a": "1,8 × 10<sup>6</sup> J: 2,0 × 8,9 × 10<sup>5</sup> = 1,8 × 10<sup>6</sup> J"
+  },
+  {
+   "q": "Wat is een dynamisch evenwicht?",
+   "a": "De heenreactie en de terugreactie verlopen even snel"
+  },
+  {
+   "q": "Wat gebeurt er met de reactiesnelheid terwijl de beginstoffen worden verbruikt?",
+   "a": "De snelheid wordt kleiner"
+  },
+  {
+   "q": "Geef twee manieren om een reactie te versnellen.",
+   "a": "Bijvoorbeeld de temperatuur verhogen, de concentratie verhogen, een fijnere verdeling van een vaste stof gebruiken of een katalysator toevoegen"
+  },
+  {
+   "q": "Leg uit waarom een katalysator een reactie sneller maakt.",
+   "a": "Een katalysator verlaagt de activeringsenergie, dus meer botsingen hebben genoeg energie om te reageren"
+  }
+ ]
+}

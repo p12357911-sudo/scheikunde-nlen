@@ -1,0 +1,150 @@
+{
+ "title": "Kracht en beweging - 123 school",
+ "heading": "Kracht en beweging",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "q": "Wat is de SI-eenheid van snelheid?",
+   "a": "m/s"
+  },
+  {
+   "q": "Reken om: 20 m/s in km/h.",
+   "a": "20 × 3,6 = 72 km/h"
+  },
+  {
+   "q": "Reken om: 54 km/h in m/s.",
+   "a": "54 / 3,6 = 15 m/s"
+  },
+  {
+   "q": "Welke formule geldt voor de snelheid bij een constante snelheid?",
+   "a": "v = s / t"
+  },
+  {
+   "q": "Een fietser rijdt met 5,0 m/s. Hoe ver komt hij in 12 s?",
+   "a": "s = v × t = 5,0 × 12 = 60 m"
+  },
+  {
+   "q": "Een hardloper rent 150 m met een snelheid van 6,0 m/s. Hoe lang doet hij erover?",
+   "a": "t = s / v = 150 / 6,0 = 25 s"
+  },
+  {
+   "q": "Een wandelaar legt 3,0 km af in 20 minuten. Wat is zijn gemiddelde snelheid in km/h?",
+   "a": "20 min = 1/3 h; v = 3,0 / (1/3) = 9,0 km/h"
+  },
+  {
+   "q": "Een auto rijdt 60 km in 1,0 uur en daarna 100 km in 1,0 uur. Wat is de gemiddelde snelheid?",
+   "a": "(60 + 100) km / 2,0 h = 80 km/h"
+  },
+  {
+   "q": "Wat zie je in een (s,t)-diagram bij een horizontale lijn?",
+   "a": "Het voorwerp staat stil"
+  },
+  {
+   "q": "Wat betekent een rechte, schuin omhoog lopende lijn in een (s,t)-diagram?",
+   "a": "Constante snelheid"
+  },
+  {
+   "q": "Wat betekent een horizontale lijn in een (v,t)-diagram?",
+   "a": "Constante snelheid"
+  },
+  {
+   "q": "Wat betekent een rechte, schuin omhoog lopende lijn in een (v,t)-diagram?",
+   "a": "Constante versnelling"
+  },
+  {
+   "q": "Hoe bepaal je in een (v,t)-diagram de afgelegde afstand?",
+   "a": "Met de oppervlakte onder de grafiek"
+  },
+  {
+   "q": "In een (v,t)-diagram is de snelheid 6,0 s lang constant 10 m/s. Hoe ver komt het voorwerp?",
+   "a": "oppervlakte = 10 × 6,0 = 60 m"
+  },
+  {
+   "q": "Wat is de SI-eenheid van versnelling?",
+   "a": "m/s<sup>2</sup>"
+  },
+  {
+   "q": "Een auto trekt op van 0 tot 20 m/s in 8,0 s. Hoe groot is de gemiddelde versnelling?",
+   "a": "a = Δv / t = 20 / 8,0 = 2,5 m/s<sup>2</sup>"
+  },
+  {
+   "q": "Een auto remt in 5,0 s af van 25 m/s tot stilstand. Hoe groot is de vertraging?",
+   "a": "a = Δv / t = 25 / 5,0 = 5,0 m/s<sup>2</sup>"
+  },
+  {
+   "q": "Een auto van 1200 kg versnelt met 2,0 m/s<sup>2</sup>. Hoe groot is de resulterende kracht?",
+   "a": "F = m × a = 1200 × 2,0 = 2,4 × 10<sup>3</sup> N"
+  },
+  {
+   "q": "Een resulterende kracht van 300 N geeft een voorwerp een versnelling van 1,5 m/s<sup>2</sup>. Wat is de massa?",
+   "a": "m = F / a = 300 / 1,5 = 200 kg"
+  },
+  {
+   "q": "Een resulterende kracht van 50 N werkt op een kar van 10 kg. Hoe groot is de versnelling?",
+   "a": "a = F / m = 50 / 10 = 5,0 m/s<sup>2</sup>"
+  },
+  {
+   "q": "Wat gebeurt er met een voorwerp als de resulterende kracht 0 N is?",
+   "a": "Het blijft in rust of beweegt met constante snelheid"
+  },
+  {
+   "q": "De motorkracht van een auto is 500 N en de wrijvingskracht is ook 500 N. Wat voor beweging maakt de auto?",
+   "a": "Beweging met constante snelheid"
+  },
+  {
+   "q": "De motorkracht is 800 N en de wrijvingskracht is 300 N. Wat is de resulterende kracht?",
+   "a": "F<sub>res</sub> = 800 − 300 = 500 N in de rijrichting; de auto versnelt"
+  },
+  {
+   "q": "Wat zegt de derde wet van Newton (actie en reactie)?",
+   "a": "Twee voorwerpen oefenen even grote, tegengestelde krachten op elkaar uit"
+  },
+  {
+   "q": "Je duwt met een kracht van 40 N een kist 5,0 m vooruit. Hoeveel arbeid verricht je? (W = F × s)",
+   "a": "W = F × s = 40 × 5,0 = 200 J"
+  },
+  {
+   "q": "Bij het optillen van een voorwerp over 6,0 m is 300 J arbeid verricht. Hoe groot is de kracht?",
+   "a": "F = W / s = 300 / 6,0 = 50 N"
+  },
+  {
+   "q": "Een automobilist rijdt 20 m/s en heeft 0,75 s reactietijd. Hoe groot is de reactieafstand?",
+   "a": "s = v × t = 20 × 0,75 = 15 m"
+  },
+  {
+   "q": "De reactieafstand is 14 m en de remweg is 26 m. Hoe groot is de stopafstand?",
+   "a": "stopafstand = reactieafstand + remweg = 14 + 26 = 40 m"
+  },
+  {
+   "q": "Een auto rijdt twee keer zo hard. Wat gebeurt er met de remweg?",
+   "a": "De remweg wordt ongeveer 4 keer zo groot"
+  },
+  {
+   "q": "Een steen valt zonder luchtweerstand. De valversnelling is 9,8 m/s<sup>2</sup>. Hoe groot is de snelheid na 2,0 s?",
+   "a": "v = g × t = 9,8 × 2,0 = 19,6 ≈ 20 m/s"
+  },
+  {
+   "q": "Een parachutist daalt met constante snelheid. Welke uitspraak is juist?",
+   "a": "De zwaartekracht is even groot als de luchtweerstand"
+  },
+  {
+   "q": "Waarom schuif je naar voren als een auto plotseling remt?",
+   "a": "Door de traagheid blijf je met dezelfde snelheid doorbewegen"
+  },
+  {
+   "q": "Waarom verkleint een kreukelzone de kracht op de inzittenden bij een botsing?",
+   "a": "De auto remt over een langere tijd af, dus de vertraging is kleiner"
+  },
+  {
+   "q": "Uit welke twee delen bestaat de stopafstand?",
+   "a": "Reactieafstand + remweg"
+  },
+  {
+   "q": "Hoe bepaal je de snelheid uit een (s,t)-diagram?",
+   "a": "Met de helling van de lijn: v = Δs / Δt"
+  }
+ ]
+}

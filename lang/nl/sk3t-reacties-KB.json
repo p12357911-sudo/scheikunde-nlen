@@ -1,0 +1,153 @@
+{
+ "title": "Reacties - 123 school",
+ "heading": "Reacties",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat gebeurt er bij een chemische reactie?",
+   "a": "Beginstoffen verdwijnen en er ontstaan nieuwe stoffen met andere eigenschappen"
+  },
+  {
+   "q": "Noem twee dingen die laten zien dat er een chemische reactie is gebeurd",
+   "a": "Bijvoorbeeld: een gas ontstaat, een neerslag ontstaat, de kleur verandert, het wordt warm of koud, er komt licht vrij"
+  },
+  {
+   "q": "Is het smelten van ijs een chemische reactie?",
+   "a": "Nee, het is een faseovergang. Het blijven watermoleculen"
+  },
+  {
+   "q": "Wat gebeurt er met de atomen tijdens een chemische reactie?",
+   "a": "Ze worden anders gerangschikt. Er komen geen atomen bij en er gaan geen atomen weg"
+  },
+  {
+   "q": "Wat staat links van de pijl in een reactieschema?",
+   "a": "De beginstoffen"
+  },
+  {
+   "q": "Wat staat rechts van de pijl in een reactieschema?",
+   "a": "De reactieproducten"
+  },
+  {
+   "q": "Je ziet dat er een gas ontsnapt tijdens een reactie. Is dat een waarneming of een conclusie?",
+   "a": "Een waarneming: je ziet het. Dat er een nieuwe stof is ontstaan, is een conclusie."
+  },
+  {
+   "q": "Geef het reactieschema in woorden van het ontleden van water, met toestandsaanduidingen",
+   "a": "water (l) → waterstof (g) + zuurstof (g)"
+  },
+  {
+   "q": "Geef het reactieschema in woorden van natrium dat reageert met water (er ontstaan natronloog en waterstof)",
+   "a": "natrium (s) + water (l) → natronloog (aq) + waterstof (g)"
+  },
+  {
+   "q": "Wat is een ontledingsreactie?",
+   "a": "Een reactie waarbij één beginstof wordt gesplitst in meerdere reactieproducten"
+  },
+  {
+   "q": "Wat is een synthesereactie?",
+   "a": "Een reactie waarbij uit twee of meer stoffen één nieuwe stof wordt gemaakt"
+  },
+  {
+   "q": "Hoe heet ontleden met behulp van elektrische stroom?",
+   "a": "Elektrolyse"
+  },
+  {
+   "q": "Hoe heet ontleden met behulp van warmte?",
+   "a": "Thermolyse"
+  },
+  {
+   "q": "Hoe heet ontleden met behulp van licht?",
+   "a": "Fotolyse"
+  },
+  {
+   "q": "Welke van deze stoffen kun je niet ontleden: zuurstof, water, koolstofdioxide of glucose?",
+   "a": "Zuurstof (O<sub>2</sub>), want het is een element. Elementen kun je niet ontleden."
+  },
+  {
+   "q": "Noem drie stoffen die je niet kunt ontleden",
+   "a": "Bijvoorbeeld: alle metalen, zuurstof (O<sub>2</sub>), stikstof (N<sub>2</sub>), chloor (Cl<sub>2</sub>), neon"
+  },
+  {
+   "q": "Hoe toon je waterstofgas aan?",
+   "a": "Met een brandende houtspaander: je hoort een knal (ploppend geluid)"
+  },
+  {
+   "q": "Hoe toon je zuurstofgas aan?",
+   "a": "Met een gloeiend houtje: het vlamt op"
+  },
+  {
+   "q": "Hoe toon je koolstofdioxide aan?",
+   "a": "Met een brandende houtspaander: de vlam dooft, of met kalkwater: dat wordt troebel (wit)"
+  },
+  {
+   "q": "Bij de elektrolyse van water ontstaan twee gassen. Welke?",
+   "a": "Waterstof en zuurstof"
+  },
+  {
+   "q": "Waar is dit een voorbeeld van: CaCO<sub>3</sub> wordt verwarmd en ontleedt in CaO en CO<sub>2</sub>?",
+   "a": "Thermolyse"
+  },
+  {
+   "q": "Wat is stap 1 van het stappenplan voor een reactievergelijking?",
+   "a": "Het reactieschema in woorden opschrijven"
+  },
+  {
+   "q": "Wat doe je in stap 3 van het stappenplan?",
+   "a": "De atoombalans opstellen: kloppend maken met coëfficiënten"
+  },
+  {
+   "q": "Wat doe je in stap 4 van het stappenplan?",
+   "a": "De reactievergelijking vereenvoudigen"
+  },
+  {
+   "q": "Wat zet je voor een molecuulformule om de atoombalans kloppend te maken: een index of een coëfficiënt?",
+   "a": "Een coëfficiënt. De index (kleine cijfer) mag je nooit veranderen"
+  },
+  {
+   "q": "Maak kloppend: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (links 4 H en 2 O, rechts 4 H en 2 O)"
+  },
+  {
+   "q": "Maak kloppend: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (links 2 N en 6 H, rechts 2 N en 6 H)"
+  },
+  {
+   "q": "Maak kloppend: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO (links 2 Mg en 2 O, rechts 2 Mg en 2 O)"
+  },
+  {
+   "q": "Maak kloppend: Na + Cl<sub>2</sub> → NaCl",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  },
+  {
+   "q": "Maak kloppend: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub> (links 4 H en 2 O, rechts 4 H en 2 O)"
+  },
+  {
+   "q": "Maak kloppend: C + O<sub>2</sub> → CO",
+   "a": "2 C + O<sub>2</sub> → 2 CO"
+  },
+  {
+   "q": "Klopt deze reactievergelijking? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O",
+   "a": "Ja: links en rechts staan 4 N, 12 H en 10 O"
+  },
+  {
+   "q": "Klopt deze reactievergelijking? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "Nee: links staan 2 O-atomen en rechts 1 O-atoom"
+  },
+  {
+   "q": "Vereenvoudig: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "a": "Deel alle coëfficiënten door 2: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "In een gesloten bak reageren 50 g beginstoffen volledig tot reactieproducten. Hoeveel g reactieproducten ontstaat er?",
+   "a": "50 g, want de massa blijft gelijk (wet van behoud van massa)"
+  },
+  {
+   "q": "Welke van deze reacties is een ontledingsreactie?",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>"
+  }
+ ]
+}

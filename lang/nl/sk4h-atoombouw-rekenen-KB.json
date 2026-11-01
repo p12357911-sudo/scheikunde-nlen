@@ -1,0 +1,133 @@
+{
+ "title": "Chemisch rekenen - 123 school",
+ "heading": "Chemisch rekenen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Welke drie deeltjes vind je in een atoom? Geef ook de afkortingen",
+   "a": "Protonen, neutronen en elektronen; p, n, e<sup>-</sup>"
+  },
+  {
+   "q": "Welke deeltjes geven het atoom voornamelijk het gewicht?",
+   "a": "Protonen en neutronen"
+  },
+  {
+   "q": "Waar wordt het gewicht van atomen in uitgedrukt?",
+   "a": "atomaire units (u)"
+  },
+  {
+   "q": "Waardoor wordt het atoomnummer bepaald?",
+   "a": "door het aantal protonen in de kern"
+  },
+  {
+   "q": "Wat geeft het massagetal weer?",
+   "a": "massagetal = het aantal protonen + het aantal neutronen"
+  },
+  {
+   "q": "Hoe heet het overzicht van alle atomen?",
+   "a": "Het periodiek systeem"
+  },
+  {
+   "q": "Wat is de verhouding tussen p en elektronen, en verklaar waarom.",
+   "a": "Protonen hebben een elementaire lading van 1+, elektronen van -1. In het atoommodel zijn atomen neutraal. Er zijn daarom even veel elektronen als protonen."
+  },
+  {
+   "q": "Noem twee namen van atoommodellen en een verschil tussen beide.",
+   "a": "Atoommodel van Rutherford, waarin elektronen om een kern bewegen in 1 wolk. En dat van Bohr, waarin elektronen in schillen om de kern bewegen."
+  },
+  {
+   "q": "Waar bevinden de 3 atomaire deeltjes zich",
+   "a": "p en n in de kern, elektronen in verschillende schillen relatief ver van de kern"
+  },
+  {
+   "q": "Hoe heten de buitenste elektronen?",
+   "a": "Valentie elektronen"
+  },
+  {
+   "q": "Noem 3 elektronen schillen, hun lokatie tov elkaar en hoeveel elektronen ze kunnen bevatten",
+   "a": "Vanaf de kern gezien zijn de eerste drie schillen: k, l, m; met resp. 2, 8, 18 elektronen."
+  },
+  {
+   "q": "Wat wordt bedoeld met edelgas configuratie?",
+   "a": "De elektronen configuratie waarin de schillen juist maximaal gevuld zijn."
+  },
+  {
+   "q": "Hoeveel valentie elektronen heeft magnesium? (gebruik BINAS tabel 99)",
+   "a": "Magnesium met atoomnummer 12 (Binas tabel 99) met configuratie K = 2 L = 8 en M= 2 en dus 2 elektronen in de buitenste schil zitten, dus 2 valentie elektronen."
+  },
+  {
+   "q": "Wat is nodig voor magnesium om de edelgasconfiguratie te bereiken?",
+   "a": "Twee elektronen uit de M-schil afstaan; er ontstaat Mg<sup>2+</sup>"
+  },
+  {
+   "q": "Wat is de molecuulmassa van zwavelzuur H<sub>2</sub>SO<sub>4</sub>?  (gebruik BINAS tabel 99)",
+   "a": "2 × 1,008 + 32,06 + 4 × 16,00 = 98,08 u (Binas 99)"
+  },
+  {
+   "q": "In welke groep staan de halogenen?",
+   "a": "in groep 17"
+  },
+  {
+   "q": "In welke groep staan de edelgassen?",
+   "a": "in groep 18"
+  },
+  {
+   "q": "Elementen in een groep hebben vergelijkbare…",
+   "a": "chemische eigenschappen"
+  },
+  {
+   "q": "Hoe kan Natrium een edelgasconfiguratie bereiken?",
+   "a": "Door zijn ene valentie elektron af te staan er ontstaat Na<sup>+</sup>."
+  },
+  {
+   "q": "Hoe kan fluor (F) een edelgasconfiguratie bereiken?",
+   "a": "F atoomnummer 9: met K; 2 en L: 7 elektronen. Door een elektron op te nemen krijgt F de edelgasconfiguratie en ontstaat F<sup>-</sup>"
+  },
+  {
+   "q": "Leg uit wat isotopen zijn.",
+   "a": "Isotopen zijn atomen met hetzelfde atoomnummer, maar met een verschillend massagetal. Ze hebben hetzelfde aantal protonen, en een verschillend aantal neutronen."
+  },
+  {
+   "q": "Het massagetal in het periodiek systeem is bijna nergens een rond getal. Leg uit wat isotopen daarmee te maken hebben.",
+   "a": "Het massagetal in het periodiek systeem is het gewogen gemiddelde van verschillende isotopen die voorkomen in de natuur."
+  },
+  {
+   "q": "De relatieve atoommassa van chloor is 35,45 u en natuurlijke isotopen zijn: Cl-35 en Cl-37. Leg uit welk isotoop het meest in de natuur voorkomt.",
+   "a": "35,45 u ligt dichter bij 35 u dan bij 37 u. Dus Cl-35 zal wel vaker voorkomen dan Cl-37. Check: Binas tabel 25A: 75,78% Cl-35, en 24,22% is Cl-37."
+  },
+  {
+   "q": "Binas 25A: welke isotopen van broom kom voor in de natuur?",
+   "a": "Br-79 en Br-81"
+  },
+  {
+   "q": "Geef de atomaire samenstelling van beide isotopen van broom.",
+   "a": "Br-79: Br heeft atoomnummer 35; dus 35 protonen. Het aantal neutronen is 79 − 35 = 44. Er zijn 35 elektronen verdeeld over vier schillen: 2, 8, 18, 7 Br-81: heeft ook 35 protonen, maar  (81 − 35 =) 46 neutronen, en 35 elektronen ook verdeeld over vier schillen: 2, 8, 18, 7."
+  },
+  {
+   "q": "Hoeveel waterstofatomen zitten er in 3,5 mol water",
+   "a": "In 1 mol water zit 2 mol H-atomen, dus in  3,5 mol water  2x3,5 = 7,0 mol H-atomen"
+  },
+  {
+   "q": "C<sub>2</sub>H<sub>6</sub> (g) en zuurstof gas reageren tot koolstofdioxide en water. Stel de reactievergelijking op met het stappenplan.",
+   "a": "Stap 1 (reactieschema in woorden): ethaan (g) + zuurstof (g) -> koolstofdioxide (g) + water (l). Stap 2 (reactieschema in molecuulformules): C<sub>2</sub>H<sub>6</sub> (g) + O<sub>2</sub> (g) -> CO<sub>2</sub> (g) + H<sub>2</sub>O (l). Stap 3 (atoombalans - kloppend maken): C<sub>2</sub>H<sub>6</sub> (g) + 3½O<sub>2</sub> (g) -> 2CO<sub>2</sub> (g) + 3H<sub>2</sub>O (l). Stap 4 (reactievergelijking vereenvoudigen): 2C<sub>2</sub>H<sub>6</sub> (g) + 7O<sub>2</sub> (g) -> 4CO<sub>2</sub> (g) + 6H<sub>2</sub>O (l)."
+  },
+  {
+   "q": "In welke molverhouding verbrandt ethaan in bovenstaande reactie?",
+   "a": "2 : 7  : 4 :  6 mol"
+  },
+  {
+   "q": "In een reactor laat je 2 mol ethaan reageren met 14 mol zuurstof heb je dan een overmaat of ondermaat zuurstof?",
+   "a": "Overmaat (2x te veel)"
+  },
+  {
+   "q": "Geef de wetenschappelijke notatie van 0,0023 mol",
+   "a": "2,3 ∙ 10<sup>-3</sup> mol"
+  },
+  {
+   "q": "1L is … m<sup>3</sup>",
+   "a": "0,001 m<sup>3</sup>"
+  }
+ ]
+}

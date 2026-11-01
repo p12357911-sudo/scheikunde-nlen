@@ -1,0 +1,349 @@
+{
+ "title": "Straling - 123 school",
+ "heading": "Straling",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "question": "Welke drie soorten straling komen vrij bij radioactief verval?",
+   "answers": {
+    "a": "Bètastraling, radiostraling en gammastraling",
+    "b": "Alfastraling, bètastraling en gammastraling",
+    "c": "Alfastraling, rode straling en blauwe straling",
+    "d": "Alfastraling, infraroodstraling en röntgenstraling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waaruit bestaat een alfadeeltje?",
+   "answers": {
+    "a": "Elektromagnetische golven",
+    "b": "Twee protonen en twee neutronen (een heliumkern)",
+    "c": "Eén proton",
+    "d": "Eén elektron"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waaruit bestaat een bètadeeltje (bèta-min)?",
+   "answers": {
+    "a": "Een heliumkern",
+    "b": "Een foton",
+    "c": "Een snel elektron",
+    "d": "Een neutron"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is gammastraling?",
+   "answers": {
+    "a": "Een stroom elektronen",
+    "b": "Elektromagnetische straling met veel energie",
+    "c": "Een stroom neutronen",
+    "d": "Een stroom heliumkernen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Door welk materiaal wordt alfastraling al tegengehouden?",
+   "answers": {
+    "a": "Een dikke loden plaat",
+    "b": "Een vel papier",
+    "c": "Een betonnen muur",
+    "d": "Alleen door een meter water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk materiaal houdt bètastraling tegen?",
+   "answers": {
+    "a": "Een vel papier",
+    "b": "Een dun aluminiumplaatje",
+    "c": "Geen enkel materiaal",
+    "d": "Een laagje lucht van enkele cm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk materiaal is geschikt om gammastraling af te schermen?",
+   "answers": {
+    "a": "Een vel papier",
+    "b": "Een dun plastic zakje",
+    "c": "Een laagje verf",
+    "d": "Dik lood of beton"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke soort straling is het meest doordringend?",
+   "answers": {
+    "a": "Gammastraling",
+    "b": "Ze zijn even doordringend",
+    "c": "Alfastraling",
+    "d": "Bètastraling"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke soort straling heeft de grootste ioniserende werking?",
+   "answers": {
+    "a": "Alfastraling",
+    "b": "Bètastraling",
+    "c": "Radiogolven",
+    "d": "Gammastraling"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent ioniserende straling?",
+   "answers": {
+    "a": "Straling die alleen warmte geeft",
+    "b": "Straling die alleen metalen verwarmt",
+    "c": "Straling die geluid veroorzaakt",
+    "d": "Straling die elektronen uit atomen of moleculen kan losmaken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke straling is ioniserend?",
+   "answers": {
+    "a": "Radiogolven",
+    "b": "Röntgenstraling",
+    "c": "Microgolven",
+    "d": "Zichtbaar licht"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke straling heeft de meeste energie?",
+   "answers": {
+    "a": "Gammastraling",
+    "b": "Radiogolven",
+    "c": "Infraroodstraling",
+    "d": "Zichtbaar licht"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de eenheid van activiteit (aantal vervallen per seconde)?",
+   "answers": {
+    "a": "Joule (J)",
+    "b": "Watt (W)",
+    "c": "Sievert (Sv)",
+    "d": "Becquerel (Bq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de eenheid van de stralingsdosis in het lichaam (een maat voor de schade door straling)?",
+   "answers": {
+    "a": "Hertz (Hz)",
+    "b": "Sievert (Sv)",
+    "c": "Becquerel (Bq)",
+    "d": "Newton (N)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een radioactieve bron heeft een activiteit van 500 Bq. Hoeveel atoomkernen vervallen er per seconde?",
+   "answers": {
+    "a": "30 000",
+    "b": "500",
+    "c": "0,50",
+    "d": "5,0"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de halveringstijd?",
+   "answers": {
+    "a": "De tijd waarin de activiteit verdubbelt",
+    "b": "De tijd waarin alle kernen zijn vervallen",
+    "c": "De tijd waarin de straling stopt met doordringen",
+    "d": "De tijd waarin de helft van de radioactieve kernen is vervallen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Van een radioactieve stof is 80 g aanwezig. De halveringstijd is 4,0 dagen. Hoeveel gram is er na 12 dagen nog over?",
+   "answers": {
+    "a": "10 g",
+    "b": "40 g",
+    "c": "27 g",
+    "d": "20 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een bron heeft een activiteit van 100 Bq. Hoe groot is de activiteit na 3 halveringstijden?",
+   "answers": {
+    "a": "50 Bq",
+    "b": "12,5 Bq",
+    "c": "33 Bq",
+    "d": "25 Bq"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Koolstof-14 heeft een halveringstijd van 5730 jaar. Hoeveel procent van een hoeveelheid C-14 is er na 11 460 jaar nog over?",
+   "answers": {
+    "a": "12,5%",
+    "b": "50%",
+    "c": "75%",
+    "d": "25%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Van een stof is nog 1/8 deel over. Hoeveel halveringstijden zijn verstreken?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "8",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Radium-226 (atoomnummer 88) vervalt onder uitzending van een alfadeeltje. Welk atoomnummer heeft de dochterkern?",
+   "answers": {
+    "a": "86",
+    "b": "88",
+    "c": "84",
+    "d": "87"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Radium-226 (atoomnummer 88) vervalt onder uitzending van een alfadeeltje. Welk massagetal heeft de dochterkern?",
+   "answers": {
+    "a": "222",
+    "b": "224",
+    "c": "230",
+    "d": "226"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Koolstof-14 (atoomnummer 6) vervalt via bèta-min verval tot stikstof (atoomnummer 7). Wat gebeurt er met het massagetal?",
+   "answers": {
+    "a": "Het wordt 13",
+    "b": "Het wordt 15",
+    "c": "Het blijft 14",
+    "d": "Het wordt 10"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is achtergrondstraling?",
+   "answers": {
+    "a": "Straling die alleen bij röntgenfoto’s ontstaat",
+    "b": "Straling die altijd om ons heen aanwezig is, bijvoorbeeld uit de bodem en de ruimte",
+    "c": "Straling van mobiele telefoons",
+    "d": "Straling die alleen uit kerncentrales komt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het verschil tussen bestraling en besmetting?",
+   "answers": {
+    "a": "Er is geen verschil",
+    "b": "Bij bestraling word je getroffen door straling van buiten; bij besmetting zit er radioactieve stof op of in je lichaam",
+    "c": "Bij bestraling zit radioactieve stof in je lichaam; bij besmetting word je van buiten getroffen",
+    "d": "Bestraling gebeurt alleen met gammastraling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe verklein je de stralingsbelasting door een radioactieve bron? Noem de drie manieren.",
+   "answers": {
+    "a": "Afstand vergroten, langer blijven, geen afscherming",
+    "b": "Afstand verkleinen, langer blijven, geen afscherming",
+    "c": "Afstand vergroten, kortere tijd, afscherming gebruiken",
+    "d": "Alleen een zonnebril dragen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarmee meet je radioactieve straling?",
+   "answers": {
+    "a": "Met een geigerteller",
+    "b": "Met een krachtmeter",
+    "c": "Met een thermometer",
+    "d": "Met een voltmeter"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor gebruik je röntgenstraling in het ziekenhuis?",
+   "answers": {
+    "a": "Om bloed te verwarmen",
+    "b": "Om geluid op te nemen",
+    "c": "Om medicijnen te maken",
+    "d": "Om foto’s van botten en organen te maken"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is kernafval gevaarlijk voor lange tijd?",
+   "answers": {
+    "a": "Kernafval is heel zwaar",
+    "b": "Kernafval verdwijnt na een dag",
+    "c": "Sommige stoffen hebben een zeer lange halveringstijd en blijven dus lang straling uitzenden",
+    "d": "Kernafval is altijd vloeibaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er bij kernsplijting?",
+   "answers": {
+    "a": "Een zware atoomkern splitst in kleinere kernen en er komt energie vrij",
+    "b": "Er komt geen energie vrij",
+    "c": "Twee lichte kernen smelten samen tot één zwaardere kern",
+    "d": "Een atoom verliest alleen een elektron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke straling gebruikt een magnetron?",
+   "answers": {
+    "a": "Alfastraling",
+    "b": "Microgolven",
+    "c": "Gammastraling",
+    "d": "Röntgenstraling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In een rookmelder zit vaak een kleine bron die alfastraling uitzendt. Waarom is dat niet gevaarlijk zolang de melder heel is?",
+   "answers": {
+    "a": "De bron staat uit",
+    "b": "Alfastraling is altijd onschadelijk",
+    "c": "Alfastraling wordt al door de behuizing en een laagje lucht tegengehouden",
+    "d": "De straling is gammastraling"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom is een alfabron vooral gevaarlijk als de radioactieve stof in je lichaam komt?",
+   "answers": {
+    "a": "Alfastraling is zeer doordringend en gaat dwars door je heen",
+    "b": "Alfastraling ioniseert sterk en wordt volledig in het lichaam opgenomen",
+    "c": "Alfastraling is geen straling",
+    "d": "Alfastraling verwarmt alleen de huid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet de tijd waarin de helft van de kernen vervalt?",
+   "answers": {
+    "a": "Besmettingstijd",
+    "b": "Halveringstijd",
+    "c": "Reactietijd",
+    "d": "Stralingstijd"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

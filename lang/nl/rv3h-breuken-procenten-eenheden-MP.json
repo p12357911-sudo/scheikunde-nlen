@@ -1,0 +1,259 @@
+{
+ "title": "Breuken, procenten en eenheden - 123 school",
+ "heading": "Breuken, procenten en eenheden",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden."
+ ],
+ "questions": [
+  {
+   "question": "Schrijf 11/3 als gemengd getal.",
+   "answers": {
+    "a": "3 2/3",
+    "b": "4 2/3",
+    "c": "3 2/4",
+    "d": "3 3/4"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf 5/8 als decimaal getal.",
+   "answers": {
+    "a": "6,25",
+    "b": "0,625",
+    "c": "0,0625",
+    "d": "1,600"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Schrijf 9/25 als decimaal getal.",
+   "answers": {
+    "a": "0,36",
+    "b": "2,778",
+    "c": "0,036",
+    "d": "3,6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf 0,6 als eenvoudige breuk.",
+   "answers": {
+    "a": "3/50",
+    "b": "1/6",
+    "c": "3/5",
+    "d": "2/5"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Schrijf 3/8 als percentage.",
+   "answers": {
+    "a": "375%",
+    "b": "3,75%",
+    "c": "0,375%",
+    "d": "37,5%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Vereenvoudig (6a)/(9a).",
+   "answers": {
+    "a": "2/3",
+    "b": "2a/3",
+    "c": "3/2",
+    "d": "2/(3a)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke breuk is groter: 5/7 of 7/10?",
+   "answers": {
+    "a": "7/10",
+    "b": "10/7",
+    "c": "5/7",
+    "d": "ze zijn even groot"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is 0,79 g / 1 mL?",
+   "answers": {
+    "a": "1,27 g/mL",
+    "b": "0,79 mL/g",
+    "c": "0,79 g",
+    "d": "0,79 g/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je vermenigvuldigt een dichtheid van 0,79 g/mL met een volume van 50 mL. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "g",
+    "b": "mL",
+    "c": "g/mL",
+    "d": "g·mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent een molaire massa van 18 g/mol?",
+   "answers": {
+    "a": "18 g bevat 18 mol",
+    "b": "18 mol heeft een massa van 1 g",
+    "c": "1 mol heeft een massa van 18 g",
+    "d": "1 g bevat 18 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je deelt een massa in g door een molaire massa in g/mol. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "g",
+    "b": "mol",
+    "c": "g/mol",
+    "d": "mol/g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je deelt een hoeveelheid in mol door een concentratie in mol/L. Welke eenheid heeft het antwoord?",
+   "answers": {
+    "a": "mol",
+    "b": "L",
+    "c": "L/mol",
+    "d": "mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In 0,4 L oplossing zit 0,15 mol opgeloste stof. Bereken de concentratie in mol/L. Rond af op 3 decimalen.",
+   "answers": {
+    "a": "0,375 mol/L",
+    "b": "2,67 mol/L",
+    "c": "0,06 mol/L",
+    "d": "0,375 L/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Schrijf 0,6% als decimaal getal.",
+   "answers": {
+    "a": "0,06",
+    "b": "0,0006",
+    "c": "0,6",
+    "d": "0,006"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Schrijf 0,375 als percentage.",
+   "answers": {
+    "a": "37,5%",
+    "b": "3,75%",
+    "c": "0,375%",
+    "d": "375%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een hoeveelheid van 60 g neemt met 35% toe. Hoeveel gram is het daarna? Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "810 g",
+    "b": "81 g",
+    "c": "39 g",
+    "d": "21 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel is 12,5% van 80 g?",
+   "answers": {
+    "a": "10 g",
+    "b": "100 g",
+    "c": "1,0 g",
+    "d": "12,5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel is 0,5% van 3000 mL?",
+   "answers": {
+    "a": "1500 mL",
+    "b": "15 mL",
+    "c": "1,5 mL",
+    "d": "150 mL"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een mengsel bestaat uit 28 g ijzer en 16 g zwavel. Wat is de massaverhouding ijzer : zwavel?",
+   "answers": {
+    "a": "7 : 4",
+    "b": "5 : 3",
+    "c": "4 : 7",
+    "d": "28 : 16"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Reken 3750 mL om naar L. Rond af op 1 decimaal.",
+   "answers": {
+    "a": "37,5 L",
+    "b": "0,38 L",
+    "c": "3 750 000,0 L",
+    "d": "3,8 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Reken 480 L om naar m<sup>3</sup>. Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "4,8 m<sup>3</sup>",
+    "b": "0,048 m<sup>3</sup>",
+    "c": "480 000 m<sup>3</sup>",
+    "d": "0,48 m<sup>3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Reken 0,25 h om naar s. Je hoeft niet af te ronden.",
+   "answers": {
+    "a": "9000 s",
+    "b": "90 s",
+    "c": "900 s",
+    "d": "0,00 s"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel gram is 1 mg?",
+   "answers": {
+    "a": "0,000001 g",
+    "b": "1000 g",
+    "c": "0,01 g",
+    "d": "0,001 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een snelheid van 36 km/h is in m/s gelijk aan …",
+   "answers": {
+    "a": "10 m/s",
+    "b": "36 m/s",
+    "c": "129,6 m/s",
+    "d": "100 m/s"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Reken 100 km/h om naar m/s. Rond af op 1 decimaal.",
+   "answers": {
+    "a": "360,0 m/s",
+    "b": "27,8 m/s",
+    "c": "100 m/s",
+    "d": "36 m/s"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

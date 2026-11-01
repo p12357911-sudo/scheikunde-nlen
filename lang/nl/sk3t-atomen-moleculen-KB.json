@@ -1,0 +1,150 @@
+{
+ "title": "Atomen en moleculen - 123 school",
+ "heading": "Atomen en moleculen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een atoom?",
+   "a": "Een bouwsteen waaruit moleculen zijn opgebouwd"
+  },
+  {
+   "q": "Wat is een molecuul?",
+   "a": "Een deeltje dat uit twee of meer atomen is opgebouwd. Het molecuul bepaalt de eigenschappen van de stof."
+  },
+  {
+   "q": "Hoe noem je een stof waarvan alle atomen van dezelfde soort zijn?",
+   "a": "Een element (grondstof)"
+  },
+  {
+   "q": "Hoe noem je een stof waarvan de moleculen uit verschillende soorten atomen bestaan?",
+   "a": "Een verbinding"
+  },
+  {
+   "q": "Is water een element of een verbinding?",
+   "a": "Een verbinding: het molecuul bestaat uit twee soorten atomen (waterstof en zuurstof)."
+  },
+  {
+   "q": "Is zuurstofgas (O<sub>2</sub>) een element of een verbinding?",
+   "a": "Een element: het molecuul bestaat uit twee atomen van dezelfde soort."
+  },
+  {
+   "q": "Wat is het symbool van koolstof?",
+   "a": "C"
+  },
+  {
+   "q": "Wat is het symbool van waterstof?",
+   "a": "H"
+  },
+  {
+   "q": "Wat is het symbool van calcium?",
+   "a": "Ca"
+  },
+  {
+   "q": "Wat is het symbool van aluminium?",
+   "a": "Al"
+  },
+  {
+   "q": "Welk element heeft het symbool Br?",
+   "a": "Broom"
+  },
+  {
+   "q": "Wat is het symbool van goud? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "a": "Au"
+  },
+  {
+   "q": "Noem twee halogenen (symbool en naam)",
+   "a": "Bijvoorbeeld: F (fluor), Cl (chloor), Br (broom), I (jood)"
+  },
+  {
+   "q": "Welk gas hoort bij de edelgassen?",
+   "a": "Bijvoorbeeld helium (He), neon (Ne) of argon (Ar)"
+  },
+  {
+   "q": "Wat is de molecuulformule van zuurstofgas?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de molecuulformule van methaan?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de molecuulformule van ammoniak?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "Wat betekent de 2 in H<sub>2</sub>O?",
+   "a": "De 2 is een index: er zijn 2 waterstofatomen in 1 molecuul."
+  },
+  {
+   "q": "Wat betekent de 3 in 3 CO<sub>2</sub>?",
+   "a": "De 3 is een coëfficiënt: er zijn 3 moleculen CO<sub>2</sub>."
+  },
+  {
+   "q": "Hoeveel atomen zitten er in één molecuul H<sub>2</sub>O?",
+   "a": "3 (2 waterstofatomen en 1 zuurstofatoom)"
+  },
+  {
+   "q": "Hoeveel atomen zitten er in één molecuul CO<sub>2</sub>?",
+   "a": "3 (1 koolstofatoom en 2 zuurstofatomen)"
+  },
+  {
+   "q": "Hoeveel zuurstofatomen zijn er in 3 CO<sub>2</sub>?",
+   "a": "3 × 2 = 6 zuurstofatomen"
+  },
+  {
+   "q": "Hoeveel soorten atomen zitten er in C<sub>2</sub>H<sub>6</sub>O?",
+   "a": "3 soorten: koolstof, waterstof en zuurstof"
+  },
+  {
+   "q": "Hoeveel atomen zitten er in een molecuul glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "a": "6 + 12 + 6 = 24 atomen"
+  },
+  {
+   "q": "Een molecuul bestaat uit 1 koolstofatoom en 2 zuurstofatomen. Wat is de molecuulformule?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Een molecuul bestaat uit 2 atomen waterstof en 1 atoom zuurstof. Wat is de molecuulformule?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Wat is de naam van CO? Let op de voorvoegsels.",
+   "a": "Koolstofmono-oxide (mono = 1)"
+  },
+  {
+   "q": "Wat is de naam van SO<sub>2</sub>?",
+   "a": "Zwaveldioxide"
+  },
+  {
+   "q": "Wat is de formule van distikstoftetraoxide?",
+   "a": "N<sub>2</sub>O<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de molecuulmassa van H<sub>2</sub>O? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "a": "2 × 1,0 + 16,0 = 18,0 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van CO<sub>2</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "a": "12,0 + 2 × 16,0 = 44,0 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van NH<sub>3</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "a": "14,0 + 3 × 1,0 = 17,0 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van H<sub>2</sub>SO<sub>4</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "a": "2 × 1,0 + 32,1 + 4 × 16,0 = 98,1 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van Cl<sub>2</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "a": "2 × 35,5 = 71,0 u"
+  },
+  {
+   "q": "Wat is de atoommassa van koolstof? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "a": "Ongeveer 12 u (12,0 u)"
+  }
+ ]
+}

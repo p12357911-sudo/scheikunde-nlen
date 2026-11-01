@@ -1,0 +1,150 @@
+{
+ "title": "Energie - 123 school",
+ "heading": "Energie",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "q": "Welke energiesoort heeft een rijdende fiets?",
+   "a": "Bewegingsenergie"
+  },
+  {
+   "q": "In welke energiesoort is energie opgeslagen in benzine?",
+   "a": "Chemische energie"
+  },
+  {
+   "q": "Welke van deze energiebronnen is een fossiele brandstof?",
+   "a": "Aardgas"
+  },
+  {
+   "q": "Welke van deze energiebronnen is hernieuwbaar (duurzaam)?",
+   "a": "Windenergie"
+  },
+  {
+   "q": "Welke energieomzetting vindt plaats in een zonnecel?",
+   "a": "Stralingsenergie wordt elektrische energie"
+  },
+  {
+   "q": "Welke energieomzetting vindt plaats in een fietsdynamo?",
+   "a": "Bewegingsenergie wordt elektrische energie"
+  },
+  {
+   "q": "Welke energieomzetting vindt plaats in een elektromotor?",
+   "a": "Elektrische energie wordt bewegingsenergie"
+  },
+  {
+   "q": "Noem twee hernieuwbare energiebronnen.",
+   "a": "Bijvoorbeeld zonne-energie, windenergie, waterkracht, biomassa of aardwarmte"
+  },
+  {
+   "q": "Wat zegt de wet van behoud van energie?",
+   "a": "Energie gaat niet verloren, maar wordt omgezet in een andere vorm"
+  },
+  {
+   "q": "Welke formule hoort bij het opwarmen van een stof?",
+   "a": "Q = m × c × ΔT"
+  },
+  {
+   "q": "Je verwarmt 2,0 kg water van 15 °C naar 65 °C. De soortelijke warmte van water is 4,18 × 10<sup>3</sup> J/(kg·K). Hoeveel energie is nodig?",
+   "a": "Q = m × c × ΔT = 2,0 × 4180 × 50 = 4,2 × 10<sup>5</sup> J"
+  },
+  {
+   "q": "Je verwarmt 0,50 kg ijzer 20 K op. De soortelijke warmte van ijzer is 4,5 × 10<sup>2</sup> J/(kg·K). Hoeveel energie is nodig?",
+   "a": "Q = 0,50 × 450 × 20 = 4,5 × 10<sup>3</sup> J"
+  },
+  {
+   "q": "Voor het opwarmen van 0,50 kg van een stof met 6,0 K is 12 600 J nodig. Bereken de soortelijke warmte.",
+   "a": "c = Q / (m × ΔT) = 12 600 / (0,50 × 6,0) = 4,2 × 10<sup>3</sup> J/(kg·K)"
+  },
+  {
+   "q": "Aan 2,0 kg water (c = 4,2 × 10<sup>3</sup> J/(kg·K)) wordt 84 kJ warmte toegevoegd. Hoeveel K stijgt de temperatuur?",
+   "a": "ΔT = Q / (m × c) = 84 000 / (2,0 × 4200) = 10 K"
+  },
+  {
+   "q": "Een waterkoker van 2000 W verwarmt 1,5 kg water van 20 °C naar 100 °C (c = 4,18 × 10<sup>3</sup> J/(kg·K)). Er gaat geen energie verloren. Hoe lang duurt het?",
+   "a": "Q = 1,5 × 4180 × 80 = 5,0 × 10<sup>5</sup> J; t = E / P = 5,0 × 10<sup>5</sup> / 2000 = 2,5 × 10<sup>2</sup> s"
+  },
+  {
+   "q": "Wat is het rendement van een apparaat?",
+   "a": "Nuttige energie gedeeld door totale energie, keer 100%"
+  },
+  {
+   "q": "Een apparaat zet 1200 J om. Daarvan is 360 J nuttig. Wat is het rendement?",
+   "a": "rendement = 360 / 1200 × 100% = 30%"
+  },
+  {
+   "q": "Een gloeilamp van 60 W geeft 3,0 W aan licht. Wat is het rendement?",
+   "a": "rendement = 3,0 / 60 × 100% = 5,0%"
+  },
+  {
+   "q": "Een apparaat heeft een rendement van 40%. De nuttige energie is 200 J. Hoeveel energie ging er in totaal in?",
+   "a": "totaal = 200 / 0,40 = 500 J"
+  },
+  {
+   "q": "Een apparaat met een rendement van 25% krijgt 800 J. Hoeveel is nuttig?",
+   "a": "nuttig = 0,25 × 800 = 200 J"
+  },
+  {
+   "q": "Een cv-ketel krijgt 64 MJ aan energie uit aardgas. Het rendement is 90%. Hoeveel energie wordt nuttig gebruikt?",
+   "a": "0,90 × 64 = 57,6, dus 58 MJ"
+  },
+  {
+   "q": "Een kachel van 1,5 kW staat 2,0 uur aan. Dat is 3,0 kWh. Hoeveel MJ is dat? (1 kWh = 3,6 MJ)",
+   "a": "3,0 × 3,6 = 10,8, dus 11 MJ"
+  },
+  {
+   "q": "Op welke manier wordt warmte door een metalen pan getransporteerd?",
+   "a": "Door geleiding"
+  },
+  {
+   "q": "Op welke manier komt warmte van de zon op aarde?",
+   "a": "Door straling"
+  },
+  {
+   "q": "Op welke manier verspreidt warme lucht zich door een kamer?",
+   "a": "Door stroming"
+  },
+  {
+   "q": "Welk materiaal is een goede warmte-isolator?",
+   "a": "Piepschuim"
+  },
+  {
+   "q": "Waarom isoleert dubbel glas beter dan enkel glas?",
+   "a": "Het gas tussen de ruiten geleidt warmte slecht"
+  },
+  {
+   "q": "Waarom zitten de handvatten van pannen vaak van kunststof?",
+   "a": "Kunststof geleidt warmte slecht"
+  },
+  {
+   "q": "Wat is de eenheid van soortelijke warmte?",
+   "a": "J/(kg·K)"
+  },
+  {
+   "q": "Wat gebeurt er met energie die door wrijving \"verloren\" lijkt te gaan?",
+   "a": "Die wordt omgezet in warmte"
+  },
+  {
+   "q": "Welke stof wordt als brandstof gebruikt in een kerncentrale?",
+   "a": "Uranium"
+  },
+  {
+   "q": "Voor de zwaarte-energie geldt: E<sub>z</sub> = m × g × h. Hierbij is g = 9,8 N/kg. Bereken de zwaarte-energie van 2,0 kg op 5,0 m hoogte.",
+   "a": "E<sub>z</sub> = 2,0 × 9,8 × 5,0 = 98 J"
+  },
+  {
+   "q": "Voor de bewegingsenergie geldt: E<sub>k</sub> = ½ × m × v<sup>2</sup>. Bereken de bewegingsenergie van een auto van 1000 kg die 10 m/s rijdt.",
+   "a": "E<sub>k</sub> = ½ × 1000 × 10<sup>2</sup> = 5,0 × 10<sup>4</sup> J"
+  },
+  {
+   "q": "Noem de drie manieren van warmtetransport.",
+   "a": "Geleiding, stroming en straling"
+  },
+  {
+   "q": "Een ledlamp van 8,0 W en een gloeilamp van 40 W geven evenveel licht. Hoeveel keer zoveel energie gebruikt de gloeilamp in dezelfde tijd?",
+   "a": "40 / 8,0 = 5,0 keer"
+  }
+ ]
+}

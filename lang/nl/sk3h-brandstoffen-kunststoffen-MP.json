@@ -1,0 +1,349 @@
+{
+ "title": "Brandstoffen en kunststoffen - 123 school",
+ "heading": "Brandstoffen en kunststoffen",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag."
+ ],
+ "questions": [
+  {
+   "question": "Welke drie stoffen zijn fossiele brandstoffen?",
+   "answers": {
+    "a": "Aardolie, hout en waterstof",
+    "b": "Aardolie, aardgas en steenkool",
+    "c": "Aardgas, bio-ethanol en steenkool",
+    "d": "Steenkool, biodiesel en zonne-energie"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom heten aardolie, aardgas en steenkool niet-hernieuwbare brandstoffen?",
+   "answers": {
+    "a": "Ze zijn altijd giftig",
+    "b": "Ze kunnen niet branden",
+    "c": "Ze zijn in miljoenen jaren ontstaan en raken op",
+    "d": "Ze komen alleen in Nederland voor"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke brandstof is hernieuwbaar?",
+   "answers": {
+    "a": "Benzine",
+    "b": "Biodiesel",
+    "c": "Aardgas",
+    "d": "Steenkool"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe scheid je aardolie in verschillende fracties?",
+   "answers": {
+    "a": "Door extractie met zout",
+    "b": "Door destillatie, op grond van verschil in kookpunt",
+    "c": "Door indampen van het water",
+    "d": "Door filtreren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fractie van aardolie heeft het laagste kookpunt?",
+   "answers": {
+    "a": "Smeerolie",
+    "b": "Gas (lichte stoffen)",
+    "c": "Stookolie",
+    "d": "Bitumen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fractie van aardolie heeft het hoogste kookpunt en blijft onderin de destillatietoren over?",
+   "answers": {
+    "a": "Benzine",
+    "b": "Bitumen",
+    "c": "Kerosine",
+    "d": "Gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waaruit bestaat een koolwaterstof?",
+   "answers": {
+    "a": "Alleen uit koolstof- en waterstofatomen",
+    "b": "Uit koolstof, waterstof en zuurstof",
+    "c": "Alleen uit koolstof- en zuurstofatomen",
+    "d": "Uit water en koolstofdioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molecuulformule van methaan?",
+   "answers": {
+    "a": "CH<sub>3</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "C<sub>4</sub>H<sub>10</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van propaan?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>6</sub>",
+    "b": "C<sub>3</sub>H<sub>4</sub>",
+    "c": "C<sub>2</sub>H<sub>6</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molecuulformule van butaan?",
+   "answers": {
+    "a": "C<sub>5</sub>H<sub>12</sub>",
+    "b": "C<sub>4</sub>H<sub>8</sub>",
+    "c": "C<sub>4</sub>H<sub>10</sub>",
+    "d": "C<sub>4</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel waterstofatomen heeft een alkaan met 5 koolstofatomen? Een alkaan heeft de formule CnH<sub>2</sub>n+2.",
+   "answers": {
+    "a": "14",
+    "b": "10",
+    "c": "12",
+    "d": "11"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke naam hoort bij C<sub>2</sub>H<sub>6</sub>?",
+   "answers": {
+    "a": "Etheen",
+    "b": "Ethaan",
+    "c": "Propaan",
+    "d": "Methaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stoffen ontstaan er bij volledige verbranding van een koolwaterstof?",
+   "answers": {
+    "a": "Waterstof en zuurstof",
+    "b": "Koolstofmono-oxide en roet",
+    "c": "Koolstofdioxide en water",
+    "d": "Alleen koolstofdioxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stoffen kunnen ontstaan bij onvolledige verbranding van een koolwaterstof?",
+   "answers": {
+    "a": "Koolstofmono-oxide, roet en water",
+    "b": "Zwaveldioxide en stikstof",
+    "c": "Alleen waterstof",
+    "d": "Alleen koolstofdioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom is onvolledige verbranding gevaarlijk?",
+   "answers": {
+    "a": "Er ontstaat zuivere zuurstof",
+    "b": "Er ontstaat te veel water",
+    "c": "Er komt geen warmte vrij",
+    "d": "Er ontstaat giftig koolstofmono-oxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe ontstaat onvolledige verbranding?",
+   "answers": {
+    "a": "Er is te weinig zuurstof",
+    "b": "Er is te veel stikstof",
+    "c": "Er is te veel zuurstof",
+    "d": "De brandstof is nat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke reactievergelijking is de volledige verbranding van methaan?",
+   "answers": {
+    "a": "CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO + 2 H<sub>2</sub>O",
+    "c": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "d": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk getal moet vóór O<sub>2</sub> staan? C<sub>3</sub>H<sub>8</sub> + … O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O",
+   "answers": {
+    "a": "7",
+    "b": "3",
+    "c": "5",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke reactievergelijking is de volledige verbranding van butaan?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "b": "C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O",
+    "c": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O",
+    "d": "2 C<sub>4</sub>H<sub>10</sub> + 9 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk gas is vooral verantwoordelijk voor het versterkte broeikaseffect?",
+   "answers": {
+    "a": "Koolstofdioxide",
+    "b": "Stikstof",
+    "c": "Argon",
+    "d": "Zuurstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke twee stoffen veroorzaken zure regen?",
+   "answers": {
+    "a": "Koolstofdioxide en waterstof",
+    "b": "Methaan en ethaan",
+    "c": "Zuurstof en stikstof",
+    "d": "Zwaveldioxide en stikstofoxiden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat zijn de drie voorwaarden voor verbranding (brandstofdriehoek)?",
+   "answers": {
+    "a": "Brandstof, zuurstof en voldoende hoge temperatuur",
+    "b": "Zuurstof, stikstof en een vonk",
+    "c": "Brandstof, water en wind",
+    "d": "Brandstof, koolstofdioxide en warmte"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je dooft een brandende pan met een deksel. Welke voorwaarde haal je weg?",
+   "answers": {
+    "a": "Brandstof",
+    "b": "De temperatuur",
+    "c": "Zuurstof",
+    "d": "De waterstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is verbranden een exotherme of een endotherme reactie?",
+   "answers": {
+    "a": "Endotherm: er is warmte nodig",
+    "b": "Alleen endotherm bij hoge temperatuur",
+    "c": "Exotherm: er komt warmte vrij",
+    "d": "Er is geen warmte-effect"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat ontstaat er bij de verbranding van waterstof?",
+   "answers": {
+    "a": "Water",
+    "b": "Koolstofdioxide",
+    "c": "Roet",
+    "d": "Koolstofmono-oxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke reactievergelijking is de verbranding van waterstof?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een polymeer?",
+   "answers": {
+    "a": "Een stof met zeer kleine losse atomen",
+    "b": "Een zout dat goed oplost",
+    "c": "Een mengsel van water en olie",
+    "d": "Een stof met zeer lange ketenmoleculen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een monomeer?",
+   "answers": {
+    "a": "Een mengsel van polymeren",
+    "b": "Het kleine molecuul waaruit een polymeer wordt opgebouwd",
+    "c": "Een molecuul van één atoom",
+    "d": "Het eindproduct van een polymeer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Uit welk monomeer wordt polyetheen gemaakt?",
+   "answers": {
+    "a": "Ethaan",
+    "b": "Etheen",
+    "c": "Ethanol",
+    "d": "Methaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een thermoplast?",
+   "answers": {
+    "a": "Een kunststof die niet in water zinkt",
+    "b": "Een kunststof die zacht wordt bij verhitten en daarna opnieuw te vormen is",
+    "c": "Een kunststof die bij verhitten hard blijft en verbrandt",
+    "d": "Een kunststof die altijd rekbaar is"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een thermoharder?",
+   "answers": {
+    "a": "Een kunststof die na het harden niet meer opnieuw te vormen is",
+    "b": "Een kunststof die zacht wordt bij verhitten",
+    "c": "Een kunststof die steeds opnieuw te vormen is",
+    "d": "Een kunststof die uit natuurlijke stoffen bestaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kunststof is een elastomeer?",
+   "answers": {
+    "a": "Hout",
+    "b": "Rubber",
+    "c": "Glas",
+    "d": "Metaal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom is het slecht voor het milieu om kunststof weg te gooien in de natuur?",
+   "answers": {
+    "a": "Het lost meteen op in water",
+    "b": "Het wordt omgezet in zuurstof",
+    "c": "Het wordt door bacteriën snel opgegeten",
+    "d": "Het wordt nauwelijks afgebroken en blijft heel lang bestaan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe heet het hergebruiken van kunststof tot nieuwe producten?",
+   "answers": {
+    "a": "Neutralisatie",
+    "b": "Destillatie",
+    "c": "Recycling",
+    "d": "Verbranding"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "title": "Voeding en verzorging - 123 school",
+ "heading": "Voeding en verzorging",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag."
+ ],
+ "questions": [
+  {
+   "question": "Welke drie hoofdgroepen voedingsstoffen leveren energie?",
+   "answers": {
+    "a": "Koolhydraten, vetten en eiwitten",
+    "b": "Vitamines, mineralen en water",
+    "c": "Vitamines, vetten en water",
+    "d": "Mineralen, eiwitten en vezels"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke voedingsstof wordt vooral gebruikt als bouwstof voor spieren?",
+   "answers": {
+    "a": "Koolhydraten",
+    "b": "Vezels",
+    "c": "Water",
+    "d": "Eiwitten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke voedingsstof is de belangrijkste energiebron voor het lichaam op korte termijn?",
+   "answers": {
+    "a": "Koolhydraten",
+    "b": "Vitamines",
+    "c": "Mineralen",
+    "d": "Eiwitten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Uit welke stoffen bestaat een vet?",
+   "answers": {
+    "a": "Glycerol en vetzuren",
+    "b": "Glucose en water",
+    "c": "Aminozuren",
+    "d": "Zetmeel en vezels"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke voedingsstof levert per gram de meeste energie?",
+   "answers": {
+    "a": "Water",
+    "b": "Vet",
+    "c": "Koolhydraten",
+    "d": "Eiwitten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waaruit bestaan eiwitten?",
+   "answers": {
+    "a": "Uit vetzuren",
+    "b": "Uit mineralen",
+    "c": "Uit aminozuren",
+    "d": "Uit glucose"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waaruit bestaat zetmeel?",
+   "answers": {
+    "a": "Uit vetzuren",
+    "b": "Uit lange ketens van glucose",
+    "c": "Uit aminozuren",
+    "d": "Uit ionen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een voedingsmiddel bevat 20 g vet. Vet levert 38 kJ per gram. Hoeveel energie levert het vet?",
+   "answers": {
+    "a": "760 kJ",
+    "b": "190 kJ",
+    "c": "58 kJ",
+    "d": "7600 kJ"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een product bevat 50 g koolhydraten. Koolhydraten leveren 17 kJ per gram. Hoeveel energie is dat?",
+   "answers": {
+    "a": "850 kJ",
+    "b": "8500 kJ",
+    "c": "67 kJ",
+    "d": "294 kJ"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een product bevat 10 g vet (38 kJ per gram), 30 g koolhydraten (17 kJ per gram) en 5 g eiwit (17 kJ per gram). Hoeveel energie levert dit product?",
+   "answers": {
+    "a": "765 kJ",
+    "b": "1710 kJ",
+    "c": "890 kJ",
+    "d": "975 kJ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarmee toon je zetmeel aan?",
+   "answers": {
+    "a": "Met jodiumoplossing: blauwzwart",
+    "b": "Met Fehling: rode neerslag",
+    "c": "Met kalkwater: troebel",
+    "d": "Met lakmoes: rood"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarmee toon je glucose aan?",
+   "answers": {
+    "a": "Met kalkwater: troebel",
+    "b": "Met jodium: blauwzwart",
+    "c": "Met Fehling of Benedict en verwarmen: rode neerslag",
+    "d": "Met een gloeiende houtspaander"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe toon je eiwit aan met de biureettest?",
+   "answers": {
+    "a": "Met natronloog en kopersulfaat: paarse kleur",
+    "b": "Met jodium: blauwzwart",
+    "c": "Met kalkwater: wit",
+    "d": "Met Fehling: rood"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe toon je vet aan?",
+   "answers": {
+    "a": "Een vetvlek op papier: het papier wordt doorschijnend",
+    "b": "Met lakmoes: rood",
+    "c": "Met kalkwater: troebel",
+    "d": "Met jodium: blauwzwart"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor heeft je lichaam mineralen zoals calcium nodig?",
+   "answers": {
+    "a": "Voor sterke botten en tanden",
+    "b": "Voor het oplossen van vet",
+    "c": "Voor het opslaan van warmte",
+    "d": "Voor het leveren van energie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een belangrijke functie van vitamines?",
+   "answers": {
+    "a": "Ze zijn de belangrijkste bouwstof",
+    "b": "Ze maken water zuur",
+    "c": "Ze leveren veel energie",
+    "d": "Ze helpen het lichaam goed te laten werken, in kleine hoeveelheden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof is een voorbeeld van een conserveermiddel in voeding?",
+   "answers": {
+    "a": "Glucose",
+    "b": "Zuurstof",
+    "c": "Water",
+    "d": "Zout"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom conserveer je voedsel?",
+   "answers": {
+    "a": "Om te voorkomen dat bacteriën en schimmels het bederven",
+    "b": "Om het sneller te laten smelten",
+    "c": "Om het energierijker te maken",
+    "d": "Om het zwaarder te maken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke methode gebruikt geen chemische toevoeging om voedsel te bewaren?",
+   "answers": {
+    "a": "Pekelen",
+    "b": "Conserveermiddel toevoegen",
+    "c": "Kruiden met azijn",
+    "d": "Invriezen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom wordt een doorgesneden appel bruin?",
+   "answers": {
+    "a": "De appel neemt waterstof op",
+    "b": "De appel zuigt water op",
+    "c": "De appel verdampt",
+    "d": "De stoffen in de appel reageren met zuurstof uit de lucht"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof voorkomt bruinkleuring door zuurstof (antioxidant)?",
+   "answers": {
+    "a": "Jodium",
+    "b": "Zout",
+    "c": "Vitamine C",
+    "d": "Suiker"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent een pH van 3?",
+   "answers": {
+    "a": "De oplossing bevat geen water",
+    "b": "De oplossing is basisch",
+    "c": "De oplossing is neutraal",
+    "d": "De oplossing is zuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de pH van een neutrale oplossing?",
+   "answers": {
+    "a": "14",
+    "b": "1",
+    "c": "7",
+    "d": "0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke pH hoort bij een basische oplossing?",
+   "answers": {
+    "a": "7",
+    "b": "3",
+    "c": "10",
+    "d": "1"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke kleur heeft blauwe lakmoes in een zure oplossing?",
+   "answers": {
+    "a": "Rood",
+    "b": "Groen",
+    "c": "Kleurloos",
+    "d": "Blauw"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof in citroensap maakt het zuur?",
+   "answers": {
+    "a": "Citroenzuur",
+    "b": "Zoutzuur",
+    "c": "Melkzuur",
+    "d": "Azijnzuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je verdunt een zure oplossing met water. Wat gebeurt er met de pH?",
+   "answers": {
+    "a": "De pH wordt precies 14",
+    "b": "De pH wordt precies 0",
+    "c": "De pH wordt hoger en komt dichter bij 7",
+    "d": "De pH wordt lager"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke reactievergelijking van zoutzuur met natronloog klopt?",
+   "answers": {
+    "a": "HCl + NaOH → NaCl + H<sub>2</sub>O<sub>2</sub>",
+    "b": "2 HCl + NaOH → NaCl + H<sub>2</sub>O",
+    "c": "HCl + NaOH → NaCl + H<sub>2</sub>O",
+    "d": "HCl + NaOH → NaCl + H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat ontstaat er bij een neutralisatiereactie van een zuur en een base?",
+   "answers": {
+    "a": "Een zout en water",
+    "b": "Waterstof en zuurstof",
+    "c": "Alleen een zout",
+    "d": "Een ander zuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een emulsie?",
+   "answers": {
+    "a": "Een oplossing van zout in water",
+    "b": "Een mengsel van twee gassen",
+    "c": "Een vaste stof in een vaste stof",
+    "d": "Een mengsel van twee vloeistoffen die niet in elkaar oplossen, zoals olie en water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof maakt dat olie en water in mayonaise gemengd blijven?",
+   "answers": {
+    "a": "Zout",
+    "b": "Een zuur",
+    "c": "Een emulgator zoals eigeel",
+    "d": "Suiker"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe noem je het deel van een zeepmolecuul dat in water oplost?",
+   "answers": {
+    "a": "Neutrale kern",
+    "b": "Vetzuurstaart",
+    "c": "Hydrofiele kop",
+    "d": "Hydrofobe staart"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe noem je het deel van een zeepmolecuul dat goed in vet oplost?",
+   "answers": {
+    "a": "Waterkop",
+    "b": "Hydrofobe staart",
+    "c": "Hydrofiele kop",
+    "d": "Zoutkop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom kan zeep een vetvlek verwijderen?",
+   "answers": {
+    "a": "Zeep verdampt het vet",
+    "b": "Zeep maakt het vet zwaarder dan water",
+    "c": "Zeep reageert met het vet tot water",
+    "d": "De hydrofobe staarten hechten aan het vet en de hydrofiele koppen aan het water"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

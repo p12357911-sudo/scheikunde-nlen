@@ -1,0 +1,349 @@
+{
+ "title": "Reactiesnelheid en energie - 123 school",
+ "heading": "Reactiesnelheid en energie",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een exotherme reactie?",
+   "answers": {
+    "a": "Een reactie waarbij een gas ontstaat",
+    "b": "Een reactie waarbij energie nodig is",
+    "c": "Een reactie die heel snel verloopt",
+    "d": "Een reactie waarbij energie vrijkomt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een endotherme reactie?",
+   "answers": {
+    "a": "Een reactie waarbij energie wordt opgenomen",
+    "b": "Een reactie zonder energie-effect",
+    "c": "Een reactie waarbij energie vrijkomt",
+    "d": "Een reactie waarbij een neerslag ontstaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is de verbranding van aardgas exotherm of endotherm?",
+   "answers": {
+    "a": "Exotherm",
+    "b": "Dat hangt af van de temperatuur",
+    "c": "Geen van beide",
+    "d": "Endotherm"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is de fotosynthese exotherm of endotherm?",
+   "answers": {
+    "a": "Exotherm",
+    "b": "Geen van beide",
+    "c": "Endotherm (energie uit zonlicht wordt opgenomen)",
+    "d": "Eerst exotherm, dan endotherm"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de activeringsenergie?",
+   "answers": {
+    "a": "De energie van de producten",
+    "b": "De energie die de katalysator levert",
+    "c": "De energie die bij de reactie vrijkomt",
+    "d": "De minimale energie die nodig is om een reactie te laten beginnen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een katalysator?",
+   "answers": {
+    "a": "Een stof die bij de reactie wordt omgezet",
+    "b": "Een stof die een reactie vertraagt",
+    "c": "Een stof die een reactie versnelt en zelf niet wordt verbruikt",
+    "d": "Een stof die energie levert"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een katalysator met de activeringsenergie?",
+   "answers": {
+    "a": "Die wordt hoger",
+    "b": "Die wordt lager",
+    "c": "Die blijft gelijk",
+    "d": "Die wordt nul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat doet een katalysator met de reactiewarmte?",
+   "answers": {
+    "a": "Niets, de reactiewarmte blijft gelijk",
+    "b": "Die wordt kleiner",
+    "c": "Die wordt negatief",
+    "d": "Die wordt groter"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een effectieve botsing?",
+   "answers": {
+    "a": "Een botsing met de wand van het vat",
+    "b": "Elke botsing tussen deeltjes",
+    "c": "Een botsing tussen deeltjes van dezelfde stof",
+    "d": "Een botsing tussen deeltjes met genoeg energie en in de juiste stand, waarna ze reageren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom verloopt een reactie sneller bij een hogere temperatuur?",
+   "answers": {
+    "a": "Er zijn meer deeltjes",
+    "b": "De deeltjes bewegen sneller, dus er zijn meer effectieve botsingen per seconde",
+    "c": "De deeltjes worden groter",
+    "d": "De activeringsenergie wordt nul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom verloopt een reactie sneller bij een hogere concentratie?",
+   "answers": {
+    "a": "De deeltjes worden kleiner",
+    "b": "De activeringsenergie wordt lager",
+    "c": "Er zijn meer deeltjes per volume, dus meer botsingen per seconde",
+    "d": "De deeltjes bewegen sneller"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom reageert zinkpoeder sneller met zoutzuur dan een stuk zink van dezelfde massa?",
+   "answers": {
+    "a": "Poeder heeft een hogere temperatuur",
+    "b": "Poeder heeft een groter contactoppervlak",
+    "c": "Poeder heeft een lagere activeringsenergie",
+    "d": "Poeder bevat meer zink"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid van gassen als je de druk verhoogt?",
+   "answers": {
+    "a": "De snelheid blijft gelijk",
+    "b": "De snelheid wordt groter, want er zijn meer deeltjes per volume",
+    "c": "De snelheid wordt kleiner",
+    "d": "De reactie stopt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Wat gebeurt er met de snelheid bij 20 °C stijging?",
+   "answers": {
+    "a": "Die wordt 20 keer zo groot",
+    "b": "Die wordt 4 keer zo groot",
+    "c": "Die wordt 2 keer zo groot",
+    "d": "Die wordt 8 keer zo groot"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 20 °C duurt een reactie 80 s. Hoe lang duurt de reactie bij 40 °C?",
+   "answers": {
+    "a": "40 s",
+    "b": "160 s",
+    "c": "10 s",
+    "d": "20 s"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 50 °C duurt een reactie 12 s. Hoe lang duurt de reactie bij 30 °C?",
+   "answers": {
+    "a": "36 s",
+    "b": "48 s",
+    "c": "24 s",
+    "d": "6 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 20 °C duurt een reactie 100 s. Hoe lang duurt de reactie bij 30 °C?",
+   "answers": {
+    "a": "90 s",
+    "b": "200 s",
+    "c": "50 s",
+    "d": "25 s"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Hoeveel keer zo groot is de snelheid bij 50 °C dan bij 20 °C?",
+   "answers": {
+    "a": "16 keer",
+    "b": "8 keer",
+    "c": "3 keer",
+    "d": "6 keer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Volgens de vuistregel verdubbelt de reactiesnelheid bij elke 10 °C temperatuurstijging. Bij 60 °C duurt een reactie 5 s. Hoe lang duurt de reactie bij 20 °C?",
+   "answers": {
+    "a": "8 s",
+    "b": "80 s",
+    "c": "20 s",
+    "d": "40 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe is de reactiesnelheid gedefinieerd?",
+   "answers": {
+    "a": "De hoeveelheid energie per mol",
+    "b": "De tijd die de reactie duurt",
+    "c": "De verandering van de concentratie per tijd (Δc : Δt)",
+    "d": "De totale massa die reageert"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een geschikte eenheid voor reactiesnelheid?",
+   "answers": {
+    "a": "J/mol",
+    "b": "L/mol",
+    "c": "mol/L",
+    "d": "mol/(L·s)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "De concentratie van stof A daalt in 30 s van 0,80 mol/L naar 0,50 mol/L. Bereken de gemiddelde reactiesnelheid.",
+   "answers": {
+    "a": "0,10 mol/(L·s)",
+    "b": "0,010 mol/(L·s)",
+    "c": "0,030 mol/(L·s)",
+    "d": "0,017 mol/(L·s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij een reactie ontstaat in 40 s 12 mL gas. Bereken de gemiddelde reactiesnelheid in mL/s.",
+   "answers": {
+    "a": "480 mL/s",
+    "b": "0,30 mL/s",
+    "c": "0,030 mL/s",
+    "d": "3,3 mL/s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe maak je de reactie tussen magnesium en zoutzuur langzamer?",
+   "answers": {
+    "a": "Sterker zoutzuur gebruiken",
+    "b": "Een katalysator toevoegen",
+    "c": "De temperatuur verlagen",
+    "d": "Magnesiumpoeder gebruiken"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe ligt in een energiediagram van een exotherme reactie het niveau van de producten?",
+   "answers": {
+    "a": "Even hoog als het niveau van de beginstoffen",
+    "b": "Lager dan het niveau van de beginstoffen",
+    "c": "Dat is niet te zeggen",
+    "d": "Hoger dan het niveau van de beginstoffen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe ligt in een energiediagram van een endotherme reactie het niveau van de producten?",
+   "answers": {
+    "a": "Lager dan het niveau van de beginstoffen",
+    "b": "Hoger dan het niveau van de beginstoffen",
+    "c": "Dat is niet te zeggen",
+    "d": "Even hoog als het niveau van de beginstoffen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe lees je de reactiewarmte af uit een energiediagram?",
+   "answers": {
+    "a": "Het hoogteverschil tussen de top en de producten",
+    "b": "De hoogte van de top van de heuvel",
+    "c": "Het hoogteverschil tussen het niveau van de beginstoffen en dat van de producten",
+    "d": "De hoogte van de beginstoffen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In een energiediagram liggen de beginstoffen op 120 kJ, de producten op 80 kJ en de top van de heuvel op 150 kJ. Wat is de activeringsenergie?",
+   "answers": {
+    "a": "40 kJ",
+    "b": "70 kJ",
+    "c": "30 kJ",
+    "d": "150 kJ"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In een energiediagram liggen de beginstoffen op 120 kJ, de producten op 80 kJ en de top van de heuvel op 150 kJ. Hoeveel energie komt er bij de reactie vrij?",
+   "answers": {
+    "a": "70 kJ",
+    "b": "30 kJ",
+    "c": "80 kJ",
+    "d": "40 kJ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "De verbranding van methaan levert 8,9 × 10<sup>5</sup> J per mol methaan. Hoeveel energie komt er vrij bij de verbranding van 8,0 g methaan? (M = 16,04 g/mol)",
+   "answers": {
+    "a": "7,1 × 10<sup>6</sup> J",
+    "b": "4,4 × 10<sup>5</sup> J",
+    "c": "4,4 × 10<sup>4</sup> J",
+    "d": "8,9 × 10<sup>5</sup> J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "De verbranding van methaan levert 8,9 × 10<sup>5</sup> J per mol methaan. Hoeveel energie komt er vrij bij de verbranding van 2,0 mol methaan?",
+   "answers": {
+    "a": "1,8 × 10<sup>5</sup> J",
+    "b": "8,9 × 10<sup>5</sup> J",
+    "c": "4,5 × 10<sup>5</sup> J",
+    "d": "1,8 × 10<sup>6</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een dynamisch evenwicht?",
+   "answers": {
+    "a": "De concentraties zijn allemaal gelijk",
+    "b": "De heenreactie en de terugreactie verlopen even snel",
+    "c": "Alleen de heenreactie verloopt",
+    "d": "De reacties zijn gestopt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid terwijl de beginstoffen worden verbruikt?",
+   "answers": {
+    "a": "De snelheid wordt eerst nul",
+    "b": "De snelheid wordt kleiner",
+    "c": "De snelheid wordt groter",
+    "d": "De snelheid blijft gelijk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiesnelheid als je een vaste stof fijnmaalt?",
+   "answers": {
+    "a": "De reactie stopt",
+    "b": "De snelheid wordt kleiner",
+    "c": "De snelheid wordt groter",
+    "d": "De snelheid blijft gelijk"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

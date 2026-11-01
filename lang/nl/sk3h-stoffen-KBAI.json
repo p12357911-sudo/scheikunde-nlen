@@ -1,0 +1,218 @@
+{
+ "title": "Stoffen en materialen - 123 school",
+ "heading": "Stoffen en materialen (met AI-nakijken)",
+ "intro": [
+  "Typ je antwoord en klik op \"Controleer antwoorden\". Antwoorden in je eigen woorden worden met AI nagekeken: je krijgt een tip en mag het daarna nog een keer proberen. Typ nooit je naam of andere persoonlijke gegevens: je antwoord wordt door een AI-dienst nagekeken.",
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord, door te klikken op de vraag."
+ ],
+ "questions": [
+  {
+   "q": "Omschrijf composiet",
+   "a": "Samengesteld materiaal, ontwikkeld door 2 of meerdere materialen te combineren"
+  },
+  {
+   "q": "Wat is dichtheid?",
+   "a": "Grootheid die aangeeft hoe licht of zwaar stoffen zijn"
+  },
+  {
+   "q": "Wat is de formule voor de dichtheid?",
+   "a": "Dichtheid (ρ) = massa/volume in g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Stoffen die goed in water oplosbaar zijn noem je?",
+   "a": "Hydrofiel"
+  },
+  {
+   "q": "Stoffen die slecht in water oplosbaar zijn noem je?",
+   "a": "Hydrofoob"
+  },
+  {
+   "q": "Omschrijf kookpunt",
+   "a": "Temperatuur waarbij een stof van de vloeibare naar de gasfase overgaat"
+  },
+  {
+   "q": "Omschrijf oplosbaarheid",
+   "a": "Mate waarin stoffen oplossen in een vloeistof, bijvoorbeeld in water"
+  },
+  {
+   "q": "Omschrijf smeltpunt",
+   "a": "Temperatuur waarbij een stof van de vaste naar de vloeibare fase overgaat"
+  },
+  {
+   "q": "Omschrijf hernieuwbaar",
+   "a": "Grondstoffen die zichzelf weer aanvullen, bijvoorbeeld gewassen"
+  },
+  {
+   "q": "Omschrijf synthetisch materiaal",
+   "a": "Materiaal door mensen gemaakt en je niet in de natuur aantreft"
+  },
+  {
+   "q": "Omschrijf natuurlijk materiaal",
+   "a": "Materiaal gewonnen uit de natuur"
+  },
+  {
+   "q": "Wat zijn stofeigenschappen?",
+   "a": "Kenmerken waar je stoffen aan herkent"
+  },
+  {
+   "q": "Wat zijn materiaaleigenschappen",
+   "a": "Kenmerken waar je een materiaal aan herkent"
+  },
+  {
+   "q": "Omschrijf elektrische geleidbaarheid",
+   "a": "Grootheid die aangeeft hoe goed een stof elektrische stroom geleid"
+  },
+  {
+   "q": "Omschrijf het deeltjes model",
+   "a": "Model waarin alle stofeigenschappen worden bepaald door de kleinste deeltjes van een stof"
+  },
+  {
+   "q": "Wat zijn de kleinste deeltjes van een stof?",
+   "a": "Moleculen"
+  },
+  {
+   "q": "Noem 3 kenmerken van moleculen",
+   "a": "Bepalen de stofeigenschap. Bewegen voortdurend. Trekken elkaar aan en botsen met elkaar. Zit afstand tussen."
+  },
+  {
+   "q": "Noem 3 fase van een stof",
+   "a": "Vast, vloeibaar, gas"
+  },
+  {
+   "q": "Wat zijn grondstoffen?",
+   "a": "Materialen die als basis dienen voor het produceren van een nieuwe stof"
+  },
+  {
+   "q": "Noem 3 stofeigenschappen",
+   "a": "Specifieke geur, kleur, dichtheid, smeltpunt, kookpunt, elektrische geleiding, warmtegeleiding"
+  },
+  {
+   "q": "Wat laat een smelt- en kookdiagram zien?",
+   "a": "Het verband tussen de temperatuur en de tijd, wanneer je een stof continu verwarmt of koelt"
+  },
+  {
+   "q": "Wat toont een smelt- en kookdiagram aan voor het smelt- of kookpunt van een stof?",
+   "a": "Dat het smelt- en kookpunt van een stof een specifieke maximale waarde hebben, waar bij de stof van de ene naar de andere fase overgaat"
+  },
+  {
+   "q": "Wat is het kookpunt van water?",
+   "a": "100 ° Celsius"
+  },
+  {
+   "q": "Wat is het smeltpunt van water?",
+   "a": "0 ° Celsius"
+  },
+  {
+   "q": "Wat wordt bedoeld met macroniveau in de scheikunde?",
+   "a": "Stofeigenschappen die je met je zintuigen kunt waarnemen bijvoorbeeld geur, kleur, fase van een stof"
+  },
+  {
+   "q": "Wat wordt bedoeld met microniveau in de scheikunde?",
+   "a": "De kleinste deeltjes van een stof, die de macro eigenschappen van een stof kunnen verklaren"
+  },
+  {
+   "q": "Omschrijf een zuivere stof",
+   "a": "Bestaat op microniveau uit 1 soort deeltjes/moleculen"
+  },
+  {
+   "q": "Omschrijf een mengsel stof",
+   "a": "Bestaat op microniveau uit meerdere soorten deeltjes/moleculen"
+  },
+  {
+   "q": "Omschrijf de kleinste deeltjes in een stof",
+   "a": "Bepalen de stofeigenschap. Bewegen voortdurend. Trekken elkaar aan en botsen met elkaar. Zit afstand tussen."
+  },
+  {
+   "q": "Hoe verklaar je op microniveau fase overgangen?",
+   "a": "De afstand en aantrekkingskracht tussen de moleculen veranderen waardoor ze een vaste stof, vloeistof of gas vormen"
+  },
+  {
+   "q": "Hoe verklaar je op microniveau het verschil tussen de vaste en de gas fase?",
+   "a": "In de vaste fase zitten de moleculen op hun plek en trillen alleen op hun plaats. In een gas bewegen de deeltjes door elkaar heen met ruimte er tussen en botsen op elkaar."
+  },
+  {
+   "q": "Hoe verklaar je op microniveau de vloeibare fase?",
+   "a": "De moleculen zitten dicht op elkaar maar kunnen om elkaar heen bewegen waardoor op macroniveau de stof kan vloeien"
+  },
+  {
+   "q": "Hoe verschilt zuiverstof van een mengsel als je naar kook en smeltpunten kijkt?",
+   "a": "Mengsels vertonen een smelt- en kooktraject ipv smelt- en kookpunt"
+  },
+  {
+   "q": "Wat is een suspensie?",
+   "a": "Een mengsel van een vaste stof of vloeistof in een vloeistof die niet goed mengen."
+  },
+  {
+   "q": "Hoe verschilt een oplossing van een suspensie?",
+   "a": "In een oplossing mengt een vloeistof, vaste stof of gas goed met het oplosmiddel en ontstaat er een homogeen helder mengsel"
+  },
+  {
+   "q": "Omschrijf homogeen mengsel",
+   "a": "Evenredig verdeelde stoffen waarbij de verschillende stoffen niet van elkaar zijn te onderscheiden"
+  },
+  {
+   "q": "Omschrijf heterogeen mengsel",
+   "a": "Mengsel waarin verschillende stoffen nog te onderscheiden zijn van elkaar met het ook of met een microscoop"
+  },
+  {
+   "q": "Wat is een emulsie?",
+   "a": "Troebel mengsel twee vloeistoffen waarbij vloeistofdruppeltjes ontstaan. Elk druppeltje bestaat uit meerdere moleculen"
+  },
+  {
+   "q": "Wat is rook?",
+   "a": "Een fijne vast stof verdeeld in een gas"
+  },
+  {
+   "q": "Wat is nevel?",
+   "a": "Mengsel van kleine vloeistof druppels in een gas"
+  },
+  {
+   "q": "Wat is een gasmengsel?",
+   "a": "Bestaat uit twee of meerdere gassen. Gassen mengen altijd homogeen en goed."
+  },
+  {
+   "q": "Wat is een oplosmiddel?",
+   "a": "Vloeistof waarin andere stoffen zijn opgelost"
+  },
+  {
+   "q": "Noem minstens 6 scheidingsmethoden",
+   "a": "Adsorberen, bezinken, centrifugeren, destilleren, extraheren, filtreren, indampen"
+  },
+  {
+   "q": "Wat wordt bedoeld met scheiden in de scheikunde?",
+   "a": "Splitsen van een mengsel in afzonderlijke stoffen"
+  },
+  {
+   "q": "Noem een scheidingsmethode die op het kookpunt gebaseerd is",
+   "a": "Destilleren, indampen"
+  },
+  {
+   "q": "Noem een scheidingsmethode die op de dichtheid gebaseerd is",
+   "a": "Bezinken, centrifugeren"
+  },
+  {
+   "q": "Bij welke scheidingsmethode is de deeltjesgrootte bepalend?",
+   "a": "Filtreren"
+  },
+  {
+   "q": "Noem een voorbeeld van een extractiemethode",
+   "a": "Koffie of theezetten"
+  },
+  {
+   "q": "Wat blijft achter op een filter of in een destillatie kolf?",
+   "a": "Het residu"
+  },
+  {
+   "q": "Een reep van 250 g bevat 160 g cacao. Wat is het massapercentage cacao?",
+   "a": "massa % =  massa (g)/massa totaal (g) ∙ 100% = 160/250 ∙ 100% = 64,0%"
+  },
+  {
+   "q": "Hoeveel mL is een L?",
+   "a": "1L = 1000 mL"
+  },
+  {
+   "q": "Een drankje bevat 20 g suiker per 250 mL. Wat is het gehalte suiker in g/L?",
+   "a": "gehalte = massa suiker/volume drankje = 20g/0,25L = 80 g/L"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "title": "Water - 123 school",
+ "heading": "Water",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Noem de vier functies van water",
+   "a": "Drinkwater, oplosmiddel, spoelmiddel en hulp bij de bereiding van voedsel"
+  },
+  {
+   "q": "Wat is een spoelmiddel?",
+   "a": "Een vloeistof die andere stoffen wegspoelt"
+  },
+  {
+   "q": "Wat is oppervlaktewater?",
+   "a": "Water aan de oppervlakte van de aarde, zoals rivieren, meren en oceanen"
+  },
+  {
+   "q": "Wat is grondwater?",
+   "a": "Water dat in de bodem zit, onder de grond"
+  },
+  {
+   "q": "Is drinkwater een zuivere stof?",
+   "a": "Nee, er zijn stoffen in opgelost, zoals kalk"
+  },
+  {
+   "q": "Wat is gedestilleerd water?",
+   "a": "Zuiver water, zonder opgeloste stoffen"
+  },
+  {
+   "q": "Welk water bevat meestal minder vervuiling: grondwater of oppervlaktewater?",
+   "a": "Grondwater"
+  },
+  {
+   "q": "Welk water bevat de hoogste concentratie zouten?",
+   "a": "Zeewater"
+  },
+  {
+   "q": "Wat is de dichtheid van zeewater? (gebruik BINAS tabel 16)",
+   "a": "1,02 g/cm<sup>3</sup> (gedestilleerd water: 1,00 g/cm<sup>3</sup>)"
+  },
+  {
+   "q": "Zeewater bevat veel keukenzout (natriumchloride, Na<sup>+</sup> en Cl<sup>-</sup>). Is keukenzout goed, matig of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "a": "Goed oplosbaar"
+  },
+  {
+   "q": "In een rivier stroomt minder water. De hoeveelheid vervuiling blijft gelijk. Wat gebeurt er met de concentratie?",
+   "a": "De concentratie wordt hoger"
+  },
+  {
+   "q": "Wat betekent ontsmetten?",
+   "a": "Ziekteverwekkers onschadelijk maken"
+  },
+  {
+   "q": "Welke functie heeft water als het een motor of een fabriek koel houdt?",
+   "a": "Koelmiddel"
+  },
+  {
+   "q": "Wat is een koelmiddel?",
+   "a": "Een stof die warmte opneemt en afvoert"
+  },
+  {
+   "q": "Waarom is water zo geschikt als koelmiddel?",
+   "a": "Water kan veel warmte opnemen en is goedkoop en ruim beschikbaar"
+  },
+  {
+   "q": "Wat is industriewater?",
+   "a": "Water dat fabrieken gebruiken, bijvoorbeeld voor koelen of schoonmaken. Het hoeft niet de kwaliteit van drinkwater te hebben"
+  },
+  {
+   "q": "Welke functie heeft water als je pasta kookt?",
+   "a": "Hulp bij de bereiding van voedsel"
+  },
+  {
+   "q": "Welke functie heeft water als je vuile pannen afspoelt?",
+   "a": "Spoelmiddel"
+  },
+  {
+   "q": "Wat is een oplosmiddel?",
+   "a": "Een stof waarin je een andere stof kunt oplossen"
+  },
+  {
+   "q": "Wat is een oplossing?",
+   "a": "Een helder mengsel van een opgeloste stof in een oplosmiddel"
+  },
+  {
+   "q": "Je lost zout op in water. Wat is de opgeloste stof en wat is het oplosmiddel?",
+   "a": "Zout is de opgeloste stof, water is het oplosmiddel"
+  },
+  {
+   "q": "Uit welke twee soorten water maakt een drinkwaterbedrijf in Nederland vooral drinkwater?",
+   "a": "Grondwater en oppervlaktewater"
+  },
+  {
+   "q": "Waarom moet oppervlaktewater gezuiverd worden voordat je het kunt drinken?",
+   "a": "Er zitten vuil, bacteriën en opgeloste stoffen in"
+  },
+  {
+   "q": "Wat is de eerste stap bij het zuiveren van oppervlaktewater?",
+   "a": "Grof vuil verwijderen met roosters en zeven"
+  },
+  {
+   "q": "Waarvoor gebruikt een drinkwaterbedrijf een zandfilter?",
+   "a": "Om kleine vaste deeltjes uit het water te filtreren"
+  },
+  {
+   "q": "Wat is het filtraat als je water door een zandfilter laat lopen?",
+   "a": "Het water dat door het filter komt. Het vuil dat achterblijft heet residu"
+  },
+  {
+   "q": "Waarvoor wordt actieve kool gebruikt bij het zuiveren van water?",
+   "a": "Geur- en smaakstoffen blijven aan de kool hechten (adsorberen)"
+  },
+  {
+   "q": "Op welke eigenschap berust adsorberen met actieve kool?",
+   "a": "Aanhechtingsvermogen: sommige stoffen hechten beter aan het kooloppervlak dan andere"
+  },
+  {
+   "q": "Waarom wordt drinkwater ontsmet?",
+   "a": "Om bacteriën en andere ziekteverwekkers onschadelijk te maken"
+  },
+  {
+   "q": "Hoe kun je van zeewater drinkwater maken?",
+   "a": "Door te destilleren: het water verdampt en het zout blijft achter"
+  },
+  {
+   "q": "Wat is het destillaat als je zeewater destilleert?",
+   "a": "Zuiver water"
+  },
+  {
+   "q": "Hoe kun je zout uit zeewater halen?",
+   "a": "Door het water in te dampen: het water verdampt en het zout blijft over"
+  },
+  {
+   "q": "Waarom is zeewater niet geschikt om te drinken?",
+   "a": "Het bevat te veel opgeloste zouten"
+  },
+  {
+   "q": "Waarom mag een fabriek afvalwater niet zomaar in een rivier lozen?",
+   "a": "Het afvalwater vervuilt het oppervlaktewater"
+  },
+  {
+   "q": "Wat gebeurt er met afvalwater in een rioolwaterzuiveringsinstallatie?",
+   "a": "Het wordt gezuiverd voordat het weer in het oppervlaktewater komt"
+  }
+ ]
+}

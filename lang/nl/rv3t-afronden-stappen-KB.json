@@ -1,0 +1,125 @@
+{
+ "title": "Afronden en stapelopdrachten - 123 school",
+ "heading": "Afronden en stapelopdrachten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Alle gegevens die je nodig hebt staan in de vraag. In elke vraag staat hoe je moet afronden. Bij een stapelopdracht staat in de tip hoeveel stappen je nodig hebt."
+ ],
+ "questions": [
+  {
+   "q": "Rond 2,675 af op 2 decimalen.",
+   "a": "2,68",
+   "e": "2,675 afgerond op 2 decimalen = 2,68"
+  },
+  {
+   "q": "Rond 7,449 af op 1 decimaal.",
+   "a": "7,4",
+   "e": "7,449 afgerond op 1 decimaal = 7,4"
+  },
+  {
+   "q": "Rond 0,995 af op 2 decimalen.",
+   "a": "1,00",
+   "e": "0,995 afgerond op 2 decimalen = 1,00"
+  },
+  {
+   "q": "Rond 0,0812 af op 2 decimalen.",
+   "a": "0,08",
+   "e": "0,0812 afgerond op 2 decimalen = 0,08"
+  },
+  {
+   "q": "Rond 6,4999 af op een geheel getal.",
+   "a": "6",
+   "e": "6,4999 afgerond op een geheel getal = 6"
+  },
+  {
+   "q": "Rond 199,96 af op 1 decimaal.",
+   "a": "200,0",
+   "e": "199,96 afgerond op 1 decimaal = 200,0"
+  },
+  {
+   "q": "Rond 2,675 af op 3 significante cijfers.",
+   "a": "2,68",
+   "e": "2,675 afgerond op 3 significante cijfers = 2,68"
+  },
+  {
+   "q": "Rond 9,996 af op 3 significante cijfers.",
+   "a": "10,0",
+   "e": "9,996 afgerond op 3 significante cijfers = 10,0"
+  },
+  {
+   "q": "Hoeveel °C is 373 K?",
+   "a": "100 °C",
+   "e": "θ = 373 − 273 = 100 °C"
+  },
+  {
+   "q": "Hoeveel °C is 310 K?",
+   "a": "37 °C",
+   "e": "θ = 310 − 273 = 37 °C"
+  },
+  {
+   "q": "Los op: x + 5 = 9. Wat is x?",
+   "a": "4",
+   "e": "x = 9 − 5 = 4"
+  },
+  {
+   "q": "Los op: 2x + 3 = 11. Wat is x?",
+   "a": "4",
+   "e": "2x = 11 − 3 = 8, dus x = 8 : 2 = 4"
+  },
+  {
+   "q": "Los op: x − 7 = 8. Wat is x?",
+   "a": "15",
+   "e": "x = 8 + 7 = 15"
+  },
+  {
+   "q": "Een oplossing heeft een concentratie van 0,80 g/L. Hoeveel gram opgeloste stof zit er in 250 mL van deze oplossing? Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,20 g",
+   "e": "Stap 1: 250 mL = 0,250 L. Stap 2: 0,80 g/L × 0,250 L = 0,20 g"
+  },
+  {
+   "q": "Een vloeistof heeft een dichtheid van 0,92 g/mL. Wat is het volume in L van 150 g van deze vloeistof? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,163 L",
+   "e": "Stap 1: 150 g : 0,92 g/mL = 163,04 mL. Stap 2: 163,04 mL = 0,163 L"
+  },
+  {
+   "q": "Je hebt 100 mL water met een dichtheid van 1,00 g/mL. De molaire massa is 18,0 g/mol. Hoeveel mol water is dat? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "5,6 mol",
+   "e": "Stap 1: 1,00 g/mL × 100 mL = 100 g. Stap 2: 100 g : 18,0 g/mol = 5,6 mol"
+  },
+  {
+   "q": "Je hebt 2,5 mol van een stof met een molaire massa van 44,0 g/mol. Hoeveel kg is dat? Rond af op 3 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,110 kg",
+   "e": "Stap 1: 2,5 mol × 44,0 g/mol = 110 g. Stap 2: 110 g = 0,110 kg"
+  },
+  {
+   "q": "Hoeveel mL oplossing is nodig om 0,15 mol op te lossen als de concentratie 0,50 mol/L moet zijn? Rond af op een geheel getal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "300 mL",
+   "e": "Stap 1: 0,15 mol : 0,50 mol/L = 0,30 L. Stap 2: 0,30 L = 300 mL"
+  },
+  {
+   "q": "Een fietser legt 18 km af in 45 minuten. Wat is de gemiddelde snelheid in km/h? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "24,0 km/h",
+   "e": "Stap 1: 45 min = 0,75 h. Stap 2: 18 km : 0,75 h = 24,0 km/h"
+  },
+  {
+   "q": "Een lamp van 60 W brandt 5 uur. Hoeveel kWh energie gebruikt de lamp? (1 kW = 1000 W) Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,30 kWh",
+   "e": "Stap 1: 60 W = 0,060 kW. Stap 2: 0,060 kW × 5 h = 0,30 kWh"
+  },
+  {
+   "q": "Je mengt 150 mL water (1,00 g/mL) met 60 mL ethanol (0,79 g/mL). Wat is de totale massa van het mengsel in gram? Rond af op 1 decimaal. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "197,4 g",
+   "e": "Stap 1: 1,00 g/mL × 150 mL = 150 g water en 0,79 g/mL × 60 mL = 47,4 g ethanol. Stap 2: 150 g + 47,4 g = 197,4 g"
+  },
+  {
+   "q": "Je hebt 40 mL ethanol met een dichtheid van 0,79 g/mL. De molaire massa is 46,0 g/mol. Hoeveel mol ethanol is dat? Rond af op 2 decimalen. Tip: dit is een opdracht van 2 stappen. Rond pas bij het eindantwoord af.",
+   "a": "0,69 mol",
+   "e": "Stap 1: 0,79 g/mL × 40 mL = 31,6 g. Stap 2: 31,6 g : 46,0 g/mol = 0,69 mol"
+  },
+  {
+   "q": "Je mengt 150 mL water (1,00 g/mL) met 60 mL ethanol (0,79 g/mL). Bereken het massapercentage water in het mengsel. Rond af op 1 decimaal. Tip: dit is een opdracht van 3 stappen. Rond pas bij het eindantwoord af.",
+   "a": "76,0 %",
+   "e": "Stap 1: massa water = 150 g en massa ethanol = 47,4 g. Stap 2: totale massa = 197,4 g. Stap 3: 150 g : 197,4 g × 100% = 76,0%"
+  }
+ ]
+}

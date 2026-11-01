@@ -1,0 +1,349 @@
+{
+ "title": "Zouten - 123 school",
+ "heading": "Zouten",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een zout?",
+   "answers": {
+    "a": "Een stof opgebouwd uit atomen met gedeelde elektronen",
+    "b": "Een stof die altijd smaakt naar keukenzout",
+    "c": "Een stof opgebouwd uit moleculen",
+    "d": "Een stof opgebouwd uit positieve en negatieve ionen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke binding houdt de ionen in een zout bij elkaar?",
+   "answers": {
+    "a": "De ionbinding (aantrekking tussen positieve en negatieve ionen)",
+    "b": "De atoombinding",
+    "c": "De waterstofbrug",
+    "d": "De metaalbinding"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Uit welke soorten elementen bestaat een zout meestal?",
+   "answers": {
+    "a": "Uit een metaal en een niet-metaal",
+    "b": "Alleen uit edelgassen",
+    "c": "Alleen uit metalen",
+    "d": "Alleen uit niet-metalen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van magnesiumchloride? (Mg<sup>2+</sup> en Cl<sup>-</sup>)",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl<sub>2</sub>",
+    "b": "MgCl<sub>2</sub>",
+    "c": "MgCl",
+    "d": "Mg<sub>2</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van aluminiumoxide? (Al<sup>3+</sup> en O<sup>2-</sup>)",
+   "answers": {
+    "a": "Al<sub>3</sub>O<sub>2</sub>",
+    "b": "Al<sub>2</sub>O<sub>3</sub>",
+    "c": "Al<sub>2</sub>O",
+    "d": "AlO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van calciumfosfaat? (Ca<sup>2+</sup> en PO<sub>4</sub><sup>3-</sup>)",
+   "answers": {
+    "a": "Ca<sub>3</sub>PO<sub>4</sub>",
+    "b": "CaPO<sub>4</sub>",
+    "c": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+    "d": "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule van ammoniumsulfaat? (NH<sub>4</sub><sup>+</sup> en SO<sub>4</sub><sup>2-</sup>)",
+   "answers": {
+    "a": "NH<sub>4</sub>SO<sub>4</sub>",
+    "b": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "c": "NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>",
+    "d": "N<sub>2</sub>H<sub>8</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van ijzer(III)chloride?",
+   "answers": {
+    "a": "FeCl<sub>3</sub>",
+    "b": "FeCl<sub>2</sub>",
+    "c": "Fe<sub>2</sub>Cl<sub>3</sub>",
+    "d": "Fe<sub>3</sub>Cl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van Na<sub>2</sub>CO<sub>3</sub>?",
+   "answers": {
+    "a": "Natriumcarbide",
+    "b": "Dinatriumcarbonaat",
+    "c": "Natriumcarbonaat",
+    "d": "Natriumwaterstofcarbonaat"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van KNO<sub>3</sub>?",
+   "answers": {
+    "a": "Kaliumnitriet",
+    "b": "Kaliumstikstofoxide",
+    "c": "Kaliumnitride",
+    "d": "Kaliumnitraat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van CuSO<sub>4</sub>?",
+   "answers": {
+    "a": "Koper(I)sulfaat",
+    "b": "Koper(II)sulfiet",
+    "c": "Koper(II)sulfaat",
+    "d": "Koper(II)sulfide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van Ba(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "Bariumhydroxide",
+    "b": "Bariumwaterstofoxide",
+    "c": "Bariumoxide",
+    "d": "Bariumperoxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van Fe<sub>2</sub>O<sub>3</sub>?",
+   "answers": {
+    "a": "IJzer(III)oxide",
+    "b": "IJzer(II)oxide",
+    "c": "IJzer(III)hydroxide",
+    "d": "IJzer(VI)oxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de lading van het ijzerion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)",
+   "answers": {
+    "a": "1+",
+    "b": "3+",
+    "c": "2+",
+    "d": "3-"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de vergelijking voor het oplossen van natriumchloride in water?",
+   "answers": {
+    "a": "NaCl(s) → Na(aq) + Cl(aq)",
+    "b": "NaCl(s) → Na<sup>-</sup>(aq) + Cl<sup>+</sup>(aq)",
+    "c": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sub>2</sub><sup>-</sup>(aq)",
+    "d": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de vergelijking voor het oplossen van calciumchloride in water?",
+   "answers": {
+    "a": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)",
+    "b": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sub>2</sub><sup>2-</sup>(aq)",
+    "c": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sup>-</sup>(aq)",
+    "d": "CaCl<sub>2</sub>(s) → Ca<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vergelijking voor het oplossen van aluminiumsulfaat in water?",
+   "answers": {
+    "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "b": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "c": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)",
+    "d": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 3 Al<sup>2+</sup>(aq) + 2 SO<sub>4</sub><sup>3-</sup>(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de vergelijking voor het oplossen van ammoniumsulfaat in water?",
+   "answers": {
+    "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + 2 SO<sub>4</sub><sup>2-</sup>(aq)",
+    "b": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "c": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub>(aq)",
+    "d": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel mol ionen komt er vrij als 1,0 mol CaCl<sub>2</sub> oplost?",
+   "answers": {
+    "a": "2,0 mol",
+    "b": "3,0 mol",
+    "c": "0,33 mol",
+    "d": "1,0 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een oplossing van calciumchloride heeft een concentratie van 0,10 mol/L. Wat is de concentratie Cl<sup>-</sup> in deze oplossing?",
+   "answers": {
+    "a": "0,30 mol/L",
+    "b": "0,20 mol/L",
+    "c": "0,10 mol/L",
+    "d": "0,050 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel gram NaCl (M = 58,44 g/mol) is nodig voor 0,500 L oplossing van 0,10 mol/L?",
+   "answers": {
+    "a": "5,8 g",
+    "b": "2,9 g",
+    "c": "29 g",
+    "d": "0,29 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een neerslag?",
+   "answers": {
+    "a": "Een gas dat ontstaat bij mengen",
+    "b": "Een vloeistof boven een oplossing",
+    "c": "Een stof die oplost in water",
+    "d": "Een vaste stof die ontstaat als je twee oplossingen mengt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom geleidt vast keukenzout geen stroom?",
+   "answers": {
+    "a": "De ionen zitten vast op hun plaats in het rooster",
+    "b": "Er zijn geen ionen",
+    "c": "Zout is een moleculaire stof",
+    "d": "Er zijn geen elektronen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom geleidt een zoutoplossing wel stroom?",
+   "answers": {
+    "a": "Water bevat metaalatomen",
+    "b": "Er zijn vrij bewegende ionen",
+    "c": "Er zijn vrij bewegende moleculen",
+    "d": "Zout bevat vrije elektronen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je mengt oplossingen van zilvernitraat en natriumchloride. Welke stof slaat neer? (gebruik BINAS tabel 45A)",
+   "answers": {
+    "a": "Zilverchloride",
+    "b": "Zilvernitraat",
+    "c": "Natriumnitraat",
+    "d": "Er slaat niets neer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vergelijking van de neerslagreactie van zilverionen met chloride-ionen?",
+   "answers": {
+    "a": "Ag<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq) → AgCl<sub>2</sub>(s)",
+    "b": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)",
+    "c": "Ag(aq) + Cl(aq) → AgCl(s)",
+    "d": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je mengt bariumchloride-oplossing met natriumsulfaat-oplossing. Welke stof slaat neer? (gebruik BINAS tabel 45A)",
+   "answers": {
+    "a": "Bariumsulfaat",
+    "b": "Natriumsulfaat",
+    "c": "Bariumchloride",
+    "d": "Natriumchloride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vergelijking van de neerslagreactie waarbij kalkaanslag (CaCO<sub>3</sub>) ontstaat uit ionen?",
+   "answers": {
+    "a": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(aq)",
+    "b": "Ca(aq) + CO<sub>3</sub>(aq) → CaCO<sub>3</sub>(s)",
+    "c": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)",
+    "d": "Ca<sup>2+</sup>(aq) + 2 CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je mengt oplossingen van natriumchloride en kaliumnitraat. Wat gebeurt er? (gebruik BINAS tabel 45A)",
+   "answers": {
+    "a": "Er slaat natriumnitraat neer",
+    "b": "Er slaat kaliumchloride neer",
+    "c": "Er slaat niets neer, alle combinaties zijn goed oplosbaar",
+    "d": "Er ontstaat een gas"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk zout is slecht oplosbaar in water? (gebruik BINAS tabel 45A)",
+   "answers": {
+    "a": "Bariumsulfaat",
+    "b": "Natriumnitraat",
+    "c": "Kaliumchloride",
+    "d": "Magnesiumchloride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vergelijking van de neerslagreactie van ijzer(III)ionen met hydroxide-ionen?",
+   "answers": {
+    "a": "Fe<sup>2+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)",
+    "b": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)",
+    "c": "Fe<sup>3+</sup>(aq) + OH<sup>-</sup>(aq) → FeOH(s)",
+    "d": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is kristalwater?",
+   "answers": {
+    "a": "Water waarin een zout is opgelost",
+    "b": "Water dat bevroren is",
+    "c": "Water dat uit kristallen komt als ze smelten",
+    "d": "Water dat is ingebouwd in het kristalrooster van een zout"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken het massapercentage kristalwater in CuSO<sub>4</sub>·5H<sub>2</sub>O. (gebruik BINAS tabel 99; M(H<sub>2</sub>O) = 18,02 g/mol)",
+   "answers": {
+    "a": "63,9%",
+    "b": "7,2%",
+    "c": "56,5%",
+    "d": "36,1%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van het ion NO<sub>3</sub><sup>-</sup>?",
+   "answers": {
+    "a": "Nitraation",
+    "b": "Stikstofion",
+    "c": "Nitrideion",
+    "d": "Nitrietion"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

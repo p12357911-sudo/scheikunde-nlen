@@ -1,0 +1,117 @@
+{
+ "title": "Polymeren",
+ "heading": "Polymeren vragen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat is een initiator?",
+   "answers": {
+    "a": "Een stof die de polymerisatie stopt",
+    "b": "Een stof die de polymerisatie start: de dubbele binding gaat open",
+    "c": "Een stof die polymeren afbreekt",
+    "d": "Een stof die water toevoegt aan de reactie"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je gebruikt uv-licht bij een polymerisatie. Wat doet het uv-licht met de initiator?",
+   "answers": {
+    "a": "De initiator gaat reageren en start zo de polymerisatie",
+    "b": "Het verhoogt alleen de temperatuur",
+    "c": "Het heeft geen effect op de initiator",
+    "d": "De initiator wordt minder actief"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er bij een condensatiereactie?",
+   "answers": {
+    "a": "Er ontstaat alleen een groter molecuul",
+    "b": "Er ontstaat alleen een klein molecuul",
+    "c": "Er ontstaat geen nieuw molecuul",
+    "d": "Er ontstaat een groter molecuul en er komt een klein molecuul vrij (bijvoorbeeld water)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Zuurgroepen (-COOH) reageren met hydroxylgroepen (-OH). Wat ontstaat er?",
+   "answers": {
+    "a": "Esterbindingen en een polyamide",
+    "b": "Amidebindingen en een polyester",
+    "c": "Esterbindingen en een polyester",
+    "d": "Amidebindingen en een polyamide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Zuurgroepen (-COOH) reageren met aminogroepen (-NH<sub>2</sub>). Wat ontstaat er?",
+   "answers": {
+    "a": "Esterbindingen en een polyamide",
+    "b": "Esterbindingen en een polyester",
+    "c": "Amidebindingen en een polyester",
+    "d": "Amidebindingen en een polyamide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is hydrolyse?",
+   "answers": {
+    "a": "Een polymeer wordt verbrand",
+    "b": "Monomeren koppelen aan elkaar en er komt water vrij",
+    "c": "Een polymeer wordt met water afgebroken tot kleinere moleculen",
+    "d": "Monomeren met een dubbele binding koppelen aan elkaar en er komt niets vrij"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een polymeer heeft een gemiddelde ketenlengte van 1000. Wat betekent dat?",
+   "answers": {
+    "a": "Er zitten 1000 polymeren in één molecuul",
+    "b": "Een keten bestaat gemiddeld uit 1000 monomeereenheden",
+    "c": "Het polymeer bestaat uit 1000 verschillende moleculen",
+    "d": "Een molecuul weegt gemiddeld 1000 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe ontstaat een additiepolymeer?",
+   "answers": {
+    "a": "Monomeren met een dubbele binding koppelen aan elkaar en er komt niets vrij",
+    "b": "Monomeren koppelen aan elkaar via esterbindingen",
+    "c": "Een polymeer wordt met water afgebroken",
+    "d": "Monomeren koppelen aan elkaar en er komt water vrij"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een polyamide?",
+   "answers": {
+    "a": "Een polymeer dat bestaat uit alleen koolstof en waterstof",
+    "b": "Een polymeer waarin de monomeren met amidebindingen aan elkaar zitten",
+    "c": "Een polymeer dat alleen door additie ontstaat",
+    "d": "Een polymeer waarin de monomeren met esterbindingen aan elkaar zitten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een polyester?",
+   "answers": {
+    "a": "Een polymeer waarin de monomeren met esterbindingen aan elkaar zitten",
+    "b": "Een polymeer waarin de monomeren met amidebindingen aan elkaar zitten",
+    "c": "Een polymeer dat alleen door additie ontstaat",
+    "d": "Een polymeer dat bestaat uit alleen koolstof en waterstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de ketenlengte van een polymeer?",
+   "answers": {
+    "a": "Het aantal atomen in één monomeer",
+    "b": "Het aantal moleculen in het polymeer",
+    "c": "Het aantal monomeereenheden in één keten",
+    "d": "De massa van het polymeer"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

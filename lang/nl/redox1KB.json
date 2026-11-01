@@ -1,0 +1,265 @@
+{
+ "title": "Redox - 123 school",
+ "heading": "Redox",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Bij welke chemische reactie treedt elektronen overdracht plaats?",
+   "a": "Een redox reactie"
+  },
+  {
+   "q": "Welke binas tabel geeft de belangrijkste redox reacties?",
+   "a": "Binas 48"
+  },
+  {
+   "q": "Een reductor ….elektronen …",
+   "a": "Staat elektronen af"
+  },
+  {
+   "q": "Een oxidator ….elektronen …",
+   "a": "Neemt elektronen op"
+  },
+  {
+   "q": "Welke reactie is altijd een redox reactie?",
+   "a": "Verbrandingsreactie (oxidatie)"
+  },
+  {
+   "q": "Waar in tabel Binas 48 staan de sterke oxidatoren?",
+   "a": "Links boven staan de sterke oxidatoren"
+  },
+  {
+   "q": "Waar in tabel Binas 48 staan de sterke reductoren?",
+   "a": "Rechts onder staan de sterke reductoren"
+  },
+  {
+   "q": "Wat is Pb(s)?",
+   "a": "Het metaal lood"
+  },
+  {
+   "q": "Binas 48 geeft: Pb<sup>2+</sup> +  2e<sup>-</sup> <=> Pb(s). Wat is de oxidator",
+   "a": "Pb<sup>2+</sup>"
+  },
+  {
+   "q": "Pb<sup>2+</sup> en Pb(s) vormen een ….?",
+   "a": "Redox koppel"
+  },
+  {
+   "q": "Binas 48 geeft een aantal belangrijke redox reactie en hun standaard elektrode potentiaal. Onder welke omstandigheden vinden deze reactie plaats? Tabel 48 boven aan!",
+   "a": "in Volt (V) bij T = 298 kelvin en p = p<sub>0; in oplossing: ionen gehydrateerd; concentraties opgeloste deeltjes  1,000 mol/L; daar waar het niet staat aangegeven is de toestandsaanduidig (aq).</sub>"
+  },
+  {
+   "q": "Geef de reductie reactie van H<sup>+</sup> (Binas 48!)",
+   "a": "2H<sup>+</sup> + 2e<sup>-</sup> <=> H<sub>2</sub>(g)"
+  },
+  {
+   "q": "Wat is de standaard potentiaal (Binas 48) van het koppel H<sup>+</sup>/H<sub>2</sub>?",
+   "a": "Dat is 0"
+  },
+  {
+   "q": "Wat is de molecuulformule van waterstof gas?",
+   "a": "H<sub>2</sub>(g)"
+  },
+  {
+   "q": "Wat is de chemische notatie van ijzer?",
+   "a": "Fe(s)"
+  },
+  {
+   "q": "Geef de oxidatie reactie van ijzer (Binas 48)",
+   "a": "Fe(s) <=> Fe<sup>2+</sup> + 2e<sup>-</sup>"
+  },
+  {
+   "q": "Wat is de standaard potentiaal (Binas 48) van het koppel Fe<sup>2+</sup>/Fe(s)",
+   "a": "Dat -0, 45"
+  },
+  {
+   "q": "Wat is de standaard potentiaal voor  redox reactie van Fe(s) in een HCl oplossing? (gebruik BINAS tabel 48)",
+   "a": "Dat is 0-(-0, 45) = 0,45 Volt"
+  },
+  {
+   "q": "Gegeven is Fe(II)SO<sub>4</sub>, ijzer (II) sulfaat. Waar staat de de (II) voor?",
+   "a": "Voor Fe<sup>2+</sup>"
+  },
+  {
+   "q": "Geef de reactie die in Binas 48 staat voor een oplossing van ijzer(II)sulfaat",
+   "a": "Fe<sup>2+</sup> +  2e<sup>-</sup> <=> Fe(s). Let op: SO<sub>4</sub><sup>2-</sup> wordt niet gegeven dus doet er hier niet toe en schrijf je niet op."
+  },
+  {
+   "q": "Hoe heet de reactie waar bij Fe<sup>2+</sup> elektronen opneemt (oxidatie of reductie reactie)?",
+   "a": "Reductie reactie"
+  },
+  {
+   "q": "Wat is de oxidatie reactie van H<sub>2</sub>(g)",
+   "a": "H<sub>2</sub>(g) <=> 2H<sup>+</sup> + 2e<sup>-</sup>"
+  },
+  {
+   "q": "Wat is het potentiaal verschil tussen Fe<sup>2+</sup> en  H<sub>2</sub>(g)? (gebruik BINAS tabel 48)",
+   "a": "Binas 48: -0,45 - 0 = -0,45 Volt"
+  },
+  {
+   "q": "Treedt er een reactie op tussen Fe<sup>2+</sup> en  H<sub>2</sub>(g)? (gebruik BINAS tabel 48)",
+   "a": "Nee Fe<sup>2+</sup> is de oxidator en staat in Binas tabel 48 onder de reductor H<sub>2</sub>(g). Er treedt dus geen reactie op. Of zo: het verschil in elektropotentiaal is  -0,45 Volt, er kan dus geen energie vrij komen, het kost juist energie om deze reactie te bewerkstelligen."
+  },
+  {
+   "q": "Treedt er een reactie op tussen kopersulfaat en het metaal aluminium? (gebruik BINAS tabel 48)",
+   "a": "Cu<sup>2+</sup> is de oxidator en staat in Binas tabel 48 boven de reductor Al(s). Ja dus."
+  },
+  {
+   "q": "Geef de molecuulformule van het dichromaation",
+   "a": "Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Het dichromaation is een oxidator of reductor?",
+   "a": "Oxidator"
+  },
+  {
+   "q": "Geef de molecuulformule van ozon",
+   "a": "O<sub>3</sub>"
+  },
+  {
+   "q": "Geef de molecuulformule van 4 reductor metalen",
+   "a": "Mg, Al, Zn, Ni, Pb, Cu"
+  },
+  {
+   "q": "Geef het redox-kopel van voorgaande metalen.",
+   "a": "Mg/Mg<sup>2+</sup>, Al/Al<sup>3+</sup>, Zn/Zn<sup>2+</sup>, Ni/Ni<sup>2+</sup>, Pb/Pb<sup>2+</sup>, Cu/Cu<sup>2+</sup>"
+  },
+  {
+   "q": "Waterstofsulfide is een oxidator of reductor?",
+   "a": "reductor"
+  },
+  {
+   "q": "Geef de molecuulformule van zuurstof",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Zuurstof is een oxidator of reductor?",
+   "a": "oxidator"
+  },
+  {
+   "q": "Geef de chemische naam van MnO<sub>4</sub><sup>-</sup>",
+   "a": "permanganaation"
+  },
+  {
+   "q": "Geef de molecuulformule van het sulfietion",
+   "a": "SO<sub>3</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Geef de molecuulformule van oxidator metaalionen",
+   "a": "Mg<sup>2+</sup>, Al<sup>3+</sup>, Zn<sup>2+</sup>, Ni<sup>2+</sup>, Pb<sup>2+</sup>, Cu<sup>2+</sup>"
+  },
+  {
+   "q": "Schrijf de molecuul formule(s) op van een salpeterzuuroplossing",
+   "a": "NO<sub>3</sub><sup>-</sup> + H<sup>+</sup>"
+  },
+  {
+   "q": "Geef de molecuulformule van 5 reductoren",
+   "a": "Bijvoorbeeld: SO<sub>3</sub><sup>2-</sup>, Mg, Al, Zn, Pb, Cu, Cl<sup>-</sup>, F<sup>-</sup>, H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, H<sub>2</sub>S etc"
+  },
+  {
+   "q": "Geef de molecuulformule van min. 2 halogenen die als oxidator kunnen optreden",
+   "a": "F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>"
+  },
+  {
+   "q": "Een proton kan als reductor of oxidator reageren?",
+   "a": "oxidator"
+  },
+  {
+   "q": "Geef de molecuulformule van het zink ion",
+   "a": "Zn<sup>2+</sup>"
+  },
+  {
+   "q": "Geef de molecuulformule van het chloride  ion",
+   "a": "Cl<sup>-</sup>"
+  },
+  {
+   "q": "Wat is de sterkste oxidator in Binas 48",
+   "a": "Fluor"
+  },
+  {
+   "q": "Geef de half reactie van de sterkste oxidator in Binas 48",
+   "a": "F<sub>2</sub> (g) + 2e<sup>-</sup> <=> 2F <sup>-</sup>"
+  },
+  {
+   "q": "Wat is de sterkste reductor in Binas 48",
+   "a": "Lithium"
+  },
+  {
+   "q": "Geef de half reactie van de sterkste reductor in Binas 48",
+   "a": "Li (s) + e<sup>-</sup> <=> Li <sup>+</sup>"
+  },
+  {
+   "q": "Geef kloppende redox reactie van de sterkste oxidator en reductor in Binas 48",
+   "a": "2Li (s) +  F<sub>2</sub> (g) -> 2Li<sup>+</sup> + 2F<sup>-</sup>"
+  },
+  {
+   "q": "Welke type metalen onderscheiden we op basis van redox reactiviteit? Noem er van ieder 2.",
+   "a": "Edele metalen: Au en Ag; Onedele metalen: zink, ijzer, aluminium; zeer onedele metalen: lithium, natrium, kalium, calcium"
+  },
+  {
+   "q": "Omschrijf corrosie",
+   "a": "Aantasten van metalen door redox reactie met stoffen uit de lucht, met name zuurstof, water en zuren"
+  },
+  {
+   "q": "Waarom corroderen veel onedele matelen niet helemaal weg?",
+   "a": "Ze reageren zodanig dat er een metaal oxide of metaal hydroxide laag onstaat die ondoordringbaar is, waardoor de corrosie stopt"
+  },
+  {
+   "q": "Waarom roest ijzer wel helemaal weg?",
+   "a": "Er vormt zich een poreus oxide/hydroxide laagje waardoor de corrosie door gaat en de roest gaat bladeren"
+  },
+  {
+   "q": "Welke twee soorten bescherming van metalen bestaan er tegen corrosie",
+   "a": "Passieve en actieve"
+  },
+  {
+   "q": "Noem een actieve beschermingsmethode van een metaal",
+   "a": "Galvaniseren. Het aanbrengen van een laagje ander metaal."
+  },
+  {
+   "q": "Noem een passieve beschermingsmethode van een metaal",
+   "a": "Coaten of schilderen met lak of plastic"
+  },
+  {
+   "q": "Noem twee manieren om te galvaniseren.",
+   "a": "Onderdompelen in een vloeibaar metaal; elektrochemisch een laagje metaal aanbrengen"
+  },
+  {
+   "q": "Kun je galvaniseren met een onedeler metaal?",
+   "a": "Ja, bijvoorbeeld een zink laag op ijzer. Zink vormt zelf een zinkoxide laagje dat zowel het onderliggende zink als het ijzer beschermt"
+  },
+  {
+   "q": "Waarin verschillen edele, onedele en zeer onedele metalen zich in chemische termen/redox termen?",
+   "a": "Naarmate het metaal een sterkere reductor is, is het onedeler"
+  },
+  {
+   "q": "In zout water gaat corrosie sneller door dat het stroom geleidt; stalen zeeschepen kunnen we beschermen tegen corrosie door? Leg uit.",
+   "a": "Het aanbrengen van opofferingsmetaal: zink blokken aangebracht op het stalen onderschip; omdat ijzer iets edeler is dan zink, zal het zink eerst weg corroderen, daarna pas het ijzer"
+  },
+  {
+   "q": "Wat is een elektrochemische cel; leg uit.",
+   "a": "Een opstelling waarbij de oxidatie en reductie reactie gescheiden plaats vindt, waardoor er elektronen door een stroomdraad kunnen lopen om elektrische processen aan te drijven bijv een lamp"
+  },
+  {
+   "q": "Welke metalen worden gebruikt in een Daniell cel? Wat is de reductor en wat de oxidator?",
+   "a": "Koper, de oxidator Cu<sup>2+</sup>; Zink, de reductor Zn (s)"
+  },
+  {
+   "q": "Welk metaal lijkt te verdwijnen in een Daniell cel en welke groeit aan?",
+   "a": "Zink lijkt te verdwijnen, lost op als Zn <sup>2+</sup>; Koper lijkt uit het niets te ontstaan"
+  },
+  {
+   "q": "Welk metaal is de + en welke de - elektrode in een Daniell cel?",
+   "a": "Zink is de - elektrode, deze geeft elektronen af; Koper is de + elektrode deze geeft de elektronen door aan de koper-ionen in de oplossing"
+  },
+  {
+   "q": "Wat is een zout brug en waarom is deze nodig in een elektrochemische cel?",
+   "a": "Een zout brug is een verbinding tussen de reductor en de oxidator oplossing, nodig om de elektronen stroom te compenseren zodat de totale ladingsverschuiving nul is. Bijv. Een gel met KCl of NaCl"
+  },
+  {
+   "q": "Bestaan er onaantastbare of inerte elektroden? Wat zijn het dan wel en zo ja ken je er een?",
+   "a": "Ja bijvoorbeeld platina of koolstof elektroden, deze doen niet mee aan de optredende chemische reactie, ze geleiden enkel de elektrische stroom"
+  }
+ ]
+}

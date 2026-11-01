@@ -1,0 +1,347 @@
+{
+ "title": "Stoffen en mengsels - 123 school",
+ "heading": "Stoffen en mengsels",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Kleur, geur en kookpunt zijn…",
+   "answers": {
+    "a": "Stofeigenschappen",
+    "b": "Faseovergangen",
+    "c": "Mengsels",
+    "d": "Moleculen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet de kaart met informatie over de gevaarlijke eigenschappen van een stof?",
+   "answers": {
+    "a": "Weerkaart",
+    "b": "Flitskaart",
+    "c": "Chemiekaart",
+    "d": "Plattegrond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het smeltpunt?",
+   "answers": {
+    "a": "De temperatuur van de kamer",
+    "b": "De temperatuur waarbij een stof oplost",
+    "c": "De temperatuur waarbij een vloeistof gas wordt",
+    "d": "De temperatuur waarbij een vaste stof vloeibaar wordt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Het smeltpunt van een stof is hetzelfde als het…",
+   "answers": {
+    "a": "Kooktraject",
+    "b": "Stolpunt",
+    "c": "Smelttraject",
+    "d": "Kookpunt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het kookpunt?",
+   "answers": {
+    "a": "De temperatuur waarbij een vloeistof gas wordt",
+    "b": "De temperatuur waarbij een vaste stof vloeibaar wordt",
+    "c": "De temperatuur waarbij een stof oplost",
+    "d": "De temperatuur van de kamer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het kookpunt van alcohol (ethanol) in kelvin? (gebruik BINAS tabel 16)",
+   "answers": {
+    "a": "373 K",
+    "b": "159 K",
+    "c": "351 K",
+    "d": "105 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de formule voor dichtheid?",
+   "answers": {
+    "a": "dichtheid = volume : massa",
+    "b": "dichtheid = massa : volume",
+    "c": "dichtheid = massa − volume",
+    "d": "dichtheid = massa × volume"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een stof heeft een massa van 100 g en een volume van 50 cm<sup>3</sup>. Wat is de dichtheid?",
+   "answers": {
+    "a": "150 g/cm<sup>3</sup>",
+    "b": "0,5 g/cm<sup>3</sup>",
+    "c": "5000 g/cm<sup>3</sup>",
+    "d": "2 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de dichtheid van aluminium? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "8,96 g/cm<sup>3</sup>",
+    "b": "2,17 g/cm<sup>3</sup>",
+    "c": "2,70 g/cm<sup>3</sup>",
+    "d": "7,87 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een blokje hout drijft op water. Wat weet je dan?",
+   "answers": {
+    "a": "Hout lost op in water",
+    "b": "Hout heeft evenveel massa als water",
+    "c": "Hout heeft een grotere dichtheid dan water",
+    "d": "Hout heeft een kleinere dichtheid dan water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Drijft een blokje koper op water? Zoek de dichtheden op. (gebruik BINAS tabel 15 en 16)",
+   "answers": {
+    "a": "Nee, koper lost op in water",
+    "b": "Nee, koper heeft een grotere dichtheid dan water",
+    "c": "Ja, koper is een metaal en metaal drijft",
+    "d": "Ja, koper heeft een kleinere dichtheid dan water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet de faseovergang van vast naar gas?",
+   "answers": {
+    "a": "Sublimeren",
+    "b": "Rijpen",
+    "c": "Verdampen",
+    "d": "Smelten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke gebeurtenis is een chemische reactie?",
+   "answers": {
+    "a": "Het koken van water",
+    "b": "Het smelten van ijs",
+    "c": "Het roesten van ijzer",
+    "d": "Het drogen van wasgoed"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe zitten de moleculen in een vaste stof?",
+   "answers": {
+    "a": "Dicht op elkaar, maar ze kunnen schuiven",
+    "b": "In een rij",
+    "c": "Ver uit elkaar en ze bewegen vrij",
+    "d": "Dicht op elkaar op vaste plaatsen en ze trillen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er met de moleculen als je een stof verwarmt?",
+   "answers": {
+    "a": "Ze worden groter",
+    "b": "Ze gaan sneller bewegen",
+    "c": "Ze verdwijnen",
+    "d": "Ze worden zwaarder"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een zuivere stof?",
+   "answers": {
+    "a": "Een stof die uit één soort moleculen bestaat",
+    "b": "Een stof die uit meerdere soorten moleculen bestaat",
+    "c": "Een stof die je kunt drinken",
+    "d": "Een stof die niet kan smelten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is een mengsel?",
+   "answers": {
+    "a": "Aceton",
+    "b": "Lucht",
+    "c": "Diamant",
+    "d": "Kristalsuiker"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een stof smelt. De temperatuur blijft tijdens het smelten gelijk. Wat voor stof is dit?",
+   "answers": {
+    "a": "Een mengsel",
+    "b": "Een emulsie",
+    "c": "Een suspensie",
+    "d": "Een zuivere stof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een mengsel smelt. De temperatuur verandert tijdens het smelten. Hoe heet het temperatuurgebied waarin het mengsel smelt?",
+   "answers": {
+    "a": "Kooktraject",
+    "b": "Kookpunt",
+    "c": "Smelttraject",
+    "d": "Smeltpunt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je roert suiker door water. De suiker is niet meer te zien. Wat is er ontstaan?",
+   "answers": {
+    "a": "Een oplossing",
+    "b": "Een suspensie",
+    "c": "Een emulsie",
+    "d": "Een zuivere stof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je schudt krijtpoeder met water. Het water wordt troebel. Wat is er ontstaan?",
+   "answers": {
+    "a": "Een emulsie",
+    "b": "Een suspensie",
+    "c": "Een zuivere stof",
+    "d": "Een oplossing"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je schudt olie met water. Er ontstaan kleine druppels. Wat is er ontstaan?",
+   "answers": {
+    "a": "Een emulsie",
+    "b": "Een oplossing",
+    "c": "Een zuivere stof",
+    "d": "Een suspensie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doet een emulgator?",
+   "answers": {
+    "a": "Hij haalt vaste stof uit een mengsel",
+    "b": "Hij maakt van een oplossing een suspensie",
+    "c": "Hij verwarmt een mengsel",
+    "d": "Hij houdt een emulsie bij elkaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof werkt in mayonaise als emulgator?",
+   "answers": {
+    "a": "Suiker",
+    "b": "Zout",
+    "c": "Eigeel",
+    "d": "Olie"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Suiker is opgelost in water. Wat is het oplosmiddel?",
+   "answers": {
+    "a": "Water",
+    "b": "Lucht",
+    "c": "Suiker",
+    "d": "Suikerwater"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk oplosmiddel gebruik je om nagellak te verwijderen?",
+   "answers": {
+    "a": "Zeewater",
+    "b": "Water",
+    "c": "Aceton",
+    "d": "Azijn"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er bij een chemische reactie?",
+   "answers": {
+    "a": "De stoffen veranderen alleen van fase",
+    "b": "Beginstoffen verdwijnen en er ontstaan nieuwe stoffen",
+    "c": "Er verdwijnt niets",
+    "d": "De stoffen worden alleen gemengd"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe noem je de stoffen die bij een chemische reactie ontstaan?",
+   "answers": {
+    "a": "Beginstoffen",
+    "b": "Oplosmiddelen",
+    "c": "Mengsels",
+    "d": "Reactieproducten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waar staan de beginstoffen in een reactieschema?",
+   "answers": {
+    "a": "Achter de pijl",
+    "b": "Boven de pijl",
+    "c": "Voor de pijl",
+    "d": "Onder de pijl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk gevarensymbool hoort bij een bijtende stof?",
+   "answers": {
+    "a": "Giftig",
+    "b": "Corrosief",
+    "c": "Ontvlambaar",
+    "d": "Explosief"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke vlam van de brander gebruik je als pauzevlam?",
+   "answers": {
+    "a": "De gele vlam",
+    "b": "De rode vlam",
+    "c": "De blauwe vlam",
+    "d": "De kleurloze vlam"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doe je met overgebleven chemicaliën?",
+   "answers": {
+    "a": "Je proeft ze eerst",
+    "b": "Je bewaart ze in je zak",
+    "c": "Je doet ze terug in de fles",
+    "d": "Je doet ze nooit terug in de fles"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je laat een suspensie lang staan. Wat gebeurt er met de vaste stof?",
+   "answers": {
+    "a": "Die verandert in een gas",
+    "b": "Die verdampt",
+    "c": "Die zakt naar de bodem (bezinken)",
+    "d": "Die lost helemaal op"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het reactieschema van het verbranden van magnesium?",
+   "answers": {
+    "a": "magnesiumoxide → magnesium + zuurstof",
+    "b": "magnesium → zuurstof + magnesiumoxide",
+    "c": "zuurstof → magnesium + magnesiumoxide",
+    "d": "magnesium + zuurstof → magnesiumoxide"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

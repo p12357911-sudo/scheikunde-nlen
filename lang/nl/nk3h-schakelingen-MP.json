@@ -1,0 +1,349 @@
+{
+ "title": "Schakelingen - 123 school",
+ "heading": "Schakelingen",
+ "intro": [
+  "Alle gegevens die je nodig hebt staan in de vraag. Rond af op het juiste aantal cijfers."
+ ],
+ "questions": [
+  {
+   "question": "Hoe wordt een ampèremeter in een schakeling geplaatst?",
+   "answers": {
+    "a": "In serie met het onderdeel",
+    "b": "Los van de schakeling",
+    "c": "Parallel aan de batterij",
+    "d": "Parallel aan het onderdeel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe wordt een voltmeter in een schakeling geplaatst?",
+   "answers": {
+    "a": "In serie met het onderdeel",
+    "b": "Los van de schakeling",
+    "c": "Parallel aan het onderdeel",
+    "d": "In serie met de batterij"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de wet van Ohm?",
+   "answers": {
+    "a": "U = I / R",
+    "b": "U = R / I",
+    "c": "U = I + R",
+    "d": "U = I × R"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Door een weerstand van 12 Ω loopt 0,50 A. Hoe groot is de spanning?",
+   "answers": {
+    "a": "12,5 V",
+    "b": "6,0 V",
+    "c": "0,042 V",
+    "d": "24 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Over een weerstand staat 9,0 V en er loopt 0,30 A. Hoe groot is de weerstand?",
+   "answers": {
+    "a": "9,3 Ω",
+    "b": "0,033 Ω",
+    "c": "2,7 Ω",
+    "d": "30 Ω"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een verwarmingselement van 46 Ω staat aan 230 V. Hoe groot is de stroomsterkte?",
+   "answers": {
+    "a": "0,20 A",
+    "b": "184 A",
+    "c": "1,1 × 10<sup>4</sup> A",
+    "d": "5,0 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de eenheid van weerstand?",
+   "answers": {
+    "a": "Volt (V)",
+    "b": "Ampère (A)",
+    "c": "Watt (W)",
+    "d": "Ohm (Ω)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat geldt voor de stroomsterkte in een serieschakeling?",
+   "answers": {
+    "a": "De stroomsterkte is bij elk onderdeel nul",
+    "b": "De stroomsterkte verdeelt zich over de onderdelen",
+    "c": "De stroomsterkte is bij de eerste lamp het grootst",
+    "d": "De stroomsterkte is overal gelijk"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat geldt voor de spanning in een serieschakeling?",
+   "answers": {
+    "a": "De spanning is bij het laatste onderdeel het grootst",
+    "b": "De spanning is overal nul",
+    "c": "De bronspanning verdeelt zich over de onderdelen",
+    "d": "Elk onderdeel heeft de volle bronspanning"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat geldt voor de spanning over onderdelen die parallel zijn geschakeld?",
+   "answers": {
+    "a": "De spanning is bij elk onderdeel nul",
+    "b": "De spanning verdeelt zich over de onderdelen",
+    "c": "De spanningen zijn altijd verschillend",
+    "d": "Over elk onderdeel staat dezelfde spanning"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat geldt voor de stroomsterkte in een parallelschakeling?",
+   "answers": {
+    "a": "De totale stroom is de som van de stromen door de takken",
+    "b": "De stroom is in elke tak gelijk aan de totale stroom",
+    "c": "De stroom door de takken is altijd even groot",
+    "d": "De stroom verdwijnt in de eerste tak"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met de andere lampen als één lamp in een serieschakeling doorbrandt?",
+   "answers": {
+    "a": "De andere lampen blijven branden",
+    "b": "De andere lampen gaan feller branden",
+    "c": "Alle lampen gaan uit",
+    "d": "Alleen de lamp ernaast gaat uit"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er met de andere lampen als één lamp in een parallelschakeling doorbrandt?",
+   "answers": {
+    "a": "De andere lampen gaan uit na enkele seconden",
+    "b": "Alleen de eerste lamp blijft branden",
+    "c": "Alle lampen gaan uit",
+    "d": "De andere lampen blijven branden"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe zijn de apparaten in een huis aangesloten?",
+   "answers": {
+    "a": "Alleen in serie met de meter",
+    "b": "Parallel",
+    "c": "Zonder spanning",
+    "d": "In serie"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Twee weerstanden van 10 Ω en 15 Ω staan in serie. Wat is de vervangingsweerstand?",
+   "answers": {
+    "a": "25 Ω",
+    "b": "6,0 Ω",
+    "c": "150 Ω",
+    "d": "5,0 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Drie weerstanden van 8,0 Ω staan in serie. Wat is de vervangingsweerstand?",
+   "answers": {
+    "a": "8,0 Ω",
+    "b": "512 Ω",
+    "c": "24 Ω",
+    "d": "2,7 Ω"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Twee weerstanden van 6,0 Ω en 3,0 Ω staan parallel. Wat is de vervangingsweerstand? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)",
+   "answers": {
+    "a": "9,0 Ω",
+    "b": "2,0 Ω",
+    "c": "4,5 Ω",
+    "d": "18 Ω"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Twee gelijke weerstanden van 20 Ω staan parallel. Wat is de vervangingsweerstand?",
+   "answers": {
+    "a": "10 Ω",
+    "b": "40 Ω",
+    "c": "20 Ω",
+    "d": "400 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er met de vervangingsweerstand als je een extra weerstand parallel schakelt?",
+   "answers": {
+    "a": "De vervangingsweerstand wordt oneindig",
+    "b": "De vervangingsweerstand wordt kleiner",
+    "c": "De vervangingsweerstand wordt groter",
+    "d": "De vervangingsweerstand blijft gelijk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Twee weerstanden van 10 Ω en 15 Ω staan in serie op een bron van 12 V. Hoe groot is de stroomsterkte?",
+   "answers": {
+    "a": "0,0020 A",
+    "b": "0,48 A",
+    "c": "0,80 A",
+    "d": "2,1 A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Dezelfde schakeling: 10 Ω en 15 Ω in serie op 12 V, stroom 0,48 A. Hoe groot is de spanning over de weerstand van 10 Ω?",
+   "answers": {
+    "a": "12 V",
+    "b": "4,8 V",
+    "c": "0,048 V",
+    "d": "7,2 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een weerstand van 6,0 Ω en een weerstand van 12 Ω staan parallel op 12 V. Hoe groot is de totale stroomsterkte?",
+   "answers": {
+    "a": "1,0 A",
+    "b": "2,0 A",
+    "c": "3,0 A",
+    "d": "0,50 A"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In een parallelschakeling meten twee ampèremeters in de takken 0,30 A en 0,20 A. Hoe groot is de totale stroom?",
+   "answers": {
+    "a": "0,060 A",
+    "b": "0,10 A",
+    "c": "0,25 A",
+    "d": "0,50 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een serieschakeling meten twee voltmeters over twee lampen 4,0 V en 2,0 V. Hoe groot is de bronspanning?",
+   "answers": {
+    "a": "2,0 V",
+    "b": "8,0 V",
+    "c": "6,0 V",
+    "d": "3,0 V"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je schakelt twee batterijen van 1,5 V in serie. Hoe groot is de totale spanning?",
+   "answers": {
+    "a": "1,5 V",
+    "b": "2,25 V",
+    "c": "0,75 V",
+    "d": "3,0 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een lamp van 6,0 V heeft een vermogen van 3,0 W. Hoe groot is de stroomsterkte door de lamp? (P = U × I)",
+   "answers": {
+    "a": "2,0 A",
+    "b": "0,50 A",
+    "c": "18 A",
+    "d": "0,12 A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de weerstand van een dunne draad ten opzichte van een dikke draad (zelfde materiaal en lengte)?",
+   "answers": {
+    "a": "De weerstand is gelijk",
+    "b": "De dunne draad heeft een kleinere weerstand",
+    "c": "De dunne draad heeft geen weerstand",
+    "d": "De dunne draad heeft een grotere weerstand"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er met de weerstand van een draad als je de draad twee keer zo lang maakt?",
+   "answers": {
+    "a": "De weerstand wordt vier keer zo klein",
+    "b": "De weerstand blijft gelijk",
+    "c": "De weerstand wordt twee keer zo groot",
+    "d": "De weerstand wordt twee keer zo klein"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een NTC bij een hogere temperatuur?",
+   "answers": {
+    "a": "De weerstand wordt groter",
+    "b": "De weerstand wordt kleiner",
+    "c": "De weerstand blijft gelijk",
+    "d": "De weerstand wordt oneindig"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat doet een LDR als er meer licht op valt?",
+   "answers": {
+    "a": "De weerstand blijft gelijk",
+    "b": "De weerstand wordt oneindig",
+    "c": "De weerstand wordt kleiner",
+    "d": "De weerstand wordt groter"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarvoor gebruik je een schuifweerstand (variabele weerstand)?",
+   "answers": {
+    "a": "Om de weerstand en daarmee de stroomsterkte te regelen",
+    "b": "Om spanning te meten",
+    "c": "Om de batterij op te laden",
+    "d": "Om stroomsterkte te meten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat gebeurt er bij kortsluiting?",
+   "answers": {
+    "a": "De weerstand wordt heel groot",
+    "b": "De spanning wordt oneindig groot",
+    "c": "Er loopt een zeer grote stroom doordat de weerstand heel klein is",
+    "d": "Er loopt helemaal geen stroom"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Drie gelijke weerstanden van 30 Ω staan parallel. Wat is de vervangingsweerstand?",
+   "answers": {
+    "a": "10 Ω",
+    "b": "0,10 Ω",
+    "c": "90 Ω",
+    "d": "30 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk symbool hoort bij de eenheid ampère?",
+   "answers": {
+    "a": "V",
+    "b": "Ω",
+    "c": "W",
+    "d": "A"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

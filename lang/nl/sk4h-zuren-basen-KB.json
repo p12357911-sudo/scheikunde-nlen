@@ -1,0 +1,150 @@
+{
+ "title": "Zuren en basen - 123 school",
+ "heading": "Zuren en basen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een zuur?",
+   "a": "Een deeltje dat een H<sup>+</sup> kan afstaan"
+  },
+  {
+   "q": "Wat is een base?",
+   "a": "Een deeltje dat een H<sup>+</sup> kan opnemen"
+  },
+  {
+   "q": "Welke pH heeft een zure oplossing?",
+   "a": "Lager dan 7"
+  },
+  {
+   "q": "Welke pH heeft een neutrale oplossing bij 298 K?",
+   "a": "7"
+  },
+  {
+   "q": "Hoe groot is de [H<sup>+</sup>] in een oplossing met pH = 3?",
+   "a": "1,0 × 10<sup>-3</sup> mol/L: [H<sup>+</sup>] = 10**-pH = 10<sup>-3</sup>"
+  },
+  {
+   "q": "Bereken de pH van 0,010 mol/L zoutzuur (HCl).",
+   "a": "2,00: HCl is een sterk zuur, dus [H<sup>+</sup>] = 0,010 mol/L; pH = −log 0,010 = 2,00"
+  },
+  {
+   "q": "Bereken de pH van 0,0010 mol/L salpeterzuur (HNO<sub>3</sub>).",
+   "a": "3,00: HNO<sub>3</sub> is een sterk zuur, dus [H<sup>+</sup>] = 0,0010 mol/L; pH = −log 0,0010 = 3,00"
+  },
+  {
+   "q": "Bereken de pH van 0,010 mol/L natronloog (NaOH).",
+   "a": "12,00: NaOH is een sterke base, dus [OH<sup>-</sup>] = 0,010 mol/L; pOH = 2,00 en pH = 14 − 2,00 = 12,00"
+  },
+  {
+   "q": "Bereken de pH van 1,0 × 10<sup>-4</sup> mol/L natronloog (NaOH).",
+   "a": "10,00: [OH<sup>-</sup>] = 1,0 × 10<sup>-4</sup> mol/L; pOH = 4,00 en pH = 14 − 4,00 = 10,00"
+  },
+  {
+   "q": "Bereken de pH van 0,0050 mol/L bariumhydroxide, Ba(OH)<sub>2</sub> (een sterke base).",
+   "a": "12,00: Ba(OH)<sub>2</sub> → Ba<sup>2+</sup> + 2 OH<sup>-</sup>, dus [OH<sup>-</sup>] = 2 × 0,0050 = 0,010 mol/L; pOH = 2,00 en pH = 12,00"
+  },
+  {
+   "q": "Wat is het verband tussen pH en pOH bij 298 K?",
+   "a": "pH + pOH = 14"
+  },
+  {
+   "q": "Een oplossing heeft [H<sup>+</sup>] = 2,5 × 10<sup>-4</sup> mol/L. Bereken de pH.",
+   "a": "3,60: pH = −log (2,5 × 10<sup>-4</sup>) = 3,60"
+  },
+  {
+   "q": "Hoeveel keer zo groot is de [H<sup>+</sup>] bij pH = 2 dan bij pH = 4?",
+   "a": "100 keer: 2 pH-eenheden verschil is 10<sup>2</sup> = 100"
+  },
+  {
+   "q": "Een oplossing van een sterk zuur heeft pH = 2,0. Je verdunt de oplossing 10 keer met water. Wat is de nieuwe pH?",
+   "a": "3,0: de [H<sup>+</sup>] wordt 10 keer zo klein, dus de pH wordt 1 hoger"
+  },
+  {
+   "q": "Je verdunt 10 mL 1,0 mol/L HCl tot 100 mL. Wat is de nieuwe concentratie?",
+   "a": "0,10 mol/L: n = 0,010 L × 1,0 mol/L = 0,010 mol; c = 0,010 mol : 0,100 L = 0,10 mol/L"
+  },
+  {
+   "q": "Wat betekent het dat HCl een sterk zuur is?",
+   "a": "Alle HCl-moleculen staan hun H<sup>+</sup> af aan water"
+  },
+  {
+   "q": "Wat betekent het dat azijnzuur een zwak zuur is?",
+   "a": "Maar een klein deel van de moleculen staat een H<sup>+</sup> af (evenwicht)"
+  },
+  {
+   "q": "Welk van de volgende zuren is een sterk zuur? (gebruik BINAS tabel 49)",
+   "a": "HCl"
+  },
+  {
+   "q": "Wat is de notatie van een oplossing van het sterke zuur HNO<sub>3</sub>?",
+   "a": "H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq)"
+  },
+  {
+   "q": "Wat is de formule van salpeterzuur?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "Wat is het geconjugeerde zuur van NH<sub>3</sub>?",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Wat is de geconjugeerde base van HCO<sub>3</sub><sup>-</sup>?",
+   "a": "CO<sub>3</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Welk deeltje kan zowel als zuur als als base reageren (amfolyt)? (gebruik BINAS tabel 49)",
+   "a": "HCO<sub>3</sub><sup>-</sup>"
+  },
+  {
+   "q": "Wat is de reactievergelijking van de neutralisatie van zoutzuur met natronloog (in ionen)?",
+   "a": "H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Azijnzuur reageert met natronloog. Wat is de vergelijking van de zuur-basereactie?",
+   "a": "CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Ammoniak (NH<sub>3</sub>) reageert met zoutzuur. Wat is de vergelijking van de zuur-basereactie?",
+   "a": "NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)"
+  },
+  {
+   "q": "Je neutraliseert 25,0 mL zoutzuur met 20,0 mL 0,100 mol/L natronloog. Bereken de concentratie van het zoutzuur.",
+   "a": "0,0800 mol/L: n(NaOH) = 0,0200 L × 0,100 mol/L = 2,00 × 10<sup>-3</sup> mol = n(HCl); c = 2,00 × 10<sup>-3</sup> mol : 0,0250 L = 0,0800 mol/L"
+  },
+  {
+   "q": "Hoeveel mL 0,200 mol/L natronloog is nodig om 10,0 mL 0,100 mol/L zoutzuur te neutraliseren?",
+   "a": "5,00 mL: n(HCl) = 0,0100 × 0,100 = 1,00 × 10<sup>-3</sup> mol = n(NaOH); V = 1,00 × 10<sup>-3</sup> : 0,200 = 5,00 × 10<sup>-3</sup> L = 5,00 mL"
+  },
+  {
+   "q": "Hoeveel mL 0,200 mol/L natronloog is nodig om 20,0 mL 0,100 mol/L zwavelzuur (H<sub>2</sub>SO<sub>4</sub>) te neutraliseren?",
+   "a": "20,0 mL: n(H<sub>2</sub>SO<sub>4</sub>) = 0,0200 × 0,100 = 2,00 × 10<sup>-3</sup> mol; elke H<sub>2</sub>SO<sub>4</sub> geeft 2 H<sup>+</sup>, dus n(NaOH) = 4,00 × 10<sup>-3</sup> mol; V = 4,00 × 10<sup>-3</sup> : 0,200 = 0,0200 L = 20,0 mL"
+  },
+  {
+   "q": "Een zwak zuur HZ heeft Kz = 1,0 × 10<sup>-5</sup> en een concentratie van 0,10 mol/L. Bereken de pH. (Neem aan dat [H<sup>+</sup>] = [Z<sup>-</sup>] en dat [HZ] ≈ 0,10 mol/L.)",
+   "a": "3,00: Kz = [H<sup>+</sup>]<sup>2</sup> : 0,10, dus [H<sup>+</sup>] = wortel(1,0 × 10<sup>-5</sup> × 0,10) = 1,0 × 10<sup>-3</sup> mol/L; pH = 3,00"
+  },
+  {
+   "q": "Vier zuren hebben deze zuurconstanten: HA 1 × 10<sup>-3</sup>, HB 1 × 10<sup>-5</sup>, HC 1 × 10<sup>-8</sup>, HD 1 × 10<sup>-10</sup>. Welk zuur is het sterkst?",
+   "a": "HA: hoe groter de Kz, hoe sterker het zuur"
+  },
+  {
+   "q": "Welke kleur heeft lakmoes bij pH = 2? (gebruik BINAS tabel 52A)",
+   "a": "Rood"
+  },
+  {
+   "q": "Welke kleur heeft fenolftaleïne bij pH = 2? (gebruik BINAS tabel 52A)",
+   "a": "Kleurloos"
+  },
+  {
+   "q": "Leg uit waarom water een amfolyt is.",
+   "a": "Water kan een H<sup>+</sup> opnemen (H<sub>3</sub>O<sup>+</sup>) en een H<sup>+</sup> afstaan (OH<sup>-</sup>), dus het reageert als base én als zuur"
+  },
+  {
+   "q": "Wat gebeurt er met de pH als je een zure oplossing verdunt met water? Leg uit.",
+   "a": "De pH wordt hoger (richting 7), want de concentratie H<sup>+</sup> wordt kleiner"
+  }
+ ]
+}

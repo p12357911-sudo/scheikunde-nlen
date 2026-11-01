@@ -1,0 +1,158 @@
+{
+ "title": "Metalen - 123 school",
+ "heading": "Metalen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Noem drie eigenschappen die de meeste metalen hebben",
+   "a": "Bijvoorbeeld: glanzend, goede geleiding van warmte en elektriciteit, vervormbaar (kneedbaar en rekbaar), hoge dichtheid, vast bij kamertemperatuur"
+  },
+  {
+   "q": "Welk metaal is bij kamertemperatuur vloeibaar?",
+   "a": "Kwik (Hg)"
+  },
+  {
+   "q": "Waarom worden koperdraden gebruikt in elektriciteitskabels?",
+   "a": "Koper geleidt elektriciteit heel goed en is goed te vervormen"
+  },
+  {
+   "q": "Wat is een legering?",
+   "a": "Een mengsel van een metaal met een of meer andere stoffen (meestal ook metalen)"
+  },
+  {
+   "q": "Waaruit bestaat brons?",
+   "a": "Koper en tin"
+  },
+  {
+   "q": "Waaruit bestaat messing?",
+   "a": "Koper en zink"
+  },
+  {
+   "q": "Waaruit bestaat staal?",
+   "a": "IJzer met een klein beetje koolstof (en soms andere metalen)"
+  },
+  {
+   "q": "Waarom maakt men soms een legering in plaats van een zuiver metaal?",
+   "a": "De legering heeft betere eigenschappen, bijvoorbeeld harder of minder snel roesten"
+  },
+  {
+   "q": "Hoe heet het metaal in roestvrij staal dat de roest tegengaat?",
+   "a": "Chroom (met ook nikkel)"
+  },
+  {
+   "q": "Wat ontstaat er bij het verbranden van magnesium?",
+   "a": "Magnesiumoxide (MgO)"
+  },
+  {
+   "q": "Maak kloppend: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "Maak kloppend: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub> (links 4 Fe en 6 O, rechts 4 Fe en 6 O)"
+  },
+  {
+   "q": "Maak kloppend: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub> (links 4 Al en 6 O, rechts 4 Al en 6 O)"
+  },
+  {
+   "q": "Maak kloppend: Cu + O<sub>2</sub> → CuO",
+   "a": "2 Cu + O<sub>2</sub> → 2 CuO"
+  },
+  {
+   "q": "Maak kloppend: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "a": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Maak kloppend: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+   "a": "2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub> (links 2 Na, 4 H en 2 O, rechts 2 Na, 4 H en 2 O)"
+  },
+  {
+   "q": "Welk gas ontstaat als natrium reageert met water?",
+   "a": "Waterstof"
+  },
+  {
+   "q": "Wat is roest?",
+   "a": "IJzeroxide, dat ontstaat als ijzer reageert met zuurstof en water"
+  },
+  {
+   "q": "Wat is nodig om ijzer te laten roesten?",
+   "a": "Zuurstof en water"
+  },
+  {
+   "q": "Noem twee manieren om ijzer tegen roesten te beschermen",
+   "a": "Bijvoorbeeld: verven, een laagje zink (verzinken), een laagje olie of vet, een andere metaallaag (verchromen), een legering zoals roestvrij staal"
+  },
+  {
+   "q": "Wat is verzinken?",
+   "a": "Een ijzeren voorwerp bedekken met een laagje zink"
+  },
+  {
+   "q": "Waarom roest aluminium niet door?",
+   "a": "Er vormt zich aan het oppervlak een dun, dicht laagje aluminiumoxide dat het metaal beschermt"
+  },
+  {
+   "q": "Wat is een erts?",
+   "a": "Een gesteente waaruit je een metaal kunt winnen"
+  },
+  {
+   "q": "Welk metaal wordt in de hoogoven uit ijzererts gemaakt?",
+   "a": "IJzer"
+  },
+  {
+   "q": "Waarvoor wordt koolstof (cokes) in de hoogoven gebruikt?",
+   "a": "Cokes (koolstof) neemt zuurstof weg uit het erts. Het levert ook warmte."
+  },
+  {
+   "q": "Hoe heet het ijzer dat uit de hoogoven komt?",
+   "a": "Ruwijzer"
+  },
+  {
+   "q": "Waarom is recyclen van metalen belangrijk?",
+   "a": "Het bespaart grondstoffen en energie, en er is minder afval"
+  },
+  {
+   "q": "Welke metalen worden aangetrokken door een magneet?",
+   "a": "IJzer, nikkel en kobalt"
+  },
+  {
+   "q": "Een stuk koper heeft een massa van 89,6 g en een volume van 10,0 cm³. Wat is de dichtheid van koper?",
+   "a": "89,6 / 10,0 = 8,96 g/cm³"
+  },
+  {
+   "q": "Een blokje aluminium heeft een volume van 40 cm³. De dichtheid van aluminium is 2,7 g/cm³. Wat is de massa?",
+   "a": "2,7 × 40 = 108 g (1,1 × 10<sup>2</sup> g in 2 significante cijfers)",
+   "goed": [
+    "108 g",
+    "110 g",
+    "1,1 × 10^2 g"
+   ]
+  },
+  {
+   "q": "Een stuk ijzer van 156 g heeft een dichtheid van 7,8 g/cm³. Wat is het volume?",
+   "a": "156 / 7,8 = 20 cm³"
+  },
+  {
+   "q": "Welk metaal heeft de grootste dichtheid: aluminium (2,7 g/cm³), ijzer (7,9 g/cm³), lood (11,3 g/cm³) of zink (7,1 g/cm³)?",
+   "a": "Lood"
+  },
+  {
+   "q": "Een erts van 200 g bevat 140 g ijzeroxide (Fe<sub>2</sub>O<sub>3</sub>). Wat is het massapercentage ijzeroxide in het erts?",
+   "a": "140 / 200 × 100% = 70%"
+  },
+  {
+   "q": "In 500 g erts zit 8,0 massa% koper. Hoeveel gram koper zit er in het erts?",
+   "a": "0,080 × 500 = 40 g"
+  },
+  {
+   "q": "Wat is het symbool van lood?",
+   "a": "Pb"
+  },
+  {
+   "q": "Welk van deze metalen komt in de natuur vooral als erts voor en niet zuiver: goud of ijzer?",
+   "a": "IJzer, want ijzer reageert gemakkelijk met zuurstof; goud komt zuiver voor"
+  }
+ ]
+}

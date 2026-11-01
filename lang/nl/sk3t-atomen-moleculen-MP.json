@@ -1,0 +1,349 @@
+{
+ "title": "Atomen en moleculen - 123 school",
+ "heading": "Atomen en moleculen",
+ "intro": [
+  "Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een atoom?",
+   "answers": {
+    "a": "Een mengsel van twee soorten moleculen",
+    "b": "Een groep moleculen die samenklit",
+    "c": "Een bouwsteen waaruit moleculen zijn opgebouwd",
+    "d": "Een stof die niet kan reageren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een molecuul?",
+   "answers": {
+    "a": "Een deeltje dat uit twee of meer atomen is opgebouwd",
+    "b": "Het kleinste deeltje van een mengsel",
+    "c": "Een stof die uit één soort atomen bestaat en niet kan reageren",
+    "d": "Een deeltje dat uit één proton bestaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe noem je een stof waarvan alle atomen van dezelfde soort zijn?",
+   "answers": {
+    "a": "Een oplossing",
+    "b": "Een verbinding",
+    "c": "Een mengsel",
+    "d": "Een element (grondstof)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe noem je een stof waarvan de moleculen uit verschillende soorten atomen bestaan?",
+   "answers": {
+    "a": "Een verbinding",
+    "b": "Een suspensie",
+    "c": "Een legering",
+    "d": "Een element"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is water een element of een verbinding?",
+   "answers": {
+    "a": "Een element, want water is een zuivere stof",
+    "b": "Een element, want water bevat alleen zuurstofatomen",
+    "c": "Een mengsel, want water bevat twee soorten atomen",
+    "d": "Een verbinding, want een watermolecuul bevat waterstof- en zuurstofatomen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is zuurstofgas (O<sub>2</sub>) een element of een verbinding?",
+   "answers": {
+    "a": "Een verbinding, want zuurstofgas zit in de lucht",
+    "b": "Een element, want het molecuul bestaat uit één soort atomen",
+    "c": "Een mengsel van zuurstof en stikstof",
+    "d": "Een verbinding, want het molecuul bestaat uit twee atomen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van koolstof?",
+   "answers": {
+    "a": "C",
+    "b": "Cl",
+    "c": "K",
+    "d": "Ko"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van waterstof?",
+   "answers": {
+    "a": "He",
+    "b": "H",
+    "c": "Ho",
+    "d": "W"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van calcium?",
+   "answers": {
+    "a": "C",
+    "b": "Ca",
+    "c": "Cu",
+    "d": "Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van aluminium?",
+   "answers": {
+    "a": "Au",
+    "b": "Am",
+    "c": "A",
+    "d": "Al"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk element heeft het symbool Br?",
+   "answers": {
+    "a": "Broom",
+    "b": "Barium",
+    "c": "Brons",
+    "d": "Borium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van goud? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "answers": {
+    "a": "Au",
+    "b": "Ag",
+    "c": "G",
+    "d": "Go"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk gas hoort bij de edelgassen?",
+   "answers": {
+    "a": "Chloor",
+    "b": "Waterstof",
+    "c": "Zuurstof",
+    "d": "Helium, neon of argon (He, Ne, Ar)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molecuulformule van zuurstofgas?",
+   "answers": {
+    "a": "2O",
+    "b": "OO",
+    "c": "O<sub>2</sub>",
+    "d": "O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van methaan?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>",
+    "b": "CH<sub>2</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "C<sub>4</sub>H"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de molecuulformule van ammoniak?",
+   "answers": {
+    "a": "NH",
+    "b": "NH<sub>3</sub>",
+    "c": "N<sub>3</sub>H",
+    "d": "NH<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent de 2 in H<sub>2</sub>O?",
+   "answers": {
+    "a": "Er zijn 2 zuurstofatomen in het molecuul",
+    "b": "Er zijn 2 watermoleculen",
+    "c": "Er zijn 2 waterstofatomen in het molecuul",
+    "d": "Water is twee keer zo zwaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent de 3 in 3 CO<sub>2</sub>?",
+   "answers": {
+    "a": "Er zijn 3 soorten atomen",
+    "b": "Er zijn 3 zuurstofatomen in het molecuul",
+    "c": "Er zijn 3 moleculen koolstofdioxide",
+    "d": "Er zijn 3 koolstofatomen in het molecuul"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in één molecuul H<sub>2</sub>O?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in één molecuul CO<sub>2</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel zuurstofatomen zijn er in 3 CO<sub>2</sub>?",
+   "answers": {
+    "a": "2",
+    "b": "6",
+    "c": "9",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel soorten atomen zitten er in C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "9",
+    "b": "2",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel atomen zitten er in een molecuul glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "answers": {
+    "a": "12",
+    "b": "6",
+    "c": "18",
+    "d": "24"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een molecuul bestaat uit 1 koolstofatoom en 2 zuurstofatomen. Wat is de molecuulformule?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "CO",
+    "c": "C<sub>2</sub>O",
+    "d": "C<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een molecuul bestaat uit 2 atomen waterstof en 1 atoom zuurstof. Wat is de molecuulformule?",
+   "answers": {
+    "a": "H<sub>2</sub>O<sub>3</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "HO<sub>2</sub>",
+    "d": "H<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van CO? Let op de voorvoegsels.",
+   "answers": {
+    "a": "Koolstofoxide-1",
+    "b": "Monokoolstof",
+    "c": "Koolstofmono-oxide",
+    "d": "Koolstofdioxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van SO<sub>2</sub>?",
+   "answers": {
+    "a": "Zwavelmono-oxide",
+    "b": "Zuurstofzwavel",
+    "c": "Zwaveltrioxide",
+    "d": "Zwaveldioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van distikstoftetraoxide?",
+   "answers": {
+    "a": "NO<sub>4</sub>",
+    "b": "N<sub>4</sub>O<sub>2</sub>",
+    "c": "N<sub>2</sub>O<sub>2</sub>",
+    "d": "N<sub>2</sub>O<sub>4</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molecuulmassa van H<sub>2</sub>O? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "answers": {
+    "a": "18,0 u",
+    "b": "17,0 u",
+    "c": "34,0 u",
+    "d": "16,0 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molecuulmassa van CO<sub>2</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "answers": {
+    "a": "40,0 u",
+    "b": "56,0 u",
+    "c": "28,0 u",
+    "d": "44,0 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de molecuulmassa van NH<sub>3</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "answers": {
+    "a": "18,0 u",
+    "b": "17,0 u",
+    "c": "15,0 u",
+    "d": "16,0 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molecuulmassa van H<sub>2</sub>SO<sub>4</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "answers": {
+    "a": "98,1 u",
+    "b": "66,1 u",
+    "c": "82,1 u",
+    "d": "50,1 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molecuulmassa van Cl<sub>2</sub>? Atoommassa's: H = 1,0 u; C = 12,0 u; N = 14,0 u; O = 16,0 u; Cl = 35,5 u; S = 32,1 u.",
+   "answers": {
+    "a": "70,0 u",
+    "b": "71,0 u",
+    "c": "36,5 u",
+    "d": "35,5 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de atoommassa van koolstof? (gebruik BINAS tabel 34, het periodiek systeem)",
+   "answers": {
+    "a": "Ongeveer 6 u",
+    "b": "Ongeveer 14 u",
+    "c": "Ongeveer 12 u (12,0 u)",
+    "d": "Ongeveer 1 u"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

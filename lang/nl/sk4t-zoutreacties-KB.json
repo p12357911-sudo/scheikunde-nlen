@@ -1,0 +1,150 @@
+{
+ "title": "Zoutreacties - 123 school",
+ "heading": "Zoutreacties",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een neerslagreactie?",
+   "a": "Twee oplossingen reageren met elkaar en er ontstaat een vaste stof"
+  },
+  {
+   "q": "Wat is een neerslag?",
+   "a": "Een vaste stof die ontstaat in een oplossing en naar beneden zakt"
+  },
+  {
+   "q": "Hoe kun je voorspellen of er een neerslag ontstaat als je twee zoutoplossingen mengt?",
+   "a": "Je zoekt in Binas tabel 35 of een combinatie van een positief ion en een negatief ion slecht oplosbaar is"
+  },
+  {
+   "q": "Is AgCl goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "a": "Slecht oplosbaar"
+  },
+  {
+   "q": "Is BaSO<sub>4</sub> goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "a": "Slecht oplosbaar"
+  },
+  {
+   "q": "Is NaCl goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "a": "Goed oplosbaar"
+  },
+  {
+   "q": "Welke ionen zorgen er altijd voor dat een zout goed oplost?",
+   "a": "Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> en NO<sub>3</sub><sup>−</sup>. Een zout met een van deze ionen lost goed op"
+  },
+  {
+   "q": "Wat zijn tribune-ionen?",
+   "a": "Ionen die niet meedoen aan de reactie en opgelost blijven"
+  },
+  {
+   "q": "Je mengt oplossingen van loodnitraat (Pb(NO<sub>3</sub>)<sub>2</sub>) en kaliumjodide (KI). Er ontstaat een neerslag van PbI<sub>2</sub>. Welke ionen zijn de tribune-ionen?",
+   "a": "K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op van het ontstaan van het neerslag loodjodide uit ionen.",
+   "a": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (s)"
+  },
+  {
+   "q": "Je mengt zilvernitraat en natriumchloride. Wat is de reactievergelijking van het neerslag dat ontstaat?",
+   "a": "Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (s)"
+  },
+  {
+   "q": "Je mengt bariumchloride (BaCl<sub>2</sub>) en natriumsulfaat (Na<sub>2</sub>SO<sub>4</sub>). Welk neerslag ontstaat?",
+   "a": "Bariumsulfaat"
+  },
+  {
+   "q": "Schrijf de volledige reactievergelijking op voor het mengen van BaCl<sub>2</sub> (aq) en Na<sub>2</sub>SO<sub>4</sub> (aq).",
+   "a": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + 2 NaCl (aq)"
+  },
+  {
+   "q": "Het neerslag bariumsulfaat bestaat uit ionen in een rooster. Schrijf je dat neerslag in een reactievergelijking met of zonder ladingen? Geef de formule.",
+   "a": "Zonder ladingen: BaSO<sub>4</sub> (s)"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op van het ontstaan van het neerslag calciumcarbonaat uit ionen.",
+   "a": "Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (s)"
+  },
+  {
+   "q": "Welke ionen zorgen ervoor dat water hard is?",
+   "a": "Ca<sup>2+</sup> en Mg<sup>2+</sup> ionen"
+  },
+  {
+   "q": "Waaruit bestaat kalkaanslag in een waterkoker?",
+   "a": "CaCO<sub>3</sub>"
+  },
+  {
+   "q": "Je voegt soda (Na<sub>2</sub>CO<sub>3</sub>) toe aan hard water. Wat gebeurt er met de Ca<sup>2+</sup> ionen?",
+   "a": "Ze vormen met CO<sub>3</sub><sup>2−</sup> een neerslag van CaCO<sub>3</sub> en zijn uit het water"
+  },
+  {
+   "q": "Hoe kun je Pb<sup>2+</sup> ionen uit afvalwater halen?",
+   "a": "Een oplossing toevoegen waarmee een slecht oplosbaar loodzout ontstaat (een neerslag) en dan filtreren"
+  },
+  {
+   "q": "Welke reactievergelijking beschrijft het verwijderen van Fe<sup>3+</sup> ionen met kalkwater (OH<sup>−</sup> ionen)?",
+   "a": "Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (s)"
+  },
+  {
+   "q": "Waarom kun je nitraat-ionen (NO<sub>3</sub><sup>−</sup>) niet als neerslag uit water halen?",
+   "a": "Nitraten zijn goed oplosbaar, dus er ontstaat nooit een neerslag"
+  },
+  {
+   "q": "Hoe toon je chloride-ionen aan in een oplossing?",
+   "a": "Je voegt zilvernitraat toe; er ontstaat een wit neerslag van AgCl"
+  },
+  {
+   "q": "Hoe toon je sulfaat-ionen aan in een oplossing?",
+   "a": "Je voegt bariumchloride toe; er ontstaat een wit neerslag van BaSO<sub>4</sub>"
+  },
+  {
+   "q": "Hoe toon je koolstofdioxide aan, en welke reactie vindt dan plaats?",
+   "a": "Je leidt het gas door kalkwater: het wordt troebel door het neerslag CaCO<sub>3</sub>. Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Welke twee oplossingen meng je om het slecht oplosbare zout zilverchloride te maken?",
+   "a": "Zilvernitraat en natriumchloride"
+  },
+  {
+   "q": "Hoe scheid je het neerslag van de oplossing?",
+   "a": "Door te filtreren; het neerslag blijft achter als residu"
+  },
+  {
+   "q": "Hoe krijg je het opgeloste zout (met de tribune-ionen) uit het filtraat terug?",
+   "a": "Door het filtraat in te dampen"
+  },
+  {
+   "q": "Je mengt oplossingen van natriumsulfaat en kaliumnitraat. Ontstaat er een neerslag?",
+   "a": "Nee, alle mogelijke zouten lossen goed op"
+  },
+  {
+   "q": "Schrijf de volledige reactievergelijking op voor het mengen van Pb(NO<sub>3</sub>)<sub>2</sub> (aq) en KI (aq).",
+   "a": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (s) + 2 KNO<sub>3</sub> (aq)"
+  },
+  {
+   "q": "Wat is de formule van het zout dat bestaat uit Ca<sup>2+</sup> en PO<sub>4</sub><sup>3−</sup> ionen?",
+   "a": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op voor het oplossen van calciumchloride in water.",
+   "a": "CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op voor het oplossen van aluminiumsulfaat (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) in water.",
+   "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2−</sup> (aq)"
+  },
+  {
+   "q": "Schrijf de reactievergelijking op voor het oplossen van natriumcarbonaat in water.",
+   "a": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)"
+  },
+  {
+   "q": "Hoeveel ionen ontstaan er als één formule-eenheid CaCl<sub>2</sub> oplost?",
+   "a": "3 ionen: 1 Ca<sup>2+</sup> en 2 Cl<sup>−</sup>"
+  },
+  {
+   "q": "Hoe zie je in een reactievergelijking dat er een neerslag ontstaat?",
+   "a": "Achter de formule van de stof staat (s), bijvoorbeeld AgCl (s)"
+  }
+ ]
+}

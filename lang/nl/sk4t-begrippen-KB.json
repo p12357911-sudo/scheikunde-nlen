@@ -1,0 +1,826 @@
+{
+ "title": "Begrippen scheikunde - 123 school",
+ "heading": "Begrippen scheikunde",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'.",
+  "Deze begrippen leer je uit je hoofd. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "q": "Wat is de naam van het element met het symbool Na?",
+   "a": "natrium"
+  },
+  {
+   "q": "Wat is het symbool van natrium?",
+   "a": "Na"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool K?",
+   "a": "kalium"
+  },
+  {
+   "q": "Wat is het symbool van kalium?",
+   "a": "K"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Li?",
+   "a": "lithium"
+  },
+  {
+   "q": "Wat is het symbool van lithium?",
+   "a": "Li"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Ca?",
+   "a": "calcium"
+  },
+  {
+   "q": "Wat is het symbool van calcium?",
+   "a": "Ca"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Mg?",
+   "a": "magnesium"
+  },
+  {
+   "q": "Wat is het symbool van magnesium?",
+   "a": "Mg"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Al?",
+   "a": "aluminium"
+  },
+  {
+   "q": "Wat is het symbool van aluminium?",
+   "a": "Al"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Fe?",
+   "a": "ijzer"
+  },
+  {
+   "q": "Wat is het symbool van ijzer?",
+   "a": "Fe"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Cu?",
+   "a": "koper"
+  },
+  {
+   "q": "Wat is het symbool van koper?",
+   "a": "Cu"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Pb?",
+   "a": "lood"
+  },
+  {
+   "q": "Wat is het symbool van lood?",
+   "a": "Pb"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Ag?",
+   "a": "zilver"
+  },
+  {
+   "q": "Wat is het symbool van zilver?",
+   "a": "Ag"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Sn?",
+   "a": "tin"
+  },
+  {
+   "q": "Wat is het symbool van tin?",
+   "a": "Sn"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Zn?",
+   "a": "zink"
+  },
+  {
+   "q": "Wat is het symbool van zink?",
+   "a": "Zn"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool F?",
+   "a": "fluor"
+  },
+  {
+   "q": "Wat is het symbool van fluor?",
+   "a": "F"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Cl?",
+   "a": "chloor"
+  },
+  {
+   "q": "Wat is het symbool van chloor?",
+   "a": "Cl"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool Br?",
+   "a": "broom"
+  },
+  {
+   "q": "Wat is het symbool van broom?",
+   "a": "Br"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool I?",
+   "a": "jood"
+  },
+  {
+   "q": "Wat is het symbool van jood?",
+   "a": "I"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool N?",
+   "a": "stikstof"
+  },
+  {
+   "q": "Wat is het symbool van stikstof?",
+   "a": "N"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool O?",
+   "a": "zuurstof"
+  },
+  {
+   "q": "Wat is het symbool van zuurstof?",
+   "a": "O"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool P?",
+   "a": "fosfor"
+  },
+  {
+   "q": "Wat is het symbool van fosfor?",
+   "a": "P"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool C?",
+   "a": "koolstof"
+  },
+  {
+   "q": "Wat is het symbool van koolstof?",
+   "a": "C"
+  },
+  {
+   "q": "Wat is de naam van het element met het symbool H?",
+   "a": "waterstof"
+  },
+  {
+   "q": "Wat is het symbool van waterstof?",
+   "a": "H"
+  },
+  {
+   "q": "Welke lading heeft het ion van natrium (Na)?",
+   "a": "1+"
+  },
+  {
+   "q": "Welk ion hoort bij natrium?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van kalium (K)?",
+   "a": "1+"
+  },
+  {
+   "q": "Welk ion hoort bij kalium?",
+   "a": "K<sup>+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van lithium (Li)?",
+   "a": "1+"
+  },
+  {
+   "q": "Welk ion hoort bij lithium?",
+   "a": "Li<sup>+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van calcium (Ca)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij calcium?",
+   "a": "Ca<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van magnesium (Mg)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij magnesium?",
+   "a": "Mg<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van aluminium (Al)?",
+   "a": "3+"
+  },
+  {
+   "q": "Welk ion hoort bij aluminium?",
+   "a": "Al<sup>3+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van koper (Cu)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij koper?",
+   "a": "Cu<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van lood (Pb)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij lood?",
+   "a": "Pb<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van zilver (Ag)?",
+   "a": "1+"
+  },
+  {
+   "q": "Welk ion hoort bij zilver?",
+   "a": "Ag<sup>+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van tin (Sn)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij tin?",
+   "a": "Sn<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van zink (Zn)?",
+   "a": "2+"
+  },
+  {
+   "q": "Welk ion hoort bij zink?",
+   "a": "Zn<sup>2+</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van fluor (F)?",
+   "a": "1−"
+  },
+  {
+   "q": "Welk ion hoort bij fluor?",
+   "a": "F<sup>−</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van chloor (Cl)?",
+   "a": "1−"
+  },
+  {
+   "q": "Welk ion hoort bij chloor?",
+   "a": "Cl<sup>−</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van broom (Br)?",
+   "a": "1−"
+  },
+  {
+   "q": "Welk ion hoort bij broom?",
+   "a": "Br<sup>−</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van jood (I)?",
+   "a": "1−"
+  },
+  {
+   "q": "Welk ion hoort bij jood?",
+   "a": "I<sup>−</sup>"
+  },
+  {
+   "q": "Welke lading heeft het ion van ijzer?",
+   "a": "2+ of 3+ (ijzer(II) is groen, ijzer(III) is bruin)"
+  },
+  {
+   "q": "Welke kleur heeft koper(II) (Cu<sup>2+</sup>) in je lijst?",
+   "a": "blauw"
+  },
+  {
+   "q": "Wat is de naam van het ion S<sup>2−</sup>?",
+   "a": "sulfide"
+  },
+  {
+   "q": "Wat is de naam van het ion O<sup>2−</sup>?",
+   "a": "oxide"
+  },
+  {
+   "q": "Wat is de naam van het ion F<sup>−</sup>?",
+   "a": "fluoride"
+  },
+  {
+   "q": "Wat is de naam van het ion Cl<sup>−</sup>?",
+   "a": "chloride"
+  },
+  {
+   "q": "Wat is de naam van het ion Br<sup>−</sup>?",
+   "a": "bromide"
+  },
+  {
+   "q": "Wat is de naam van het ion I<sup>−</sup>?",
+   "a": "jodide"
+  },
+  {
+   "q": "Welke stof is Fe(II)S?",
+   "a": "ijzersulfide"
+  },
+  {
+   "q": "Welke stof is CuO?",
+   "a": "koperoxide"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion CO<sub>3</sub><sup>2−</sup>?",
+   "a": "carbonaat-ion"
+  },
+  {
+   "q": "Wat is de formule van het carbonaat-ion?",
+   "a": "CO<sub>3</sub><sup>2−</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion NO<sub>3</sub><sup>−</sup>?",
+   "a": "nitraat-ion"
+  },
+  {
+   "q": "Wat is de formule van het nitraat-ion?",
+   "a": "NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion NO<sub>2</sub><sup>−</sup>?",
+   "a": "nitriet-ion"
+  },
+  {
+   "q": "Wat is de formule van het nitriet-ion?",
+   "a": "NO<sub>2</sub><sup>−</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion PO<sub>4</sub><sup>3−</sup>?",
+   "a": "fosfaat-ion"
+  },
+  {
+   "q": "Wat is de formule van het fosfaat-ion?",
+   "a": "PO<sub>4</sub><sup>3−</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion NH<sub>4</sub><sup>+</sup>?",
+   "a": "ammonium-ion"
+  },
+  {
+   "q": "Wat is de formule van het ammonium-ion?",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion SO<sub>3</sub><sup>2−</sup>?",
+   "a": "sulfiet-ion"
+  },
+  {
+   "q": "Wat is de formule van het sulfiet-ion?",
+   "a": "SO<sub>3</sub><sup>2−</sup>"
+  },
+  {
+   "q": "Hoe heet het samengestelde ion SO<sub>4</sub><sup>2−</sup>?",
+   "a": "sulfaat-ion"
+  },
+  {
+   "q": "Wat is de formule van het sulfaat-ion?",
+   "a": "SO<sub>4</sub><sup>2−</sup>"
+  },
+  {
+   "q": "Hoe heten de elementen uit groep 1 van het periodiek systeem?",
+   "a": "alkalimetalen"
+  },
+  {
+   "q": "Welke groep van het periodiek systeem heet alkalimetalen?",
+   "a": "groep 1"
+  },
+  {
+   "q": "Hoe heten de elementen uit groep 2 van het periodiek systeem?",
+   "a": "aardalkalimetalen"
+  },
+  {
+   "q": "Welke groep van het periodiek systeem heet aardalkalimetalen?",
+   "a": "groep 2"
+  },
+  {
+   "q": "Hoe heten de elementen uit groep 17 van het periodiek systeem?",
+   "a": "halogenen"
+  },
+  {
+   "q": "Welke groep van het periodiek systeem heet halogenen?",
+   "a": "groep 17"
+  },
+  {
+   "q": "Van welk ion lossen alle zouten goed op?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "Van welk samengesteld ion lossen alle zouten goed op?",
+   "a": "NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "Noem twee ionen waarvan alle zouten goed oplossen",
+   "a": "bijvoorbeeld Na<sup>+</sup>, K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "Welk gas is giftig?",
+   "a": "koolstofmonoxide (CO)"
+  },
+  {
+   "q": "Wat is de formule van koolstofmonoxide?",
+   "a": "CO"
+  },
+  {
+   "q": "Welke formule hoort bij het gas zuurstof dat we inademen met de lucht?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Welke formule hoort bij het gas stikstof dat we inademen met de lucht?",
+   "a": "N<sub>2</sub>"
+  },
+  {
+   "q": "Welk gas geeft in water zuurvorming?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Wat zijn koolwaterstoffen?",
+   "a": "moleculen die voornamelijk C-atomen en H-atomen bevatten"
+  },
+  {
+   "q": "Uit welke twee atoomsoorten bestaan koolwaterstoffen voornamelijk?",
+   "a": "koolstof (C) en waterstof (H)"
+  },
+  {
+   "q": "Wat is de kleinste koolwaterstof?",
+   "a": "methaan"
+  },
+  {
+   "q": "Welke stof hoort bij de formule H<sub>2</sub>O?",
+   "a": "water"
+  },
+  {
+   "q": "Wat is de formule van water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Welke stof hoort bij de formule CH<sub>4</sub>?",
+   "a": "methaan"
+  },
+  {
+   "q": "Wat is de formule van methaan?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "Welke stof hoort bij de formule CO<sub>2</sub>?",
+   "a": "koolstofdioxide"
+  },
+  {
+   "q": "Wat is de formule van koolstofdioxide?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Wat is de naam van het zuur met formule H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "zwavelzuur"
+  },
+  {
+   "q": "Wat is de formule van zwavelzuur?",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "Wat is de naam van het zuur met formule HNO<sub>3</sub>?",
+   "a": "salpeterzuur"
+  },
+  {
+   "q": "Wat is de formule van salpeterzuur?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de naam van het zuur met formule HCl?",
+   "a": "zoutzuur"
+  },
+  {
+   "q": "Wat is de formule van zoutzuur?",
+   "a": "HCl"
+  },
+  {
+   "q": "Wat is de naam van het zuur met formule HAc?",
+   "a": "azijnzuur"
+  },
+  {
+   "q": "Wat is de formule van azijnzuur?",
+   "a": "HAc"
+  },
+  {
+   "q": "Wat is de naam van de stof met formule NH<sub>3</sub>?",
+   "a": "ammoniak"
+  },
+  {
+   "q": "Wat is de formule van ammoniak?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de naam van de stof met formule KOH?",
+   "a": "kaliloog"
+  },
+  {
+   "q": "Wat is de formule van kaliloog?",
+   "a": "KOH"
+  },
+  {
+   "q": "Wat is de naam van de stof met formule NaOH?",
+   "a": "natronloog"
+  },
+  {
+   "q": "Wat is de formule van natronloog?",
+   "a": "NaOH"
+  },
+  {
+   "q": "Wat is de naam van de stof met formule Ca(OH)<sub>2</sub>?",
+   "a": "calciumhydroxide"
+  },
+  {
+   "q": "Wat is de formule van calciumhydroxide?",
+   "a": "Ca(OH)<sub>2</sub>"
+  },
+  {
+   "q": "Welke formule hoort bij kalk en marmer?",
+   "a": "CaCO<sub>3</sub>"
+  },
+  {
+   "q": "Wat is de naam van een oplossing van Ca(OH)<sub>2</sub> in water?",
+   "a": "kalkwater"
+  },
+  {
+   "q": "Hoe schrijf je op dat HCl oplost in water?",
+   "a": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Hoe schrijf je op dat NaOH oplost in water?",
+   "a": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Welke deeltjes zitten er in keukenzout dat is opgelost in water?",
+   "a": "Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Hoe heet de stof NaCl in het dagelijks leven?",
+   "a": "keukenzout (triviale naam)"
+  },
+  {
+   "q": "Is HCl een zuur, een base of een zout?",
+   "a": "een zuur"
+  },
+  {
+   "q": "Is NaOH een zuur, een base of een zout?",
+   "a": "een base"
+  },
+  {
+   "q": "Is KOH een zuur, een base of een zout?",
+   "a": "een base"
+  },
+  {
+   "q": "Is NaCl een zuur, een base of een zout?",
+   "a": "een zout"
+  },
+  {
+   "q": "Is CaCO<sub>3</sub> een zuur, een base of een zout?",
+   "a": "een zout"
+  },
+  {
+   "q": "Wat is de pH van een neutrale oplossing?",
+   "a": "7"
+  },
+  {
+   "q": "Wat is een pH van 14?",
+   "a": "basisch"
+  },
+  {
+   "q": "Wat is een pH van 1?",
+   "a": "zuur"
+  },
+  {
+   "q": "Tussen welke getallen loopt de pH-schaal in je lijst?",
+   "a": "1 en 14"
+  },
+  {
+   "q": "Hoe heet het ion H<sup>+</sup>?",
+   "a": "waterstof-ion (proton)"
+  },
+  {
+   "q": "Hoe heet het ion OH<sup>−</sup>?",
+   "a": "hydroxide-ion"
+  },
+  {
+   "q": "Wat ontstaat er als je H<sup>+</sup> en OH<sup>−</sup> in de verhouding 1 : 1 mengt?",
+   "a": "neutraal water"
+  },
+  {
+   "q": "Geef de reactievergelijking voor het mengen van H<sup>+</sup> en OH<sup>−</sup> in de verhouding 1 : 1",
+   "a": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Wat zit er veel in een zure oplossing?",
+   "a": "veel H<sup>+</sup> en weinig OH<sup>−</sup>"
+  },
+  {
+   "q": "Waar staat (s) achter een stofnaam voor?",
+   "a": "vast (solid)"
+  },
+  {
+   "q": "Welke fase-aanduiding hoort bij: vast (solid)?",
+   "a": "(s)"
+  },
+  {
+   "q": "Waar staat (l) achter een stofnaam voor?",
+   "a": "vloeibaar (liquid)"
+  },
+  {
+   "q": "Welke fase-aanduiding hoort bij: vloeibaar (liquid)?",
+   "a": "(l)"
+  },
+  {
+   "q": "Waar staat (g) achter een stofnaam voor?",
+   "a": "gas"
+  },
+  {
+   "q": "Welke fase-aanduiding hoort bij: gas?",
+   "a": "(g)"
+  },
+  {
+   "q": "Waar staat (aq) achter een stofnaam voor?",
+   "a": "in water opgelost (aqua)"
+  },
+  {
+   "q": "Welke fase-aanduiding hoort bij: in water opgelost (aqua)?",
+   "a": "(aq)"
+  },
+  {
+   "q": "Noem de zes faseovergangen",
+   "a": "stollen, smelten, rijpen, sublimeren (vervluchtigen), verdampen, condenseren"
+  },
+  {
+   "q": "Hoeveel faseovergangen zijn er?",
+   "a": "6"
+  },
+  {
+   "q": "Hoe heet de alledaagse naam van een stof, zoals keukenzout?",
+   "a": "triviale naam"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de triviale namen en de chemische namen van stoffen?",
+   "a": "Binas tabel 42"
+  },
+  {
+   "q": "In welke Binas-tabel vind je het periodiek systeem?",
+   "a": "Binas tabel 34"
+  },
+  {
+   "q": "Wat is de ezelsbrug voor de scheidingsmethoden?",
+   "a": "Bart & Anne Eten Dikke Friet In Amsterdam"
+  },
+  {
+   "q": "Noem alle scheidingsmethoden uit de ezelsbrug",
+   "a": "Bezinken, afgieten, extraheren, destilleren, filtreren, indampen, adsorberen"
+  },
+  {
+   "q": "Hoeveel scheidingsmethoden staan er in de ezelsbrug?",
+   "a": "7"
+  },
+  {
+   "q": "Welke scheidingsmethode hoort bij de letter D in de ezelsbrug ‘Bart & Anne Eten Dikke Friet In Amsterdam’?",
+   "a": "Destilleren"
+  },
+  {
+   "q": "Welke scheidingsmethode hoort bij de letter F in de ezelsbrug ‘Bart & Anne Eten Dikke Friet In Amsterdam’?",
+   "a": "Filtreren"
+  },
+  {
+   "q": "Welke scheidingsmethode hoort bij de letter I in de ezelsbrug ‘Bart & Anne Eten Dikke Friet In Amsterdam’?",
+   "a": "Indampen"
+  },
+  {
+   "q": "Welke scheidingsmethode hoort bij de letter E in de ezelsbrug ‘Bart & Anne Eten Dikke Friet In Amsterdam’?",
+   "a": "Extraheren"
+  },
+  {
+   "q": "Welke scheidingsmethode hoort bij de letter B in de ezelsbrug ‘Bart & Anne Eten Dikke Friet In Amsterdam’?",
+   "a": "Bezinken"
+  },
+  {
+   "q": "Waarop is bezinken en afgieten als scheidingsmethode gebaseerd?",
+   "a": "dichtheid"
+  },
+  {
+   "q": "Waarop is filtreren als scheidingsmethode gebaseerd?",
+   "a": "deeltjesgrootte"
+  },
+  {
+   "q": "Waarop is indampen als scheidingsmethode gebaseerd?",
+   "a": "kookpunt"
+  },
+  {
+   "q": "Waarop is destilleren als scheidingsmethode gebaseerd?",
+   "a": "kookpuntverschil tussen vloeistoffen"
+  },
+  {
+   "q": "Waarop is adsorberen als scheidingsmethode gebaseerd?",
+   "a": "hoger aanhechtingsvermogen dan oplosbaarheid in een vloeistof of gas"
+  },
+  {
+   "q": "Waarop is extraheren als scheidingsmethode gebaseerd?",
+   "a": "een vaste stof lost beter op in een vloeistof"
+  },
+  {
+   "q": "Welke scheidingsmethode scheidt op basis van dichtheid?",
+   "a": "Bezinken en afgieten"
+  },
+  {
+   "q": "Welke scheidingsmethode scheidt op basis van deeltjesgrootte?",
+   "a": "Filtreren"
+  },
+  {
+   "q": "Welke scheidingsmethode scheidt op basis van kookpuntverschil tussen vloeistoffen?",
+   "a": "Destilleren"
+  },
+  {
+   "q": "Welke scheidingsmethode scheidt op basis van aanhechtingsvermogen?",
+   "a": "Adsorberen"
+  },
+  {
+   "q": "Welke scheidingsmethode gebruik je om zout te winnen uit zout water?",
+   "a": "Indampen"
+  },
+  {
+   "q": "Thee zetten is een voorbeeld van welke scheidingsmethode?",
+   "a": "Extraheren"
+  },
+  {
+   "q": "Alcohol uit wijn halen is een voorbeeld van welke scheidingsmethode?",
+   "a": "Destilleren"
+  },
+  {
+   "q": "Kleur verwijderen uit spiritus met actieve kool is een voorbeeld van welke scheidingsmethode?",
+   "a": "Adsorberen"
+  },
+  {
+   "q": "Giftige stoffen met een gasmasker uit de lucht halen is een voorbeeld van welke scheidingsmethode?",
+   "a": "Adsorberen"
+  },
+  {
+   "q": "Wat betekent het voorvoegsel milli?",
+   "a": "1/1000"
+  },
+  {
+   "q": "Wat betekent het voorvoegsel kilo?",
+   "a": "maal 1000"
+  },
+  {
+   "q": "Hoeveel liter is 4000 mL?",
+   "a": "4 L"
+  },
+  {
+   "q": "Hoeveel liter is 1000 mL?",
+   "a": "1 L"
+  },
+  {
+   "q": "Hoeveel gram is 3 kg?",
+   "a": "3000 g"
+  },
+  {
+   "q": "Hoeveel kg is 2000 g?",
+   "a": "2 kg"
+  },
+  {
+   "q": "Welke formule gebruik je om graden Celsius om te rekenen naar Kelvin?",
+   "a": "K = °C + 273"
+  },
+  {
+   "q": "Hoeveel K is 0 °C?",
+   "a": "273 K"
+  },
+  {
+   "q": "Hoeveel K is 20 °C?",
+   "a": "293 K"
+  },
+  {
+   "q": "Hoeveel °C is 273 K?",
+   "a": "0 °C"
+  },
+  {
+   "q": "Hoeveel °C is 293 K?",
+   "a": "20 °C"
+  },
+  {
+   "q": "Hoeveel °C is 0 K?",
+   "a": "−273 °C"
+  },
+  {
+   "q": "In welke Binas-tabellen vind je de voorvoegsels en de omrekenregels?",
+   "a": "Binas tabel 2 en 3"
+  }
+ ]
+}
