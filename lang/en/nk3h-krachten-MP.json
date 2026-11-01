@@ -1,0 +1,347 @@
+{
+ "title": "Forces - 123 school",
+ "heading": "Forces",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is the unit of force?",
+   "answers": {
+    "a": "Newton",
+    "b": "Joule",
+    "c": "Watt",
+    "d": "Kilogram"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use to measure a force?",
+   "answers": {
+    "a": "With a multimeter",
+    "b": "With a thermometer",
+    "c": "A newton meter (force meter)",
+    "d": "With a measuring cylinder"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What can a force do to an object?",
+   "answers": {
+    "a": "Only the density changes",
+    "b": "Only the colour changes",
+    "c": "Only the mass changes",
+    "d": "Change its speed, its direction or its shape"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula applies to the force of gravity?",
+   "answers": {
+    "a": "Fz = m + g",
+    "b": "Fz = m × g",
+    "c": "Fz = m : g",
+    "d": "Fz = g − m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "An object has a mass of 5 kg. What is the force of gravity on Earth (g = 9.8 N/kg)?",
+   "answers": {
+    "a": "490 N",
+    "b": "0.51 N",
+    "c": "5 N",
+    "d": "49 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A person has a mass of 60 kg. What is the force of gravity on Earth (g = 9.8 N/kg)?",
+   "answers": {
+    "a": "6.1 N",
+    "b": "5880 N",
+    "c": "588 N",
+    "d": "60 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You go to the Moon. What stays the same?",
+   "answers": {
+    "a": "Your mass",
+    "b": "The gravitational acceleration",
+    "c": "The number of newtons on the scales",
+    "d": "The force of gravity on you"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which force opposes a motion when you slide?",
+   "answers": {
+    "a": "Spring force",
+    "b": "Frictional force",
+    "c": "Gravity (force of gravity)",
+    "d": "Muscular force"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You stretch a spring. Which force pulls the spring back?",
+   "answers": {
+    "a": "Magnetic force",
+    "b": "Gravity (force of gravity)",
+    "c": "Frictional force",
+    "d": "Spring force"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A spring stretches 2 cm at 4 N. How many newtons are needed for an extension of 4 cm?",
+   "answers": {
+    "a": "8 N",
+    "b": "2 N",
+    "c": "6 N",
+    "d": "16 N"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does the spring constant tell you?",
+   "answers": {
+    "a": "How long a spring is",
+    "b": "How stiff a spring is",
+    "c": "How heavy a spring is",
+    "d": "How fast a spring springs back"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A force of 30 N acts to the right and 20 N to the left. What is the resultant force?",
+   "answers": {
+    "a": "0 N",
+    "b": "50 N to the right",
+    "c": "10 N to the right",
+    "d": "10 N to the left"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Two forces are equal in size and opposite in direction. What is the resultant force?",
+   "answers": {
+    "a": "Cannot be determined",
+    "b": "The same as one force",
+    "c": "Twice as large as one force",
+    "d": "0 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Two forces act in the same direction: 12 N and 8 N. What is the resultant force?",
+   "answers": {
+    "a": "20 N",
+    "b": "10 N",
+    "c": "4 N",
+    "d": "96 N"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A book is lying still on a table. Which force balances the force of gravity?",
+   "answers": {
+    "a": "The muscular force",
+    "b": "The upward force from the table",
+    "c": "The magnetic force",
+    "d": "The frictional force"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does the length of the arrow of a force show?",
+   "answers": {
+    "a": "The direction of the force",
+    "b": "The mass of the object",
+    "c": "The size of the force",
+    "d": "The point of application"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the pivot of a lever?",
+   "answers": {
+    "a": "The point where you push on the lever",
+    "b": "The heaviest part of the lever",
+    "c": "The length of the lever",
+    "d": "The point the lever turns about"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the lever arm of a force?",
+   "answers": {
+    "a": "The length of the rope",
+    "b": "The size of the force",
+    "c": "The distance from the pivot to the force",
+    "d": "The mass of the object"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula applies when a lever is balanced?",
+   "answers": {
+    "a": "Force × arm on the left = force × arm on the right",
+    "b": "Force on the left = arm on the left × arm on the right",
+    "c": "Force + arm on the left = force + arm on the right",
+    "d": "Force : arm on the left = force × arm on the right"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A lever is balanced. On the left, 200 N acts at 1.0 m from the pivot. On the right, 100 N acts. At what distance?",
+   "answers": {
+    "a": "1.0 m",
+    "b": "2.0 m",
+    "c": "0.5 m",
+    "d": "3.0 m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why is a long spanner useful for loosening a nut?",
+   "answers": {
+    "a": "With a long arm you need less force",
+    "b": "A long spanner has less friction",
+    "c": "A long spanner increases the force of gravity",
+    "d": "A long spanner is heavier"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which object is a lever?",
+   "answers": {
+    "a": "A thermometer",
+    "b": "A socket",
+    "c": "A measuring beaker",
+    "d": "A crowbar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the counterweight of a tower crane for?",
+   "answers": {
+    "a": "To generate electric current",
+    "b": "To stay in balance",
+    "c": "To make the tap turn",
+    "d": "To make the load lighter"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the force of gravity on a child of 40 kg. Use g = 9.8 N/kg.",
+   "answers": {
+    "a": "40 N",
+    "b": "4.1 N",
+    "c": "39 N",
+    "d": "392 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A force of gravity of 29.4 N acts on an object. Use g = 9.8 N/kg. What is the mass?",
+   "answers": {
+    "a": "0.33 kg",
+    "b": "29 kg",
+    "c": "3.0 kg",
+    "d": "288 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "On the Moon g = 1.6 N/kg. What is the force of gravity on an object of 10 kg?",
+   "answers": {
+    "a": "98 N",
+    "b": "6.3 N",
+    "c": "16 N",
+    "d": "1.6 N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A spring becomes 3.0 cm longer under a force of 6.0 N. How much longer does the spring become under 10 N? (the spring stays within its elastic range)",
+   "answers": {
+    "a": "5.0 cm",
+    "b": "10 cm",
+    "c": "1.8 cm",
+    "d": "2.0 cm"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A lever is balanced. On the left, 50 N acts at 0.40 m from the pivot. On the right the arm is 0.25 m. What is the force on the right?",
+   "answers": {
+    "a": "31 N",
+    "b": "50 N",
+    "c": "125 N",
+    "d": "80 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the moment of a force of 20 N on an arm of 0.30 m?",
+   "answers": {
+    "a": "0.015 N·m",
+    "b": "6.0 N·m",
+    "c": "67 N·m",
+    "d": "20.3 N·m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a fixed pulley do?",
+   "answers": {
+    "a": "The work becomes smaller",
+    "b": "It changes the direction of the force; the force stays the same size",
+    "c": "The force becomes twice as large",
+    "d": "The force is halved"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You lift a load of 200 N with a movable pulley (no friction, ropes vertical). How large a force must you exert?",
+   "answers": {
+    "a": "200 N",
+    "b": "400 N",
+    "c": "50 N",
+    "d": "100 N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A crate of 20 kg is at rest on the ground. Use g = 9.8 N/kg. How large is the force of the ground on the crate?",
+   "answers": {
+    "a": "2.0 N",
+    "b": "196 N",
+    "c": "20 N",
+    "d": "0 N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of the moment of a force?",
+   "answers": {
+    "a": "N/kg",
+    "b": "N/m",
+    "c": "kg·m",
+    "d": "N·m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Forces of 6 N to the right, another 6 N to the right and 4 N to the left act on an object. What is the resultant force?",
+   "answers": {
+    "a": "8 N to the right",
+    "b": "16 N to the right",
+    "c": "2 N to the right",
+    "d": "4 N to the left"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

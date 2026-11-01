@@ -1,0 +1,349 @@
+{
+ "title": "Force and motion - 123 school",
+ "heading": "Force and motion",
+ "intro": [
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "question": "What is the SI unit of speed?",
+   "answers": {
+    "a": "km/h",
+    "b": "m/s<sup>2</sup>",
+    "c": "m/s",
+    "d": "N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 20 m/s to km/h.",
+   "answers": {
+    "a": "7.2 km/h",
+    "b": "72 km/h",
+    "c": "20 km/h",
+    "d": "5.6 km/h"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 54 km/h to m/s.",
+   "answers": {
+    "a": "1.5 m/s",
+    "b": "194 m/s",
+    "c": "15 m/s",
+    "d": "54 m/s"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula applies to speed when the speed is constant?",
+   "answers": {
+    "a": "v = t / s",
+    "b": "v = s / t",
+    "c": "v = s × t",
+    "d": "v = s / t<sup>2</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A cyclist travels at 5.0 m/s. How far does he get in 12 s?",
+   "answers": {
+    "a": "0.42 m",
+    "b": "17 m",
+    "c": "2.4 m",
+    "d": "60 m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A runner runs 150 m at a speed of 6.0 m/s. How long does it take?",
+   "answers": {
+    "a": "900 s",
+    "b": "25 s",
+    "c": "0.040 s",
+    "d": "144 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A walker covers 3.0 km in 20 minutes. What is his average speed in km/h?",
+   "answers": {
+    "a": "0.15 km/h",
+    "b": "18 km/h",
+    "c": "9.0 km/h",
+    "d": "60 km/h"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A car travels 60 km in 1.0 hour and then 100 km in 1.0 hour. What is the average speed?",
+   "answers": {
+    "a": "40 km/h",
+    "b": "100 km/h",
+    "c": "80 km/h",
+    "d": "160 km/h"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you see in a (s,t) graph with a horizontal line?",
+   "answers": {
+    "a": "The object is at rest",
+    "b": "The object moves at constant speed",
+    "c": "The object slows down",
+    "d": "The object speeds up"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a straight, sloping upward line in a (s,t) graph mean?",
+   "answers": {
+    "a": "Constant speed",
+    "b": "Standing still",
+    "c": "Constant force",
+    "d": "Constant acceleration"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a horizontal line in a (v,t) graph mean?",
+   "answers": {
+    "a": "Standing still",
+    "b": "Constant speed",
+    "c": "Decreasing speed",
+    "d": "Constant acceleration"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a straight, sloping upward line in a (v,t) graph mean?",
+   "answers": {
+    "a": "Constant acceleration",
+    "b": "Constant distance",
+    "c": "Standing still",
+    "d": "Constant speed"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you find the distance travelled from a (v,t) graph?",
+   "answers": {
+    "a": "From the area under the graph",
+    "b": "By the height of the graph",
+    "c": "By the slope of the graph",
+    "d": "By the lowest point of the graph"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In a (v,t) graph the speed is constant at 10 m/s for 6.0 s. How far does the object travel?",
+   "answers": {
+    "a": "60 m",
+    "b": "1.7 m",
+    "c": "6.0 m",
+    "d": "16 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the SI unit of acceleration?",
+   "answers": {
+    "a": "m/s<sup>2</sup>",
+    "b": "N",
+    "c": "km/h",
+    "d": "m/s"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A car accelerates from 0 to 20 m/s in 8.0 s. What is the average acceleration?",
+   "answers": {
+    "a": "160 m/s<sup>2</sup>",
+    "b": "20 m/s<sup>2</sup>",
+    "c": "0.40 m/s<sup>2</sup>",
+    "d": "2.5 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A car brakes from 25 m/s to a standstill in 5.0 s. What is the deceleration?",
+   "answers": {
+    "a": "125 m/s<sup>2</sup>",
+    "b": "0.20 m/s<sup>2</sup>",
+    "c": "5.0 m/s<sup>2</sup>",
+    "d": "25 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A 1200 kg car accelerates at 2.0 m/s<sup>2</sup>. What is the resultant force?",
+   "answers": {
+    "a": "6.0 × 10<sup>2</sup> N",
+    "b": "1.2 × 10<sup>3</sup> N",
+    "c": "2.4 × 10<sup>3</sup> N",
+    "d": "2.4 × 10<sup>6</sup> N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A resultant force of 300 N gives an object an acceleration of 1.5 m/s<sup>2</sup>. What is the mass?",
+   "answers": {
+    "a": "2.0 kg",
+    "b": "200 kg",
+    "c": "0.0050 kg",
+    "d": "450 kg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A resultant force of 50 N acts on a 10 kg cart. What is the acceleration?",
+   "answers": {
+    "a": "5.0 m/s<sup>2</sup>",
+    "b": "0.20 m/s<sup>2</sup>",
+    "c": "60 m/s<sup>2</sup>",
+    "d": "500 m/s<sup>2</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to an object when the resultant force is 0 N?",
+   "answers": {
+    "a": "It goes slower and slower",
+    "b": "It stays at rest or moves at constant speed",
+    "c": "It falls downwards",
+    "d": "It goes faster and faster"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The driving force of a car is 500 N and the friction force is also 500 N. What kind of motion does the car make?",
+   "answers": {
+    "a": "Accelerated motion",
+    "b": "Motion at constant speed",
+    "c": "The car tips over",
+    "d": "Decelerated motion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The driving force is 800 N and the friction force is 300 N. What is the resultant force?",
+   "answers": {
+    "a": "0 N",
+    "b": "1100 N in the direction of travel",
+    "c": "500 N in the direction of travel",
+    "d": "500 N opposite to the direction of travel"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does Newton's third law (action and reaction) state?",
+   "answers": {
+    "a": "The force you exert is greater than the reaction force",
+    "b": "The reaction force acts in the same direction as the action force",
+    "c": "A force always acts on one object and has no opposing force",
+    "d": "Two objects exert forces of equal size and opposite direction on each other"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You push a crate 5.0 m forward with a force of 40 N. How much work do you do? (W = F × s)",
+   "answers": {
+    "a": "0.13 J",
+    "b": "45 J",
+    "c": "8.0 J",
+    "d": "200 J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Lifting an object over 6.0 m takes 300 J of work. What is the force?",
+   "answers": {
+    "a": "306 N",
+    "b": "50 N",
+    "c": "1800 N",
+    "d": "0.020 N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A driver travels at 20 m/s and has a reaction time of 0.75 s. What is the reaction distance?",
+   "answers": {
+    "a": "15 m",
+    "b": "0.038 m",
+    "c": "21 m",
+    "d": "27 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The reaction distance is 14 m and the braking distance is 26 m. What is the stopping distance?",
+   "answers": {
+    "a": "12 m",
+    "b": "364 m",
+    "c": "20 m",
+    "d": "40 m"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A car travels twice as fast. What happens to the braking distance?",
+   "answers": {
+    "a": "The braking distance becomes about 4 times as large",
+    "b": "The braking distance is halved",
+    "c": "The braking distance becomes 2 times as large",
+    "d": "The braking distance stays the same"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A stone falls without air resistance. The acceleration of free fall is 9.8 m/s<sup>2</sup>. What is the speed after 2.0 s?",
+   "answers": {
+    "a": "9.8 m/s",
+    "b": "4.9 m/s",
+    "c": "39 m/s",
+    "d": "20 m/s"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A parachutist descends at constant speed. Which statement is correct?",
+   "answers": {
+    "a": "The force of gravity is equal to the air resistance",
+    "b": "Gravity is greater than air resistance",
+    "c": "Air resistance is greater than gravity",
+    "d": "No gravity acts"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why do you slide forward when a car suddenly brakes?",
+   "answers": {
+    "a": "Because the car gives you a push",
+    "b": "Because of gravity",
+    "c": "Because of inertia you keep moving at the same speed",
+    "d": "Because the seat belt pulls you forwards"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does a crumple zone reduce the force on the occupants in a collision?",
+   "answers": {
+    "a": "The car brakes over a shorter time",
+    "b": "The car slows down over a longer time, so the deceleration is smaller",
+    "c": "The speed at the collision is lower",
+    "d": "The car becomes lighter"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of work?",
+   "answers": {
+    "a": "Newton (N)",
+    "b": "Watt (W)",
+    "c": "Joule (J)",
+    "d": "Pascal (Pa)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

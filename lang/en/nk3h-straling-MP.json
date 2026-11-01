@@ -1,0 +1,349 @@
+{
+ "title": "Radiation - 123 school",
+ "heading": "Radiation",
+ "intro": [
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "question": "Which three types of radiation are released in radioactive decay?",
+   "answers": {
+    "a": "Beta radiation, radio waves and gamma radiation",
+    "b": "Alpha radiation, beta radiation and gamma radiation",
+    "c": "Alpha radiation, red light and blue light",
+    "d": "Alpha radiation, infrared radiation and X-rays"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does an alpha particle consist of?",
+   "answers": {
+    "a": "Electromagnetic waves",
+    "b": "Two protons and two neutrons (a helium nucleus)",
+    "c": "One proton",
+    "d": "One electron"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a beta particle (beta-minus) consist of?",
+   "answers": {
+    "a": "A helium nucleus",
+    "b": "A photon",
+    "c": "A fast electron",
+    "d": "A neutron"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is gamma radiation?",
+   "answers": {
+    "a": "A stream of electrons",
+    "b": "Electromagnetic radiation with a lot of energy",
+    "c": "A stream of neutrons",
+    "d": "A stream of helium nuclei"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which material already stops alpha radiation?",
+   "answers": {
+    "a": "A thick lead plate",
+    "b": "A sheet of paper",
+    "c": "A concrete wall",
+    "d": "Only a metre of water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which material stops beta radiation?",
+   "answers": {
+    "a": "A sheet of paper",
+    "b": "A thin aluminium plate",
+    "c": "No material at all",
+    "d": "A layer of air a few cm thick"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which material is suitable for shielding gamma radiation?",
+   "answers": {
+    "a": "A sheet of paper",
+    "b": "A thin plastic bag",
+    "c": "A layer of paint",
+    "d": "Thick lead or concrete"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which type of radiation is the most penetrating?",
+   "answers": {
+    "a": "Gamma radiation",
+    "b": "They are equally penetrating",
+    "c": "Alpha radiation",
+    "d": "Beta radiation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which type of radiation has the greatest ionising effect?",
+   "answers": {
+    "a": "Alpha radiation",
+    "b": "Beta radiation",
+    "c": "Radio waves",
+    "d": "Gamma radiation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does ionising radiation mean?",
+   "answers": {
+    "a": "Radiation that only produces heat",
+    "b": "Radiation that only heats metals",
+    "c": "Radiation that causes sound",
+    "d": "Radiation that can knock electrons out of atoms or molecules"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which radiation is ionising?",
+   "answers": {
+    "a": "Radio waves",
+    "b": "X-rays",
+    "c": "Microwaves",
+    "d": "Visible light"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which radiation has the most energy?",
+   "answers": {
+    "a": "Gamma radiation",
+    "b": "Radio waves",
+    "c": "Infrared radiation",
+    "d": "Visible light"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the unit of activity (number of decays per second)?",
+   "answers": {
+    "a": "Joule (J)",
+    "b": "Watt (W)",
+    "c": "Sievert (Sv)",
+    "d": "Becquerel (Bq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the unit of radiation dose in the body (a measure of the damage caused by radiation)?",
+   "answers": {
+    "a": "Hertz (Hz)",
+    "b": "Sievert (Sv)",
+    "c": "Becquerel (Bq)",
+    "d": "Newton (N)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A radioactive source has an activity of 500 Bq. How many atomic nuclei decay per second?",
+   "answers": {
+    "a": "30 000",
+    "b": "500",
+    "c": "0.50",
+    "d": "5.0"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the half-life?",
+   "answers": {
+    "a": "The time in which the activity doubles",
+    "b": "The time in which all nuclei have decayed",
+    "c": "The time in which the radiation stops penetrating",
+    "d": "The time in which half of the radioactive nuclei have decayed"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "80 g of a radioactive substance is present. The half-life is 4.0 days. How many grams are left after 12 days?",
+   "answers": {
+    "a": "10 g",
+    "b": "40 g",
+    "c": "27 g",
+    "d": "20 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A source has an activity of 100 Bq. What is the activity after 3 half-lives?",
+   "answers": {
+    "a": "50 Bq",
+    "b": "12.5 Bq",
+    "c": "33 Bq",
+    "d": "25 Bq"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Carbon-14 has a half-life of 5730 years. What percentage of an amount of C-14 is left after 11 460 years?",
+   "answers": {
+    "a": "12.5%",
+    "b": "50%",
+    "c": "75%",
+    "d": "25%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "1/8 of a substance is left. How many half-lives have passed?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "8",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the atomic number of the daughter nucleus?",
+   "answers": {
+    "a": "86",
+    "b": "88",
+    "c": "84",
+    "d": "87"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the mass number of the daughter nucleus?",
+   "answers": {
+    "a": "222",
+    "b": "224",
+    "c": "230",
+    "d": "226"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Carbon-14 (atomic number 6) decays by beta-minus decay to nitrogen (atomic number 7). What happens to the mass number?",
+   "answers": {
+    "a": "It becomes 13",
+    "b": "It becomes 15",
+    "c": "It stays 14",
+    "d": "It becomes 10"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is background radiation?",
+   "answers": {
+    "a": "Radiation that is produced only in X-ray photographs",
+    "b": "Radiation that is always present around us, for example from the ground and from space",
+    "c": "Radiation from mobile phones",
+    "d": "Radiation that comes only from nuclear power plants"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the difference between irradiation and contamination?",
+   "answers": {
+    "a": "There is no difference",
+    "b": "In irradiation you are hit by radiation from outside; in contamination there is radioactive material on or in your body",
+    "c": "With irradiation, radioactive material is in your body; with contamination you are hit from outside",
+    "d": "Irradiation takes place only with gamma radiation"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you reduce the radiation exposure from a radioactive source? Name the three ways.",
+   "answers": {
+    "a": "Increase the distance, stay longer, no shielding",
+    "b": "Decrease the distance, stay longer, no shielding",
+    "c": "Increase the distance, use a shorter time, use shielding",
+    "d": "Wear only sunglasses"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you use to measure radioactive radiation?",
+   "answers": {
+    "a": "A Geiger counter",
+    "b": "A newton meter (force meter)",
+    "c": "With a thermometer",
+    "d": "With a voltmeter"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use X-rays for in a hospital?",
+   "answers": {
+    "a": "To heat blood",
+    "b": "To record sound",
+    "c": "To make medicines",
+    "d": "To make images of bones and organs"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is nuclear waste dangerous for a long time?",
+   "answers": {
+    "a": "Nuclear waste is very heavy",
+    "b": "Nuclear waste disappears after a day",
+    "c": "Some substances have a very long half-life and so keep emitting radiation for a long time",
+    "d": "Nuclear waste is always liquid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens in nuclear fission?",
+   "answers": {
+    "a": "A heavy atomic nucleus splits into smaller nuclei and energy is released",
+    "b": "No energy is released",
+    "c": "Two light nuclei fuse into one heavier nucleus",
+    "d": "An atom loses only an electron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which radiation does a microwave oven use?",
+   "answers": {
+    "a": "Alpha radiation",
+    "b": "Microwaves",
+    "c": "Gamma radiation",
+    "d": "X-rays"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A smoke detector often contains a small source that emits alpha radiation. Why is that not dangerous as long as the detector is intact?",
+   "answers": {
+    "a": "The source is switched off",
+    "b": "Alpha radiation is always harmless",
+    "c": "Alpha radiation is already stopped by the casing and a thin layer of air",
+    "d": "The radiation is gamma radiation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why is an alpha source especially dangerous if the radioactive material gets inside your body?",
+   "answers": {
+    "a": "Alpha radiation is very penetrating and goes straight through you",
+    "b": "Alpha radiation is strongly ionising and is completely absorbed in the body",
+    "c": "Alpha radiation is not radiation",
+    "d": "Alpha radiation only heats the skin"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the time in which half of the nuclei decay called?",
+   "answers": {
+    "a": "Contamination time",
+    "b": "Half-life",
+    "c": "Reaction time",
+    "d": "Radiation time"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

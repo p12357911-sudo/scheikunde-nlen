@@ -1,0 +1,347 @@
+{
+ "title": "Electricity - 123 school",
+ "heading": "Electricity",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What does a generator do?",
+   "answers": {
+    "a": "It stores electrical energy",
+    "b": "It converts kinetic energy into electrical energy",
+    "c": "It converts electrical energy into kinetic energy",
+    "d": "It makes the voltage higher or lower"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a power station?",
+   "answers": {
+    "a": "A place where electrical energy is generated",
+    "b": "A place where the voltage in a house is lowered",
+    "c": "A place where electrical energy is stored",
+    "d": "A place where electricity consumption is measured"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why is high voltage used to transport electricity over long distances?",
+   "answers": {
+    "a": "It is safer for people",
+    "b": "The cables then become warmer",
+    "c": "The electricity then travels more slowly",
+    "d": "Less energy is then lost in the cables"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does a transformer do?",
+   "answers": {
+    "a": "It produces electrical energy",
+    "b": "It converts electrical energy into heat",
+    "c": "It makes the voltage higher or lower",
+    "d": "It measures the voltage"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the unit of voltage?",
+   "answers": {
+    "a": "Joule",
+    "b": "Volt",
+    "c": "Watt",
+    "d": "Ampère"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of power?",
+   "answers": {
+    "a": "Newton",
+    "b": "Volt",
+    "c": "Watt",
+    "d": "Kilowatt-hour"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula applies to power (P), energy (E) and time (t)?",
+   "answers": {
+    "a": "P = t : E",
+    "b": "P = E × t",
+    "c": "P = E + t",
+    "d": "P = E : t"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which unit is on your energy bill?",
+   "answers": {
+    "a": "kWh",
+    "b": "W",
+    "c": "kW",
+    "d": "V"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "An appliance of 2000 W is switched on for 3 hours. How much energy does it use?",
+   "answers": {
+    "a": "0.67 kWh",
+    "b": "1.5 kWh",
+    "c": "6 kWh",
+    "d": "2003 kWh"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many kW is 1500 W?",
+   "answers": {
+    "a": "1.5 kW",
+    "b": "15 kW",
+    "c": "150 kW",
+    "d": "0.15 kW"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "One kilowatt-hour costs € 0.30. What do 5 kWh cost?",
+   "answers": {
+    "a": "€ 5.30",
+    "b": "€ 15.00",
+    "c": "€ 0.06",
+    "d": "€ 1.50"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An appliance uses 600 J of energy in 10 s. What is the power?",
+   "answers": {
+    "a": "590 W",
+    "b": "60 W",
+    "c": "0.6 W",
+    "d": "6000 W"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 40 W lamp burns twice as long. What then becomes twice as large?",
+   "answers": {
+    "a": "The resistance",
+    "b": "The voltage",
+    "c": "The power",
+    "d": "The energy used"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the voltage of a household socket?",
+   "answers": {
+    "a": "12 V",
+    "b": "230 V",
+    "c": "2300 V",
+    "d": "23 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which instrument measures voltage and current?",
+   "answers": {
+    "a": "A multimeter",
+    "b": "A transformer",
+    "c": "A generator",
+    "d": "A fuse"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which wire in a socket is live (has a voltage on it)?",
+   "answers": {
+    "a": "The earth wire",
+    "b": "No wire at all",
+    "c": "The live wire",
+    "d": "The neutral wire"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a fuse do when the current is too high?",
+   "answers": {
+    "a": "It stores energy",
+    "b": "It breaks the circuit",
+    "c": "It increases the voltage",
+    "d": "It makes the current stronger"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You connect too many appliances to one circuit at the same time. What is this called?",
+   "answers": {
+    "a": "Voltage drop",
+    "b": "Earthing",
+    "c": "Short circuit",
+    "d": "Overload"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a short circuit?",
+   "answers": {
+    "a": "The current flows along a path with almost no resistance",
+    "b": "The cord is too long",
+    "c": "Too many appliances are connected",
+    "d": "The voltage is too low"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a residual-current device (RCD) do?",
+   "answers": {
+    "a": "It lowers the voltage",
+    "b": "It measures electricity consumption",
+    "c": "It switches off the current if current leaks away to earth",
+    "d": "It prevents a fuse from blowing"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the earth wire for?",
+   "answers": {
+    "a": "To get more voltage",
+    "b": "To measure energy",
+    "c": "To increase the power",
+    "d": "For safety if an appliance develops a fault"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which situation is dangerous?",
+   "answers": {
+    "a": "Charging a phone with its charger",
+    "b": "Pulling a plug out of the socket with dry hands",
+    "c": "Using a hairdryer while you are in the bath",
+    "d": "Switching on a lamp"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the unit of current?",
+   "answers": {
+    "a": "Ohm (Ω)",
+    "b": "Volt (V)",
+    "c": "Watt (W)",
+    "d": "Ampere (A)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula applies to electrical power?",
+   "answers": {
+    "a": "P = U / I",
+    "b": "P = U + I",
+    "c": "P = I / U",
+    "d": "P = U × I"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A washing machine works on 230 V and draws 10 A. What is its power?",
+   "answers": {
+    "a": "2300 W",
+    "b": "0.043 W",
+    "c": "23 W",
+    "d": "240 W"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A 1840 W hairdryer is connected to 230 V. What is the current?",
+   "answers": {
+    "a": "8.0 A",
+    "b": "0.13 A",
+    "c": "1610 A",
+    "d": "4.2 × 10<sup>5</sup> A"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many joules is 1 kWh?",
+   "answers": {
+    "a": "1.0 × 10<sup>3</sup> J",
+    "b": "3.6 × 10<sup>3</sup> J",
+    "c": "6.0 × 10<sup>4</sup> J",
+    "d": "3.6 × 10<sup>6</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A 1200 W appliance is on for 2.5 hours. One kWh costs € 0.30. How much does that cost?",
+   "answers": {
+    "a": "€ 0.36",
+    "b": "€ 3.00",
+    "c": "€ 0.90",
+    "d": "€ 9.00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 250 mA to A.",
+   "answers": {
+    "a": "250 A",
+    "b": "0.0250 A",
+    "c": "2.50 A",
+    "d": "0.250 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A 4.0 W appliance is on standby day and night for a whole year (365 days). How many kWh is that?",
+   "answers": {
+    "a": "1.4 × 10<sup>3</sup> kWh",
+    "b": "35 kWh",
+    "c": "0.096 kWh",
+    "d": "96 kWh"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You have lamps of 11 W, 40 W and 60 W. Which one uses the most energy in 1 hour?",
+   "answers": {
+    "a": "The 60 W lamp",
+    "b": "The 40 W lamp",
+    "c": "All lamps use the same amount",
+    "d": "The 11 W lamp"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the device called with which an energy company measures your consumption?",
+   "answers": {
+    "a": "A voltmeter",
+    "b": "A kWh meter (energy meter)",
+    "c": "A force meter",
+    "d": "A thermometer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of energy?",
+   "answers": {
+    "a": "Newton (N)",
+    "b": "Ampere (A)",
+    "c": "Joule (J)",
+    "d": "Watt (W)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens to the current when the power increases at the same voltage?",
+   "answers": {
+    "a": "The current becomes zero",
+    "b": "The current stays the same",
+    "c": "The current becomes smaller",
+    "d": "The current becomes larger"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "title": "Energy - 123 school",
+ "heading": "Energy",
+ "intro": [
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "question": "Which type of energy does a moving bicycle have?",
+   "answers": {
+    "a": "Gravitational potential energy",
+    "b": "Nuclear energy",
+    "c": "Kinetic energy",
+    "d": "Chemical energy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which type of energy is the energy stored in petrol?",
+   "answers": {
+    "a": "Chemical energy",
+    "b": "Kinetic energy",
+    "c": "Electrical energy",
+    "d": "Nuclear energy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these energy sources is a fossil fuel?",
+   "answers": {
+    "a": "Natural gas",
+    "b": "Wind",
+    "c": "Sunlight",
+    "d": "Uranium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these energy sources is renewable (sustainable)?",
+   "answers": {
+    "a": "Natural gas",
+    "b": "Coal",
+    "c": "Crude oil",
+    "d": "Wind energy"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which energy conversion takes place in a solar cell?",
+   "answers": {
+    "a": "Electrical energy becomes radiant energy",
+    "b": "Kinetic energy becomes heat",
+    "c": "Radiant energy becomes electrical energy",
+    "d": "Chemical energy becomes electrical energy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which energy conversion takes place in a bicycle dynamo?",
+   "answers": {
+    "a": "Radiant energy becomes electrical energy",
+    "b": "Kinetic energy becomes electrical energy",
+    "c": "Electrical energy becomes kinetic energy",
+    "d": "Chemical energy becomes heat"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which energy conversion takes place in an electric motor?",
+   "answers": {
+    "a": "Heat becomes kinetic energy",
+    "b": "Electrical energy becomes kinetic energy",
+    "c": "Kinetic energy becomes electrical energy",
+    "d": "Electrical energy becomes chemical energy"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does the law of conservation of energy state?",
+   "answers": {
+    "a": "Energy disappears due to friction",
+    "b": "Extra energy is created in every conversion",
+    "c": "Energy is not lost but is converted into another form",
+    "d": "Energy can be created out of nothing"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula goes with heating a substance?",
+   "answers": {
+    "a": "Q = m / (c × ΔT)",
+    "b": "Q = m × c × ΔT",
+    "c": "Q = m × g × ΔT",
+    "d": "Q = c × ΔT / m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You heat 2.0 kg of water from 15 °C to 65 °C. The specific heat capacity of water is 4.18 × 10<sup>3</sup> J/(kg·K). How much energy is needed?",
+   "answers": {
+    "a": "2.1 × 10<sup>5</sup> J",
+    "b": "5.4 × 10<sup>5</sup> J",
+    "c": "4.2 × 10<sup>5</sup> J",
+    "d": "4.2 × 10<sup>2</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You heat 0.50 kg of iron by 20 K. The specific heat capacity of iron is 4.5 × 10<sup>2</sup> J/(kg·K). How much energy is needed?",
+   "answers": {
+    "a": "9.0 × 10<sup>3</sup> J",
+    "b": "4.5 × 10<sup>2</sup> J",
+    "c": "4.5 × 10<sup>3</sup> J",
+    "d": "4.5 × 10<sup>4</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Heating 0.50 kg of a substance by 6.0 K takes 12 600 J. Calculate the specific heat capacity.",
+   "answers": {
+    "a": "3.8 × 10<sup>4</sup> J/(kg·K)",
+    "b": "2.1 × 10<sup>3</sup> J/(kg·K)",
+    "c": "2.5 × 10<sup>4</sup> J/(kg·K)",
+    "d": "4.2 × 10<sup>3</sup> J/(kg·K)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "84 kJ of heat is added to 2.0 kg of water (c = 4.2 × 10<sup>3</sup> J/(kg·K)). By how many K does the temperature rise?",
+   "answers": {
+    "a": "20 K",
+    "b": "10 K",
+    "c": "5.0 K",
+    "d": "2.0 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 2000 W kettle heats 1.5 kg of water from 20 °C to 100 °C (c = 4.18 × 10<sup>3</sup> J/(kg·K)). No energy is lost. How long does it take?",
+   "answers": {
+    "a": "1.7 × 10<sup>2</sup> s",
+    "b": "2.5 × 10<sup>2</sup> s",
+    "c": "5.0 × 10<sup>5</sup> s",
+    "d": "3.1 × 10<sup>2</sup> s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the efficiency of an appliance?",
+   "answers": {
+    "a": "Useful energy divided by total energy, times 100%",
+    "b": "Useful energy times total energy",
+    "c": "Total energy divided by useful energy",
+    "d": "Wasted energy divided by total energy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "An appliance converts 1200 J. Of this, 360 J is useful. What is the efficiency?",
+   "answers": {
+    "a": "70%",
+    "b": "30%",
+    "c": "3.3%",
+    "d": "0.30%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 60 W incandescent lamp gives off 3.0 W as light. What is the efficiency?",
+   "answers": {
+    "a": "95%",
+    "b": "5.0%",
+    "c": "50%",
+    "d": "20%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "An appliance has an efficiency of 40%. The useful energy is 200 J. How much energy went in altogether?",
+   "answers": {
+    "a": "8000 J",
+    "b": "240 J",
+    "c": "500 J",
+    "d": "80 J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "An appliance with an efficiency of 25% receives 800 J. How much of it is useful?",
+   "answers": {
+    "a": "600 J",
+    "b": "200 J",
+    "c": "3200 J",
+    "d": "32 J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A central heating boiler receives 64 MJ of energy from natural gas. The efficiency is 90%. How much energy is used usefully?",
+   "answers": {
+    "a": "6.4 MJ",
+    "b": "58 MJ",
+    "c": "5.8 MJ",
+    "d": "71 MJ"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 1.5 kW heater is on for 2.0 hours. That is 3.0 kWh. How many MJ is that? (1 kWh = 3.6 MJ)",
+   "answers": {
+    "a": "1.1 MJ",
+    "b": "3.6 MJ",
+    "c": "0.83 MJ",
+    "d": "11 MJ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which way is heat transported through a metal pan?",
+   "answers": {
+    "a": "By convection",
+    "b": "By radiation",
+    "c": "By evaporation",
+    "d": "By conduction"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which way does heat reach the Earth from the Sun?",
+   "answers": {
+    "a": "By convection",
+    "b": "By conduction",
+    "c": "By radiation",
+    "d": "By evaporation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which way does warm air spread through a room?",
+   "answers": {
+    "a": "By evaporation",
+    "b": "By conduction",
+    "c": "By crystallisation",
+    "d": "By convection"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which material is a good thermal insulator?",
+   "answers": {
+    "a": "Polystyrene foam",
+    "b": "Iron",
+    "c": "Aluminium",
+    "d": "Copper"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does double glazing insulate better than single glazing?",
+   "answers": {
+    "a": "The gas between the panes conducts heat poorly",
+    "b": "The glass is darker",
+    "c": "The glass lets through more light",
+    "d": "The gas between the panes flows quickly"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why are the handles of pans often made of plastic?",
+   "answers": {
+    "a": "Plastic conducts heat well",
+    "b": "Plastic conducts heat poorly",
+    "c": "Plastic is heavier than metal",
+    "d": "Plastic radiates a lot of heat"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of specific heat capacity?",
+   "answers": {
+    "a": "J·kg/K",
+    "b": "J/kg",
+    "c": "J/(kg·K)",
+    "d": "W/K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens to energy that seems to be \"lost\" through friction?",
+   "answers": {
+    "a": "It is converted into heat",
+    "b": "It disappears completely",
+    "c": "It is converted into gravitational potential energy",
+    "d": "It is converted into nuclear energy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is used as fuel in a nuclear power station?",
+   "answers": {
+    "a": "Uranium",
+    "b": "Hydrogen",
+    "c": "Natural gas",
+    "d": "Coal"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "For gravitational potential energy: E<sub>z</sub> = m × g × h. Here g = 9.8 N/kg. Calculate the gravitational potential energy of 2.0 kg at a height of 5.0 m.",
+   "answers": {
+    "a": "20 J",
+    "b": "98 J",
+    "c": "49 J",
+    "d": "10 J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For kinetic energy: E<sub>k</sub> = ½ × m × v<sup>2</sup>. Calculate the kinetic energy of a 1000 kg car travelling at 10 m/s.",
+   "answers": {
+    "a": "1.0 × 10<sup>4</sup> J",
+    "b": "5.0 × 10<sup>3</sup> J",
+    "c": "1.0 × 10<sup>5</sup> J",
+    "d": "5.0 × 10<sup>4</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the useful energy in an incandescent lamp?",
+   "answers": {
+    "a": "Heat",
+    "b": "Chemical energy",
+    "c": "Light (radiant energy)",
+    "d": "Kinetic energy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "An 8.0 W LED lamp and a 40 W incandescent lamp give the same amount of light. How many times as much energy does the incandescent lamp use in the same time?",
+   "answers": {
+    "a": "5.0 times",
+    "b": "8.0 times",
+    "c": "0.20 times",
+    "d": "32 times"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

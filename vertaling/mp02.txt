@@ -1,0 +1,1038 @@
+### nk3h-elektriciteit-MP
+0.Q What does a generator do?
+0.B It converts kinetic energy into electrical energy
+0.D It makes the voltage higher or lower
+1.Q What is a power station?
+1.A A place where electrical energy is generated
+2.Q Why is high voltage used to transport electricity over long distances?
+3.Q What does a transformer do?
+3.C It makes the voltage higher or lower
+4.Q What is the unit of voltage?
+4.D Ampère
+5.Q What is the unit of power?
+6.A P = t : E
+6.B P = E × t
+6.C P = E + t
+6.D P = E : t
+7.Q Which unit is on your energy bill?
+7.A kWh
+7.B W
+7.C kW
+7.D V
+8.A 0.67 kWh
+8.B 1.5 kWh
+8.C 6 kWh
+8.D 2003 kWh
+9.Q How many kW is 1500 W?
+9.A 1.5 kW
+9.B 15 kW
+9.C 150 kW
+9.D 0.15 kW
+10.Q One kilowatt-hour costs € 0.30. What do 5 kWh cost?
+10.A € 5.30
+10.B € 15.00
+10.C € 0.06
+10.D € 1.50
+11.A 590 W
+11.B 60 W
+11.C 0.6 W
+11.D 6000 W
+13.Q What is the voltage of a household socket?
+13.A 12 V
+13.B 230 V
+13.C 2300 V
+13.D 23 V
+14.Q Which instrument measures voltage and current?
+14.A A multimeter
+15.C The live wire
+18.Q What is a short circuit?
+18.A The current flows along a path with almost no resistance
+19.Q What does a residual-current device (RCD) do?
+19.C It switches off the current if current leaks away to earth
+20.Q What is the earth wire for?
+20.D For safety if an appliance develops a fault
+22.Q What is the unit of current?
+22.A Ohm (Ω)
+22.D Ampere (A)
+23.Q Which formula applies to electrical power?
+23.A P = U / I
+23.B P = U + I
+23.C P = I / U
+23.D P = U × I
+24.Q A washing machine works on 230 V and draws 10 A. What is its power?
+24.A 2300 W
+24.B 0.043 W
+24.C 23 W
+24.D 240 W
+25.Q A 1840 W hairdryer is connected to 230 V. What is the current?
+25.A 8.0 A
+25.B 0.13 A
+25.C 1610 A
+25.D 4.2 × 10<sup>5</sup> A
+26.Q How many joules is 1 kWh?
+26.A 1.0 × 10<sup>3</sup> J
+26.B 3.6 × 10<sup>3</sup> J
+26.C 6.0 × 10<sup>4</sup> J
+26.D 3.6 × 10<sup>6</sup> J
+27.Q A 1200 W appliance is on for 2.5 hours. One kWh costs € 0.30. How much does that cost?
+27.A € 0.36
+27.B € 3.00
+27.C € 0.90
+27.D € 9.00
+28.Q Convert 250 mA to A.
+28.A 250 A
+28.B 0.0250 A
+28.C 2.50 A
+28.D 0.250 A
+29.Q A 4.0 W appliance is on standby day and night for a whole year (365 days). How many kWh is that?
+29.A 1.4 × 10<sup>3</sup> kWh
+29.B 35 kWh
+29.C 0.096 kWh
+29.D 96 kWh
+30.Q You have lamps of 11 W, 40 W and 60 W. Which one uses the most energy in 1 hour?
+31.Q What is the device called with which an energy company measures your consumption?
+31.B A kWh meter (energy meter)
+32.B Ampere (A)
+### nk3h-energie-MP
+0.Q Which type of energy does a moving bicycle have?
+0.C Kinetic energy
+0.D Chemical energy
+1.Q In which type of energy is the energy stored in petrol?
+1.A Chemical energy
+1.B Kinetic energy
+2.Q Which of these energy sources is a fossil fuel?
+2.A Natural gas
+3.Q Which of these energy sources is renewable (sustainable)?
+3.A Natural gas
+3.B Coal
+3.D Wind energy
+4.Q Which energy conversion takes place in a solar cell?
+4.C Radiant energy becomes electrical energy
+5.Q Which energy conversion takes place in a bicycle dynamo?
+5.A Radiant energy becomes electrical energy
+5.B Kinetic energy becomes electrical energy
+5.C Electrical energy becomes kinetic energy
+6.Q Which energy conversion takes place in an electric motor?
+6.B Electrical energy becomes kinetic energy
+6.C Kinetic energy becomes electrical energy
+7.Q What does the law of conservation of energy state?
+7.C Energy is not lost but is converted into another form
+8.Q Which formula goes with heating a substance?
+8.A Q = m / (c × ΔT)
+8.B Q = m × c × ΔT
+8.C Q = m × g × ΔT
+8.D Q = c × ΔT / m
+9.Q You heat 2.0 kg of water from 15 °C to 65 °C. The specific heat capacity of water is 4.18 × 10<sup>3</sup> J/(kg·K). How much energy is needed?
+9.A 2.1 × 10<sup>5</sup> J
+9.B 5.4 × 10<sup>5</sup> J
+9.C 4.2 × 10<sup>5</sup> J
+9.D 4.2 × 10<sup>2</sup> J
+10.Q You heat 0.50 kg of iron by 20 K. The specific heat capacity of iron is 4.5 × 10<sup>2</sup> J/(kg·K). How much energy is needed?
+10.A 9.0 × 10<sup>3</sup> J
+10.B 4.5 × 10<sup>2</sup> J
+10.C 4.5 × 10<sup>3</sup> J
+10.D 4.5 × 10<sup>4</sup> J
+11.Q Heating 0.50 kg of a substance by 6.0 K takes 12 600 J. Calculate the specific heat capacity.
+11.A 3.8 × 10<sup>4</sup> J/(kg·K)
+11.B 2.1 × 10<sup>3</sup> J/(kg·K)
+11.C 2.5 × 10<sup>4</sup> J/(kg·K)
+11.D 4.2 × 10<sup>3</sup> J/(kg·K)
+12.Q 84 kJ of heat is added to 2.0 kg of water (c = 4.2 × 10<sup>3</sup> J/(kg·K)). By how many K does the temperature rise?
+12.A 20 K
+12.B 10 K
+12.C 5.0 K
+12.D 2.0 K
+13.Q A 2000 W kettle heats 1.5 kg of water from 20 °C to 100 °C (c = 4.18 × 10<sup>3</sup> J/(kg·K)). No energy is lost. How long does it take?
+13.A 1.7 × 10<sup>2</sup> s
+13.B 2.5 × 10<sup>2</sup> s
+13.C 5.0 × 10<sup>5</sup> s
+13.D 3.1 × 10<sup>2</sup> s
+14.Q What is the efficiency of an appliance?
+14.A Useful energy divided by total energy, times 100%
+15.Q An appliance converts 1200 J. Of this, 360 J is useful. What is the efficiency?
+15.A 70%
+15.B 30%
+15.C 3.3%
+15.D 0.30%
+16.Q A 60 W incandescent lamp gives off 3.0 W as light. What is the efficiency?
+16.A 95%
+16.B 5.0%
+16.C 50%
+16.D 20%
+17.Q An appliance has an efficiency of 40%. The useful energy is 200 J. How much energy went in altogether?
+17.A 8000 J
+17.B 240 J
+17.C 500 J
+17.D 80 J
+18.Q An appliance with an efficiency of 25% receives 800 J. How much of it is useful?
+18.A 600 J
+18.B 200 J
+18.C 3200 J
+18.D 32 J
+19.Q A central heating boiler receives 64 MJ of energy from natural gas. The efficiency is 90%. How much energy is used usefully?
+19.A 6.4 MJ
+19.B 58 MJ
+19.C 5.8 MJ
+19.D 71 MJ
+20.Q A 1.5 kW heater is on for 2.0 hours. That is 3.0 kWh. How many MJ is that? (1 kWh = 3.6 MJ)
+20.A 1.1 MJ
+20.B 3.6 MJ
+20.C 0.83 MJ
+20.D 11 MJ
+21.Q In which way is heat transported through a metal pan?
+21.A By convection
+21.B By radiation
+21.D By conduction
+22.Q In which way does heat reach the Earth from the Sun?
+22.A By convection
+22.B By conduction
+22.C By radiation
+23.Q In which way does warm air spread through a room?
+23.B By conduction
+23.D By convection
+24.Q Which material is a good thermal insulator?
+24.A Polystyrene foam
+24.B Iron
+24.D Copper
+25.Q Why does double glazing insulate better than single glazing?
+25.A The gas between the panes conducts heat poorly
+26.Q Why are the handles of pans often made of plastic?
+26.B Plastic conducts heat poorly
+27.Q What is the unit of specific heat capacity?
+27.A J·kg/K
+27.B J/kg
+27.C J/(kg·K)
+27.D W/K
+28.Q What happens to energy that seems to be "lost" through friction?
+28.A It is converted into heat
+29.Q Which substance is used as fuel in a nuclear power station?
+29.B Hydrogen
+29.C Natural gas
+29.D Coal
+30.Q For gravitational potential energy: E<sub>z</sub> = m × g × h. Here g = 9.8 N/kg. Calculate the gravitational potential energy of 2.0 kg at a height of 5.0 m.
+30.A 20 J
+30.B 98 J
+30.C 49 J
+30.D 10 J
+31.Q For kinetic energy: E<sub>k</sub> = ½ × m × v<sup>2</sup>. Calculate the kinetic energy of a 1000 kg car travelling at 10 m/s.
+31.A 1.0 × 10<sup>4</sup> J
+31.B 5.0 × 10<sup>3</sup> J
+31.C 1.0 × 10<sup>5</sup> J
+31.D 5.0 × 10<sup>4</sup> J
+32.B Chemical energy
+32.D Kinetic energy
+33.Q An 8.0 W LED lamp and a 40 W incandescent lamp give the same amount of light. How many times as much energy does the incandescent lamp use in the same time?
+### nk3h-kracht-en-beweging-MP
+0.Q What is the SI unit of speed?
+0.A km/h
+0.B m/s<sup>2</sup>
+0.C m/s
+0.D N
+1.Q Convert 20 m/s to km/h.
+1.A 7.2 km/h
+1.B 72 km/h
+1.C 20 km/h
+1.D 5.6 km/h
+2.Q Convert 54 km/h to m/s.
+2.A 1.5 m/s
+2.B 194 m/s
+2.C 15 m/s
+2.D 54 m/s
+3.Q Which formula applies to speed when the speed is constant?
+3.A v = t / s
+3.B v = s / t
+3.C v = s × t
+3.D v = s / t<sup>2</sup>
+4.Q A cyclist travels at 5.0 m/s. How far does he get in 12 s?
+4.A 0.42 m
+4.B 17 m
+4.C 2.4 m
+4.D 60 m
+5.Q A runner runs 150 m at a speed of 6.0 m/s. How long does it take?
+5.A 900 s
+5.B 25 s
+5.C 0.040 s
+5.D 144 s
+6.Q A walker covers 3.0 km in 20 minutes. What is his average speed in km/h?
+6.A 0.15 km/h
+6.B 18 km/h
+6.C 9.0 km/h
+6.D 60 km/h
+7.Q A car travels 60 km in 1.0 hour and then 100 km in 1.0 hour. What is the average speed?
+7.A 40 km/h
+7.B 100 km/h
+7.C 80 km/h
+7.D 160 km/h
+8.Q What do you see in a (s,t) graph with a horizontal line?
+8.A The object is at rest
+9.Q What does a straight, sloping upward line in a (s,t) graph mean?
+9.A Constant speed
+9.D Constant acceleration
+10.Q What does a horizontal line in a (v,t) graph mean?
+10.B Constant speed
+10.D Constant acceleration
+11.Q What does a straight, sloping upward line in a (v,t) graph mean?
+11.A Constant acceleration
+11.D Constant speed
+12.Q How do you find the distance travelled from a (v,t) graph?
+12.A From the area under the graph
+13.Q In a (v,t) graph the speed is constant at 10 m/s for 6.0 s. How far does the object travel?
+13.A 60 m
+13.B 1.7 m
+13.C 6.0 m
+13.D 16 m
+14.Q What is the SI unit of acceleration?
+14.A m/s<sup>2</sup>
+14.B N
+14.C km/h
+14.D m/s
+15.Q A car accelerates from 0 to 20 m/s in 8.0 s. What is the average acceleration?
+15.A 160 m/s<sup>2</sup>
+15.B 20 m/s<sup>2</sup>
+15.C 0.40 m/s<sup>2</sup>
+15.D 2.5 m/s<sup>2</sup>
+16.Q A car brakes from 25 m/s to a standstill in 5.0 s. What is the deceleration?
+16.A 125 m/s<sup>2</sup>
+16.B 0.20 m/s<sup>2</sup>
+16.C 5.0 m/s<sup>2</sup>
+16.D 25 m/s<sup>2</sup>
+17.Q A 1200 kg car accelerates at 2.0 m/s<sup>2</sup>. What is the resultant force?
+17.A 6.0 × 10<sup>2</sup> N
+17.B 1.2 × 10<sup>3</sup> N
+17.C 2.4 × 10<sup>3</sup> N
+17.D 2.4 × 10<sup>6</sup> N
+18.Q A resultant force of 300 N gives an object an acceleration of 1.5 m/s<sup>2</sup>. What is the mass?
+18.A 2.0 kg
+18.B 200 kg
+18.C 0.0050 kg
+18.D 450 kg
+19.Q A resultant force of 50 N acts on a 10 kg cart. What is the acceleration?
+19.A 5.0 m/s<sup>2</sup>
+19.B 0.20 m/s<sup>2</sup>
+19.C 60 m/s<sup>2</sup>
+19.D 500 m/s<sup>2</sup>
+20.Q What happens to an object when the resultant force is 0 N?
+20.B It stays at rest or moves at constant speed
+21.Q The driving force of a car is 500 N and the friction force is also 500 N. What kind of motion does the car make?
+21.B Motion at constant speed
+22.Q The driving force is 800 N and the friction force is 300 N. What is the resultant force?
+22.A 0 N
+23.Q What does Newton's third law (action and reaction) state?
+23.D Two objects exert forces of equal size and opposite direction on each other
+24.Q You push a crate 5.0 m forward with a force of 40 N. How much work do you do? (W = F × s)
+24.A 0.13 J
+24.B 45 J
+24.C 8.0 J
+24.D 200 J
+25.Q Lifting an object over 6.0 m takes 300 J of work. What is the force?
+25.A 306 N
+25.B 50 N
+25.C 1800 N
+25.D 0.020 N
+26.Q A driver travels at 20 m/s and has a reaction time of 0.75 s. What is the reaction distance?
+26.A 15 m
+26.B 0.038 m
+26.C 21 m
+26.D 27 m
+27.Q The reaction distance is 14 m and the braking distance is 26 m. What is the stopping distance?
+27.A 12 m
+27.B 364 m
+27.C 20 m
+27.D 40 m
+28.Q A car travels twice as fast. What happens to the braking distance?
+28.A The braking distance becomes about 4 times as large
+29.Q A stone falls without air resistance. The acceleration of free fall is 9.8 m/s<sup>2</sup>. What is the speed after 2.0 s?
+29.A 9.8 m/s
+29.B 4.9 m/s
+29.C 39 m/s
+29.D 20 m/s
+30.Q A parachutist descends at constant speed. Which statement is correct?
+30.A The force of gravity is equal to the air resistance
+31.Q Why do you slide forward when a car suddenly brakes?
+31.B Because of gravity
+31.C Because of inertia you keep moving at the same speed
+32.Q Why does a crumple zone reduce the force on the occupants in a collision?
+32.B The car slows down over a longer time, so the deceleration is smaller
+### nk3h-krachten-MP
+0.Q What is the unit of force?
+1.Q What do you use to measure a force?
+1.C A newton meter (force meter)
+2.Q What can a force do to an object?
+2.D Change its speed, its direction or its shape
+3.A Fz = m + g
+3.B Fz = m × g
+3.C Fz = m : g
+3.D Fz = g − m
+4.A 490 N
+4.B 0.51 N
+4.C 5 N
+4.D 49 N
+5.A 6.1 N
+5.B 5880 N
+5.C 588 N
+5.D 60 N
+7.C Gravity (force of gravity)
+8.B Gravity (force of gravity)
+9.A 8 N
+9.B 2 N
+9.C 6 N
+9.D 16 N
+10.Q What does the spring constant tell you?
+11.Q A force of 30 N acts to the right and 20 N to the left. What is the resultant force?
+11.A 0 N
+11.C 10 N to the right
+12.D 0 N
+13.A 20 N
+13.B 10 N
+13.C 4 N
+13.D 96 N
+17.Q What is the lever arm of a force?
+17.C The distance from the pivot to the force
+18.Q Which formula applies when a lever is balanced?
+18.A Force × arm on the left = force × arm on the right
+19.Q A lever is balanced. On the left, 200 N acts at 1.0 m from the pivot. On the right, 100 N acts. At what distance?
+19.A 1.0 m
+19.B 2.0 m
+19.C 0.5 m
+19.D 3.0 m
+22.Q What is the counterweight of a tower crane for?
+23.Q Calculate the force of gravity on a child of 40 kg. Use g = 9.8 N/kg.
+23.A 40 N
+23.B 4.1 N
+23.C 39 N
+23.D 392 N
+24.Q A force of gravity of 29.4 N acts on an object. Use g = 9.8 N/kg. What is the mass?
+24.A 0.33 kg
+24.B 29 kg
+24.C 3.0 kg
+24.D 288 N
+25.Q On the Moon g = 1.6 N/kg. What is the force of gravity on an object of 10 kg?
+25.A 98 N
+25.B 6.3 N
+25.C 16 N
+25.D 1.6 N
+26.Q A spring becomes 3.0 cm longer under a force of 6.0 N. How much longer does the spring become under 10 N? (the spring stays within its elastic range)
+26.A 5.0 cm
+26.B 10 cm
+26.C 1.8 cm
+26.D 2.0 cm
+27.Q A lever is balanced. On the left, 50 N acts at 0.40 m from the pivot. On the right the arm is 0.25 m. What is the force on the right?
+27.A 31 N
+27.B 50 N
+27.C 125 N
+27.D 80 N
+28.Q What is the moment of a force of 20 N on an arm of 0.30 m?
+28.A 0.015 N·m
+28.B 6.0 N·m
+28.C 67 N·m
+28.D 20.3 N·m
+29.Q What does a fixed pulley do?
+29.B It changes the direction of the force; the force stays the same size
+30.Q You lift a load of 200 N with a movable pulley (no friction, ropes vertical). How large a force must you exert?
+30.A 200 N
+30.B 400 N
+30.C 50 N
+30.D 100 N
+31.Q A crate of 20 kg is at rest on the ground. Use g = 9.8 N/kg. How large is the force of the ground on the crate?
+31.A 2.0 N
+31.B 196 N
+31.C 20 N
+31.D 0 N
+32.A N/kg
+32.B N/m
+32.C kg·m
+32.D N·m
+### nk3h-schakelingen-MP
+0.Q How is an ammeter placed in a circuit?
+0.A In series with the component
+0.D In parallel with the component
+1.Q How is a voltmeter placed in a circuit?
+1.A In series with the component
+1.C In parallel with the component
+2.Q What is Ohm's law?
+2.A U = I / R
+2.B U = R / I
+2.C U = I + R
+2.D U = I × R
+3.Q A current of 0.50 A flows through a resistor of 12 Ω. What is the voltage?
+3.A 12.5 V
+3.B 6.0 V
+3.C 0.042 V
+3.D 24 V
+4.Q The voltage across a resistor is 9.0 V and the current is 0.30 A. What is the resistance?
+4.A 9.3 Ω
+4.B 0.033 Ω
+4.C 2.7 Ω
+4.D 30 Ω
+5.Q A 46 Ω heating element is connected to 230 V. What is the current?
+5.A 0.20 A
+5.B 184 A
+5.C 1.1 × 10<sup>4</sup> A
+5.D 5.0 A
+6.Q What is the unit of resistance?
+6.B Ampere (A)
+6.D Ohm (Ω)
+7.Q What is true for the current in a series circuit?
+7.D The current is the same everywhere
+8.Q What is true for the voltage in a series circuit?
+8.C The source voltage is shared between the components
+9.Q What is true for the voltage across components connected in parallel?
+9.D The voltage across each component is the same
+10.Q What is true for the current in a parallel circuit?
+10.A The total current is the sum of the currents through the branches
+11.Q What happens to the other lamps if one lamp burns out in a series circuit?
+11.A The other lamps stay on
+11.C All the lamps go out
+12.Q What happens to the other lamps if one lamp burns out in a parallel circuit?
+12.C All the lamps go out
+12.D The other lamps stay on
+13.Q How are the appliances in a house connected?
+13.B In parallel
+14.Q Two resistors of 10 Ω and 15 Ω are in series. What is the equivalent resistance?
+14.A 25 Ω
+14.B 6.0 Ω
+14.C 150 Ω
+14.D 5.0 Ω
+15.Q Three resistors of 8.0 Ω are in series. What is the equivalent resistance?
+15.A 8.0 Ω
+15.B 512 Ω
+15.C 24 Ω
+15.D 2.7 Ω
+16.Q Two resistors of 6.0 Ω and 3.0 Ω are in parallel. What is the equivalent resistance? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)
+16.A 9.0 Ω
+16.B 2.0 Ω
+16.C 4.5 Ω
+16.D 18 Ω
+17.Q Two equal resistors of 20 Ω are in parallel. What is the equivalent resistance?
+17.A 10 Ω
+17.B 40 Ω
+17.C 20 Ω
+17.D 400 Ω
+18.Q What happens to the equivalent resistance if you connect an extra resistor in parallel?
+18.B The equivalent resistance becomes smaller
+19.Q Two resistors of 10 Ω and 15 Ω are in series on a 12 V source. What is the current?
+19.A 0.0020 A
+19.B 0.48 A
+19.C 0.80 A
+19.D 2.1 A
+20.Q The same circuit: 10 Ω and 15 Ω in series on 12 V, current 0.48 A. What is the voltage across the 10 Ω resistor?
+20.A 12 V
+20.B 4.8 V
+20.C 0.048 V
+20.D 7.2 V
+21.Q A 6.0 Ω resistor and a 12 Ω resistor are in parallel on 12 V. What is the total current?
+21.A 1.0 A
+21.B 2.0 A
+21.C 3.0 A
+21.D 0.50 A
+22.Q In a parallel circuit, two ammeters in the branches read 0.30 A and 0.20 A. What is the total current?
+22.A 0.060 A
+22.B 0.10 A
+22.C 0.25 A
+22.D 0.50 A
+23.Q In a series circuit, two voltmeters across two lamps read 4.0 V and 2.0 V. What is the source voltage?
+23.A 2.0 V
+23.B 8.0 V
+23.C 6.0 V
+23.D 3.0 V
+24.Q You connect two 1.5 V batteries in series. What is the total voltage?
+24.A 1.5 V
+24.B 2.25 V
+24.C 0.75 V
+24.D 3.0 V
+25.Q A 6.0 V lamp has a power of 3.0 W. What is the current through the lamp? (P = U × I)
+25.A 2.0 A
+25.B 0.50 A
+25.C 18 A
+25.D 0.12 A
+26.Q How does the resistance of a thin wire compare with that of a thick wire (same material and length)?
+26.D The thin wire has a greater resistance
+27.Q What happens to the resistance of a wire if you make the wire twice as long?
+27.C The resistance becomes twice as large
+28.Q What does an NTC do at a higher temperature?
+28.B Its resistance becomes smaller
+29.Q What does an LDR do when more light falls on it?
+29.C Its resistance becomes smaller
+30.Q What do you use a variable resistor for?
+30.A To control the resistance, and with it the current
+31.Q What happens in a short circuit?
+31.C A very large current flows because the resistance is very small
+32.Q Three equal resistors of 30 Ω are in parallel. What is the equivalent resistance?
+32.A 10 Ω
+32.B 0.10 Ω
+32.C 90 Ω
+32.D 30 Ω
+33.A V
+33.C W
+33.D A
+### nk3h-straling-MP
+0.Q Which three types of radiation are released in radioactive decay?
+0.B Alpha radiation, beta radiation and gamma radiation
+1.Q What does an alpha particle consist of?
+1.B Two protons and two neutrons (a helium nucleus)
+2.Q What does a beta particle (beta-minus) consist of?
+2.C A fast electron
+3.Q What is gamma radiation?
+3.B Electromagnetic radiation with a lot of energy
+4.Q Which material already stops alpha radiation?
+4.B A sheet of paper
+5.Q Which material stops beta radiation?
+5.A A sheet of paper
+5.B A thin aluminium plate
+6.Q Which material is suitable for shielding gamma radiation?
+6.A A sheet of paper
+6.D Thick lead or concrete
+7.Q Which type of radiation is the most penetrating?
+7.A Gamma radiation
+7.C Alpha radiation
+8.Q Which type of radiation has the greatest ionising effect?
+8.A Alpha radiation
+8.D Gamma radiation
+9.Q What does ionising radiation mean?
+9.D Radiation that can knock electrons out of atoms or molecules
+10.Q Which radiation is ionising?
+10.B X-rays
+10.C Microwaves
+11.Q Which radiation has the most energy?
+11.A Gamma radiation
+12.Q What is the unit of activity (number of decays per second)?
+13.Q What is the unit of radiation dose in the body (a measure of the damage caused by radiation)?
+14.Q A radioactive source has an activity of 500 Bq. How many atomic nuclei decay per second?
+14.A 30 000
+14.B 500
+14.C 0.50
+14.D 5.0
+15.Q What is the half-life?
+15.D The time in which half of the radioactive nuclei have decayed
+16.Q 80 g of a radioactive substance is present. The half-life is 4.0 days. How many grams are left after 12 days?
+16.A 10 g
+16.B 40 g
+16.C 27 g
+16.D 20 g
+17.Q A source has an activity of 100 Bq. What is the activity after 3 half-lives?
+17.A 50 Bq
+17.B 12.5 Bq
+17.C 33 Bq
+17.D 25 Bq
+18.Q Carbon-14 has a half-life of 5730 years. What percentage of an amount of C-14 is left after 11 460 years?
+18.A 12.5%
+18.B 50%
+18.C 75%
+18.D 25%
+19.Q 1/8 of a substance is left. How many half-lives have passed?
+19.A 4
+19.B 3
+19.C 8
+19.D 2
+20.Q Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the atomic number of the daughter nucleus?
+20.A 86
+20.B 88
+20.C 84
+20.D 87
+21.Q Radium-226 (atomic number 88) decays by emitting an alpha particle. What is the mass number of the daughter nucleus?
+21.A 222
+21.B 224
+21.C 230
+21.D 226
+22.Q Carbon-14 (atomic number 6) decays by beta-minus decay to nitrogen (atomic number 7). What happens to the mass number?
+23.Q What is background radiation?
+23.B Radiation that is always present around us, for example from the ground and from space
+24.Q What is the difference between irradiation and contamination?
+24.A There is no difference
+24.B In irradiation you are hit by radiation from outside; in contamination there is radioactive material on or in your body
+25.Q How do you reduce the radiation exposure from a radioactive source? Name the three ways.
+25.C Increase the distance, use a shorter time, use shielding
+26.Q What do you use to measure radioactive radiation?
+26.A A Geiger counter
+26.B A newton meter (force meter)
+27.Q What do you use X-rays for in a hospital?
+27.D To make images of bones and organs
+28.Q Why is nuclear waste dangerous for a long time?
+28.C Some substances have a very long half-life and so keep emitting radiation for a long time
+29.Q What happens in nuclear fission?
+29.A A heavy atomic nucleus splits into smaller nuclei and energy is released
+30.Q Which radiation does a microwave oven use?
+30.A Alpha radiation
+30.B Microwaves
+30.C Gamma radiation
+30.D X-rays
+31.Q A smoke detector often contains a small source that emits alpha radiation. Why is that not dangerous as long as the detector is intact?
+31.C Alpha radiation is already stopped by the casing and a thin layer of air
+32.Q Why is an alpha source especially dangerous if the radioactive material gets inside your body?
+32.B Alpha radiation is strongly ionising and is completely absorbed in the body
+### nk3h-elektriciteit-MP
+heading Electricity
+0.A It stores electrical energy
+0.C It converts electrical energy into kinetic energy
+1.B A place where the voltage in a house is lowered
+1.C A place where electrical energy is stored
+1.D A place where electricity consumption is measured
+2.A It is safer for people
+2.B The cables then become warmer
+2.C The electricity then travels more slowly
+2.D Less energy is then lost in the cables
+3.A It produces electrical energy
+3.B It converts electrical energy into heat
+3.D It measures the voltage
+4.A Joule
+4.B Volt
+4.C Watt
+5.A Newton
+5.B Volt
+5.C Watt
+5.D Kilowatt-hour
+6.Q Which formula applies to power (P), energy (E) and time (t)?
+8.Q An appliance of 2000 W is switched on for 3 hours. How much energy does it use?
+11.Q An appliance uses 600 J of energy in 10 s. What is the power?
+12.Q A 40 W lamp burns twice as long. What then becomes twice as large?
+12.A The resistance
+12.B The voltage
+12.C The power
+12.D The energy used
+14.B A transformer
+14.C A generator
+14.D A fuse
+15.Q Which wire in a socket is live (has a voltage on it)?
+15.A The earth wire
+15.B No wire at all
+15.D The neutral wire
+16.Q What does a fuse do when the current is too high?
+16.A It stores energy
+16.B It breaks the circuit
+16.C It increases the voltage
+16.D It makes the current stronger
+17.Q You connect too many appliances to one circuit at the same time. What is this called?
+17.A Voltage drop
+17.B Earthing
+17.C Short circuit
+17.D Overload
+18.B The cord is too long
+18.C Too many appliances are connected
+18.D The voltage is too low
+19.A It lowers the voltage
+19.B It measures electricity consumption
+19.D It prevents a fuse from blowing
+20.A To get more voltage
+20.B To measure energy
+20.C To increase the power
+21.Q Which situation is dangerous?
+21.A Charging a phone with its charger
+21.B Pulling a plug out of the socket with dry hands
+21.C Using a hairdryer while you are in the bath
+21.D Switching on a lamp
+22.B Volt (V)
+22.C Watt (W)
+30.A The 60 W lamp
+30.B The 40 W lamp
+30.C All lamps use the same amount
+30.D The 11 W lamp
+31.A A voltmeter
+31.C A force meter
+31.D A thermometer
+32.Q What is the unit of energy?
+32.A Newton (N)
+32.C Joule (J)
+32.D Watt (W)
+33.Q What happens to the current when the power increases at the same voltage?
+33.A The current becomes zero
+33.B The current stays the same
+33.C The current becomes smaller
+33.D The current becomes larger
+### nk3h-energie-MP
+heading Energy
+0.A Gravitational potential energy
+0.B Nuclear energy
+1.C Electrical energy
+1.D Nuclear energy
+2.B Wind
+2.C Sunlight
+2.D Uranium
+3.C Crude oil
+4.A Electrical energy becomes radiant energy
+4.B Kinetic energy becomes heat
+4.D Chemical energy becomes electrical energy
+5.D Chemical energy becomes heat
+6.A Heat becomes kinetic energy
+6.D Electrical energy becomes chemical energy
+7.A Energy disappears due to friction
+7.B Extra energy is created in every conversion
+7.D Energy can be created out of nothing
+14.B Useful energy times total energy
+14.C Total energy divided by useful energy
+14.D Wasted energy divided by total energy
+21.C By evaporation
+22.D By evaporation
+23.A By evaporation
+23.C By crystallisation
+24.C Aluminium
+25.B The glass is darker
+25.C The glass lets through more light
+25.D The gas between the panes flows quickly
+26.A Plastic conducts heat well
+26.C Plastic is heavier than metal
+26.D Plastic radiates a lot of heat
+28.B It disappears completely
+28.C It is converted into gravitational potential energy
+28.D It is converted into nuclear energy
+29.A Uranium
+32.Q What is the useful energy in an incandescent lamp?
+32.A Heat
+32.C Light (radiant energy)
+33.A 5.0 times
+33.B 8.0 times
+33.C 0.20 times
+33.D 32 times
+### nk3h-kracht-en-beweging-MP
+heading Force and motion
+8.B The object moves at constant speed
+8.C The object slows down
+8.D The object speeds up
+9.B Standing still
+9.C Constant force
+10.A Standing still
+10.C Decreasing speed
+11.B Constant distance
+11.C Standing still
+12.B By the height of the graph
+12.C By the slope of the graph
+12.D By the lowest point of the graph
+20.A It goes slower and slower
+20.C It falls downwards
+20.D It goes faster and faster
+21.A Accelerated motion
+21.C The car tips over
+21.D Decelerated motion
+22.B 1100 N in the direction of travel
+22.C 500 N in the direction of travel
+22.D 500 N opposite to the direction of travel
+23.A The force you exert is greater than the reaction force
+23.B The reaction force acts in the same direction as the action force
+23.C A force always acts on one object and has no opposing force
+28.B The braking distance is halved
+28.C The braking distance becomes 2 times as large
+28.D The braking distance stays the same
+30.B Gravity is greater than air resistance
+30.C Air resistance is greater than gravity
+30.D No gravity acts
+31.A Because the car gives you a push
+31.D Because the seat belt pulls you forwards
+32.A The car brakes over a shorter time
+32.C The speed at the collision is lower
+32.D The car becomes lighter
+33.Q What is the unit of work?
+33.A Newton (N)
+33.B Watt (W)
+33.C Joule (J)
+33.D Pascal (Pa)
+### nk3h-krachten-MP
+heading Forces
+0.A Newton
+0.B Joule
+0.C Watt
+0.D Kilogram
+1.A With a multimeter
+1.B With a thermometer
+1.D With a measuring cylinder
+2.A Only the density changes
+2.B Only the colour changes
+2.C Only the mass changes
+3.Q Which formula applies to the force of gravity?
+4.Q An object has a mass of 5 kg. What is the force of gravity on Earth (g = 9.8 N/kg)?
+5.Q A person has a mass of 60 kg. What is the force of gravity on Earth (g = 9.8 N/kg)?
+6.Q You go to the Moon. What stays the same?
+6.A Your mass
+6.B The gravitational acceleration
+6.C The number of newtons on the scales
+6.D The force of gravity on you
+7.Q Which force opposes a motion when you slide?
+7.A Spring force
+7.B Frictional force
+7.D Muscular force
+8.Q You stretch a spring. Which force pulls the spring back?
+8.A Magnetic force
+8.C Frictional force
+8.D Spring force
+9.Q A spring stretches 2 cm at 4 N. How many newtons are needed for an extension of 4 cm?
+10.A How long a spring is
+10.B How stiff a spring is
+10.C How heavy a spring is
+10.D How fast a spring springs back
+11.B 50 N to the right
+11.D 10 N to the left
+12.Q Two forces are equal in size and opposite in direction. What is the resultant force?
+12.A Cannot be determined
+12.B The same as one force
+12.C Twice as large as one force
+13.Q Two forces act in the same direction: 12 N and 8 N. What is the resultant force?
+14.Q A book is lying still on a table. Which force balances the force of gravity?
+14.A The muscular force
+14.B The upward force from the table
+14.C The magnetic force
+14.D The frictional force
+15.Q What does the length of the arrow of a force show?
+15.A The direction of the force
+15.B The mass of the object
+15.C The size of the force
+15.D The point of application
+16.Q What is the pivot of a lever?
+16.A The point where you push on the lever
+16.B The heaviest part of the lever
+16.C The length of the lever
+16.D The point the lever turns about
+17.A The length of the rope
+17.B The size of the force
+17.D The mass of the object
+18.B Force on the left = arm on the left × arm on the right
+18.C Force + arm on the left = force + arm on the right
+18.D Force : arm on the left = force × arm on the right
+20.Q Why is a long spanner useful for loosening a nut?
+20.A With a long arm you need less force
+20.B A long spanner has less friction
+20.C A long spanner increases the force of gravity
+20.D A long spanner is heavier
+21.Q Which object is a lever?
+21.A A thermometer
+21.B A socket
+21.C A measuring beaker
+21.D A crowbar
+22.A To generate electric current
+22.B To stay in balance
+22.C To make the tap turn
+22.D To make the load lighter
+29.A The work becomes smaller
+29.C The force becomes twice as large
+29.D The force is halved
+32.Q What is the unit of the moment of a force?
+33.Q Forces of 6 N to the right, another 6 N to the right and 4 N to the left act on an object. What is the resultant force?
+33.A 8 N to the right
+33.B 16 N to the right
+33.C 2 N to the right
+33.D 4 N to the left
+### nk3h-schakelingen-MP
+heading Circuits
+0.B Separate from the circuit
+0.C In parallel with the battery
+1.B Separate from the circuit
+1.D In series with the battery
+6.A Volt (V)
+6.C Watt (W)
+7.A The current is zero at every component
+7.B The current divides between the components
+7.C The current is greatest at the first lamp
+8.A The voltage is greatest at the last component
+8.B The voltage is zero everywhere
+8.D Every component has the full source voltage
+9.A The voltage is zero at every component
+9.B The voltage is shared between the components
+9.C The voltages are always different
+10.B The current in each branch is equal to the total current
+10.C The current through the branches is always equal
+10.D The current disappears in the first branch
+11.B The other lamps burn more brightly
+11.D Only the lamp next to it goes out
+12.A The other lamps go out after a few seconds
+12.B Only the first lamp stays on
+13.A Only in series with the meter
+13.C Without a voltage
+13.D In series
+18.A The equivalent resistance becomes infinite
+18.C The equivalent resistance becomes greater
+18.D The equivalent resistance stays the same
+26.A The resistance is the same
+26.B The thin wire has a smaller resistance
+26.C The thin wire has no resistance
+27.A The resistance becomes four times as small
+27.B The resistance stays the same
+27.D The resistance becomes two times as small
+28.A The resistance becomes greater
+28.C The resistance stays the same
+28.D The resistance becomes infinite
+29.A The resistance stays the same
+29.B The resistance becomes infinite
+29.D The resistance becomes greater
+30.B To measure voltage
+30.C To charge the battery
+30.D To measure current
+31.A The resistance becomes very large
+31.B The voltage becomes infinitely large
+31.D No current flows at all
+33.Q Which symbol belongs to the unit ampere?
+33.B Ω
+### nk3h-straling-MP
+heading Radiation
+0.A Beta radiation, radio waves and gamma radiation
+0.C Alpha radiation, red light and blue light
+0.D Alpha radiation, infrared radiation and X-rays
+1.A Electromagnetic waves
+1.C One proton
+1.D One electron
+2.A A helium nucleus
+2.B A photon
+2.D A neutron
+3.A A stream of electrons
+3.C A stream of neutrons
+3.D A stream of helium nuclei
+4.A A thick lead plate
+4.C A concrete wall
+4.D Only a metre of water
+5.C No material at all
+5.D A layer of air a few cm thick
+6.B A thin plastic bag
+6.C A layer of paint
+7.B They are equally penetrating
+7.D Beta radiation
+8.B Beta radiation
+8.C Radio waves
+9.A Radiation that only produces heat
+9.B Radiation that only heats metals
+9.C Radiation that causes sound
+10.A Radio waves
+10.D Visible light
+11.B Radio waves
+11.C Infrared radiation
+11.D Visible light
+12.A Joule (J)
+12.B Watt (W)
+12.C Sievert (Sv)
+12.D Becquerel (Bq)
+13.A Hertz (Hz)
+13.B Sievert (Sv)
+13.C Becquerel (Bq)
+13.D Newton (N)
+15.A The time in which the activity doubles
+15.B The time in which all nuclei have decayed
+15.C The time in which the radiation stops penetrating
+22.A It becomes 13
+22.B It becomes 15
+22.C It stays 14
+22.D It becomes 10
+23.A Radiation that is produced only in X-ray photographs
+23.C Radiation from mobile phones
+23.D Radiation that comes only from nuclear power plants
+24.C With irradiation, radioactive material is in your body; with contamination you are hit from outside
+24.D Irradiation takes place only with gamma radiation
+25.A Increase the distance, stay longer, no shielding
+25.B Decrease the distance, stay longer, no shielding
+25.D Wear only sunglasses
+26.C With a thermometer
+26.D With a voltmeter
+27.A To heat blood
+27.B To record sound
+27.C To make medicines
+28.A Nuclear waste is very heavy
+28.B Nuclear waste disappears after a day
+28.D Nuclear waste is always liquid
+29.B No energy is released
+29.C Two light nuclei fuse into one heavier nucleus
+29.D An atom loses only an electron
+31.A The source is switched off
+31.B Alpha radiation is always harmless
+31.D The radiation is gamma radiation
+32.A Alpha radiation is very penetrating and goes straight through you
+32.C Alpha radiation is not radiation
+32.D Alpha radiation only heats the skin
+33.Q What is the time in which half of the nuclei decay called?
+33.A Contamination time
+33.B Half-life
+33.C Reaction time
+33.D Radiation time

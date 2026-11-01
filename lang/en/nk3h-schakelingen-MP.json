@@ -1,0 +1,349 @@
+{
+ "title": "Circuits - 123 school",
+ "heading": "Circuits",
+ "intro": [
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "question": "How is an ammeter placed in a circuit?",
+   "answers": {
+    "a": "In series with the component",
+    "b": "Separate from the circuit",
+    "c": "In parallel with the battery",
+    "d": "In parallel with the component"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How is a voltmeter placed in a circuit?",
+   "answers": {
+    "a": "In series with the component",
+    "b": "Separate from the circuit",
+    "c": "In parallel with the component",
+    "d": "In series with the battery"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is Ohm's law?",
+   "answers": {
+    "a": "U = I / R",
+    "b": "U = R / I",
+    "c": "U = I + R",
+    "d": "U = I × R"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A current of 0.50 A flows through a resistor of 12 Ω. What is the voltage?",
+   "answers": {
+    "a": "12.5 V",
+    "b": "6.0 V",
+    "c": "0.042 V",
+    "d": "24 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The voltage across a resistor is 9.0 V and the current is 0.30 A. What is the resistance?",
+   "answers": {
+    "a": "9.3 Ω",
+    "b": "0.033 Ω",
+    "c": "2.7 Ω",
+    "d": "30 Ω"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A 46 Ω heating element is connected to 230 V. What is the current?",
+   "answers": {
+    "a": "0.20 A",
+    "b": "184 A",
+    "c": "1.1 × 10<sup>4</sup> A",
+    "d": "5.0 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the unit of resistance?",
+   "answers": {
+    "a": "Volt (V)",
+    "b": "Ampere (A)",
+    "c": "Watt (W)",
+    "d": "Ohm (Ω)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is true for the current in a series circuit?",
+   "answers": {
+    "a": "The current is zero at every component",
+    "b": "The current divides between the components",
+    "c": "The current is greatest at the first lamp",
+    "d": "The current is the same everywhere"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is true for the voltage in a series circuit?",
+   "answers": {
+    "a": "The voltage is greatest at the last component",
+    "b": "The voltage is zero everywhere",
+    "c": "The source voltage is shared between the components",
+    "d": "Every component has the full source voltage"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is true for the voltage across components connected in parallel?",
+   "answers": {
+    "a": "The voltage is zero at every component",
+    "b": "The voltage is shared between the components",
+    "c": "The voltages are always different",
+    "d": "The voltage across each component is the same"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is true for the current in a parallel circuit?",
+   "answers": {
+    "a": "The total current is the sum of the currents through the branches",
+    "b": "The current in each branch is equal to the total current",
+    "c": "The current through the branches is always equal",
+    "d": "The current disappears in the first branch"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to the other lamps if one lamp burns out in a series circuit?",
+   "answers": {
+    "a": "The other lamps stay on",
+    "b": "The other lamps burn more brightly",
+    "c": "All the lamps go out",
+    "d": "Only the lamp next to it goes out"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens to the other lamps if one lamp burns out in a parallel circuit?",
+   "answers": {
+    "a": "The other lamps go out after a few seconds",
+    "b": "Only the first lamp stays on",
+    "c": "All the lamps go out",
+    "d": "The other lamps stay on"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How are the appliances in a house connected?",
+   "answers": {
+    "a": "Only in series with the meter",
+    "b": "In parallel",
+    "c": "Without a voltage",
+    "d": "In series"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Two resistors of 10 Ω and 15 Ω are in series. What is the equivalent resistance?",
+   "answers": {
+    "a": "25 Ω",
+    "b": "6.0 Ω",
+    "c": "150 Ω",
+    "d": "5.0 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Three resistors of 8.0 Ω are in series. What is the equivalent resistance?",
+   "answers": {
+    "a": "8.0 Ω",
+    "b": "512 Ω",
+    "c": "24 Ω",
+    "d": "2.7 Ω"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Two resistors of 6.0 Ω and 3.0 Ω are in parallel. What is the equivalent resistance? (1/R<sub>v</sub> = 1/R<sub>1</sub> + 1/R<sub>2</sub>)",
+   "answers": {
+    "a": "9.0 Ω",
+    "b": "2.0 Ω",
+    "c": "4.5 Ω",
+    "d": "18 Ω"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Two equal resistors of 20 Ω are in parallel. What is the equivalent resistance?",
+   "answers": {
+    "a": "10 Ω",
+    "b": "40 Ω",
+    "c": "20 Ω",
+    "d": "400 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to the equivalent resistance if you connect an extra resistor in parallel?",
+   "answers": {
+    "a": "The equivalent resistance becomes infinite",
+    "b": "The equivalent resistance becomes smaller",
+    "c": "The equivalent resistance becomes greater",
+    "d": "The equivalent resistance stays the same"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Two resistors of 10 Ω and 15 Ω are in series on a 12 V source. What is the current?",
+   "answers": {
+    "a": "0.0020 A",
+    "b": "0.48 A",
+    "c": "0.80 A",
+    "d": "2.1 A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The same circuit: 10 Ω and 15 Ω in series on 12 V, current 0.48 A. What is the voltage across the 10 Ω resistor?",
+   "answers": {
+    "a": "12 V",
+    "b": "4.8 V",
+    "c": "0.048 V",
+    "d": "7.2 V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 6.0 Ω resistor and a 12 Ω resistor are in parallel on 12 V. What is the total current?",
+   "answers": {
+    "a": "1.0 A",
+    "b": "2.0 A",
+    "c": "3.0 A",
+    "d": "0.50 A"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In a parallel circuit, two ammeters in the branches read 0.30 A and 0.20 A. What is the total current?",
+   "answers": {
+    "a": "0.060 A",
+    "b": "0.10 A",
+    "c": "0.25 A",
+    "d": "0.50 A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In a series circuit, two voltmeters across two lamps read 4.0 V and 2.0 V. What is the source voltage?",
+   "answers": {
+    "a": "2.0 V",
+    "b": "8.0 V",
+    "c": "6.0 V",
+    "d": "3.0 V"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You connect two 1.5 V batteries in series. What is the total voltage?",
+   "answers": {
+    "a": "1.5 V",
+    "b": "2.25 V",
+    "c": "0.75 V",
+    "d": "3.0 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A 6.0 V lamp has a power of 3.0 W. What is the current through the lamp? (P = U × I)",
+   "answers": {
+    "a": "2.0 A",
+    "b": "0.50 A",
+    "c": "18 A",
+    "d": "0.12 A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How does the resistance of a thin wire compare with that of a thick wire (same material and length)?",
+   "answers": {
+    "a": "The resistance is the same",
+    "b": "The thin wire has a smaller resistance",
+    "c": "The thin wire has no resistance",
+    "d": "The thin wire has a greater resistance"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens to the resistance of a wire if you make the wire twice as long?",
+   "answers": {
+    "a": "The resistance becomes four times as small",
+    "b": "The resistance stays the same",
+    "c": "The resistance becomes twice as large",
+    "d": "The resistance becomes two times as small"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does an NTC do at a higher temperature?",
+   "answers": {
+    "a": "The resistance becomes greater",
+    "b": "Its resistance becomes smaller",
+    "c": "The resistance stays the same",
+    "d": "The resistance becomes infinite"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does an LDR do when more light falls on it?",
+   "answers": {
+    "a": "The resistance stays the same",
+    "b": "The resistance becomes infinite",
+    "c": "Its resistance becomes smaller",
+    "d": "The resistance becomes greater"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you use a variable resistor for?",
+   "answers": {
+    "a": "To control the resistance, and with it the current",
+    "b": "To measure voltage",
+    "c": "To charge the battery",
+    "d": "To measure current"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens in a short circuit?",
+   "answers": {
+    "a": "The resistance becomes very large",
+    "b": "The voltage becomes infinitely large",
+    "c": "A very large current flows because the resistance is very small",
+    "d": "No current flows at all"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Three equal resistors of 30 Ω are in parallel. What is the equivalent resistance?",
+   "answers": {
+    "a": "10 Ω",
+    "b": "0.10 Ω",
+    "c": "90 Ω",
+    "d": "30 Ω"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which symbol belongs to the unit ampere?",
+   "answers": {
+    "a": "V",
+    "b": "Ω",
+    "c": "W",
+    "d": "A"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}
