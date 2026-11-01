@@ -1,0 +1,213 @@
+{
+ "title": "Separating substances - 123 school",
+ "heading": "Separating substances",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Name three separation methods",
+   "a": "Filtration, evaporation, distillation, adsorption, extraction, settling"
+  },
+  {
+   "q": "Name 5 steps in the process of extracting sugar from sugar beets",
+   "a": "Weigh the beets, wash the beets, chop the beets into pieces, soak the pieces in hot water and extract the sugar, remove the beet pieces by sieving, evaporate the sugar water to thick juice"
+  },
+  {
+   "q": "What is the formula for density?",
+   "a": "Density (ρ) = mass/volume in g/cm<sup>3</sup>"
+  },
+  {
+   "q": "What is a suspension?",
+   "a": "A mixture of small particles of a solid in a liquid, which do not mix well"
+  },
+  {
+   "q": "Are suspensions clear or cloudy?",
+   "a": "Cloudy"
+  },
+  {
+   "q": "Is a solution always cloudy or clear?",
+   "a": "Clear"
+  },
+  {
+   "q": "Does a solution always have a colour?",
+   "a": "No, it can also be colourless. Suspensions always have a colour"
+  },
+  {
+   "q": "What is a solvent?",
+   "a": "A liquid in which other substances are dissolved"
+  },
+  {
+   "q": "Name 5 separation methods",
+   "a": "Adsorption, settling and decanting, (centrifuging), distillation, extraction, filtration, evaporation"
+  },
+  {
+   "q": "What is meant by separating in chemistry?",
+   "a": "Splitting/purifying a mixture into separate or purer substances"
+  },
+  {
+   "q": "Name a separation method that is based on boiling point",
+   "a": "Distillation, evaporation"
+  },
+  {
+   "q": "Name a separation method that is based on density",
+   "a": "Settling (and centrifuging)"
+  },
+  {
+   "q": "For which separation method is the particle size decisive?",
+   "a": "Filtration, sieving"
+  },
+  {
+   "q": "Name an example of an extraction method",
+   "a": "Making coffee or tea"
+  },
+  {
+   "q": "What is the general name for the material that stays behind on a filter or in a distillation flask?",
+   "a": "The residue"
+  },
+  {
+   "q": "What is the general name for the material that is purified and obtained by distillation?",
+   "a": "The distillate"
+  },
+  {
+   "q": "How many mL is one L?",
+   "a": "1 L = 1000 mL"
+  },
+  {
+   "q": "Define a pure substance",
+   "a": "A pure substance consists of 1 kind of particle/molecule"
+  },
+  {
+   "q": "Describe a mixture",
+   "a": "A mixture consists of several kinds of particles/molecules"
+  },
+  {
+   "q": "What is meant by separating in chemistry?",
+   "a": "Splitting/purifying a mixture into separate or purer substances"
+  },
+  {
+   "q": "For which separation method is activated carbon often used?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "What must be different between two liquids to be able to separate them by distillation?",
+   "a": "They must have different boiling points"
+  },
+  {
+   "q": "How can you remove a small amount of a harmful substance from air or water?",
+   "a": "By adsorption"
+  },
+  {
+   "q": "If you want to quickly separate a small amount of a suspension, which separation method do you choose?",
+   "a": "Filtration"
+  },
+  {
+   "q": "Which separation processes take place in water purification?",
+   "a": "Settling and filtration"
+  },
+  {
+   "q": "Name at least 3 types of water that we distinguish in the water cycle?",
+   "a": "Surface water, groundwater, rainwater, salt water, fresh water, water vapour"
+  },
+  {
+   "q": "When do we call water 'fresh water'?",
+   "a": "When there is no salt in it. For example, seawater, which contains salt, is called 'salt water' and not 'fresh water'"
+  },
+  {
+   "q": "Name 3 functions for which we use water?",
+   "a": "Drinking (drinking water), cooling (cooling water), cleaning, rinsing and dissolving (solvent), extraction, for example in food preparation"
+  },
+  {
+   "q": "What do drinking-water companies do?",
+   "a": "They purify water to make drinking water from it, and check how pure the purified water is"
+  },
+  {
+   "q": "Which types of water do drinking-water companies use?",
+   "a": "Drinking-water companies make drinking water from groundwater and surface water"
+  },
+  {
+   "q": "What does thick juice consist of in the process of extracting sugar?",
+   "a": "Thick juice consists of about 70% sugar in water"
+  },
+  {
+   "q": "What is shown in a block in a block diagram?",
+   "a": "The process is written in the block"
+  },
+  {
+   "q": "How do you show in a block diagram that you add something to a process, for example when you add water?",
+   "a": "With an arrow above the block, pointing from top to bottom, with what you add written next to it"
+  },
+  {
+   "q": "How do you show in a block diagram that you remove something from the process?",
+   "a": "With an arrow below the block, pointing from top to bottom, with what is taken out of the process written next to it"
+  },
+  {
+   "q": "How is salt extracted from the ground at the salt wells in Hengelo? Also state what the material taken from the ground is called and whether it is pure.",
+   "a": "Hot water is pumped into the ground through a pipe. The salt dissolves in it and the solution is then forced upwards by the pressure. It is then called raw brine. It contains dissolved salt and polluting limestone residues. This has to be purified further."
+  },
+  {
+   "q": "What is the chemical process called that removes the salt from the salt layer underground?",
+   "a": "Extraction (Extraheren)"
+  },
+  {
+   "q": "Which separation method can you choose to remove solids from a liquid?",
+   "a": "Filtration, settling"
+  },
+  {
+   "q": "Which separation method can you choose to remove highly soluble solids from a liquid?",
+   "a": "Evaporation (Indampen)"
+  },
+  {
+   "q": "Which separation method can you choose to obtain a solid from a mixture of solids?",
+   "a": "Extraction with a solvent in which only the substance of interest dissolves"
+  },
+  {
+   "q": "What is a saturated solution of table salt?",
+   "a": "A solution in which the maximum amount of table salt per litre has dissolved and in which extra salt that is added will not dissolve"
+  },
+  {
+   "q": "Does salt crystallise from a saturated or an unsaturated solution?",
+   "a": "Saturated solution"
+  },
+  {
+   "q": "1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?",
+   "a": "1 cm<sup>3</sup>"
+  },
+  {
+   "q": "A measuring cylinder has a mass of 100 grams. An analyst adds 50 millilitres of thick juice to it, weighs the filled measuring cylinder and measures 155 grams. What is the density of the thick juice?",
+   "a": "The mass of the 50 mL of thick juice is 155 g − 100 g = 55 g. The density is the mass divided by the volume, so 55/50 = 1.1 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "What do we call (rain)water that has seeped into the ground?",
+   "a": "Groundwater"
+  },
+  {
+   "q": "What do we call the water in streams, lakes and rivers?",
+   "a": "Surface water"
+  },
+  {
+   "q": "What is water often used for in industry?",
+   "a": "Cooling water"
+  },
+  {
+   "q": "Can you say whether there is more than enough drinking water or too little in the world?",
+   "a": "Drinking water is scarce, especially in many countries outside the Netherlands where the tap water is not yet clean enough to drink. Also, poor countries with few drinking-water facilities often lack enough clean drinking water, and people have to use polluted water."
+  },
+  {
+   "q": "In addition to separation processes, drinking water in the Netherlands is also treated with UV or ozone. Can you explain why?",
+   "a": "Clean, purified drinking water is treated with UV or ozone before it enters our drinking-water pipe system, to disinfect it and kill harmful micro-organisms."
+  },
+  {
+   "q": "What does the Drinking Water Decree state?",
+   "a": "The Drinking Water Decree states how clean water must be before it may be called drinking water"
+  },
+  {
+   "q": "A bar of 250 g contains 160 g of cocoa. What is the mass percentage of cocoa?",
+   "a": "mass % = mass (g)/total mass (g) ∙ 100% = 160/250 ∙ 100% = 64.0%"
+  },
+  {
+   "q": "A drink contains 20 g of sugar per 250 mL. What is the mass percentage of sugar? You may assume that 1 mL of liquid has a mass of 1.1 g. Give the answer to 2 decimal places",
+   "a": "mass % = mass of sugar / mass of drink × 100% = 20 g / (250 mL × 1.1 g/mL) × 100% = 7.27%"
+  }
+ ]
+}

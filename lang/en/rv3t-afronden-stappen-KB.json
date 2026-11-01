@@ -1,0 +1,125 @@
+{
+ "title": "Rounding and multi-step problems - 123 school",
+ "heading": "Rounding and multi-step problems",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Every question tells you how to round. For a multi-step problem, the tip tells you how many steps you need."
+ ],
+ "questions": [
+  {
+   "q": "Round 2.675 to 2 decimal places.",
+   "a": "2.68",
+   "e": "2.675 rounded to 2 decimal places = 2.68"
+  },
+  {
+   "q": "Round 7.449 to 1 decimal place.",
+   "a": "7.4",
+   "e": "7.449 rounded to 1 decimal place = 7.4"
+  },
+  {
+   "q": "Round 0.995 to 2 decimal places.",
+   "a": "1.00",
+   "e": "0.995 rounded to 2 decimal places = 1.00"
+  },
+  {
+   "q": "Round 0.0812 to 2 decimal places.",
+   "a": "0.08",
+   "e": "0.0812 rounded to 2 decimal places = 0.08"
+  },
+  {
+   "q": "Round 6.4999 to a whole number.",
+   "a": "6",
+   "e": "6.4999 rounded to a whole number = 6"
+  },
+  {
+   "q": "Round 199.96 to 1 decimal place.",
+   "a": "200.0",
+   "e": "199.96 rounded to 1 decimal place = 200.0"
+  },
+  {
+   "q": "Round 2.675 to 3 significant figures.",
+   "a": "2.68",
+   "e": "2.675 rounded to 3 significant figures = 2.68"
+  },
+  {
+   "q": "Round 9.996 to 3 significant figures.",
+   "a": "10.0",
+   "e": "9.996 rounded to 3 significant figures = 10.0"
+  },
+  {
+   "q": "How many °C is 373 K?",
+   "a": "100 °C",
+   "e": "θ = 373 − 273 = 100 °C"
+  },
+  {
+   "q": "How many °C is 310 K?",
+   "a": "37 °C",
+   "e": "θ = 310 − 273 = 37 °C"
+  },
+  {
+   "q": "Los op: x + 5 = 9. Wat is x?",
+   "a": "4",
+   "e": "x = 9 − 5 = 4"
+  },
+  {
+   "q": "Los op: 2x + 3 = 11. Wat is x?",
+   "a": "4",
+   "e": "2x = 11 − 3 = 8, dus x = 8 : 2 = 4"
+  },
+  {
+   "q": "Los op: x − 7 = 8. Wat is x?",
+   "a": "15",
+   "e": "x = 8 + 7 = 15"
+  },
+  {
+   "q": "A solution has a concentration of 0.80 g/L. How many grams of dissolved substance are there in 250 mL of this solution? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "0.20 g",
+   "e": "Step 1: 250 mL = 0.250 L. Step 2: 0.80 g/L × 0.250 L = 0.20 g"
+  },
+  {
+   "q": "A liquid has a density of 0.92 g/mL. What is the volume in L of 150 g of this liquid? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "0.163 L",
+   "e": "Step 1: 150 g ÷ 0.92 g/mL = 163.04 mL. Step 2: 163.04 mL = 0.163 L"
+  },
+  {
+   "q": "You have 100 mL of water with a density of 1.00 g/mL. The molar mass is 18.0 g/mol. How many moles of water is that? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "5.6 mol",
+   "e": "Step 1: 1.00 g/mL × 100 mL = 100 g. Step 2: 100 g ÷ 18.0 g/mol = 5.6 mol"
+  },
+  {
+   "q": "You have 2.5 mol of a substance with a molar mass of 44.0 g/mol. How many kg is that? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "0.110 kg",
+   "e": "Step 1: 2.5 mol × 44.0 g/mol = 110 g. Step 2: 110 g = 0.110 kg"
+  },
+  {
+   "q": "How many mL of solution are needed to dissolve 0.15 mol if the concentration must be 0.50 mol/L? Round to a whole number. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "300 mL",
+   "e": "Step 1: 0.15 mol ÷ 0.50 mol/L = 0.30 L. Step 2: 0.30 L = 300 mL"
+  },
+  {
+   "q": "A cyclist covers 18 km in 45 minutes. What is the average speed in km/h? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "24.0 km/h",
+   "e": "Step 1: 45 min = 0.75 h. Step 2: 18 km ÷ 0.75 h = 24.0 km/h"
+  },
+  {
+   "q": "A 60 W lamp is on for 5 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "0.30 kWh",
+   "e": "Step 1: 60 W = 0.060 kW. Step 2: 0.060 kW × 5 h = 0.30 kWh"
+  },
+  {
+   "q": "You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). What is the total mass of the mixture in grams? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "197.4 g",
+   "e": "Step 1: 1.00 g/mL × 150 mL = 150 g of water and 0.79 g/mL × 60 mL = 47.4 g of ethanol. Step 2: 150 g + 47.4 g = 197.4 g"
+  },
+  {
+   "q": "You have 40 mL of ethanol with a density of 0.79 g/mL. The molar mass is 46.0 g/mol. How many moles of ethanol is that? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "a": "0.69 mol",
+   "e": "Step 1: 0.79 g/mL × 40 mL = 31.6 g. Step 2: 31.6 g ÷ 46.0 g/mol = 0.69 mol"
+  },
+  {
+   "q": "You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). Calculate the mass percentage of water in the mixture. Round to 1 decimal place. Tip: this is a 3-step problem. Only round the final answer.",
+   "a": "76.0 %",
+   "e": "Step 1: mass of water = 150 g and mass of ethanol = 47.4 g. Step 2: total mass = 197.4 g. Step 3: 150 g ÷ 197.4 g × 100% = 76.0%"
+  }
+ ]
+}

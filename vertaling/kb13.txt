@@ -1,0 +1,362 @@
+### sk3t-rekenen-aan-reacties-KB
+2.a 2 × 1.0 + 16.0 = 18.0 u
+3.a 12.0 + 2 × 16.0 = 44.0 u
+4.a 14.0 + 3 × 1.0 = 17.0 u
+5.a 12.0 + 4 × 1.0 = 16.0 u
+6.a 2 × 1.0 + 32.1 + 4 × 16.0 = 98.1 u
+7.a 23.0 + 35.5 = 58.5 u
+8.a 40.1 + 12.0 + 3 × 16.0 = 100.1 u
+9.a 2 × 55.8 + 3 × 16.0 = 159.6 u
+11.a 2 × 2.0 = 4.0 g H<sub>2</sub>; 32.0 g O<sub>2</sub>; 2 × 18.0 = 36.0 g H<sub>2</sub>O
+12.a 12.0 : 32.0 : 44.0
+21.a 16.0 + 64.0 = 80.0 g
+23.a 2.0 / 18.0 × 100% = 11.1%
+24.a 16.0 / 18.0 × 100% = 88.9%
+25.a 12.0 / 44.0 × 100% = 27.3%
+26.a 14.0 / 17.0 × 100% = 82.4%
+27.a 111.6 / 159.6 × 100% = 69.9%
+28.a 111.6 / 159.6 × 100 = 69.9 g
+31.a 40 / 250 × 100% = 16%
+32.a 0.15 × 300 = 45 mL
+33.a 2.0 kg = 2000 g. 0.035 × 2000 = 70 g
+34.a 0.70 × 500 = 350 g
+36.a 2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)
+37.a 2 C<sub>4</sub>H<sub>10</sub>: 2 × 58.0 = 116.0 u<br/>13 O<sub>2</sub>: 13 × 32.0 = 416.0 u
+40.a N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)
+41.a N<sub>2</sub>: 1 × 28.0 = 28.0 u<br/>2 NH<sub>3</sub>: 2 × 17.0 = 34.0 u
+45.g0 140 g
+45.g1 1.40 × 10^2 g
+45.g2 1.4 × 10^2 g
+### sk3t-scheidingsmethoden-KB
+2.q What is the formula for density?
+2.a Density (ρ) = mass/volume in g/cm<sup>3</sup>
+3.q What is a suspension?
+7.q What is a solvent?
+9.q What is meant by separating in chemistry?
+10.q Name a separation method that is based on boiling point
+10.a Distillation, evaporation
+11.q Name a separation method that is based on density
+13.q Name an example of an extraction method
+13.a Making coffee or tea
+14.a The residue
+16.q How many mL is one L?
+16.a 1 L = 1000 mL
+17.q Define a pure substance
+19.q What is meant by separating in chemistry?
+23.a Filtration
+35.a Extraction (Extraheren)
+37.a Evaporation (Indampen)
+41.q 1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?
+41.a 1 cm<sup>3</sup>
+43.a Groundwater
+49.q A bar of 250 g contains 160 g of cocoa. What is the mass percentage of cocoa?
+49.a mass % = mass (g)/total mass (g) ∙ 100% = 160/250 ∙ 100% = 64.0%
+### rv3t-afronden-stappen-KB
+0.a 2.68
+1.a 7.4
+2.a 1.00
+3.a 0.08
+4.a 6
+5.a 200.0
+6.a 2.68
+7.a 10.0
+8.a 100 °C
+8.e θ = 373 − 273 = 100 °C
+9.a 37 °C
+9.e θ = 310 − 273 = 37 °C
+10.q Los op: x + 5 = 9. Wat is x?
+10.a 4
+10.e x = 9 − 5 = 4
+11.q Los op: 2x + 3 = 11. Wat is x?
+11.a 4
+11.e 2x = 11 − 3 = 8, dus x = 8 : 2 = 4
+12.q Los op: x − 7 = 8. Wat is x?
+12.a 15
+12.e x = 8 + 7 = 15
+13.a 0.20 g
+13.e Step 1: 250 mL = 0.250 L. Step 2: 0.80 g/L × 0.250 L = 0.20 g
+14.a 0.163 L
+15.a 5.6 mol
+16.a 0.110 kg
+17.a 300 mL
+18.a 24.0 km/h
+19.a 0.30 kWh
+20.a 197.4 g
+21.a 0.69 mol
+22.a 76.0 %
+### rv3t-breuken-procenten-eenheden-KB
+0.a 20 mL
+0.e 2/5 × 50 mL = 20 mL
+1.a 40 mL
+1.e 5/8 × 64 mL = 40 mL
+2.a 2/3
+3.a 0.75
+3.e 3 : 4 = 0.75
+4.a 40%
+4.e 2/5 = 0.4 = 40%
+5.a 7/20
+5.e 35% = 35/100 = 7/20
+6.q Wat is 5 g / 1 mL?
+6.a 5 g/mL
+7.a 5/8
+9.a g/mL
+10.a km/h
+11.a 8.3 m/s
+11.e 100 m : 12 s = 8.3 m/s
+12.a 12
+13.a 20 g
+14.a 0.045
+14.e 4.5% = 4.5/100 = 0.045
+15.a 180 g
+15.e 150 g × 1.2 = 180 g
+16.a 35 g
+17.a 24 g
+18.a 5 : 2
+19.a 0.025 g
+19.e 1 g = 1000 mg, dus 25 mg = 0.025 g
+20.a 1.2 kg
+21.a 180 s
+21.e 1 min = 60 s, dus 3 min = 180 s
+22.a 1000 g
+22.e 1 kg = 1000 g
+23.a 1 L
+23.e 1 dm<sup>3</sup> = 1 L
+24.a 120 s
+24.e 2 × 60 s = 120 s
+### sk3t-rekenen-aan-reacties-KB
+heading Calculating with reactions
+intro.1 The atomic masses are given in each question.
+0.q Which law says that the total mass stays the same in a reaction?
+0.a The law of conservation of mass
+1.q What is step 1 in chemical calculations?
+1.a Write the reaction equation (and balance it)
+2.q Calculate the molecular mass of H<sub>2</sub>O. Atomic masses: H = 1.0 u; O = 16.0 u.
+3.q Calculate the molecular mass of CO<sub>2</sub>. Atomic masses: C = 12.0 u; O = 16.0 u.
+4.q Calculate the molecular mass of NH<sub>3</sub>. Atomic masses: H = 1.0 u; N = 14.0 u.
+5.q Calculate the molecular mass of CH<sub>4</sub>. Atomic masses: H = 1.0 u; C = 12.0 u.
+6.q Calculate the molecular mass of H<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; O = 16.0 u; S = 32.1 u.
+7.q Calculate the formula mass of NaCl. Atomic masses: Na = 23.0 u; Cl = 35.5 u.
+8.q Calculate the formula mass of CaCO<sub>3</sub>. Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u.
+9.q Calculate the formula mass of Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: O = 16.0 u; Fe = 55.8 u.
+10.q In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 4.0 g of hydrogen reacts with 32.0 g of oxygen. How many g of water are formed?
+10.a 4.0 + 32.0 = 36.0 g (law of conservation of mass)
+11.q What is the mass ratio hydrogen : oxygen : water for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? Atomic masses: H = 1.0 u; O = 16.0 u.
+12.q What is the mass ratio carbon : oxygen : carbon dioxide for C + O<sub>2</sub> → CO<sub>2</sub>? Atomic masses: C = 12.0 u; O = 16.0 u.
+13.q In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon. How many g of oxygen are needed at least? Atomic masses: C = 12.0 u; O = 16.0 u.
+13.a 12.0 g of C goes with 32.0 g of O<sub>2</sub>. 6.0 g of C goes with 6.0 / 12.0 × 32.0 = 16.0 g
+14.q In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon completely. How many g of carbon dioxide are formed? Atomic masses: C = 12.0 u; O = 16.0 u.
+14.a 12.0 g of C gives 44.0 g of CO<sub>2</sub>. 6.0 g of C gives 6.0 / 12.0 × 44.0 = 22.0 g
+15.q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO: how many g of magnesium oxide are formed from 24.3 g of magnesium? Atomic masses: O = 16.0 u; Mg = 24.3 u.
+15.a 48.6 g of Mg gives 80.6 g of MgO. 24.3 g of Mg gives 40.3 g of MgO
+16.q How many g of oxygen react completely with 24.3 g of magnesium? (2 Mg + O<sub>2</sub> → 2 MgO) Atomic masses: O = 16.0 u; Mg = 24.3 u.
+16.a 48.6 g of Mg reacts with 32.0 g of O<sub>2</sub>. 24.3 g of Mg with 16.0 g of O<sub>2</sub>
+17.q You burn 4.0 g of hydrogen completely with enough oxygen (2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O). How many g of water are formed? Atomic masses: H = 1.0 u; O = 16.0 u.
+17.a 2 H<sub>2</sub> = 4.0 g gives 2 H<sub>2</sub>O = 36.0 g
+18.q In 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>, 36 g of water is decomposed. How many g of hydrogen and oxygen are formed together?
+18.a The mass stays the same: 36 g (4 g of hydrogen and 32 g of oxygen)
+19.q Heating CaCO<sub>3</sub> forms CaO and CO<sub>2</sub>: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. You heat 10.0 g of limestone. 4.4 g of CO<sub>2</sub> is formed. How many g of CaO remain?
+19.a 10.0 − 4.4 = 5.6 g (law of conservation of mass)
+20.q In water (H<sub>2</sub>O), hydrogen and oxygen are present in the mass ratio 1 : 8. How many g of oxygen are there in 45 g of water?
+20.a 1 + 8 = 9 parts. 8/9 × 45 = 40 g
+21.q In the combustion of methane (CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O), 16.0 g of methane reacts with 64.0 g of oxygen. How many g of carbon dioxide and water are formed together?
+22.q In the combustion of methane, 16.0 g of methane gives 44.0 g of carbon dioxide. How many g of oxygen are needed if 36.0 g of water is also formed?
+22.a 44.0 + 36.0 = 80.0 g on the right. On the left: 80.0 − 16.0 = 64.0 g of oxygen
+23.q Calculate the mass percentage of hydrogen in water (H<sub>2</sub>O). Atomic masses: H = 1.0 u; O = 16.0 u.
+24.q Calculate the mass percentage of oxygen in water (H<sub>2</sub>O). Atomic masses: H = 1.0 u; O = 16.0 u.
+25.q Calculate the mass percentage of carbon in carbon dioxide (CO<sub>2</sub>). Atomic masses: C = 12.0 u; O = 16.0 u.
+26.q Calculate the mass percentage of nitrogen in ammonia (NH<sub>3</sub>). Atomic masses: H = 1.0 u; N = 14.0 u.
+27.q Calculate the mass percentage of iron in Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: O = 16.0 u; Fe = 55.8 u.
+28.q What is the maximum number of g of iron you can obtain from 100 g of Fe<sub>2</sub>O<sub>3</sub>? Atomic masses: O = 16.0 u; Fe = 55.8 u.
+29.q You let 24.3 g of magnesium react with 32.0 g of oxygen (2 Mg + O<sub>2</sub> → 2 MgO). 24.3 g of Mg needs 16.0 g of O<sub>2</sub>. Which substance is in excess and how many g remain?
+29.a There is 32.0 g of O<sub>2</sub> and 16.0 g is needed. 16.0 g of O<sub>2</sub> remains.
+30.q How many g of carbon dioxide are formed if you let 12.0 g of carbon react with 64.0 g of oxygen? (C + O<sub>2</sub> → CO<sub>2</sub>). Atomic masses: C = 12.0 u; O = 16.0 u.
+30.a 12.0 g of C reacts with 32.0 g of O<sub>2</sub> to give 44.0 g of CO<sub>2</sub>. 32.0 g of O<sub>2</sub> remains (excess).
+31.q There is 40 mL of alcohol in 250 mL of an alcoholic drink. What is the volume percentage of alcohol?
+32.q A mixture of 300 mL contains 15 volume% of acetone. How many mL of acetone does it contain?
+33.q How many grams of salt are there in 2.0 kg of seawater containing 3.5 mass% of salt?
+34.q An ore of 500 g contains 70 mass% of iron oxide. How many g of iron oxide does it contain?
+35.q What are the five steps in chemical calculations, in the correct order?
+35.a 1 Write the reaction equation (balanced, with state symbols)<br/>2 Write down what is given and what is asked, and put the masses (u) under the equation<br/>3 Make a ratio table<br/>4 Carry out the calculation<br/>5 Write the answer, with unit
+36.q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many g of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 1: write the balanced reaction equation, with state symbols.
+37.q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many g of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 2: put the masses (u) of butane and oxygen under the reaction equation.
+38.q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many g of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 3: make the ratio table for 29 g of butane. You are looking for the mass of oxygen.
+38.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>butane</th><th>oxygen</th></tr><tr><td>mass ratio (u)</td><td>116.0 u</td><td>416.0 u</td></tr><tr><td>actual mass (g)</td><td>29</td><td>x</td></tr></table>
+38.a Factor: 29 : 116.0 = 0.25
+39.q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many g of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 116.0 u goes with 416.0 u, and 29 g goes with x g.
+39.a x = 416.0 × 29 : 116.0 = 104 g<br/>Answer: 104 g of oxygen
+40.q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many g of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 1: write the balanced reaction equation, with state symbols.
+41.q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many g of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 2: put the masses (u) of nitrogen and ammonia under the reaction equation.
+42.q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many g of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 3: make the ratio table for 14 g of nitrogen. You are looking for the mass of ammonia.
+42.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>nitrogen</th><th>ammonia</th></tr><tr><td>mass ratio (u)</td><td>28.0 u</td><td>34.0 u</td></tr><tr><td>actual mass (g)</td><td>14</td><td>x</td></tr></table>
+42.a Factor: 14 : 28.0 = 0.5
+43.q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many g of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 28.0 u goes with 34.0 u, and 14 g goes with x g.
+43.a x = 34.0 × 14 : 28.0 = 17 g<br/>Answer: 17 g of ammonia
+44.q Limestone (CaCO<sub>3</sub>) is heated to quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many g of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 3: make the ratio table for 250 g of limestone. You are looking for the mass of quicklime.
+44.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>limestone</th><th>quicklime</th></tr><tr><td>mass ratio (u)</td><td>100.1 u</td><td>56.1 u</td></tr><tr><td>actual mass (g)</td><td>250</td><td>x</td></tr></table>
+44.a Factor: 250 : 100.1 = 2.4975
+45.q Limestone (CaCO<sub>3</sub>) is heated to quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many g of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 100.1 u goes with 56.1 u, and 250 g goes with x g.
+45.a x = 56.1 × 250 : 100.1 = 140.1 = 1.40 × 10<sup>2</sup> g (3 significant figures)<br/>Answer: 1.40 × 10<sup>2</sup> g of quicklime
+46.q Copper(II) oxide contains copper and oxygen in the mass ratio 4 : 1. How many g of copper are there in 30 g of copper(II) oxide? Use a ratio table.
+46.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>copper(II) oxide</th><th>copper</th></tr><tr><td>parts</td><td>5</td><td>4</td></tr><tr><td>mass (g)</td><td>30</td><td>x</td></tr></table>
+46.a x = 4 × 30 : 5 = 24 g. Answer: it contains 24 g of copper.
+47.q You let 3.0 g of carbon react with 10.0 g of oxygen (C + O<sub>2</sub> → CO<sub>2</sub>). Which substance is in excess and how many g remain? Atomic masses: C = 12.0 u; O = 16.0 u. Use a ratio table.
+47.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>carbon</th><th>oxygen</th></tr><tr><td>mass ratio (u)</td><td>12.0</td><td>32.0</td></tr><tr><td>actual mass (g)</td><td>3.0</td><td>x</td></tr></table>
+47.a x = 32.0 × 3.0 : 12.0 = 8.0 g of oxygen needed. You have 10.0 g, so oxygen is in excess. 10.0 − 8.0 = 2.0 g of oxygen remains.
+48.q Why do you put the coefficient times the molecular mass under the reaction equation (for example 2 × 58.0 u for 2 C<sub>4</sub>H<sub>10</sub>)?
+48.a Because the equation shows how many molecules react: 2 molecules go with twice the mass
+### sk3t-scheidingsmethoden-KB
+heading Separating substances
+0.q Name three separation methods
+0.a Filtration, evaporation, distillation, adsorption, extraction, settling
+1.q Name 5 steps in the process of extracting sugar from sugar beets
+1.a Weigh the beets, wash the beets, chop the beets into pieces, soak the pieces in hot water and extract the sugar, remove the beet pieces by sieving, evaporate the sugar water to thick juice
+3.a A mixture of small particles of a solid in a liquid, which do not mix well
+4.q Are suspensions clear or cloudy?
+4.a Cloudy
+5.q Is a solution always cloudy or clear?
+5.a Clear
+6.q Does a solution always have a colour?
+6.a No, it can also be colourless. Suspensions always have a colour
+7.a A liquid in which other substances are dissolved
+8.q Name 5 separation methods
+8.a Adsorption, settling and decanting, (centrifuging), distillation, extraction, filtration, evaporation
+9.a Splitting/purifying a mixture into separate or purer substances
+11.a Settling (and centrifuging)
+12.q For which separation method is the particle size decisive?
+12.a Filtration, sieving
+14.q What is the general name for the material that stays behind on a filter or in a distillation flask?
+15.q What is the general name for the material that is purified and obtained by distillation?
+15.a The distillate
+17.a A pure substance consists of 1 kind of particle/molecule
+18.q Describe a mixture
+18.a A mixture consists of several kinds of particles/molecules
+19.a Splitting/purifying a mixture into separate or purer substances
+20.q For which separation method is activated carbon often used?
+20.a Adsorption
+21.q What must be different between two liquids to be able to separate them by distillation?
+21.a They must have different boiling points
+22.q How can you remove a small amount of a harmful substance from air or water?
+22.a By adsorption
+23.q If you want to quickly separate a small amount of a suspension, which separation method do you choose?
+24.q Which separation processes take place in water purification?
+24.a Settling and filtration
+25.q Name at least 3 types of water that we distinguish in the water cycle?
+25.a Surface water, groundwater, rainwater, salt water, fresh water, water vapour
+26.q When do we call water 'fresh water'?
+26.a When there is no salt in it. For example, seawater, which contains salt, is called 'salt water' and not 'fresh water'
+27.q Name 3 functions for which we use water?
+27.a Drinking (drinking water), cooling (cooling water), cleaning, rinsing and dissolving (solvent), extraction, for example in food preparation
+28.q What do drinking-water companies do?
+28.a They purify water to make drinking water from it, and check how pure the purified water is
+29.q Which types of water do drinking-water companies use?
+29.a Drinking-water companies make drinking water from groundwater and surface water
+30.q What does thick juice consist of in the process of extracting sugar?
+30.a Thick juice consists of about 70% sugar in water
+31.q What is shown in a block in a block diagram?
+31.a The process is written in the block
+32.q How do you show in a block diagram that you add something to a process, for example when you add water?
+32.a With an arrow above the block, pointing from top to bottom, with what you add written next to it
+33.q How do you show in a block diagram that you remove something from the process?
+33.a With an arrow below the block, pointing from top to bottom, with what is taken out of the process written next to it
+34.q How is salt extracted from the ground at the salt wells in Hengelo? Also state what the material taken from the ground is called and whether it is pure.
+34.a Hot water is pumped into the ground through a pipe. The salt dissolves in it and the solution is then forced upwards by the pressure. It is then called raw brine. It contains dissolved salt and polluting limestone residues. This has to be purified further.
+35.q What is the chemical process called that removes the salt from the salt layer underground?
+36.q Which separation method can you choose to remove solids from a liquid?
+36.a Filtration, settling
+37.q Which separation method can you choose to remove highly soluble solids from a liquid?
+38.q Which separation method can you choose to obtain a solid from a mixture of solids?
+38.a Extraction with a solvent in which only the substance of interest dissolves
+39.q What is a saturated solution of table salt?
+39.a A solution in which the maximum amount of table salt per litre has dissolved and in which extra salt that is added will not dissolve
+40.q Does salt crystallise from a saturated or an unsaturated solution?
+40.a Saturated solution
+42.q A measuring cylinder has a mass of 100 grams. An analyst adds 50 millilitres of thick juice to it, weighs the filled measuring cylinder and measures 155 grams. What is the density of the thick juice?
+42.a The mass of the 50 mL of thick juice is 155 g − 100 g = 55 g. The density is the mass divided by the volume, so 55/50 = 1.1 g/cm<sup>3</sup>
+43.q What do we call (rain)water that has seeped into the ground?
+44.q What do we call the water in streams, lakes and rivers?
+44.a Surface water
+45.q What is water often used for in industry?
+45.a Cooling water
+46.q Can you say whether there is more than enough drinking water or too little in the world?
+46.a Drinking water is scarce, especially in many countries outside the Netherlands where the tap water is not yet clean enough to drink. Also, poor countries with few drinking-water facilities often lack enough clean drinking water, and people have to use polluted water.
+47.q In addition to separation processes, drinking water in the Netherlands is also treated with UV or ozone. Can you explain why?
+47.a Clean, purified drinking water is treated with UV or ozone before it enters our drinking-water pipe system, to disinfect it and kill harmful micro-organisms.
+48.q What does the Drinking Water Decree state?
+48.a The Drinking Water Decree states how clean water must be before it may be called drinking water
+50.q A drink contains 20 g of sugar per 250 mL. What is the mass percentage of sugar? You may assume that 1 mL of liquid has a mass of 1.1 g. Give the answer to 2 decimal places
+50.a mass % = mass of sugar / mass of drink × 100% = 20 g / (250 mL × 1.1 g/mL) × 100% = 7.27%
+### rv3t-afronden-stappen-KB
+heading Rounding and multi-step problems
+0.q Round 2.675 to 2 decimal places.
+0.e 2.675 rounded to 2 decimal places = 2.68
+1.q Round 7.449 to 1 decimal place.
+1.e 7.449 rounded to 1 decimal place = 7.4
+2.q Round 0.995 to 2 decimal places.
+2.e 0.995 rounded to 2 decimal places = 1.00
+3.q Round 0.0812 to 2 decimal places.
+3.e 0.0812 rounded to 2 decimal places = 0.08
+4.q Round 6.4999 to a whole number.
+4.e 6.4999 rounded to a whole number = 6
+5.q Round 199.96 to 1 decimal place.
+5.e 199.96 rounded to 1 decimal place = 200.0
+6.q Round 2.675 to 3 significant figures.
+6.e 2.675 rounded to 3 significant figures = 2.68
+7.q Round 9.996 to 3 significant figures.
+7.e 9.996 rounded to 3 significant figures = 10.0
+8.q How many °C is 373 K?
+9.q How many °C is 310 K?
+13.q A solution has a concentration of 0.80 g/L. How many grams of dissolved substance are there in 250 mL of this solution? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+14.q A liquid has a density of 0.92 g/mL. What is the volume in L of 150 g of this liquid? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+14.e Step 1: 150 g ÷ 0.92 g/mL = 163.04 mL. Step 2: 163.04 mL = 0.163 L
+15.q You have 100 mL of water with a density of 1.00 g/mL. The molar mass is 18.0 g/mol. How many moles of water is that? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+15.e Step 1: 1.00 g/mL × 100 mL = 100 g. Step 2: 100 g ÷ 18.0 g/mol = 5.6 mol
+16.q You have 2.5 mol of a substance with a molar mass of 44.0 g/mol. How many kg is that? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+16.e Step 1: 2.5 mol × 44.0 g/mol = 110 g. Step 2: 110 g = 0.110 kg
+17.q How many mL of solution are needed to dissolve 0.15 mol if the concentration must be 0.50 mol/L? Round to a whole number. Tip: this is a 2-step problem. Only round the final answer.
+17.e Step 1: 0.15 mol ÷ 0.50 mol/L = 0.30 L. Step 2: 0.30 L = 300 mL
+18.q A cyclist covers 18 km in 45 minutes. What is the average speed in km/h? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+18.e Step 1: 45 min = 0.75 h. Step 2: 18 km ÷ 0.75 h = 24.0 km/h
+19.q A 60 W lamp is on for 5 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+19.e Step 1: 60 W = 0.060 kW. Step 2: 0.060 kW × 5 h = 0.30 kWh
+20.q You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). What is the total mass of the mixture in grams? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+20.e Step 1: 1.00 g/mL × 150 mL = 150 g of water and 0.79 g/mL × 60 mL = 47.4 g of ethanol. Step 2: 150 g + 47.4 g = 197.4 g
+21.q You have 40 mL of ethanol with a density of 0.79 g/mL. The molar mass is 46.0 g/mol. How many moles of ethanol is that? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+21.e Step 1: 0.79 g/mL × 40 mL = 31.6 g. Step 2: 31.6 g ÷ 46.0 g/mol = 0.69 mol
+22.q You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). Calculate the mass percentage of water in the mixture. Round to 1 decimal place. Tip: this is a 3-step problem. Only round the final answer.
+22.e Step 1: mass of water = 150 g and mass of ethanol = 47.4 g. Step 2: total mass = 197.4 g. Step 3: 150 g ÷ 197.4 g × 100% = 76.0%
+### rv3t-breuken-procenten-eenheden-KB
+heading Fractions, percentages and units
+0.q How much is 2/5 of 50 mL?
+1.q How much is 5/8 of 64 mL?
+2.q Write the fraction 10/15 as simply as possible.
+2.e 10/15 = 2/3 (divide the top and bottom by 5)
+3.q Write 3/4 as a decimal.
+4.q Write 2/5 as a percentage.
+5.q Write 35% as a simple fraction.
+6.e Dividing by 1: 5 g per 1 mL = 5 g/mL
+7.q Which fraction is smaller: 5/8 or 3/4?
+7.e 3/4 = 6/8, so 5/8 is smaller
+8.q What does a concentration of 25 g/L mean?
+8.a 1 L of solution contains 25 g of dissolved substance
+8.e You read g/L as "grams per litre": 1 L contains 25 g
+9.q You divide a mass in g by a volume in mL. What unit does the answer have?
+10.q You divide a distance in km by a time in h. What unit does the answer have?
+11.q An object covers 100 m in 12 s. Calculate the speed in m/s. Round to 1 decimal place.
+12.q How much is 12 g / 1 g?
+13.q A mixture contains 20% of a substance. How many grams of that substance are there in 100 g of the mixture?
+13.e In 100 g there is 20%: 20% of 100 g = 20 g
+14.q Write 4.5% as a decimal.
+15.q A quantity of 150 g increases by 20%. How many grams is it afterwards? You do not need to round.
+16.q How much is 10% of 350 g?
+16.e 10% = 1/10 part: 350 g ÷ 10 = 35 g
+17.q How much is 1% of 2400 g?
+17.e 1% = 1/100 part: 2400 g ÷ 100 = 24 g
+18.q A mixture consists of 15 g of sand and 6 g of salt. What is the mass ratio sand : salt?
+18.e 15 : 6 = 5 : 2 (divide both numbers by 3)
+19.q Convert 25 mg to g. You do not need to round.
+20.q Convert 1234 g to kg. Round to 1 decimal place.
+20.e 1 kg = 1000 g, so 1234 g = 1.234 kg, rounded 1.2 kg
+21.q Convert 3 min to s. You do not need to round.
+22.q How many grams is 1 kg?
+23.q Which volume is equal to 1 dm<sup>3</sup>?
+24.q How many seconds are 2 minutes?

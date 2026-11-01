@@ -1,0 +1,132 @@
+{
+ "title": "Fractions, percentages and units - 123 school",
+ "heading": "Fractions, percentages and units",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Every question tells you how to round."
+ ],
+ "questions": [
+  {
+   "q": "How much is 2/5 of 50 mL?",
+   "a": "20 mL",
+   "e": "2/5 × 50 mL = 20 mL"
+  },
+  {
+   "q": "How much is 5/8 of 64 mL?",
+   "a": "40 mL",
+   "e": "5/8 × 64 mL = 40 mL"
+  },
+  {
+   "q": "Write the fraction 10/15 as simply as possible.",
+   "a": "2/3",
+   "e": "10/15 = 2/3 (divide the top and bottom by 5)"
+  },
+  {
+   "q": "Write 3/4 as a decimal.",
+   "a": "0.75",
+   "e": "3 : 4 = 0.75"
+  },
+  {
+   "q": "Write 2/5 as a percentage.",
+   "a": "40%",
+   "e": "2/5 = 0.4 = 40%"
+  },
+  {
+   "q": "Write 35% as a simple fraction.",
+   "a": "7/20",
+   "e": "35% = 35/100 = 7/20"
+  },
+  {
+   "q": "Wat is 5 g / 1 mL?",
+   "a": "5 g/mL",
+   "e": "Dividing by 1: 5 g per 1 mL = 5 g/mL"
+  },
+  {
+   "q": "Which fraction is smaller: 5/8 or 3/4?",
+   "a": "5/8",
+   "e": "3/4 = 6/8, so 5/8 is smaller"
+  },
+  {
+   "q": "What does a concentration of 25 g/L mean?",
+   "a": "1 L of solution contains 25 g of dissolved substance",
+   "e": "You read g/L as \"grams per litre\": 1 L contains 25 g"
+  },
+  {
+   "q": "You divide a mass in g by a volume in mL. What unit does the answer have?",
+   "a": "g/mL"
+  },
+  {
+   "q": "You divide a distance in km by a time in h. What unit does the answer have?",
+   "a": "km/h"
+  },
+  {
+   "q": "An object covers 100 m in 12 s. Calculate the speed in m/s. Round to 1 decimal place.",
+   "a": "8.3 m/s",
+   "e": "100 m : 12 s = 8.3 m/s"
+  },
+  {
+   "q": "How much is 12 g / 1 g?",
+   "a": "12"
+  },
+  {
+   "q": "A mixture contains 20% of a substance. How many grams of that substance are there in 100 g of the mixture?",
+   "a": "20 g",
+   "e": "In 100 g there is 20%: 20% of 100 g = 20 g"
+  },
+  {
+   "q": "Write 4.5% as a decimal.",
+   "a": "0.045",
+   "e": "4.5% = 4.5/100 = 0.045"
+  },
+  {
+   "q": "A quantity of 150 g increases by 20%. How many grams is it afterwards? You do not need to round.",
+   "a": "180 g",
+   "e": "150 g × 1.2 = 180 g"
+  },
+  {
+   "q": "How much is 10% of 350 g?",
+   "a": "35 g",
+   "e": "10% = 1/10 part: 350 g ÷ 10 = 35 g"
+  },
+  {
+   "q": "How much is 1% of 2400 g?",
+   "a": "24 g",
+   "e": "1% = 1/100 part: 2400 g ÷ 100 = 24 g"
+  },
+  {
+   "q": "A mixture consists of 15 g of sand and 6 g of salt. What is the mass ratio sand : salt?",
+   "a": "5 : 2",
+   "e": "15 : 6 = 5 : 2 (divide both numbers by 3)"
+  },
+  {
+   "q": "Convert 25 mg to g. You do not need to round.",
+   "a": "0.025 g",
+   "e": "1 g = 1000 mg, dus 25 mg = 0.025 g"
+  },
+  {
+   "q": "Convert 1234 g to kg. Round to 1 decimal place.",
+   "a": "1.2 kg",
+   "e": "1 kg = 1000 g, so 1234 g = 1.234 kg, rounded 1.2 kg"
+  },
+  {
+   "q": "Convert 3 min to s. You do not need to round.",
+   "a": "180 s",
+   "e": "1 min = 60 s, dus 3 min = 180 s"
+  },
+  {
+   "q": "How many grams is 1 kg?",
+   "a": "1000 g",
+   "e": "1 kg = 1000 g"
+  },
+  {
+   "q": "Which volume is equal to 1 dm<sup>3</sup>?",
+   "a": "1 L",
+   "e": "1 dm<sup>3</sup> = 1 L"
+  },
+  {
+   "q": "How many seconds are 2 minutes?",
+   "a": "120 s",
+   "e": "2 × 60 s = 120 s"
+  }
+ ]
+}
