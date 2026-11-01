@@ -1,0 +1,133 @@
+{
+ "title": "Units, concentrations and ratios - 123 school",
+ "heading": "Units, concentrations and ratios",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Every question tells you how to round."
+ ],
+ "questions": [
+  {
+   "q": "What does a concentration of 0.25 mol/L mean?",
+   "a": "1 L of solution contains 0.25 mol of dissolved substance"
+  },
+  {
+   "q": "Write g/mol using a negative power.",
+   "a": "g·mol<sup>−1</sup>",
+   "e": "g/mol = g·mol<sup>−1</sup>"
+  },
+  {
+   "q": "Write m·s<sup>−2</sup> as a fraction.",
+   "a": "m/s<sup>2</sup>",
+   "e": "s<sup>−2</sup> = 1/s<sup>2</sup>"
+  },
+  {
+   "q": "You divide an amount in mol by a volume in L. What unit does the answer have?",
+   "a": "mol/L"
+  },
+  {
+   "q": "You divide a volume in L by a molar volume in L/mol. What unit does the answer have?",
+   "a": "mol"
+  },
+  {
+   "q": "Convert 125 mg to g. Keep the number of significant figures.",
+   "a": "0.125 g",
+   "e": "125 mg = 0.125 g"
+  },
+  {
+   "q": "Convert 6.5 μg to mg. Keep the number of significant figures.",
+   "a": "0.0065 mg",
+   "e": "6.5 μg = 0.0065 mg"
+  },
+  {
+   "q": "Convert 150 mm to m. Keep the number of significant figures.",
+   "a": "0.150 m",
+   "e": "150 mm = 0.150 m"
+  },
+  {
+   "q": "Which power of 10 belongs to the prefix micro (μ)?",
+   "a": "10<sup>−6</sup>"
+  },
+  {
+   "q": "Which power of 10 belongs to the prefix nano (n)?",
+   "a": "10<sup>−9</sup>"
+  },
+  {
+   "q": "Which power of 10 belongs to the prefix centi (c)?",
+   "a": "10<sup>−2</sup>"
+  },
+  {
+   "q": "Write 6.2·10<sup>5</sup> as an ordinary number.",
+   "a": "620 000",
+   "e": "6.2·10<sup>5</sup> = 620 000"
+  },
+  {
+   "q": "Calculate 10<sup>8</sup> : 10<sup>3</sup>.",
+   "a": "10<sup>5</sup>"
+  },
+  {
+   "q": "Calculate 10<sup>2</sup> : 10<sup>−3</sup>.",
+   "a": "10<sup>5</sup>"
+  },
+  {
+   "q": "Which number is the greatest?",
+   "a": "3.2·10<sup>−3</sup>"
+  },
+  {
+   "q": "What is 10<sup>0</sup>?",
+   "a": "1"
+  },
+  {
+   "q": "Convert 0.0025 % to ppm (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.",
+   "a": "25 ppm",
+   "e": "0.0025 × 10<sup>4</sup> = 25"
+  },
+  {
+   "q": "Convert 4.5 ppm to percent (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.",
+   "a": "0.00045 %",
+   "e": "4.5 / 10<sup>4</sup> = 0.00045"
+  },
+  {
+   "q": "Convert 35 ‰ to percent (1 % = 10 ‰). Round to 2 significant figures.",
+   "a": "3.5 %",
+   "e": "35 / 10 = 3.5"
+  },
+  {
+   "q": "Convert 3.0·10<sup>3</sup> ppb to ppm (1 ppm = 10<sup>3</sup> ppb). Round to 2 significant figures.",
+   "a": "3.0 ppm",
+   "e": "3.0·10<sup>3</sup> / 10<sup>3</sup> = 3.0"
+  },
+  {
+   "q": "What is 1 ppb, expressed as a mass?",
+   "a": "1 μg per kg"
+  },
+  {
+   "q": "What does 1 percent (1 %) mean?",
+   "a": "1 part in 100"
+  },
+  {
+   "q": "What is the mole ratio N<sub>2</sub> : NH<sub>3</sub> in the reaction equation N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>?",
+   "a": "1 : 2",
+   "e": "The numbers in front of the formulae are the coefficients: 1 : 2"
+  },
+  {
+   "q": "What is the mole ratio Fe : O<sub>2</sub> in the reaction equation 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>?",
+   "a": "4 : 3",
+   "e": "The numbers in front of the formulae are the coefficients: 4 : 3"
+  },
+  {
+   "q": "In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 3.0 mol of O<sub>2</sub> reacts. How many moles of H<sub>2</sub>O are needed or formed? Round to 2 significant figures.",
+   "a": "6.0 mol",
+   "e": "O<sub>2</sub> : H<sub>2</sub>O = 1 : 2, so 3.0 mol × 2 / 1 = 6.0 mol"
+  },
+  {
+   "q": "In the reaction N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>, 6.0 mol of H<sub>2</sub> reacts. How many moles of NH<sub>3</sub> are needed or formed? Round to 2 significant figures.",
+   "a": "4.0 mol",
+   "e": "H<sub>2</sub> : NH<sub>3</sub> = 3 : 2, so 6.0 mol × 2 / 3 = 4.0 mol"
+  },
+  {
+   "q": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 0.30 mol of Mg reacts. How many moles of O<sub>2</sub> are needed or formed? Round to 2 significant figures.",
+   "a": "0.15 mol",
+   "e": "Mg : O<sub>2</sub> = 2 : 1, so 0.30 mol × 1 / 2 = 0.15 mol"
+  }
+ ]
+}
