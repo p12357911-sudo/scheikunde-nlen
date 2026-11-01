@@ -1,10 +1,7 @@
 {
  "title": "Stoffen en materialen - 123 school",
  "heading": "Stoffen en materialen (met AI-nakijken)",
- "intro": [
-  "Typ je antwoord en klik op \"Controleer antwoorden\". Antwoorden in je eigen woorden worden met AI nagekeken: je krijgt een tip en mag het daarna nog een keer proberen. Typ nooit je naam of andere persoonlijke gegevens: je antwoord wordt door een AI-dienst nagekeken.",
-  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord, door te klikken op de vraag."
- ],
+ "intro": [],
  "questions": [
   {
    "q": "Omschrijf composiet",

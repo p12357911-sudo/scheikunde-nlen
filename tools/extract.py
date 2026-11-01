@@ -72,7 +72,7 @@ for f in sorted(glob.glob(SRC + '/*.html')):
     if kb:
         h2 = s.find('h2'); cont = h2.parent
         d['heading'] = inner(h2)
-        d['intro'] = [inner(p) for p in cont.find_all('p', recursive=False)]
+        d['intro'] = [inner(p) for p in cont.find_all('p', recursive=False) if p.get('id') not in ('ai-intro', 'ai-vergelijk')]   # die komen uit ui.json (ai.intro/ai.privacy) via ai-nakijken.js
         qs = []; vrij = []
         for i, knop in enumerate(s.select('button.vraag-knop')):
             blok = knop.parent
@@ -83,6 +83,10 @@ for f in sorted(glob.glob(SRC + '/*.html')):
             uit = [p for p in ps if 'uitleg' in (p.get('class') or [])]
             assert len(main) == 1 and len(uit) <= 1, naam
             q = {'q': inner(knop), 'a': inner(main[0])}
+            tb = [c for c in box.children if getattr(c, 'name', None) == 'table']
+            assert len(tb) <= 1, naam
+            if tb: q['tabel'] = re.sub(r'\s+', ' ', str(tb[0])).strip()
+            if main[0].get('class'): q['pc'] = ' '.join(main[0]['class'])
             if uit: q['e'] = re.sub(r'^Uitleg:\s*', '', inner(uit[0]))
             if box.get('data-goed'): q['goed'] = box['data-goed'].split('|')
             oc = knop.get('onclick', '')
@@ -100,6 +104,8 @@ for f in sorted(glob.glob(SRC + '/*.html')):
         d['heading'] = inner(em)
         d['intro'] = [inner(p) for p in cont.find_all('p', recursive=False)]
         d['questions'] = js_array(t)
+        kn = s.select_one('#submit')
+        if kn and kn.text.strip() != 'Controleer nu': d['knop'] = kn.text.strip()
         m['kop'] = em.name
         m['cont_id'] = cont.get('id'); m['cont_class'] = ' '.join(cont.get('class') or [])
         m['br'] = len(cont.find_all('br', recursive=False))

@@ -1,7 +1,7 @@
 import functools, http.server, socketserver, threading, os
 from playwright.sync_api import sync_playwright
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ORIG = '/workspace/website/wt-puzzel'   # alleen lezen: de huidige NL-pagina's, voor de vergelijking
+ORIG = '/workspace/website/wt-puzzel'   # alleen lezen: de huidige NL-pagina's (basislijn), voor de vergelijking
 
 class Q(http.server.SimpleHTTPRequestHandler):
     def log_message(self, *a): pass

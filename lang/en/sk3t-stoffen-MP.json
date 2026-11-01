@@ -1,0 +1,346 @@
+{
+ "title": "Substances and mixtures - 123 school",
+ "heading": "Substances and mixtures",
+ "questions": [
+  {
+   "question": "Colour, smell and boiling point are…",
+   "answers": {
+    "a": "Properties of substances",
+    "b": "Changes of state",
+    "c": "Mixtures",
+    "d": "Molecules"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the sheet with information about the hazardous properties of a substance?",
+   "answers": {
+    "a": "Weather map",
+    "b": "Flash card",
+    "c": "Safety data sheet",
+    "d": "Street map"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the melting point?",
+   "answers": {
+    "a": "The temperature of the room",
+    "b": "The temperature at which a substance dissolves",
+    "c": "The temperature at which a liquid becomes a gas",
+    "d": "The temperature at which a solid becomes a liquid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The melting point of a substance is the same as its…",
+   "answers": {
+    "a": "Boiling range",
+    "b": "Freezing point",
+    "c": "Melting range",
+    "d": "Boiling point"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the boiling point?",
+   "answers": {
+    "a": "The temperature at which a liquid becomes a gas",
+    "b": "The temperature at which a solid becomes a liquid",
+    "c": "The temperature at which a substance dissolves",
+    "d": "The temperature of the room"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the boiling point of ethanol (alcohol) in kelvin? (use BINAS table 16)",
+   "answers": {
+    "a": "373 K",
+    "b": "159 K",
+    "c": "351 K",
+    "d": "105 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula for density?",
+   "answers": {
+    "a": "density = volume / mass",
+    "b": "density = mass / volume",
+    "c": "density = mass − volume",
+    "d": "density = mass × volume"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A substance has a mass of 100 g and a volume of 50 cm<sup>3</sup>. What is its density?",
+   "answers": {
+    "a": "150 g/cm<sup>3</sup>",
+    "b": "0.5 g/cm<sup>3</sup>",
+    "c": "5000 g/cm<sup>3</sup>",
+    "d": "2 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the density of aluminium? (use BINAS table 15)",
+   "answers": {
+    "a": "8.96 g/cm<sup>3</sup>",
+    "b": "2.17 g/cm<sup>3</sup>",
+    "c": "2.70 g/cm<sup>3</sup>",
+    "d": "7.87 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A block of wood floats on water. What do you know then?",
+   "answers": {
+    "a": "Wood dissolves in water",
+    "b": "Wood has the same mass as water",
+    "c": "Wood has a higher density than water",
+    "d": "Wood has a lower density than water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Does a block of copper float on water? Look up the densities. (use BINAS tables 15 and 16)",
+   "answers": {
+    "a": "No, copper dissolves in water",
+    "b": "No, copper has a higher density than water",
+    "c": "Yes, copper is a metal and metal floats",
+    "d": "Yes, copper has a lower density than water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the change of state from solid to gas?",
+   "answers": {
+    "a": "Sublimation",
+    "b": "Deposition",
+    "c": "Evaporating",
+    "d": "Melting"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which event is a chemical reaction?",
+   "answers": {
+    "a": "Water boiling",
+    "b": "Ice melting",
+    "c": "Iron rusting",
+    "d": "Washing drying"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How are the molecules arranged in a solid?",
+   "answers": {
+    "a": "Close together, but they can slide past each other",
+    "b": "In a row",
+    "c": "Far apart and they move freely",
+    "d": "Close together in fixed positions and they vibrate"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens to the molecules when you heat a substance?",
+   "answers": {
+    "a": "They get bigger",
+    "b": "They move faster",
+    "c": "They disappear",
+    "d": "They get heavier"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a pure substance?",
+   "answers": {
+    "a": "A substance that consists of one type of molecule",
+    "b": "A substance that consists of several types of molecules",
+    "c": "A substance that you can drink",
+    "d": "A substance that cannot melt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is a mixture?",
+   "answers": {
+    "a": "Acetone",
+    "b": "Air",
+    "c": "Diamond",
+    "d": "Sugar crystals"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A substance melts. The temperature stays the same during melting. What kind of substance is this?",
+   "answers": {
+    "a": "A mixture",
+    "b": "An emulsion",
+    "c": "A suspension",
+    "d": "A pure substance"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A mixture melts. The temperature changes during melting. What is the name of the temperature interval in which the mixture melts?",
+   "answers": {
+    "a": "Boiling range",
+    "b": "Boiling point",
+    "c": "Melting range",
+    "d": "Melting point"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You stir sugar into water. You can no longer see the sugar. What has formed?",
+   "answers": {
+    "a": "A solution",
+    "b": "A suspension",
+    "c": "An emulsion",
+    "d": "A pure substance"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You shake chalk powder with water. The water turns cloudy. What has formed?",
+   "answers": {
+    "a": "An emulsion",
+    "b": "A suspension",
+    "c": "A pure substance",
+    "d": "A solution"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You shake oil with water. Small droplets form. What has formed?",
+   "answers": {
+    "a": "An emulsion",
+    "b": "A solution",
+    "c": "A pure substance",
+    "d": "A suspension"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does an emulsifier do?",
+   "answers": {
+    "a": "It removes a solid from a mixture",
+    "b": "It turns a solution into a suspension",
+    "c": "It heats a mixture",
+    "d": "It holds an emulsion together"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance acts as an emulsifier in mayonnaise?",
+   "answers": {
+    "a": "Sugar",
+    "b": "Salt",
+    "c": "Egg yolk",
+    "d": "Oil"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Sugar is dissolved in water. What is the solvent?",
+   "answers": {
+    "a": "Water",
+    "b": "Air",
+    "c": "Sugar",
+    "d": "Sugar water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which solvent do you use to remove nail polish?",
+   "answers": {
+    "a": "Sea water",
+    "b": "Water",
+    "c": "Acetone",
+    "d": "Vinegar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens in a chemical reaction?",
+   "answers": {
+    "a": "The substances only change state",
+    "b": "The reactants disappear and new substances form",
+    "c": "Nothing disappears",
+    "d": "The substances are only mixed"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do you call the substances that form in a chemical reaction?",
+   "answers": {
+    "a": "Reactants",
+    "b": "Solvents",
+    "c": "Mixtures",
+    "d": "Products"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Where are the reactants in a reaction scheme?",
+   "answers": {
+    "a": "After the arrow",
+    "b": "Above the arrow",
+    "c": "Before the arrow",
+    "d": "Below the arrow"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which hazard symbol goes with a corrosive substance?",
+   "answers": {
+    "a": "Toxic",
+    "b": "Corrosive",
+    "c": "Flammable",
+    "d": "Explosive"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which flame of the burner do you use as the safety flame?",
+   "answers": {
+    "a": "The yellow flame",
+    "b": "The red flame",
+    "c": "The blue flame",
+    "d": "The colourless flame"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you do with leftover chemicals?",
+   "answers": {
+    "a": "You taste them first",
+    "b": "You keep them in your pocket",
+    "c": "You put them back in the bottle",
+    "d": "You never put them back in the bottle"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You leave a suspension to stand for a long time. What happens to the solid?",
+   "answers": {
+    "a": "It turns into a gas",
+    "b": "It evaporates",
+    "c": "It sinks to the bottom (settling)",
+    "d": "It dissolves completely"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the reaction scheme for burning magnesium?",
+   "answers": {
+    "a": "magnesium oxide → magnesium + oxygen",
+    "b": "magnesium → oxygen + magnesium oxide",
+    "c": "oxygen → magnesium + magnesium oxide",
+    "d": "magnesium + oxygen → magnesium oxide"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

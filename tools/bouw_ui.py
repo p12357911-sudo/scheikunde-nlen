@@ -16,6 +16,8 @@ extra_en = {
  'nav.themas': 'Themes', 'nav.spelletjes': 'Games', 'nav.bouw': 'Contribute',
 }
 nl.update(extra_nl); en.update(extra_en)
+nl['index.formulier_titel'] = 'Contactformulier'
+en['index.formulier_titel'] = 'Contact form'
 nl['pagina.niet_vertaald'] = 'Deze pagina is nog niet vertaald.'
 en['pagina.niet_vertaald'] = 'This page has not been translated yet. The Dutch original is shown.'
 nl['voet.powered'] = 'Powered by'

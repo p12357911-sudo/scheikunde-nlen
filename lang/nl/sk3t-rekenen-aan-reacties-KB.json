@@ -160,7 +160,9 @@
   },
   {
    "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 3: maak de verhoudingstabel voor 29 g butaan. Je zoekt de massa zuurstof.",
-   "a": "Factor: 29 : 116,0 = 0,25"
+   "a": "Factor: 29 : 116,0 = 0,25",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>butaan</th><th>zuurstof</th></tr><tr><td>massa verhouding (u)</td><td>116,0 u</td><td>416,0 u</td></tr><tr><td>werkelijke massa (g)</td><td>29</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Butaan (C<sub>4</sub>H<sub>10</sub>) verbrandt volledig tot koolstofdioxide en waterdamp. Je verbrandt 29 g butaan. Hoeveel g zuurstof is er nodig? Atoommassa's: H = 1,0 u; C = 12,0 u; O = 16,0 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 116,0 u hoort bij 416,0 u, en 29 g hoort bij x g.",
@@ -176,7 +178,9 @@
   },
   {
    "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 3: maak de verhoudingstabel voor 14 g stikstof. Je zoekt de massa ammoniak.",
-   "a": "Factor: 14 : 28,0 = 0,5"
+   "a": "Factor: 14 : 28,0 = 0,5",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>stikstof</th><th>ammoniak</th></tr><tr><td>massa verhouding (u)</td><td>28,0 u</td><td>34,0 u</td></tr><tr><td>werkelijke massa (g)</td><td>14</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Ammoniak (NH<sub>3</sub>) wordt gemaakt uit stikstof en waterstof. Je laat 14 g stikstof volledig reageren. Hoeveel g ammoniak ontstaat er? Atoommassa's: H = 1,0 u; N = 14,0 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 28,0 u hoort bij 34,0 u, en 14 g hoort bij x g.",
@@ -184,7 +188,9 @@
   },
   {
    "q": "Kalksteen (CaCO<sub>3</sub>) wordt verhit tot ongebluste kalk (CaO) en koolstofdioxide. Je verhit 250 g kalksteen. Hoeveel g ongebluste kalk ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u. Stap 3: maak de verhoudingstabel voor 250 g kalksteen. Je zoekt de massa ongebluste kalk.",
-   "a": "Factor: 250 : 100,1 = 2,4975"
+   "a": "Factor: 250 : 100,1 = 2,4975",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>kalksteen</th><th>ongebluste kalk</th></tr><tr><td>massa verhouding (u)</td><td>100,1 u</td><td>56,1 u</td></tr><tr><td>werkelijke massa (g)</td><td>250</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Kalksteen (CaCO<sub>3</sub>) wordt verhit tot ongebluste kalk (CaO) en koolstofdioxide. Je verhit 250 g kalksteen. Hoeveel g ongebluste kalk ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Ca = 40,1 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 100,1 u hoort bij 56,1 u, en 250 g hoort bij x g.",
@@ -197,11 +203,15 @@
   },
   {
    "q": "In koperoxide zitten koper en zuurstof in de massaverhouding 4 : 1. Hoeveel g koper zit er in 30 g koperoxide? Gebruik een verhoudingstabel.",
-   "a": "x = 4 × 30 : 5 = 24 g. Antwoord: er zit 24 g koper in."
+   "a": "x = 4 × 30 : 5 = 24 g. Antwoord: er zit 24 g koper in.",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>koperoxide</th><th>koper</th></tr><tr><td>delen</td><td>5</td><td>4</td></tr><tr><td>massa (g)</td><td>30</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Je laat 3,0 g koolstof reageren met 10,0 g zuurstof (C + O<sub>2</sub> → CO<sub>2</sub>). Welke stof is in overmaat en hoeveel g blijft er over? Atoommassa's: C = 12,0 u; O = 16,0 u. Gebruik een verhoudingstabel.",
-   "a": "x = 32,0 × 3,0 : 12,0 = 8,0 g zuurstof nodig. Je hebt 10,0 g, dus zuurstof is in overmaat. Er blijft 10,0 − 8,0 = 2,0 g zuurstof over."
+   "a": "x = 32,0 × 3,0 : 12,0 = 8,0 g zuurstof nodig. Je hebt 10,0 g, dus zuurstof is in overmaat. Er blijft 10,0 − 8,0 = 2,0 g zuurstof over.",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>koolstof</th><th>zuurstof</th></tr><tr><td>massa verhouding (u)</td><td>12,0</td><td>32,0</td></tr><tr><td>werkelijke massa (g)</td><td>3,0</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Waarom zet je onder de reactievergelijking de coëfficiënt maal de molecuulmassa (bijvoorbeeld 2 × 58,0 u voor 2 C<sub>4</sub>H<sub>10</sub>)?",

@@ -1,0 +1,161 @@
+{
+ "title": "Substances and mixtures - 123 school",
+ "heading": "Substances and mixtures",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Name three properties of a substance",
+   "a": "For example: colour, smell, taste, state, melting point, boiling point, density"
+  },
+  {
+   "q": "What is a safety data sheet (chemical data card)?",
+   "a": "A sheet with information about the properties of a substance, including the hazardous ones"
+  },
+  {
+   "q": "Name two hazard symbols",
+   "a": "For example: flammable, harmful, explosive, corrosive, toxic"
+  },
+  {
+   "q": "What is the melting point?",
+   "a": "The temperature at which a substance melts. The freezing point is the same."
+  },
+  {
+   "q": "What is the boiling point?",
+   "a": "The temperature at which a substance boils"
+  },
+  {
+   "q": "What are the melting point and the boiling point of water?",
+   "a": "Melting point 0 °C and boiling point 100 °C"
+  },
+  {
+   "q": "What is the boiling point of ethanol (alcohol) in kelvin? (use BINAS table 16)",
+   "a": "351 K (that is 78 °C)"
+  },
+  {
+   "q": "Give the formula for density",
+   "a": "density = mass / volume (ρ = m / V)"
+  },
+  {
+   "q": "Which unit goes with density?",
+   "a": "g/cm<sup>3</sup>"
+  },
+  {
+   "q": "A substance has a mass of 60 g and a volume of 20 cm<sup>3</sup>. What is its density?",
+   "a": "60 g ÷ 20 cm<sup>3</sup> = 3 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "What is the density of aluminium? (use BINAS table 15)",
+   "a": "2.70 g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Does a block of copper float on water? Look up the densities. (use BINAS tables 15 and 16)",
+   "a": "No. Copper has a density of 8.96 g/cm<sup>3</sup> and water 1.00 g/cm<sup>3</sup>. The density of copper is greater, so copper sinks."
+  },
+  {
+   "q": "Wood has a density of 0.6 g/cm<sup>3</sup> and water has a density of 1.0 g/cm<sup>3</sup>. Does the wood float on water?",
+   "a": "Yes, the density of wood is lower than that of water"
+  },
+  {
+   "q": "Name the four state symbols",
+   "a": "(s) solid, (l) liquid, (g) gas and (aq) dissolved in water (aqueous)"
+  },
+  {
+   "q": "Name the six changes of state",
+   "a": "Melting, freezing, evaporating, condensing, sublimation and deposition"
+  },
+  {
+   "q": "What is the name of the change of state from solid to gas?",
+   "a": "Sublimation"
+  },
+  {
+   "q": "What is the name of the change of state from gas to solid?",
+   "a": "Deposition"
+  },
+  {
+   "q": "Is a change of state a chemical reaction?",
+   "a": "No, the molecules do not change"
+  },
+  {
+   "q": "What happens to the molecules when you heat a substance?",
+   "a": "They move faster"
+  },
+  {
+   "q": "How are the molecules arranged in a solid?",
+   "a": "Close together in fixed positions. They vibrate."
+  },
+  {
+   "q": "What is a pure substance?",
+   "a": "A substance that consists of one type of molecule"
+  },
+  {
+   "q": "What is a mixture?",
+   "a": "A substance that consists of several types of molecules"
+  },
+  {
+   "q": "Name two pure substances",
+   "a": "For example: ethanol, acetone, diamond, sugar crystals, washing soda, distilled water"
+  },
+  {
+   "q": "Name two mixtures",
+   "a": "For example: air, tap water, cola, paint, cement, coffee"
+  },
+  {
+   "q": "What happens to the temperature when a pure substance melts?",
+   "a": "The temperature stays the same"
+  },
+  {
+   "q": "What happens to the temperature when a mixture melts?",
+   "a": "The temperature changes. The interval is called the melting range (for freezing or boiling: freezing range or boiling range)."
+  },
+  {
+   "q": "What is a solution?",
+   "a": "A clear, sometimes coloured liquid in which one or more substances have dissolved"
+  },
+  {
+   "q": "What is a solvent?",
+   "a": "The liquid in which you dissolve a substance. For example water."
+  },
+  {
+   "q": "What is a suspension?",
+   "a": "A cloudy mixture of solid particles in a liquid. Paint is an example."
+  },
+  {
+   "q": "What is an emulsion?",
+   "a": "A cloudy mixture of two liquids that do not mix, with small droplets"
+  },
+  {
+   "q": "What is an emulsifier?",
+   "a": "A substance that holds an emulsion together. For example soap or egg yolk."
+  },
+  {
+   "q": "What happens in a chemical reaction?",
+   "a": "The reactants disappear and new substances form (the products)"
+  },
+  {
+   "q": "Where are the reactants in a reaction scheme?",
+   "a": "Before the arrow"
+  },
+  {
+   "q": "Give the reaction scheme for the burning of magnesium",
+   "a": "magnesium (s) + oxygen (g) → magnesium oxide (s)"
+  },
+  {
+   "q": "What do you use acetone, petroleum ether and methylated spirits for as solvents?",
+   "a": "Acetone: nail polish. Petroleum ether and methylated spirits: grease."
+  },
+  {
+   "q": "Name the three types of Bunsen burner flame and what you use each for",
+   "a": "Yellow flame (safety flame, when you are not heating), blue flame (normal heating) and almost colourless, roaring flame (strong heating)"
+  },
+  {
+   "q": "How do you smell a substance safely?",
+   "a": "You waft a little of the smell towards your nose"
+  },
+  {
+   "q": "Give the reaction scheme for the rusting of iron, with state symbols",
+   "a": "iron (s) + water (l) + oxygen (g) → rust (s)"
+  }
+ ]
+}

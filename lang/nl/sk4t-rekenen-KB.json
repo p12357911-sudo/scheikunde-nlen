@@ -120,7 +120,9 @@
   },
   {
    "q": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 3: maak de verhoudingstabel voor 80 g ijzeroxide. Je zoekt de massa ijzer.",
-   "a": "Factor: 80 : 319,2 = 0,2506"
+   "a": "Factor: 80 : 319,2 = 0,2506",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>ijzeroxide</th><th>ijzer</th></tr><tr><td>massa verhouding (u)</td><td>319,2 u</td><td>223,2 u</td></tr><tr><td>werkelijke massa (g)</td><td>80</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "IJzer wordt gemaakt uit ijzeroxide en koolstof. Je gebruikt 80 g ijzeroxide. Hoeveel g ijzer ontstaat er? Atoommassa's: C = 12,0 u; O = 16,0 u; Fe = 55,8 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 319,2 u hoort bij 223,2 u, en 80 g hoort bij x g.",
@@ -136,7 +138,9 @@
   },
   {
    "q": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 3: maak de verhoudingstabel voor 3,7 g calciumhydroxide. Je zoekt de massa zoutzuur (HCl).",
-   "a": "Factor: 3,7 : 74,1 = 0,0499"
+   "a": "Factor: 3,7 : 74,1 = 0,0499",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>calciumhydroxide</th><th>zoutzuur (HCl)</th></tr><tr><td>massa verhouding (u)</td><td>74,1 u</td><td>73,0 u</td></tr><tr><td>werkelijke massa (g)</td><td>3,7</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Kalkwater (Ca(OH)<sub>2</sub>) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 3,7 g Ca(OH)<sub>2</sub>. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Cl = 35,5 u; Ca = 40,1 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 74,1 u hoort bij 73,0 u, en 3,7 g hoort bij x g.",
@@ -144,7 +148,9 @@
   },
   {
    "q": "Natronloog (NaOH) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 8,0 g NaOH. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Na = 23,0 u; Cl = 35,5 u. Stap 3: maak de verhoudingstabel voor 8,0 g natriumhydroxide. Je zoekt de massa zoutzuur (HCl).",
-   "a": "Factor: 8,0 : 40,0 = 0,2"
+   "a": "Factor: 8,0 : 40,0 = 0,2",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>natriumhydroxide</th><th>zoutzuur (HCl)</th></tr><tr><td>massa verhouding (u)</td><td>40,0 u</td><td>36,5 u</td></tr><tr><td>werkelijke massa (g)</td><td>8,0</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
   },
   {
    "q": "Natronloog (NaOH) wordt geneutraliseerd met zoutzuur (HCl). Je hebt 8,0 g NaOH. Hoeveel g HCl is er precies nodig? Atoommassa's: H = 1,0 u; O = 16,0 u; Na = 23,0 u; Cl = 35,5 u. Stap 4 en 5: voer de berekening uit en schrijf het antwoord op met eenheid. De verhoudingstabel staat al klaar: 40,0 u hoort bij 36,5 u, en 8,0 g hoort bij x g.",

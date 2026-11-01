@@ -134,7 +134,7 @@
       h += '<div>\n  <button onclick=\'myFunction("' + id + '"' + (vrij ? '' : ', this') + ')\' class=\'vraag-knop\'> ' + q.q + '</button>\n' +
            '  <input class=\'w3-input w3-border w3-round\' name=\'first\' type=\'text\' aria-label="' + label + '" placeholder=\'' + t('kb.placeholder').replace(/'/g, '&#39;') + '\'>\n' +
            '  <div id="' + id + '" class=\'w3-hide w3-container antwoord-box\'' + (q.goed ? ' data-goed="' + q.goed.join('|').replace(/"/g, '&quot;') + '"' : '') + '>\n' +
-           '    <p> ' + q.a + '</p>\n' + (q.e ? '    <p class="uitleg">' + t('kb.uitleg') + ' ' + q.e + '</p>\n' : '') + '  </div>\n</div>\n';
+           (q.tabel ? '    ' + q.tabel + '\n' : '') + '    <p' + (q.pc ? ' class="' + q.pc + '"' : '') + '> ' + q.a + '</p>\n' + (q.e ? '    <p class="uitleg">' + t('kb.uitleg') + ' ' + q.e + '</p>\n' : '') + '  </div>\n</div>\n';
     });
     c.className = 'w3-container';
     c.innerHTML = h;
@@ -147,7 +147,7 @@
     if (e) { e.innerHTML = d.heading; }
     Array.prototype.forEach.call(document.querySelectorAll('[data-mp-intro]'), function (p) { p.innerHTML = (d.intro || [])[Number(p.getAttribute('data-mp-intro'))] || ''; });
     var b = document.getElementById('submit');
-    if (b) { b.textContent = t('mp.controleer'); }
+    if (b) { b.textContent = d.knop || t('mp.controleer'); }
   }
 
   function bouwPagina() {
@@ -165,6 +165,10 @@
       var m = document.createElement('p'); m.className = 'niet-vertaald'; m.setAttribute('role', 'note'); m.textContent = t('pagina.niet_vertaald');
       var plek = document.getElementById('inhoud') || document.getElementById('quiz');
       if (plek) { plek.parentNode.insertBefore(m, plek); }
+    }
+    if (document.body.hasAttribute('data-nl-only') && taal !== 'nl') {
+      var m2 = document.createElement('p'); m2.className = 'niet-vertaald'; m2.setAttribute('role', 'note'); m2.textContent = t('pagina.niet_vertaald');
+      var fil = document.querySelector('.fil'); if (fil) { fil.parentNode.insertBefore(m2, fil); }
     }
     if (inhoud && inhoud.title) { document.title = inhoud.title; } else if (t('titel.' + (soort || 'index')) !== 'titel.' + (soort || 'index')) { document.title = t('titel.' + (soort || 'index')); }
   }

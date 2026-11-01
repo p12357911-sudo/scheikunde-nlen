@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Maakt index.html (skelet met data-i18n-html) en lang/nl/index-sleutels.json uit de basislijn-index.
-De contactsectie wordt met de hand gebouwd (geen e-mailadres, plaatshouder TODO-FORMULIER)."""
+De contactsectie wordt met de hand gebouwd (geen e-mailadres, Google Form)."""
 import sys, re, json, copy
 from bs4 import BeautifulSoup, NavigableString, Tag
 SRC = sys.argv[1]; V = '20261101e'
@@ -33,8 +33,9 @@ rechts = links.find_next_sibling('div')
 rechts.decompose()
 for p in list(links.find_all('p')):
     if p.find('a', href=re.compile('^mailto:')): mail_p = p
-mail_p.replace_with(BeautifulSoup('''<!-- TODO-FORMULIER: de echte Google Form-link volgt; vervang de href hieronder. Geen e-mailadres op de site. -->
-            <p><a class="w3-button knop-blauw todo-formulier" href="TODO-FORMULIER" target="_blank" rel="noopener" data-i18n="index.stuur_een_bericht"></a></p>''', 'html.parser'))
+mail_p.replace_with(BeautifulSoup('''<!-- Contactformulier: Google Form (tweetalig, dezelfde url voor NL en EN). Geen e-mailadres op de site. -->
+            <p><a class="w3-button knop-blauw contact-formulier" href="https://docs.google.com/forms/d/e/1FAIpQLScy7x5-wDjjU_n95WEmYg2VHq_fNlyu9uda95-GUQ4pCbNwgw/viewform" target="_blank" rel="noopener" data-i18n="index.stuur_een_bericht"></a></p>
+            <iframe class="contact-formulier-frame" src="https://docs.google.com/forms/d/e/1FAIpQLScy7x5-wDjjU_n95WEmYg2VHq_fNlyu9uda95-GUQ4pCbNwgw/viewform?embedded=true" width="100%" height="900" frameborder="0" loading="lazy" data-i18n-attr="title:index.formulier_titel"></iframe>''', 'html.parser'))
 keys['index.stuur_een_bericht'] = 'Stuur een bericht'; tekst2sleutel['Stuur een bericht'] = 'index.stuur_een_bericht'
 # 'Contact' label in w3-xlarge span -> unit; handled generiek
 
