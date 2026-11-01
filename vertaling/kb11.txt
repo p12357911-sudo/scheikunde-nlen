@@ -1,0 +1,349 @@
+### sk3t-atomen-moleculen-KB
+6.q What is the symbol of carbon?
+6.a C
+7.q What is the symbol of hydrogen?
+7.a H
+8.q What is the symbol of calcium?
+8.a Ca
+9.q What is the symbol of aluminium?
+9.a Al
+11.a Au
+14.a O<sub>2</sub>
+15.q What is the molecular formula of methane?
+15.a CH<sub>4</sub>
+16.a NH<sub>3</sub>
+24.a CO<sub>2</sub>
+25.a H<sub>2</sub>O
+28.a N<sub>2</sub>O<sub>4</sub>
+29.a 2 × 1.0 + 16.0 = 18.0 u
+30.a 12.0 + 2 × 16.0 = 44.0 u
+31.a 14.0 + 3 × 1.0 = 17.0 u
+32.a 2 × 1.0 + 32.1 + 4 × 16.0 = 98.1 u
+33.a 2 × 35.5 = 71.0 u
+### sk3t-basiskennis-KB
+0.q What is the symbol of sodium?
+0.a Na
+1.q What is the symbol of chlorine?
+1.a Cl
+2.q What is the symbol of iron?
+2.a Fe
+3.q What is the symbol of copper?
+3.a Cu
+4.a S
+7.q What is the formula of water?
+7.a H<sub>2</sub>O
+8.q What is the formula of carbon dioxide?
+8.a CO<sub>2</sub>
+10.a O<sub>2</sub>
+11.a HCl
+12.a 27 + 273 = 300 K
+13.a 100 + 273 = 373 K
+14.a 300 − 273 = 27 °C
+15.a 250 − 273 = -23 °C
+16.a 120 / 40 = 3.0 g/cm³
+17.a 0.80 × 250 = 200 g
+18.a 75 / 2.5 = 30 cm³
+20.a 10 / 500 × 100% = 2.0%
+21.a 40 / 200 × 100% = 20%
+22.a 1.5% van 800 g = 0.015 × 800 = 12 g
+23.a 140 / 200 × 100% = 70%
+24.g0 12.5 mL
+24.g1 13 mL
+25.a 0.21 × 1000 = 210 mL
+28.a Evaporation (Indampen)
+29.a Distillation
+32.a 12.0 + 2 × 16.0 = 44.0 u
+### sk3t-begrippen-KB
+0.q What is the name of the element with the symbol Na?
+0.a sodium
+1.q What is the symbol of sodium?
+1.a Na
+2.q What is the name of the element with the symbol Cl?
+2.a chlorine
+3.q What is the symbol of chlorine?
+3.a Cl
+4.q What is the name of the element with the symbol Mg?
+5.q What is the symbol of magnesium?
+5.a Mg
+6.q What is the name of the element with the symbol Fe?
+6.a iron
+7.q What is the symbol of iron?
+7.a Fe
+8.q What is the name of the element with the symbol Cu?
+8.a copper
+9.q What is the symbol of copper?
+9.a Cu
+10.q What is the name of the element with the symbol O?
+10.a oxygen
+11.q What is the symbol of oxygen?
+11.a O
+12.q What is the name of the element with the symbol N?
+12.a nitrogen
+13.q What is the symbol of nitrogen?
+13.a N
+15.a S
+16.q What is the name of the element with the symbol C?
+16.a carbon
+17.q What is the symbol of carbon?
+17.a C
+18.q What is the name of the element with the symbol H?
+18.a hydrogen
+19.q What is the symbol of hydrogen?
+19.a H
+21.a O<sub>2</sub>
+23.a N<sub>2</sub>
+24.q Which substance has the formula CO<sub>2</sub>?
+24.a carbon dioxide
+25.q What is the formula of carbon dioxide?
+25.a CO<sub>2</sub>
+26.q Which substance has the formula H<sub>2</sub>O?
+26.a water
+27.q What is the formula of water?
+27.a H<sub>2</sub>O
+29.a H<sub>2</sub>
+30.a hydrochloric acid
+31.q What is the formula of hydrochloric acid?
+31.a HCl
+32.q Which substance has the formula CH<sub>4</sub>?
+32.a methane
+33.q What is the formula of methane?
+33.a CH<sub>4</sub>
+36.a O<sub>2</sub>
+37.a N<sub>2</sub>
+38.a CO<sub>2</sub>
+39.a H<sub>2</sub>O
+40.a H<sub>2</sub>
+41.a CH<sub>4</sub>
+42.q What are hydrocarbons?
+42.a molecules that mainly contain C atoms and H atoms
+43.q Which two types of atom do hydrocarbons mainly consist of?
+43.a carbon (C) and hydrogen (H)
+47.q What does (s) after the name of a substance stand for?
+47.a solid
+48.q Which state symbol belongs to: solid?
+48.a (s)
+49.q What does (l) after the name of a substance stand for?
+49.a liquid
+50.q Which state symbol belongs to: liquid?
+50.a (l)
+51.q What does (g) after the name of a substance stand for?
+51.a gas
+52.q Which state symbol belongs to: gas?
+52.a (g)
+53.q What does (aq) after the name of a substance stand for?
+53.a dissolved in water (aqua)
+54.q Which state symbol belongs to: dissolved in water (aqua)?
+54.a (aq)
+55.q Name the six changes of state
+55.a freezing, melting, deposition, sublimation, vaporisation (evaporation), condensation
+56.q How many changes of state are there?
+56.a 6
+57.q What is the everyday name of a substance, such as table salt, called?
+57.a trivial name
+58.q In which BINAS table do you find the trivial names and the chemical names of substances?
+59.q In which BINAS table do you find the periodic table?
+60.q What is the (Dutch) mnemonic for the separation methods?
+61.q Name all the separation methods from the mnemonic
+62.q How many separation methods are there in the mnemonic?
+62.a 7
+63.a Distillation
+64.a Filtration
+65.a Evaporation (Indampen)
+66.a Extraction (Extraheren)
+67.a Settling (Bezinken)
+68.a density
+69.q What is filtration as a separation method based on?
+69.a particle size
+70.q What is evaporation as a separation method based on?
+70.a boiling point
+71.q What is distillation as a separation method based on?
+71.a difference in boiling point between liquids
+72.q What is adsorption as a separation method based on?
+72.a a stronger tendency to attach to a surface than to dissolve in a liquid or gas
+73.q What is extraction as a separation method based on?
+73.a a solid dissolves better in a liquid
+74.q Which separation method separates on the basis of density?
+75.q Which separation method separates on the basis of particle size?
+75.a Filtration
+76.q Which separation method separates on the basis of the difference in boiling point between liquids?
+76.a Distillation
+77.q Which separation method separates on the basis of the ability to attach to a surface?
+77.a Adsorption
+78.q Which separation method do you use to obtain salt from salt water?
+78.a Evaporation (Indampen)
+79.q Making tea is an example of which separation method?
+79.a Extraction (Extraheren)
+80.q Removing alcohol from wine is an example of which separation method?
+80.a Distillation
+81.q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+81.a Adsorption
+82.q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+82.a Adsorption
+83.q What is the formula for density?
+83.a density = mass / volume
+84.q In which unit do you give the density in your list?
+84.a g/cm<sup>3</sup>
+85.q Give the formula for density, with the unit
+85.a density = mass / volume, in g/cm<sup>3</sup>
+86.q What does the prefix milli mean?
+86.a 1/1000
+87.q What does the prefix kilo mean?
+87.a times 1000
+88.q How many litres is 4000 mL?
+88.a 4 L
+89.q How many litres is 1000 mL?
+89.a 1 L
+90.q How many grams is 3 kg?
+90.a 3000 g
+91.q How many kg is 2000 g?
+91.a 2 kg
+92.q Which formula do you use to convert degrees Celsius to kelvin?
+92.a K = °C + 273
+93.q How many K is 0 °C?
+93.a 273 K
+94.q How many K is 20 °C?
+94.a 293 K
+95.q How many °C is 273 K?
+95.a 0 °C
+96.q How many °C is 293 K?
+96.a 20 °C
+97.q How many °C is 0 K?
+97.a −273 °C
+### sk3t-atomen-moleculen-KB
+heading Atoms and molecules
+0.q What is an atom?
+0.a A building block from which molecules are made
+1.q What is a molecule?
+1.a A particle made up of two or more atoms. The molecule determines the properties of the substance.
+2.q What do you call a substance in which all atoms are of the same kind?
+2.a An element
+3.q What do you call a substance in which the molecules consist of different kinds of atoms?
+3.a A compound
+4.q Is water an element or a compound?
+4.a A compound: the molecule consists of two kinds of atoms (hydrogen and oxygen).
+5.q Is oxygen gas (O<sub>2</sub>) an element or a compound?
+5.a An element: the molecule consists of two atoms of the same kind.
+10.q Which element has the symbol Br?
+10.a Bromine
+11.q What is the symbol of gold? (use BINAS table 34, the periodic table)
+12.q Name two halogens (symbol and name)
+12.a For example: F (fluorine), Cl (chlorine), Br (bromine), I (iodine)
+13.q Which gas belongs to the noble gases?
+13.a For example helium (He), neon (Ne) or argon (Ar)
+14.q What is the molecular formula of oxygen gas?
+16.q What is the molecular formula of ammonia?
+17.q What does the 2 in H<sub>2</sub>O mean?
+17.a The 2 is a subscript: there are 2 hydrogen atoms in 1 molecule.
+18.q What does the 3 in 3 CO<sub>2</sub> mean?
+18.a The 3 is a coefficient: there are 3 molecules of CO<sub>2</sub>.
+19.q How many atoms are there in one molecule of H<sub>2</sub>O?
+19.a 3 (2 hydrogen atoms and 1 oxygen atom)
+20.q How many atoms are there in one molecule of CO<sub>2</sub>?
+20.a 3 (1 carbon atom and 2 oxygen atoms)
+21.q How many oxygen atoms are there in 3 CO<sub>2</sub>?
+21.a 3 × 2 = 6 oxygen atoms
+22.q How many kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?
+22.a 3 kinds: carbon, hydrogen and oxygen
+23.q How many atoms are there in a molecule of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?
+23.a 6 + 12 + 6 = 24 atoms
+24.q A molecule consists of 1 carbon atom and 2 oxygen atoms. What is the molecular formula?
+25.q A molecule consists of 2 hydrogen atoms and 1 oxygen atom. What is the molecular formula?
+26.q What is the name of CO? Pay attention to the prefixes.
+26.a Carbon monoxide (mono = 1)
+27.q What is the name of SO<sub>2</sub>?
+27.a Sulfur dioxide
+28.q What is the formula of dinitrogen tetroxide?
+29.q What is the molecular mass of H<sub>2</sub>O? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+30.q What is the molecular mass of CO<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+31.q What is the molecular mass of NH<sub>3</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+32.q What is the molecular mass of H<sub>2</sub>SO<sub>4</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+33.q What is the molecular mass of Cl<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+34.q What is the atomic mass of carbon? (use BINAS table 34, the periodic table)
+34.a About 12 u (12.0 u)
+### sk3t-basiskennis-KB
+heading Basic chemistry
+4.q What is the symbol of sulfur?
+5.q Which element has the symbol Mg?
+5.a Magnesium
+6.q Which element has the symbol Ag? (use BINAS table 34, the periodic table)
+6.a Silver
+9.q What is the formula of table salt (sodium chloride)?
+9.a NaCl
+10.q What is the formula of oxygen gas?
+11.q What is the formula of hydrogen chloride (hydrochloric acid is a solution of this in water)?
+12.q Convert to kelvin: 27 °C
+13.q Convert to kelvin: 100 °C
+14.q Convert to degrees Celsius: 300 K
+15.q Convert to degrees Celsius: 250 K
+16.q A block has a mass of 120 g and a volume of 40 cm³. What is the density?
+17.q A liquid has a density of 0.80 g/mL. What is the mass of 250 mL?
+18.q A substance has a density of 2.5 g/cm³ and a mass of 75 g. What is the volume?
+19.q A substance has a density of 0.90 g/mL. Does the substance sink or float in water (1.0 g/mL)?
+19.a It floats, because its density is smaller than that of water
+20.q There is 10 g of salt in 500 g of bread. What is the mass percentage of salt?
+21.q A solution of 40 g of sugar in 160 g of water has a total mass of 200 g. What is the mass percentage of sugar?
+22.q How many grams of salt are there in 800 g of bread containing 1.5 mass% of salt?
+23.q There is 140 mL of alcohol in 200 mL of disinfectant. What is the volume percentage of alcohol?
+24.q A drink of 250 mL contains 5.0 volume% of alcohol. How many mL of alcohol does it contain?
+24.a 0.050 × 250 = 12.5 mL (13 mL in 2 significant figures)
+25.q Air contains about 21 volume% of oxygen. How many mL of oxygen are there in 1000 mL of air?
+26.q What do the letters of BAEDFIA stand for?
+26.a Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen (Dutch: settling, decanting, extraction, distillation, filtration, evaporation, adsorption)
+27.q Which method do you use to separate sand and water?
+27.a Filtration (or settling and decanting)
+28.q Which method do you use to get dissolved salt back from salt water, without keeping the water?
+29.q Which method do you use to make drinking water from seawater and keep the water?
+30.q On which difference between substances is distillation based?
+30.a The difference in boiling point
+31.q What do we call a pure substance that consists of one kind of atom, such as iron?
+31.a An element
+32.q What is the molecular mass of CO<sub>2</sub>? (C = 12.0 u; O = 16.0 u)
+33.q How many atoms are there in H<sub>2</sub>SO<sub>4</sub>?
+33.a 2 + 1 + 4 = 7 atoms
+34.q What is the change from gas to liquid called?
+34.a Condensation
+### sk3t-begrippen-KB
+heading Chemistry terms
+4.a magnesium
+14.q What is the name of the element with the symbol S?
+14.a sulfur
+15.q What is the symbol of sulfur?
+20.q Which substance has the formula O<sub>2</sub>?
+20.a oxygen gas
+21.q What is the formula of oxygen gas?
+22.q Which substance has the formula N<sub>2</sub>?
+22.a nitrogen gas
+23.q What is the formula of nitrogen gas?
+28.q Which substance has the formula H<sub>2</sub>?
+28.a hydrogen gas
+29.q What is the formula of hydrogen gas?
+30.q Which substance has the formula HCl?
+34.q Which substance has the formula NaCl?
+34.a table salt (chemical name: sodium chloride)
+35.q What is the formula of table salt?
+35.a NaCl
+36.q Which formula belongs to the gas that we breathe in with the air and that consists of 2 oxygen atoms?
+37.q Which formula belongs to the gas from the air that we breathe in, but that our body does nothing with?
+38.q Which formula belongs to the greenhouse gas with 1 carbon atom and 2 oxygen atoms?
+39.q Which formula belongs to the substance that consists of 2 hydrogen atoms and 1 oxygen atom?
+40.q Which formula belongs to hydrogen gas, with 2 hydrogen atoms?
+41.q Which formula belongs to the molecule with 4 hydrogen atoms and 1 carbon atom?
+44.q Which substance is an example of a hydrocarbon?
+44.a for example petrol, diesel or methane (natural gas)
+45.q What is natural gas?
+45.a methane (CH<sub>4</sub>)
+46.q Name three fossil fuels
+46.a coal, crude oil and natural gas
+58.a BINAS table 42
+59.a BINAS table 34
+60.a Bart & Anne Eten Dikke Friet In Amsterdam (the first letters of the Dutch names: Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen)
+61.a Settling, decanting, extraction, distillation, filtration, evaporation, adsorption
+63.q Which separation method goes with the letter D in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+64.q Which separation method goes with the letter F in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+65.q Which separation method goes with the letter I in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+66.q Which separation method goes with the letter E in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+67.q Which separation method goes with the letter B in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+68.q What are settling and decanting as separation methods based on?
+74.a Settling and decanting
+98.q In which BINAS tables do you find the prefixes and the conversion rules?
+98.a BINAS tables 2 and 3

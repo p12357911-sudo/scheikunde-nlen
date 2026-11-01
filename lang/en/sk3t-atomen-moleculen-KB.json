@@ -1,0 +1,150 @@
+{
+ "title": "Atoms and molecules - 123 school",
+ "heading": "Atoms and molecules",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is an atom?",
+   "a": "A building block from which molecules are made"
+  },
+  {
+   "q": "What is a molecule?",
+   "a": "A particle made up of two or more atoms. The molecule determines the properties of the substance."
+  },
+  {
+   "q": "What do you call a substance in which all atoms are of the same kind?",
+   "a": "An element"
+  },
+  {
+   "q": "What do you call a substance in which the molecules consist of different kinds of atoms?",
+   "a": "A compound"
+  },
+  {
+   "q": "Is water an element or a compound?",
+   "a": "A compound: the molecule consists of two kinds of atoms (hydrogen and oxygen)."
+  },
+  {
+   "q": "Is oxygen gas (O<sub>2</sub>) an element or a compound?",
+   "a": "An element: the molecule consists of two atoms of the same kind."
+  },
+  {
+   "q": "What is the symbol of carbon?",
+   "a": "C"
+  },
+  {
+   "q": "What is the symbol of hydrogen?",
+   "a": "H"
+  },
+  {
+   "q": "What is the symbol of calcium?",
+   "a": "Ca"
+  },
+  {
+   "q": "What is the symbol of aluminium?",
+   "a": "Al"
+  },
+  {
+   "q": "Which element has the symbol Br?",
+   "a": "Bromine"
+  },
+  {
+   "q": "What is the symbol of gold? (use BINAS table 34, the periodic table)",
+   "a": "Au"
+  },
+  {
+   "q": "Name two halogens (symbol and name)",
+   "a": "For example: F (fluorine), Cl (chlorine), Br (bromine), I (iodine)"
+  },
+  {
+   "q": "Which gas belongs to the noble gases?",
+   "a": "For example helium (He), neon (Ne) or argon (Ar)"
+  },
+  {
+   "q": "What is the molecular formula of oxygen gas?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "What is the molecular formula of methane?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "What is the molecular formula of ammonia?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "What does the 2 in H<sub>2</sub>O mean?",
+   "a": "The 2 is a subscript: there are 2 hydrogen atoms in 1 molecule."
+  },
+  {
+   "q": "What does the 3 in 3 CO<sub>2</sub> mean?",
+   "a": "The 3 is a coefficient: there are 3 molecules of CO<sub>2</sub>."
+  },
+  {
+   "q": "How many atoms are there in one molecule of H<sub>2</sub>O?",
+   "a": "3 (2 hydrogen atoms and 1 oxygen atom)"
+  },
+  {
+   "q": "How many atoms are there in one molecule of CO<sub>2</sub>?",
+   "a": "3 (1 carbon atom and 2 oxygen atoms)"
+  },
+  {
+   "q": "How many oxygen atoms are there in 3 CO<sub>2</sub>?",
+   "a": "3 × 2 = 6 oxygen atoms"
+  },
+  {
+   "q": "How many kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?",
+   "a": "3 kinds: carbon, hydrogen and oxygen"
+  },
+  {
+   "q": "How many atoms are there in a molecule of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "a": "6 + 12 + 6 = 24 atoms"
+  },
+  {
+   "q": "A molecule consists of 1 carbon atom and 2 oxygen atoms. What is the molecular formula?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "A molecule consists of 2 hydrogen atoms and 1 oxygen atom. What is the molecular formula?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "What is the name of CO? Pay attention to the prefixes.",
+   "a": "Carbon monoxide (mono = 1)"
+  },
+  {
+   "q": "What is the name of SO<sub>2</sub>?",
+   "a": "Sulfur dioxide"
+  },
+  {
+   "q": "What is the formula of dinitrogen tetroxide?",
+   "a": "N<sub>2</sub>O<sub>4</sub>"
+  },
+  {
+   "q": "What is the molecular mass of H<sub>2</sub>O? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "a": "2 × 1.0 + 16.0 = 18.0 u"
+  },
+  {
+   "q": "What is the molecular mass of CO<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "a": "12.0 + 2 × 16.0 = 44.0 u"
+  },
+  {
+   "q": "What is the molecular mass of NH<sub>3</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "a": "14.0 + 3 × 1.0 = 17.0 u"
+  },
+  {
+   "q": "What is the molecular mass of H<sub>2</sub>SO<sub>4</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "a": "2 × 1.0 + 32.1 + 4 × 16.0 = 98.1 u"
+  },
+  {
+   "q": "What is the molecular mass of Cl<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "a": "2 × 35.5 = 71.0 u"
+  },
+  {
+   "q": "What is the atomic mass of carbon? (use BINAS table 34, the periodic table)",
+   "a": "About 12 u (12.0 u)"
+  }
+ ]
+}

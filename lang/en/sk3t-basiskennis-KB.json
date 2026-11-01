@@ -1,0 +1,154 @@
+{
+ "title": "Basic chemistry - 123 school",
+ "heading": "Basic chemistry",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is the symbol of sodium?",
+   "a": "Na"
+  },
+  {
+   "q": "What is the symbol of chlorine?",
+   "a": "Cl"
+  },
+  {
+   "q": "What is the symbol of iron?",
+   "a": "Fe"
+  },
+  {
+   "q": "What is the symbol of copper?",
+   "a": "Cu"
+  },
+  {
+   "q": "What is the symbol of sulfur?",
+   "a": "S"
+  },
+  {
+   "q": "Which element has the symbol Mg?",
+   "a": "Magnesium"
+  },
+  {
+   "q": "Which element has the symbol Ag? (use BINAS table 34, the periodic table)",
+   "a": "Silver"
+  },
+  {
+   "q": "What is the formula of water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "What is the formula of carbon dioxide?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "What is the formula of table salt (sodium chloride)?",
+   "a": "NaCl"
+  },
+  {
+   "q": "What is the formula of oxygen gas?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "What is the formula of hydrogen chloride (hydrochloric acid is a solution of this in water)?",
+   "a": "HCl"
+  },
+  {
+   "q": "Convert to kelvin: 27 °C",
+   "a": "27 + 273 = 300 K"
+  },
+  {
+   "q": "Convert to kelvin: 100 °C",
+   "a": "100 + 273 = 373 K"
+  },
+  {
+   "q": "Convert to degrees Celsius: 300 K",
+   "a": "300 − 273 = 27 °C"
+  },
+  {
+   "q": "Convert to degrees Celsius: 250 K",
+   "a": "250 − 273 = -23 °C"
+  },
+  {
+   "q": "A block has a mass of 120 g and a volume of 40 cm³. What is the density?",
+   "a": "120 / 40 = 3.0 g/cm³"
+  },
+  {
+   "q": "A liquid has a density of 0.80 g/mL. What is the mass of 250 mL?",
+   "a": "0.80 × 250 = 200 g"
+  },
+  {
+   "q": "A substance has a density of 2.5 g/cm³ and a mass of 75 g. What is the volume?",
+   "a": "75 / 2.5 = 30 cm³"
+  },
+  {
+   "q": "A substance has a density of 0.90 g/mL. Does the substance sink or float in water (1.0 g/mL)?",
+   "a": "It floats, because its density is smaller than that of water"
+  },
+  {
+   "q": "There is 10 g of salt in 500 g of bread. What is the mass percentage of salt?",
+   "a": "10 / 500 × 100% = 2.0%"
+  },
+  {
+   "q": "A solution of 40 g of sugar in 160 g of water has a total mass of 200 g. What is the mass percentage of sugar?",
+   "a": "40 / 200 × 100% = 20%"
+  },
+  {
+   "q": "How many grams of salt are there in 800 g of bread containing 1.5 mass% of salt?",
+   "a": "1.5% van 800 g = 0.015 × 800 = 12 g"
+  },
+  {
+   "q": "There is 140 mL of alcohol in 200 mL of disinfectant. What is the volume percentage of alcohol?",
+   "a": "140 / 200 × 100% = 70%"
+  },
+  {
+   "q": "A drink of 250 mL contains 5.0 volume% of alcohol. How many mL of alcohol does it contain?",
+   "a": "0.050 × 250 = 12.5 mL (13 mL in 2 significant figures)",
+   "goed": [
+    "12.5 mL",
+    "13 mL"
+   ]
+  },
+  {
+   "q": "Air contains about 21 volume% of oxygen. How many mL of oxygen are there in 1000 mL of air?",
+   "a": "0.21 × 1000 = 210 mL"
+  },
+  {
+   "q": "What do the letters of BAEDFIA stand for?",
+   "a": "Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen (Dutch: settling, decanting, extraction, distillation, filtration, evaporation, adsorption)"
+  },
+  {
+   "q": "Which method do you use to separate sand and water?",
+   "a": "Filtration (or settling and decanting)"
+  },
+  {
+   "q": "Which method do you use to get dissolved salt back from salt water, without keeping the water?",
+   "a": "Evaporation (Indampen)"
+  },
+  {
+   "q": "Which method do you use to make drinking water from seawater and keep the water?",
+   "a": "Distillation"
+  },
+  {
+   "q": "On which difference between substances is distillation based?",
+   "a": "The difference in boiling point"
+  },
+  {
+   "q": "What do we call a pure substance that consists of one kind of atom, such as iron?",
+   "a": "An element"
+  },
+  {
+   "q": "What is the molecular mass of CO<sub>2</sub>? (C = 12.0 u; O = 16.0 u)",
+   "a": "12.0 + 2 × 16.0 = 44.0 u"
+  },
+  {
+   "q": "How many atoms are there in H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "2 + 1 + 4 = 7 atoms"
+  },
+  {
+   "q": "What is the change from gas to liquid called?",
+   "a": "Condensation"
+  }
+ ]
+}

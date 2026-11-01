@@ -1,0 +1,406 @@
+{
+ "title": "Chemistry terms - 123 school",
+ "heading": "Chemistry terms",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms by heart. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is the name of the element with the symbol Na?",
+   "a": "sodium"
+  },
+  {
+   "q": "What is the symbol of sodium?",
+   "a": "Na"
+  },
+  {
+   "q": "What is the name of the element with the symbol Cl?",
+   "a": "chlorine"
+  },
+  {
+   "q": "What is the symbol of chlorine?",
+   "a": "Cl"
+  },
+  {
+   "q": "What is the name of the element with the symbol Mg?",
+   "a": "magnesium"
+  },
+  {
+   "q": "What is the symbol of magnesium?",
+   "a": "Mg"
+  },
+  {
+   "q": "What is the name of the element with the symbol Fe?",
+   "a": "iron"
+  },
+  {
+   "q": "What is the symbol of iron?",
+   "a": "Fe"
+  },
+  {
+   "q": "What is the name of the element with the symbol Cu?",
+   "a": "copper"
+  },
+  {
+   "q": "What is the symbol of copper?",
+   "a": "Cu"
+  },
+  {
+   "q": "What is the name of the element with the symbol O?",
+   "a": "oxygen"
+  },
+  {
+   "q": "What is the symbol of oxygen?",
+   "a": "O"
+  },
+  {
+   "q": "What is the name of the element with the symbol N?",
+   "a": "nitrogen"
+  },
+  {
+   "q": "What is the symbol of nitrogen?",
+   "a": "N"
+  },
+  {
+   "q": "What is the name of the element with the symbol S?",
+   "a": "sulfur"
+  },
+  {
+   "q": "What is the symbol of sulfur?",
+   "a": "S"
+  },
+  {
+   "q": "What is the name of the element with the symbol C?",
+   "a": "carbon"
+  },
+  {
+   "q": "What is the symbol of carbon?",
+   "a": "C"
+  },
+  {
+   "q": "What is the name of the element with the symbol H?",
+   "a": "hydrogen"
+  },
+  {
+   "q": "What is the symbol of hydrogen?",
+   "a": "H"
+  },
+  {
+   "q": "Which substance has the formula O<sub>2</sub>?",
+   "a": "oxygen gas"
+  },
+  {
+   "q": "What is the formula of oxygen gas?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Which substance has the formula N<sub>2</sub>?",
+   "a": "nitrogen gas"
+  },
+  {
+   "q": "What is the formula of nitrogen gas?",
+   "a": "N<sub>2</sub>"
+  },
+  {
+   "q": "Which substance has the formula CO<sub>2</sub>?",
+   "a": "carbon dioxide"
+  },
+  {
+   "q": "What is the formula of carbon dioxide?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Which substance has the formula H<sub>2</sub>O?",
+   "a": "water"
+  },
+  {
+   "q": "What is the formula of water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Which substance has the formula H<sub>2</sub>?",
+   "a": "hydrogen gas"
+  },
+  {
+   "q": "What is the formula of hydrogen gas?",
+   "a": "H<sub>2</sub>"
+  },
+  {
+   "q": "Which substance has the formula HCl?",
+   "a": "hydrochloric acid"
+  },
+  {
+   "q": "What is the formula of hydrochloric acid?",
+   "a": "HCl"
+  },
+  {
+   "q": "Which substance has the formula CH<sub>4</sub>?",
+   "a": "methane"
+  },
+  {
+   "q": "What is the formula of methane?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "Which substance has the formula NaCl?",
+   "a": "table salt (chemical name: sodium chloride)"
+  },
+  {
+   "q": "What is the formula of table salt?",
+   "a": "NaCl"
+  },
+  {
+   "q": "Which formula belongs to the gas that we breathe in with the air and that consists of 2 oxygen atoms?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to the gas from the air that we breathe in, but that our body does nothing with?",
+   "a": "N<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to the greenhouse gas with 1 carbon atom and 2 oxygen atoms?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to the substance that consists of 2 hydrogen atoms and 1 oxygen atom?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Which formula belongs to hydrogen gas, with 2 hydrogen atoms?",
+   "a": "H<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to the molecule with 4 hydrogen atoms and 1 carbon atom?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "What are hydrocarbons?",
+   "a": "molecules that mainly contain C atoms and H atoms"
+  },
+  {
+   "q": "Which two types of atom do hydrocarbons mainly consist of?",
+   "a": "carbon (C) and hydrogen (H)"
+  },
+  {
+   "q": "Which substance is an example of a hydrocarbon?",
+   "a": "for example petrol, diesel or methane (natural gas)"
+  },
+  {
+   "q": "What is natural gas?",
+   "a": "methane (CH<sub>4</sub>)"
+  },
+  {
+   "q": "Name three fossil fuels",
+   "a": "coal, crude oil and natural gas"
+  },
+  {
+   "q": "What does (s) after the name of a substance stand for?",
+   "a": "solid"
+  },
+  {
+   "q": "Which state symbol belongs to: solid?",
+   "a": "(s)"
+  },
+  {
+   "q": "What does (l) after the name of a substance stand for?",
+   "a": "liquid"
+  },
+  {
+   "q": "Which state symbol belongs to: liquid?",
+   "a": "(l)"
+  },
+  {
+   "q": "What does (g) after the name of a substance stand for?",
+   "a": "gas"
+  },
+  {
+   "q": "Which state symbol belongs to: gas?",
+   "a": "(g)"
+  },
+  {
+   "q": "What does (aq) after the name of a substance stand for?",
+   "a": "dissolved in water (aqua)"
+  },
+  {
+   "q": "Which state symbol belongs to: dissolved in water (aqua)?",
+   "a": "(aq)"
+  },
+  {
+   "q": "Name the six changes of state",
+   "a": "freezing, melting, deposition, sublimation, vaporisation (evaporation), condensation"
+  },
+  {
+   "q": "How many changes of state are there?",
+   "a": "6"
+  },
+  {
+   "q": "What is the everyday name of a substance, such as table salt, called?",
+   "a": "trivial name"
+  },
+  {
+   "q": "In which BINAS table do you find the trivial names and the chemical names of substances?",
+   "a": "BINAS table 42"
+  },
+  {
+   "q": "In which BINAS table do you find the periodic table?",
+   "a": "BINAS table 34"
+  },
+  {
+   "q": "What is the (Dutch) mnemonic for the separation methods?",
+   "a": "Bart & Anne Eten Dikke Friet In Amsterdam (the first letters of the Dutch names: Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen)"
+  },
+  {
+   "q": "Name all the separation methods from the mnemonic",
+   "a": "Settling, decanting, extraction, distillation, filtration, evaporation, adsorption"
+  },
+  {
+   "q": "How many separation methods are there in the mnemonic?",
+   "a": "7"
+  },
+  {
+   "q": "Which separation method goes with the letter D in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?",
+   "a": "Distillation"
+  },
+  {
+   "q": "Which separation method goes with the letter F in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?",
+   "a": "Filtration"
+  },
+  {
+   "q": "Which separation method goes with the letter I in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?",
+   "a": "Evaporation (Indampen)"
+  },
+  {
+   "q": "Which separation method goes with the letter E in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?",
+   "a": "Extraction (Extraheren)"
+  },
+  {
+   "q": "Which separation method goes with the letter B in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?",
+   "a": "Settling (Bezinken)"
+  },
+  {
+   "q": "What are settling and decanting as separation methods based on?",
+   "a": "density"
+  },
+  {
+   "q": "What is filtration as a separation method based on?",
+   "a": "particle size"
+  },
+  {
+   "q": "What is evaporation as a separation method based on?",
+   "a": "boiling point"
+  },
+  {
+   "q": "What is distillation as a separation method based on?",
+   "a": "difference in boiling point between liquids"
+  },
+  {
+   "q": "What is adsorption as a separation method based on?",
+   "a": "a stronger tendency to attach to a surface than to dissolve in a liquid or gas"
+  },
+  {
+   "q": "What is extraction as a separation method based on?",
+   "a": "a solid dissolves better in a liquid"
+  },
+  {
+   "q": "Which separation method separates on the basis of density?",
+   "a": "Settling and decanting"
+  },
+  {
+   "q": "Which separation method separates on the basis of particle size?",
+   "a": "Filtration"
+  },
+  {
+   "q": "Which separation method separates on the basis of the difference in boiling point between liquids?",
+   "a": "Distillation"
+  },
+  {
+   "q": "Which separation method separates on the basis of the ability to attach to a surface?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "Which separation method do you use to obtain salt from salt water?",
+   "a": "Evaporation (Indampen)"
+  },
+  {
+   "q": "Making tea is an example of which separation method?",
+   "a": "Extraction (Extraheren)"
+  },
+  {
+   "q": "Removing alcohol from wine is an example of which separation method?",
+   "a": "Distillation"
+  },
+  {
+   "q": "Removing colour from methylated spirits with activated carbon is an example of which separation method?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "Removing poisonous substances from the air with a gas mask is an example of which separation method?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "What is the formula for density?",
+   "a": "density = mass / volume"
+  },
+  {
+   "q": "In which unit do you give the density in your list?",
+   "a": "g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Give the formula for density, with the unit",
+   "a": "density = mass / volume, in g/cm<sup>3</sup>"
+  },
+  {
+   "q": "What does the prefix milli mean?",
+   "a": "1/1000"
+  },
+  {
+   "q": "What does the prefix kilo mean?",
+   "a": "times 1000"
+  },
+  {
+   "q": "How many litres is 4000 mL?",
+   "a": "4 L"
+  },
+  {
+   "q": "How many litres is 1000 mL?",
+   "a": "1 L"
+  },
+  {
+   "q": "How many grams is 3 kg?",
+   "a": "3000 g"
+  },
+  {
+   "q": "How many kg is 2000 g?",
+   "a": "2 kg"
+  },
+  {
+   "q": "Which formula do you use to convert degrees Celsius to kelvin?",
+   "a": "K = °C + 273"
+  },
+  {
+   "q": "How many K is 0 °C?",
+   "a": "273 K"
+  },
+  {
+   "q": "How many K is 20 °C?",
+   "a": "293 K"
+  },
+  {
+   "q": "How many °C is 273 K?",
+   "a": "0 °C"
+  },
+  {
+   "q": "How many °C is 293 K?",
+   "a": "20 °C"
+  },
+  {
+   "q": "How many °C is 0 K?",
+   "a": "−273 °C"
+  },
+  {
+   "q": "In which BINAS tables do you find the prefixes and the conversion rules?",
+   "a": "BINAS tables 2 and 3"
+  }
+ ]
+}

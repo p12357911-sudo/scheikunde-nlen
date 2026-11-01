@@ -63,7 +63,7 @@ if __name__ == '__main__':
     elif c == 'merge':
         blok = None; ids = {}; blokken = {}
         for r in open(sys.argv[2], encoding='utf-8').read().split('\n'):
-            if r.startswith('### '): blok = r[4:].strip(); blokken[blok] = {}; continue
+            if r.startswith('### '): blok = r[4:].strip(); blokken.setdefault(blok, {}); continue
             if not r.strip() or r.startswith('#'): continue
             m = re.match(r'(\S+)\s+(.*)$', r)
             if not m: sys.exit(f'regel zonder id in {blok}: {r[:80]}')
@@ -75,6 +75,33 @@ if __name__ == '__main__':
             ontbreekt = [k for k in verwacht if k not in ids]; extra = [k for k in ids if k not in verwacht]
             if ontbreekt or extra: sys.exit(f'{p}: ontbreekt {ontbreekt[:10]} ({len(ontbreekt)}), extra {extra[:10]}')
             schrijf(p, bouw(nl, ids)); print('geschreven', p, len(verwacht), 'teksten')
+    elif c == 'tm':
+        # tm <uit.txt> <pagina...>: vult exacte treffers uit al vertaalde pagina's in (uit.txt), toont de rest als dump
+        from collections import Counter, defaultdict
+        tm = defaultdict(Counter)
+        for f in os.listdir(f'{ROOT}/lang/en'):
+            pg = f[:-5]
+            if not os.path.exists(f'{ROOT}/lang/nl/{f}'): continue
+            if 'questions' not in laad('nl', pg): continue
+            nlv = dict(vlak(laad('nl', pg))); env = dict(vlak(laad('en', pg)))
+            nlv = {k: v for k, v in nlv.items() if not k.startswith('intro') and k != 'title'}; env = {k: v for k, v in env.items() if not k.startswith('intro') and k != 'title'}
+            if nlv.keys() != env.keys(): continue
+            for k, t in nlv.items():
+                if k.startswith('intro') or k == 'title': continue
+                if env[k] != t or len(t) < 6: tm[t][env[k]] += 1
+        uit = open(sys.argv[2], 'a', encoding='utf-8'); n = 0; tot = 0
+        for pg in sys.argv[3:]:
+            uit.write('### ' + pg + '\n'); print('### ' + pg)
+            for k, t in vlak(laad('nl', pg)):
+                t1 = t.replace('\n', ' '); tot += 1
+                kaal = re.sub(r'<[^>]+>', '', t1)
+                if not (k.startswith('intro') or k in ('title', 'heading')) and t1 not in tm and not re.search(r'[A-Za-z]{4,}', kaal) and re.search(r'[A-Za-z0-9]', kaal):
+                    uit.write(k + ' ' + re.sub(r'(\d),(\d)', r'\1.\2', t1) + '\n'); n += 1; continue
+                if k.startswith('intro') or k == 'title' or k == 'heading' or t1 not in tm:
+                    if t1 in tm and k == 'heading': pass
+                    print(k + '\t' + t1); continue
+                uit.write(k + ' ' + tm[t1].most_common(1)[0][0] + '\n'); n += 1
+        print(f'# TM-treffers {n} van {tot}', file=sys.stderr)
     elif c == 'kopieer':
         en = laad('en', sys.argv[2]); nl = laad('nl', sys.argv[3]); en['intro'] = [] if not nl.get('intro') else en['intro']
         en['title'] = en['title'] if nl['title'] == laad('nl', sys.argv[2])['title'] else en['title']
