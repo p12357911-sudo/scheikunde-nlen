@@ -24,6 +24,7 @@ body = s.body
 for el in list(body.find_all(True)):
     pass
 banner = s.find(id='proefversie'); banner.string = ''
+banner['style'] = 'background:#ffc107;color:#000;text-align:center;font:600 14px/1.4 Arial,sans-serif;padding:4px 10px;position:fixed;bottom:0;left:0;right:0;z-index:900'  # onderaan, zodat de taalknop bovenin bereikbaar blijft
 banner['data-i18n'] = 'index.proef'; keys['index.proef'] = 'Proefversie – nog niet live'
 # contact: bouw nieuw
 contact = s.find(id='contact')

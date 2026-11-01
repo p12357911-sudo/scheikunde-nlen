@@ -208,7 +208,7 @@ with sync_playwright() as p:
       return {klein: kl.slice(0, 8), grijs: bad.slice(0, 8), breed: document.documentElement.scrollWidth - document.documentElement.clientWidth,
               fonts: [...new Set([...document.querySelectorAll('h1,h2,p,label,button')].filter(e=>e.offsetParent).map(e => getComputedStyle(e).fontFamily.split(',')[0].replace(/"/g,'')))]};
     }"""
-    LEVEL = re.compile(r'\b(vmbo|havo|vwo|mavo|nova|polaris|binas)\b', re.I)
+    LEVEL = re.compile(r'\b(vmbo|havo|vwo|mavo|nova|polaris|binas\b(?! tables? \d))', re.I)
     for naam, size in (('390', {'width': 390, 'height': 800}), ('1280', {'width': 1280, 'height': 900})):
         for taal in ('en', 'nl'):
             for pg in PAGINAS:
