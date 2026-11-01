@@ -65,8 +65,9 @@ if __name__ == '__main__':
         for r in open(sys.argv[2], encoding='utf-8').read().split('\n'):
             if r.startswith('### '): blok = r[4:].strip(); blokken[blok] = {}; continue
             if not r.strip() or r.startswith('#'): continue
-            k, _, t = r.partition('\t')
-            if not _: sys.exit(f'regel zonder TAB in {blok}: {r[:80]}')
+            m = re.match(r'(\S+)\s+(.*)$', r)
+            if not m: sys.exit(f'regel zonder id in {blok}: {r[:80]}')
+            k, t = m.group(1), m.group(2)
             if k in blokken[blok]: sys.exit(f'dubbele id {blok} {k}')
             blokken[blok][k] = t.strip()
         for p, ids in blokken.items():

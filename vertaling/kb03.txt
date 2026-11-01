@@ -1,0 +1,178 @@
+### sk3h-stoffen-KB
+heading Substances and materials
+0.q Define composite
+0.a A material made by combining 2 or more materials
+1.q What is density?
+1.a A quantity that shows how light or heavy substances are
+2.q What is the formula for density?
+2.a Density (ρ) = mass/volume in g/cm<sup>3</sup>
+3.q What do you call substances that dissolve well in water?
+3.a Hydrophilic
+4.q What do you call substances that dissolve poorly in water?
+4.a Hydrophobic
+5.q Define boiling point
+5.a The temperature at which a substance changes from the liquid to the gas state
+6.q Define solubility
+6.a The extent to which substances dissolve in a liquid, for example in water
+7.q Define melting point
+7.a The temperature at which a substance changes from the solid to the liquid state
+8.q Define renewable
+8.a Raw materials that replenish themselves, for example crops
+9.q Define synthetic material
+9.a A material made by humans that you do not find in nature
+10.q Define natural material
+10.a A material obtained from nature
+11.q What are properties of substances?
+11.a Characteristics by which you recognise substances
+12.q What are properties of materials?
+12.a Characteristics by which you recognise a material
+13.q Define electrical conductivity
+13.a A quantity that shows how well a substance conducts electric current
+14.q Define the particle model
+14.a A model in which all properties of a substance are determined by the smallest particles of that substance
+15.q What are the smallest particles of a substance?
+15.a Molecules
+16.q Name 3 characteristics of molecules
+16.a They determine the properties of the substance. They move constantly. They attract each other and collide with each other. There is space between them.
+17.q Name 3 states of a substance
+17.a Solid, liquid, gas
+18.q What are raw materials?
+18.a Materials that serve as the basis for producing a new substance
+19.q Name 3 properties of substances
+19.a Specific smell, colour, density, melting point, boiling point, electrical conductivity, thermal conductivity
+20.q What does a melting and boiling graph show?
+20.a The relationship between temperature and time when you heat or cool a substance continuously
+21.q What does a melting and boiling graph show about the melting point or boiling point of a substance?
+21.a That the melting point and boiling point of a substance have a specific value, at which the substance changes from one state to the other
+22.q What is the boiling point of water?
+22.a 100 °C
+23.q What is the melting point of water?
+23.a 0 °C
+24.q What is meant by the macro level in chemistry?
+24.a Properties of substances that you can observe with your senses, for example smell, colour, state of a substance
+25.q What is meant by the micro level in chemistry?
+25.a The smallest particles of a substance, which can explain the macro properties of a substance
+26.q Define a pure substance
+26.a At the micro level it consists of 1 type of particle/molecule
+27.q Define a mixture
+27.a At the micro level it consists of several types of particles/molecules
+28.q Describe the smallest particles in a substance
+28.a They determine the properties of the substance. They move constantly. They attract each other and collide with each other. There is space between them.
+29.q How do you explain changes of state at the micro level?
+29.a The distance and attraction between the molecules change, so that they form a solid, liquid or gas
+30.q How do you explain the difference between the solid and the gas state at the micro level?
+30.a In the solid state the molecules stay in place and only vibrate on the spot. In a gas the particles move around each other with space between them and collide with each other.
+31.q How do you explain the liquid state at the micro level?
+31.a The molecules are close together but can move around each other, so that at the macro level the substance can flow
+32.q How does a pure substance differ from a mixture when you look at boiling and melting points?
+32.a Mixtures show a melting and boiling range instead of a melting point and boiling point
+33.q What is a suspension?
+33.a A mixture of a solid or a liquid in a liquid with which it does not mix well.
+34.q How does a solution differ from a suspension?
+34.a In a solution a liquid, solid or gas mixes well with the solvent, giving a homogeneous, clear mixture
+35.q Define homogeneous mixture
+35.a Evenly distributed substances in which the different substances cannot be told apart
+36.q Define heterogeneous mixture
+36.a A mixture in which the different substances can still be told apart, with the eye or with a microscope
+37.q What is an emulsion?
+37.a A cloudy mixture of two liquids in which droplets of liquid form. Each droplet consists of many molecules
+38.q What is smoke?
+38.a A fine solid spread out in a gas
+39.q What is mist?
+39.a A mixture of small liquid droplets in a gas
+40.q What is a gas mixture?
+40.a It consists of two or more gases. Gases always mix well and homogeneously.
+41.q What is a solvent?
+41.a A liquid in which other substances are dissolved
+42.q Name at least 6 separation methods
+42.a Adsorption, settling (sedimentation), centrifuging, distillation, extraction, filtration, evaporation
+43.q What is meant by separating in chemistry?
+43.a Splitting a mixture into separate substances
+44.q Name a separation method that is based on boiling point
+44.a Distillation, evaporation
+45.q Name a separation method that is based on density
+45.a Settling (sedimentation), centrifuging
+46.q For which separation method is particle size decisive?
+46.a Filtration
+47.q Name an example of an extraction method
+47.a Making coffee or tea
+48.q What is left behind on a filter or in a distillation flask?
+48.a The residue
+49.q A bar of 250 g contains 160 g of cocoa. What is the mass percentage of cocoa?
+49.a mass % = mass (g)/total mass (g) ∙ 100% = 160/250 ∙ 100% = 64.0%
+50.q How many mL is one L?
+50.a 1 L = 1000 mL
+51.q A drink contains 20 g of sugar per 250 mL. What is the concentration of sugar in g/L?
+51.a concentration = mass of sugar/volume of drink = 20 g/0.25 L = 80 g/L
+### sk3h-voeding-verzorging-KB
+heading Food and personal care
+0.q Which three main groups of nutrients provide energy?
+0.a Carbohydrates, fats and proteins
+1.q Which nutrient is mainly used as a building material for muscles?
+1.a Proteins
+2.q Which nutrient is the body's most important short-term source of energy?
+2.a Carbohydrates
+3.q Which substances does a fat consist of?
+3.a Glycerol and fatty acids
+4.q Which nutrient provides the most energy per gram?
+4.a Fat
+5.q What do proteins consist of?
+5.a Amino acids
+6.q What does starch consist of?
+6.a Long chains of glucose
+7.q A food contains 20 g of fat. Fat provides 38 kJ per gram. How much energy does the fat provide?
+7.a 760 kJ
+8.q A product contains 50 g of carbohydrates. Carbohydrates provide 17 kJ per gram. How much energy is that?
+8.a 850 kJ
+9.q A product contains 10 g of fat (38 kJ per gram), 30 g of carbohydrates (17 kJ per gram) and 5 g of protein (17 kJ per gram). How much energy does this product provide?
+9.a 975 kJ
+10.q How do you test for starch?
+10.a With iodine solution: blue-black
+11.q How do you test for glucose?
+11.a With Fehling's or Benedict's solution and heating: red precipitate
+12.q How do you test for protein with the biuret test?
+12.a With sodium hydroxide solution and copper sulfate: purple colour
+13.q How do you test for fat?
+13.a A grease spot on paper: the paper becomes translucent
+14.q What does your body need minerals such as calcium for?
+14.a For strong bones and teeth
+15.q What is an important function of vitamins?
+15.a They help the body to work properly, in small amounts
+16.q Which substance is an example of a preservative in food?
+16.a Salt
+17.q Why do you preserve food?
+17.a To prevent bacteria and moulds from spoiling it
+18.q Which method does not use a chemical additive to preserve food?
+18.a Freezing
+19.q Why does a cut apple turn brown?
+19.a The substances in the apple react with oxygen from the air
+20.q Which substance prevents browning caused by oxygen (antioxidant)?
+20.a Vitamin C
+21.q What does a pH of 3 mean?
+21.a The solution is acidic
+22.q What is the pH of a neutral solution?
+22.a 7
+23.q Which pH belongs to an alkaline solution?
+23.a 10
+24.q What colour does blue litmus have in an acidic solution?
+24.a Red
+25.q Which substance in lemon juice makes it acidic?
+25.a Citric acid
+26.q You dilute an acidic solution with water. What happens to the pH?
+26.a The pH becomes higher and gets closer to 7
+27.q Which reaction equation of hydrochloric acid with sodium hydroxide solution is correct?
+27.a HCl + NaOH → NaCl + H<sub>2</sub>O
+28.q What is formed in a neutralisation reaction of an acid and a base?
+28.a A salt and water
+29.q What is an emulsion?
+29.a A mixture of two liquids that do not dissolve in each other, such as oil and water
+30.q Which substance keeps oil and water mixed in mayonnaise?
+30.a An emulsifier such as egg yolk
+31.q What do you call the part of a soap molecule that dissolves in water?
+31.a Hydrophilic head
+32.q What do you call the part of a soap molecule that dissolves well in fat?
+32.a Hydrophobic tail
+33.q Why can soap remove a grease stain?
+33.a The hydrophobic tails attach to the fat and the hydrophilic heads to the water
+34.q Explain why you cannot get oil out of your clothes with water alone
+34.a Oil is hydrophobic and does not dissolve in water. Soap has a hydrophobic tail that attaches to the oil and a hydrophilic head that dissolves in water

@@ -1,0 +1,149 @@
+{
+ "title": "Atoms and molecules - 123 school",
+ "heading": "Atoms and molecules",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Describe a chemical reaction",
+   "a": "In a chemical reaction the starting substances disappear and new substances with new properties are formed"
+  },
+  {
+   "q": "What are the smallest particles that determine the properties of a substance?",
+   "a": "Molecules"
+  },
+  {
+   "q": "What do molecules consist of?",
+   "a": "One or more types of atoms"
+  },
+  {
+   "q": "Atoms are also called …",
+   "a": "Elements"
+  },
+  {
+   "q": "Give the names of: Al, B, Ca, Cl, P, Fe, I, K, C, Cu",
+   "a": "Aluminium, Boron, Calcium, Chlorine, Phosphorus, Iron, Iodine, Potassium, Carbon, Copper"
+  },
+  {
+   "q": "Give the atomic symbol of: Bromine, Mercury, Lead, Magnesium, Sodium, Nitrogen, Uranium, Hydrogen, Silver, Zinc, Oxygen, Sulfur",
+   "a": "Br, Hg, Pb, Mg, Na, N, U, H, Ag, Zn, O, S"
+  },
+  {
+   "q": "What does the molecular formula show?",
+   "a": "Which atoms, and how many of each, a molecule consists of"
+  },
+  {
+   "q": "In H<sub>2</sub>O the 2 is the subscript. What does the 2 show?",
+   "a": "That there are 2 hydrogen atoms (and 1 oxygen atom) in H<sub>2</sub>O, water"
+  },
+  {
+   "q": "Give the molecular formula of: ammonia, carbon dioxide, methane, hydrogen peroxide, ethanol, water",
+   "a": "NH<sub>3</sub>, CO<sub>2</sub>, CH<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, C<sub>2</sub>H<sub>6</sub>O, H<sub>2</sub>O"
+  },
+  {
+   "q": "Elemental substances consist of 1 type of atom. Name 3.",
+   "a": "Br<sub>2</sub>, Cl<sub>2</sub>, F<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>"
+  },
+  {
+   "q": "What is H<sub>2</sub> (g)?",
+   "a": "Hydrogen gas"
+  },
+  {
+   "q": "What is the ending of the name for the second type of atom in: chlorine, oxygen, sulfur, fluorine?",
+   "a": "chloride, oxide, sulfide, fluoride"
+  },
+  {
+   "q": "Give the Greek numerical prefixes for 1 to 8",
+   "a": "mono, di, tri, tetra, penta, hexa, hepta, octa"
+  },
+  {
+   "q": "Give the molecular formula of dinitrogen tetroxide",
+   "a": "N<sub>2</sub>O<sub>4</sub>"
+  },
+  {
+   "q": "Give the systematic name of P<sub>2</sub>S<sub>5</sub>",
+   "a": "diphosphorus pentasulfide"
+  },
+  {
+   "q": "Describe the term trivial name",
+   "a": "The everyday name of a substance"
+  },
+  {
+   "q": "Describe systematic name",
+   "a": "A name of a substance that is built up according to systematic rules"
+  },
+  {
+   "q": "How many atoms and how many types of atoms are in C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>?",
+   "a": "24 atoms; 4 types of atoms"
+  },
+  {
+   "q": "Which atomic symbol belongs to sodium?",
+   "a": "Na"
+  },
+  {
+   "q": "Which atomic symbol belongs to potassium?",
+   "a": "K"
+  },
+  {
+   "q": "Which element has the symbol Fe?",
+   "a": "Iron"
+  },
+  {
+   "q": "Which element has the symbol Pb?",
+   "a": "Lead"
+  },
+  {
+   "q": "Which element has the symbol Hg?",
+   "a": "Mercury"
+  },
+  {
+   "q": "Which element has the symbol Cu?",
+   "a": "Copper"
+  },
+  {
+   "q": "How many atoms are in one molecule of H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "7"
+  },
+  {
+   "q": "How many atoms are there in total in 3 H<sub>2</sub>O?",
+   "a": "9"
+  },
+  {
+   "q": "How many hydrogen atoms are there in total in 2 CH<sub>4</sub>?",
+   "a": "8"
+  },
+  {
+   "q": "What is the molecular formula of carbon monoxide?",
+   "a": "CO"
+  },
+  {
+   "q": "What is the systematic name of CO<sub>2</sub>?",
+   "a": "Carbon dioxide"
+  },
+  {
+   "q": "What is the systematic name of SO<sub>3</sub>?",
+   "a": "Sulfur trioxide"
+  },
+  {
+   "q": "Write steps 1 and 2 of the step-by-step method for the formation of ammonia from nitrogen and hydrogen",
+   "a": "Step 1: nitrogen + hydrogen → ammonia. Step 2: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>"
+  },
+  {
+   "q": "How many atoms and how many types of atoms are in Ca(OH)<sub>2</sub>?",
+   "a": "5 atoms; 3 types of atoms"
+  },
+  {
+   "q": "Balance: Na + Cl<sub>2</sub> → NaCl",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  },
+  {
+   "q": "Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Give the systematic name and the formula of the substance that consists of 1 carbon atom and 2 oxygen atoms",
+   "a": "Carbon dioxide, CO<sub>2</sub>"
+  }
+ ]
+}

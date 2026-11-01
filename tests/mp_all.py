@@ -7,6 +7,7 @@ srv=socketserver.ThreadingTCPServer(('127.0.0.1',0),functools.partial(Q,director
 port=srv.server_address[1]; threading.Thread(target=srv.serve_forever,daemon=True).start()
 import glob,os,re
 pages=sorted(os.path.basename(f)[:-5] for f in glob.glob(root+'/*.html') if re.match(r'(sk|nk|rv)\d[a-z]-.*-MP(AI)?\.html$',os.path.basename(f)) and 'http-equiv="refresh"' not in open(f).read())
+pages=[p for p in pages if re.search(sys.argv[2],p)] if len(sys.argv)>2 else pages
 print(len(pages),"paginas")
 ok=True
 with sync_playwright() as p:

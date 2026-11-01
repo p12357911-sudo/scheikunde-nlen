@@ -59,7 +59,7 @@ for pg in nlp:
         fout(pg, 'structuur wijkt af van NL', str(sorted(set(nlt) ^ set(ent)))[:200]); continue
     for pad, t in ent.items():
         n = nlt[pad]; key = f'{pg}{pad}'
-        if t == n and len(kaal(n)) > 25: fout(pg, 'EN gelijk aan NL (niet vertaald?)', pad)
+        if t == n and len(kaal(n)) > 25 and re.search(r'[a-z]{4,}', kaal(n)) and key not in UITZ.get('en_gelijk', []): fout(pg, 'EN gelijk aan NL (niet vertaald?)', pad)
         if tags(t) != tags(n): fout(pg, 'HTML-tags wijken af', f'{pad}: {dict(tags(n))} vs {dict(tags(t))}')
         if getallen(t, False) != getallen(n, True) and key not in UITZ.get('getallen', []): fout(pg, 'getallen wijken af', f'{pad}: NL {sorted(getallen(n, True).elements())} EN {sorted(getallen(t, False).elements())}')
         k = kaal(t)

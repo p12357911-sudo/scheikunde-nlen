@@ -1,0 +1,150 @@
+{
+ "title": "Food and personal care - 123 school",
+ "heading": "Food and personal care",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "q": "Which three main groups of nutrients provide energy?",
+   "a": "Carbohydrates, fats and proteins"
+  },
+  {
+   "q": "Which nutrient is mainly used as a building material for muscles?",
+   "a": "Proteins"
+  },
+  {
+   "q": "Which nutrient is the body's most important short-term source of energy?",
+   "a": "Carbohydrates"
+  },
+  {
+   "q": "Which substances does a fat consist of?",
+   "a": "Glycerol and fatty acids"
+  },
+  {
+   "q": "Which nutrient provides the most energy per gram?",
+   "a": "Fat"
+  },
+  {
+   "q": "What do proteins consist of?",
+   "a": "Amino acids"
+  },
+  {
+   "q": "What does starch consist of?",
+   "a": "Long chains of glucose"
+  },
+  {
+   "q": "A food contains 20 g of fat. Fat provides 38 kJ per gram. How much energy does the fat provide?",
+   "a": "760 kJ"
+  },
+  {
+   "q": "A product contains 50 g of carbohydrates. Carbohydrates provide 17 kJ per gram. How much energy is that?",
+   "a": "850 kJ"
+  },
+  {
+   "q": "A product contains 10 g of fat (38 kJ per gram), 30 g of carbohydrates (17 kJ per gram) and 5 g of protein (17 kJ per gram). How much energy does this product provide?",
+   "a": "975 kJ"
+  },
+  {
+   "q": "How do you test for starch?",
+   "a": "With iodine solution: blue-black"
+  },
+  {
+   "q": "How do you test for glucose?",
+   "a": "With Fehling's or Benedict's solution and heating: red precipitate"
+  },
+  {
+   "q": "How do you test for protein with the biuret test?",
+   "a": "With sodium hydroxide solution and copper sulfate: purple colour"
+  },
+  {
+   "q": "How do you test for fat?",
+   "a": "A grease spot on paper: the paper becomes translucent"
+  },
+  {
+   "q": "What does your body need minerals such as calcium for?",
+   "a": "For strong bones and teeth"
+  },
+  {
+   "q": "What is an important function of vitamins?",
+   "a": "They help the body to work properly, in small amounts"
+  },
+  {
+   "q": "Which substance is an example of a preservative in food?",
+   "a": "Salt"
+  },
+  {
+   "q": "Why do you preserve food?",
+   "a": "To prevent bacteria and moulds from spoiling it"
+  },
+  {
+   "q": "Which method does not use a chemical additive to preserve food?",
+   "a": "Freezing"
+  },
+  {
+   "q": "Why does a cut apple turn brown?",
+   "a": "The substances in the apple react with oxygen from the air"
+  },
+  {
+   "q": "Which substance prevents browning caused by oxygen (antioxidant)?",
+   "a": "Vitamin C"
+  },
+  {
+   "q": "What does a pH of 3 mean?",
+   "a": "The solution is acidic"
+  },
+  {
+   "q": "What is the pH of a neutral solution?",
+   "a": "7"
+  },
+  {
+   "q": "Which pH belongs to an alkaline solution?",
+   "a": "10"
+  },
+  {
+   "q": "What colour does blue litmus have in an acidic solution?",
+   "a": "Red"
+  },
+  {
+   "q": "Which substance in lemon juice makes it acidic?",
+   "a": "Citric acid"
+  },
+  {
+   "q": "You dilute an acidic solution with water. What happens to the pH?",
+   "a": "The pH becomes higher and gets closer to 7"
+  },
+  {
+   "q": "Which reaction equation of hydrochloric acid with sodium hydroxide solution is correct?",
+   "a": "HCl + NaOH → NaCl + H<sub>2</sub>O"
+  },
+  {
+   "q": "What is formed in a neutralisation reaction of an acid and a base?",
+   "a": "A salt and water"
+  },
+  {
+   "q": "What is an emulsion?",
+   "a": "A mixture of two liquids that do not dissolve in each other, such as oil and water"
+  },
+  {
+   "q": "Which substance keeps oil and water mixed in mayonnaise?",
+   "a": "An emulsifier such as egg yolk"
+  },
+  {
+   "q": "What do you call the part of a soap molecule that dissolves in water?",
+   "a": "Hydrophilic head"
+  },
+  {
+   "q": "What do you call the part of a soap molecule that dissolves well in fat?",
+   "a": "Hydrophobic tail"
+  },
+  {
+   "q": "Why can soap remove a grease stain?",
+   "a": "The hydrophobic tails attach to the fat and the hydrophilic heads to the water"
+  },
+  {
+   "q": "Explain why you cannot get oil out of your clothes with water alone",
+   "a": "Oil is hydrophobic and does not dissolve in water. Soap has a hydrophobic tail that attaches to the oil and a hydrophilic head that dissolves in water"
+  }
+ ]
+}

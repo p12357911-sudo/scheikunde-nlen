@@ -1,0 +1,150 @@
+{
+ "title": "Structure of substances - 123 school",
+ "heading": "Structure of substances",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "q": "Which particles are in the nucleus of an atom?",
+   "a": "Protons and neutrons"
+  },
+  {
+   "q": "Which particle in an atom has no charge?",
+   "a": "Neutron"
+  },
+  {
+   "q": "What does the atomic number show?",
+   "a": "The number of protons in the nucleus"
+  },
+  {
+   "q": "What does the mass number show?",
+   "a": "The number of protons plus neutrons"
+  },
+  {
+   "q": "An atom has 11 protons and 12 neutrons. What is the mass number?",
+   "a": "23"
+  },
+  {
+   "q": "An atom has atomic number 17 and mass number 35. How many neutrons does it have?",
+   "a": "18"
+  },
+  {
+   "q": "How many electrons does a neutral atom with 15 protons have?",
+   "a": "15"
+  },
+  {
+   "q": "What is the maximum number of electrons in the second electron shell?",
+   "a": "8"
+  },
+  {
+   "q": "A sodium atom has 11 electrons. What is the electron arrangement across the shells?",
+   "a": "2-8-1"
+  },
+  {
+   "q": "A chlorine atom has 17 electrons. What is the electron arrangement across the shells?",
+   "a": "2-8-7"
+  },
+  {
+   "q": "An oxygen atom has atomic number 8. How many electrons are in the outer shell?",
+   "a": "6"
+  },
+  {
+   "q": "Why do noble gases hardly react with other substances?",
+   "a": "Their outer shell is full"
+  },
+  {
+   "q": "What is an ion?",
+   "a": "A charged atom or group of atoms"
+  },
+  {
+   "q": "A sodium atom gives away one electron. Which ion is formed?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "A chlorine atom takes up one electron. Which ion is formed?",
+   "a": "Cl<sup>−</sup>"
+  },
+  {
+   "q": "A magnesium atom (atomic number 12) wants to give away two electrons. Which ion is formed?",
+   "a": "Mg<sup>2+</sup>"
+  },
+  {
+   "q": "Which atoms usually form positive ions?",
+   "a": "Metal atoms"
+  },
+  {
+   "q": "How many electrons does an S<sup>2−</sup> ion have? Sulfur has atomic number 16.",
+   "a": "18"
+  },
+  {
+   "q": "How many electrons does an Al<sup>3+</sup> ion have? Aluminium has atomic number 13.",
+   "a": "10"
+  },
+  {
+   "q": "What is the formula of the salt that consists of Mg<sup>2+</sup> and Cl<sup>−</sup> ions?",
+   "a": "MgCl<sub>2</sub>"
+  },
+  {
+   "q": "What is the formula of the salt that consists of Ca<sup>2+</sup> and O<sup>2−</sup> ions?",
+   "a": "CaO"
+  },
+  {
+   "q": "What is the formula of the salt that consists of Al<sup>3+</sup> and O<sup>2−</sup> ions?",
+   "a": "Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "What is the formula of the salt that consists of Na<sup>+</sup> and SO<sub>4</sub><sup>2−</sup> ions?",
+   "a": "Na<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "What is the formula of the salt that consists of Ca<sup>2+</sup> and NO<sub>3</sub><sup>−</sup> ions?",
+   "a": "Ca(NO<sub>3</sub>)<sub>2</sub>"
+  },
+  {
+   "q": "What is the name of the salt with formula Na<sub>2</sub>S?",
+   "a": "Sodium sulfide"
+  },
+  {
+   "q": "How are the ions in a salt held together?",
+   "a": "By the attraction between positive and negative ions"
+  },
+  {
+   "q": "When does a salt conduct electric current?",
+   "a": "When it is dissolved or molten"
+  },
+  {
+   "q": "Why do salts have a high melting point?",
+   "a": "The attraction between the ions is strong"
+  },
+  {
+   "q": "How is a covalent bond formed?",
+   "a": "Atoms share one or more pairs of electrons"
+  },
+  {
+   "q": "Between which atoms does a covalent bond usually occur?",
+   "a": "Between non-metal atoms"
+  },
+  {
+   "q": "How many pairs of electrons do the two hydrogen atoms share in an H<sub>2</sub> molecule?",
+   "a": "1"
+  },
+  {
+   "q": "Why do metals conduct electric current?",
+   "a": "They have freely moving electrons"
+  },
+  {
+   "q": "Which substance consists of molecules?",
+   "a": "Water"
+  },
+  {
+   "q": "Which substance conducts electric current in the solid state?",
+   "a": "Copper"
+  },
+  {
+   "q": "What is the van der Waals force?",
+   "a": "The weak attraction between molecules"
+  }
+ ]
+}

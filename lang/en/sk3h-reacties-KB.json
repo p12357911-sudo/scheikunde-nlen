@@ -1,0 +1,149 @@
+{
+ "title": "Chemical reactions 2 - 123 school",
+ "heading": "Chemical reactions 2",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What are starting substances (reactants)?",
+   "a": "The substances that react with each other (left of the arrow)"
+  },
+  {
+   "q": "What are reaction products?",
+   "a": "The substances that are formed (right of the arrow)"
+  },
+  {
+   "q": "Name three observations that can indicate a chemical reaction",
+   "a": "Colour change, gas being produced, precipitate, change of smell, temperature change, light"
+  },
+  {
+   "q": "Is melting ice a chemical reaction? Explain.",
+   "a": "No. No new substance is formed (only a different state)."
+  },
+  {
+   "q": "Which two things stay the same in a chemical reaction?",
+   "a": "The number of atoms of each type and the total mass"
+  },
+  {
+   "q": "What is step 1 of the step-by-step method for a reaction equation?",
+   "a": "Write down the reaction scheme in words"
+  },
+  {
+   "q": "What is step 2 of the step-by-step method for a reaction equation?",
+   "a": "Write down the reaction scheme in molecular formulae"
+  },
+  {
+   "q": "What is step 3 of the step-by-step method for a reaction equation?",
+   "a": "Balance the atoms"
+  },
+  {
+   "q": "What is step 4 of the step-by-step method for a reaction equation?",
+   "a": "Simplify the reaction equation"
+  },
+  {
+   "q": "What may you change when balancing a reaction equation?",
+   "a": "Only the numbers in front of the formulae (coefficients). Not the small numbers inside the formulae."
+  },
+  {
+   "q": "Balance: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Balance: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "Balance: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>"
+  },
+  {
+   "q": "Balance: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "Give the reaction equation for the complete combustion of methane",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Simplify: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "What do (s), (l), (g) and (aq) after a formula mean?",
+   "a": "(s) solid, (l) liquid, (g) gas, (aq) dissolved in water"
+  },
+  {
+   "q": "What is decomposition?",
+   "a": "Splitting a substance into two or more other substances"
+  },
+  {
+   "q": "What is a synthesis?",
+   "a": "Making one new substance from two or more substances"
+  },
+  {
+   "q": "What is it called when a substance is decomposed using electric current?",
+   "a": "Electrolysis"
+  },
+  {
+   "q": "Give the reaction equation for the decomposition of water",
+   "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>"
+  },
+  {
+   "q": "What is combustion?",
+   "a": "A reaction of a substance with oxygen"
+  },
+  {
+   "q": "Which three things do you need for combustion?",
+   "a": "Fuel, oxygen and a high enough temperature"
+  },
+  {
+   "q": "Which substances are formed in the complete combustion of a hydrocarbon?",
+   "a": "Carbon dioxide and water"
+  },
+  {
+   "q": "Which substances can be formed in incomplete combustion?",
+   "a": "Carbon monoxide and soot (carbon)"
+  },
+  {
+   "q": "What is a precipitate?",
+   "a": "A solid that forms in a solution"
+  },
+  {
+   "q": "Balance: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "a": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Balance: H<sub>2</sub>O<sub>2</sub> → H<sub>2</sub>O + O<sub>2</sub>",
+   "a": "2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub>"
+  },
+  {
+   "q": "Balance: Ca + H<sub>2</sub>O → Ca(OH)<sub>2</sub> + H<sub>2</sub>",
+   "a": "Ca + 2 H<sub>2</sub>O → Ca(OH)<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>"
+  },
+  {
+   "q": "You mix a solution of silver nitrate with a solution of sodium chloride. Silver chloride does not dissolve in water. What do you see?",
+   "a": "A white precipitate of silver chloride"
+  },
+  {
+   "q": "How do you test for oxygen?",
+   "a": "A glowing splint burns more brightly"
+  },
+  {
+   "q": "How do you test for carbon dioxide?",
+   "a": "With limewater: it turns cloudy"
+  },
+  {
+   "q": "How do you test for hydrogen gas?",
+   "a": "With a burning splint: you hear a squeaky pop"
+  },
+  {
+   "q": "Which reaction equation of sodium with chlorine is balanced?",
+   "a": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+  }
+ ]
+}

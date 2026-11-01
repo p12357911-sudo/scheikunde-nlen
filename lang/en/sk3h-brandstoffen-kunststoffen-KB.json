@@ -1,0 +1,150 @@
+{
+ "title": "Fuels and plastics - 123 school",
+ "heading": "Fuels and plastics",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "q": "Which three substances are fossil fuels?",
+   "a": "Crude oil, natural gas and coal"
+  },
+  {
+   "q": "Why are crude oil, natural gas and coal called non-renewable fuels?",
+   "a": "They formed over millions of years and are running out"
+  },
+  {
+   "q": "Which fuel is renewable?",
+   "a": "Biodiesel"
+  },
+  {
+   "q": "How do you separate crude oil into different fractions?",
+   "a": "By distillation, based on the difference in boiling point"
+  },
+  {
+   "q": "Which fraction of crude oil has the lowest boiling point?",
+   "a": "Gas (light substances)"
+  },
+  {
+   "q": "Which fraction of crude oil has the highest boiling point and stays at the bottom of the distillation tower?",
+   "a": "Bitumen"
+  },
+  {
+   "q": "What does a hydrocarbon consist of?",
+   "a": "Only carbon and hydrogen atoms"
+  },
+  {
+   "q": "What is the molecular formula of methane?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "What is the molecular formula of propane?",
+   "a": "C<sub>3</sub>H<sub>8</sub>"
+  },
+  {
+   "q": "What is the molecular formula of butane?",
+   "a": "C<sub>4</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "How many hydrogen atoms does an alkane with 5 carbon atoms have? An alkane has the formula CnH<sub>2</sub>n+2.",
+   "a": "12"
+  },
+  {
+   "q": "Which name belongs to C<sub>2</sub>H<sub>6</sub>?",
+   "a": "Ethane"
+  },
+  {
+   "q": "Which substances are formed in the complete combustion of a hydrocarbon?",
+   "a": "Carbon dioxide and water"
+  },
+  {
+   "q": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "a": "Carbon monoxide, soot and water"
+  },
+  {
+   "q": "Why is incomplete combustion dangerous?",
+   "a": "Poisonous carbon monoxide is formed"
+  },
+  {
+   "q": "How does incomplete combustion happen?",
+   "a": "There is too little oxygen"
+  },
+  {
+   "q": "Which equation shows the complete combustion of methane?",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Which number must go in front of O<sub>2</sub>? C<sub>3</sub>H<sub>8</sub> + … O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O",
+   "a": "5"
+  },
+  {
+   "q": "Which equation shows the complete combustion of butane?",
+   "a": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O"
+  },
+  {
+   "q": "Which gas is mainly responsible for the enhanced greenhouse effect?",
+   "a": "Carbon dioxide"
+  },
+  {
+   "q": "Which two substances cause acid rain?",
+   "a": "Sulfur dioxide and nitrogen oxides"
+  },
+  {
+   "q": "What are the three conditions for combustion (the fire triangle)?",
+   "a": "Fuel, oxygen and a high enough temperature"
+  },
+  {
+   "q": "You put out a burning pan with a lid. Which condition do you remove?",
+   "a": "Oxygen"
+  },
+  {
+   "q": "Is burning an exothermic or an endothermic reaction?",
+   "a": "Exothermic: heat is released"
+  },
+  {
+   "q": "What is formed when hydrogen burns?",
+   "a": "Water"
+  },
+  {
+   "q": "Which equation shows the combustion of hydrogen?",
+   "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "What is a polymer?",
+   "a": "A substance with very long chain molecules"
+  },
+  {
+   "q": "What is a monomer?",
+   "a": "The small molecule from which a polymer is built up"
+  },
+  {
+   "q": "From which monomer is polyethene made?",
+   "a": "Ethene"
+  },
+  {
+   "q": "What is a thermoplastic?",
+   "a": "A plastic that softens when heated and can then be reshaped"
+  },
+  {
+   "q": "What is a thermosetting plastic?",
+   "a": "A plastic that cannot be reshaped once it has hardened"
+  },
+  {
+   "q": "Which plastic is an elastomer?",
+   "a": "Rubber"
+  },
+  {
+   "q": "Why is it bad for the environment to throw plastic away in nature?",
+   "a": "It hardly breaks down and lasts for a very long time"
+  },
+  {
+   "q": "What is it called when plastic is reused to make new products?",
+   "a": "Recycling"
+  },
+  {
+   "q": "Name two disadvantages of burning fossil fuels",
+   "a": "Carbon dioxide is released (greenhouse effect) and the fuels are running out. Sulfur dioxide and nitrogen oxides also cause acid rain"
+  }
+ ]
+}

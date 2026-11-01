@@ -1,5 +1,20 @@
 {
- "ui_gelijk": ["titel.index", "index.school_trainer"],
- "nl_punt": ["acidbase1KB/questions/11/a", "sk3t-scheidingsmethoden-KB/questions/50/q", "sk3t-scheidingsmethoden-KB/questions/50/a"],
- "getallen": [], "komma": [], "niveau": [], "nederlands": [], "binas": []
+ "ui_gelijk": [
+  "titel.index",
+  "index.school_trainer"
+ ],
+ "nl_punt": [
+  "acidbase1KB/questions/11/a",
+  "sk3t-scheidingsmethoden-KB/questions/50/q",
+  "sk3t-scheidingsmethoden-KB/questions/50/a"
+ ],
+ "getallen": [],
+ "komma": [],
+ "niveau": [],
+ "nederlands": [],
+ "binas": [],
+ "en_gelijk": [
+  "sk3h-atomen-moleculen-KB/questions/11/a",
+  "sk3h-atomen-moleculen-KB/questions/12/a"
+ ]
 }

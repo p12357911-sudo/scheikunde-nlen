@@ -1,0 +1,144 @@
+### sk3h-atomen-moleculen-KB
+heading Atoms and molecules
+0.q Describe a chemical reaction
+0.a In a chemical reaction the starting substances disappear and new substances with new properties are formed
+1.q What are the smallest particles that determine the properties of a substance?
+1.a Molecules
+2.q What do molecules consist of?
+2.a One or more types of atoms
+3.q Atoms are also called …
+3.a Elements
+4.q Give the names of: Al, B, Ca, Cl, P, Fe, I, K, C, Cu
+4.a Aluminium, Boron, Calcium, Chlorine, Phosphorus, Iron, Iodine, Potassium, Carbon, Copper
+5.q Give the atomic symbol of: Bromine, Mercury, Lead, Magnesium, Sodium, Nitrogen, Uranium, Hydrogen, Silver, Zinc, Oxygen, Sulfur
+5.a Br, Hg, Pb, Mg, Na, N, U, H, Ag, Zn, O, S
+6.q What does the molecular formula show?
+6.a Which atoms, and how many of each, a molecule consists of
+7.q In H<sub>2</sub>O the 2 is the subscript. What does the 2 show?
+7.a That there are 2 hydrogen atoms (and 1 oxygen atom) in H<sub>2</sub>O, water
+8.q Give the molecular formula of: ammonia, carbon dioxide, methane, hydrogen peroxide, ethanol, water
+8.a NH<sub>3</sub>, CO<sub>2</sub>, CH<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, C<sub>2</sub>H<sub>6</sub>O, H<sub>2</sub>O
+9.q Elemental substances consist of 1 type of atom. Name 3.
+9.a Br<sub>2</sub>, Cl<sub>2</sub>, F<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>
+10.q What is H<sub>2</sub> (g)?
+10.a Hydrogen gas
+11.q What is the ending of the name for the second type of atom in: chlorine, oxygen, sulfur, fluorine?
+11.a chloride, oxide, sulfide, fluoride
+12.q Give the Greek numerical prefixes for 1 to 8
+12.a mono, di, tri, tetra, penta, hexa, hepta, octa
+13.q Give the molecular formula of dinitrogen tetroxide
+13.a N<sub>2</sub>O<sub>4</sub>
+14.q Give the systematic name of P<sub>2</sub>S<sub>5</sub>
+14.a diphosphorus pentasulfide
+15.q Describe the term trivial name
+15.a The everyday name of a substance
+16.q Describe systematic name
+16.a A name of a substance that is built up according to systematic rules
+17.q How many atoms and how many types of atoms are in C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>?
+17.a 24 atoms; 4 types of atoms
+18.q Which atomic symbol belongs to sodium?
+18.a Na
+19.q Which atomic symbol belongs to potassium?
+19.a K
+20.q Which element has the symbol Fe?
+20.a Iron
+21.q Which element has the symbol Pb?
+21.a Lead
+22.q Which element has the symbol Hg?
+22.a Mercury
+23.q Which element has the symbol Cu?
+23.a Copper
+24.q How many atoms are in one molecule of H<sub>2</sub>SO<sub>4</sub>?
+24.a 7
+25.q How many atoms are there in total in 3 H<sub>2</sub>O?
+25.a 9
+26.q How many hydrogen atoms are there in total in 2 CH<sub>4</sub>?
+26.a 8
+27.q What is the molecular formula of carbon monoxide?
+27.a CO
+28.q What is the systematic name of CO<sub>2</sub>?
+28.a Carbon dioxide
+29.q What is the systematic name of SO<sub>3</sub>?
+29.a Sulfur trioxide
+30.q Write steps 1 and 2 of the step-by-step method for the formation of ammonia from nitrogen and hydrogen
+30.a Step 1: nitrogen + hydrogen → ammonia. Step 2: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>
+31.q How many atoms and how many types of atoms are in Ca(OH)<sub>2</sub>?
+31.a 5 atoms; 3 types of atoms
+32.q Balance: Na + Cl<sub>2</sub> → NaCl
+32.a 2 Na + Cl<sub>2</sub> → 2 NaCl
+33.q Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+33.a 4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>
+34.q Give the systematic name and the formula of the substance that consists of 1 carbon atom and 2 oxygen atoms
+34.a Carbon dioxide, CO<sub>2</sub>
+### sk3h-bouw-van-stoffen-KB
+heading Structure of substances
+0.q Which particles are in the nucleus of an atom?
+0.a Protons and neutrons
+1.q Which particle in an atom has no charge?
+1.a Neutron
+2.q What does the atomic number show?
+2.a The number of protons in the nucleus
+3.q What does the mass number show?
+3.a The number of protons plus neutrons
+4.q An atom has 11 protons and 12 neutrons. What is the mass number?
+4.a 23
+5.q An atom has atomic number 17 and mass number 35. How many neutrons does it have?
+5.a 18
+6.q How many electrons does a neutral atom with 15 protons have?
+6.a 15
+7.q What is the maximum number of electrons in the second electron shell?
+7.a 8
+8.q A sodium atom has 11 electrons. What is the electron arrangement across the shells?
+8.a 2-8-1
+9.q A chlorine atom has 17 electrons. What is the electron arrangement across the shells?
+9.a 2-8-7
+10.q An oxygen atom has atomic number 8. How many electrons are in the outer shell?
+10.a 6
+11.q Why do noble gases hardly react with other substances?
+11.a Their outer shell is full
+12.q What is an ion?
+12.a A charged atom or group of atoms
+13.q A sodium atom gives away one electron. Which ion is formed?
+13.a Na<sup>+</sup>
+14.q A chlorine atom takes up one electron. Which ion is formed?
+14.a Cl<sup>−</sup>
+15.q A magnesium atom (atomic number 12) wants to give away two electrons. Which ion is formed?
+15.a Mg<sup>2+</sup>
+16.q Which atoms usually form positive ions?
+16.a Metal atoms
+17.q How many electrons does an S<sup>2−</sup> ion have? Sulfur has atomic number 16.
+17.a 18
+18.q How many electrons does an Al<sup>3+</sup> ion have? Aluminium has atomic number 13.
+18.a 10
+19.q What is the formula of the salt that consists of Mg<sup>2+</sup> and Cl<sup>−</sup> ions?
+19.a MgCl<sub>2</sub>
+20.q What is the formula of the salt that consists of Ca<sup>2+</sup> and O<sup>2−</sup> ions?
+20.a CaO
+21.q What is the formula of the salt that consists of Al<sup>3+</sup> and O<sup>2−</sup> ions?
+21.a Al<sub>2</sub>O<sub>3</sub>
+22.q What is the formula of the salt that consists of Na<sup>+</sup> and SO<sub>4</sub><sup>2−</sup> ions?
+22.a Na<sub>2</sub>SO<sub>4</sub>
+23.q What is the formula of the salt that consists of Ca<sup>2+</sup> and NO<sub>3</sub><sup>−</sup> ions?
+23.a Ca(NO<sub>3</sub>)<sub>2</sub>
+24.q What is the name of the salt with formula Na<sub>2</sub>S?
+24.a Sodium sulfide
+25.q How are the ions in a salt held together?
+25.a By the attraction between positive and negative ions
+26.q When does a salt conduct electric current?
+26.a When it is dissolved or molten
+27.q Why do salts have a high melting point?
+27.a The attraction between the ions is strong
+28.q How is a covalent bond formed?
+28.a Atoms share one or more pairs of electrons
+29.q Between which atoms does a covalent bond usually occur?
+29.a Between non-metal atoms
+30.q How many pairs of electrons do the two hydrogen atoms share in an H<sub>2</sub> molecule?
+30.a 1
+31.q Why do metals conduct electric current?
+31.a They have freely moving electrons
+32.q Which substance consists of molecules?
+32.a Water
+33.q Which substance conducts electric current in the solid state?
+33.a Copper
+34.q What is the van der Waals force?
+34.a The weak attraction between molecules
