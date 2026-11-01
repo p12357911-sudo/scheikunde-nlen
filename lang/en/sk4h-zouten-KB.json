@@ -1,0 +1,150 @@
+{
+ "title": "Salts - 123 school",
+ "heading": "Salts",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is a salt?",
+   "a": "A substance made up of positive and negative ions"
+  },
+  {
+   "q": "Which bond holds the ions together in a salt?",
+   "a": "The ionic bond (attraction between positive and negative ions)"
+  },
+  {
+   "q": "Which types of element does a salt usually consist of?",
+   "a": "A metal and a non-metal"
+  },
+  {
+   "q": "What is the formula of magnesium chloride? (Mg<sup>2+</sup> and Cl<sup>-</sup>)",
+   "a": "MgCl<sub>2</sub>"
+  },
+  {
+   "q": "What is the formula of aluminium oxide? (Al<sup>3+</sup> and O<sup>2-</sup>)",
+   "a": "Al<sub>2</sub>O<sub>3</sub>: charge balanced: 2 × 3+ = 6+ and 3 × 2- = 6-"
+  },
+  {
+   "q": "What is the formula of calcium phosphate? (Ca<sup>2+</sup> and PO<sub>4</sub><sup>3-</sup>)",
+   "a": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>: charge balanced: 3 × 2+ = 6+ and 2 × 3- = 6-"
+  },
+  {
+   "q": "What is the formula of ammonium sulfate? (NH<sub>4</sub><sup>+</sup> and SO<sub>4</sub><sup>2-</sup>)",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "What is the formula of iron(III) chloride?",
+   "a": "FeCl<sub>3</sub>"
+  },
+  {
+   "q": "What is the name of Na<sub>2</sub>CO<sub>3</sub>?",
+   "a": "Sodium carbonate"
+  },
+  {
+   "q": "What is the name of KNO<sub>3</sub>?",
+   "a": "Potassium nitrate"
+  },
+  {
+   "q": "What is the name of CuSO<sub>4</sub>?",
+   "a": "Copper(II) sulfate"
+  },
+  {
+   "q": "What is the name of Ba(OH)<sub>2</sub>?",
+   "a": "Barium hydroxide"
+  },
+  {
+   "q": "What is the name of Fe<sub>2</sub>O<sub>3</sub>?",
+   "a": "Iron(III) oxide"
+  },
+  {
+   "q": "What is the charge of the iron ion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)",
+   "a": "3+: 3 chloride ions give 3-; so the iron ion is 3+"
+  },
+  {
+   "q": "What is the equation for dissolving sodium chloride in water?",
+   "a": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)"
+  },
+  {
+   "q": "What is the equation for dissolving calcium chloride in water?",
+   "a": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)"
+  },
+  {
+   "q": "What is the equation for dissolving aluminium sulfate in water?",
+   "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)"
+  },
+  {
+   "q": "What is the equation for dissolving ammonium sulfate in water?",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)"
+  },
+  {
+   "q": "How many moles of ions are released when 1.0 mol of CaCl<sub>2</sub> dissolves?",
+   "a": "3.0 mol: 1.0 mol of Ca<sup>2+</sup> and 2.0 mol of Cl<sup>-</sup>: together 3.0 mol"
+  },
+  {
+   "q": "A solution of calcium chloride has a concentration of 0.10 mol/L. What is the concentration of Cl<sup>-</sup> in this solution?",
+   "a": "0.20 mol/L: for every CaCl<sub>2</sub>, 2 Cl<sup>-</sup> are released: 2 × 0.10 = 0.20 mol/L"
+  },
+  {
+   "q": "How many grams of NaCl (M = 58.44 g/mol) are needed for 0.500 L of a 0.10 mol/L solution?",
+   "a": "2.9 g: n = 0.10 × 0.500 = 0.050 mol; m = 0.050 × 58.44 = 2.9 g"
+  },
+  {
+   "q": "What is a precipitate?",
+   "a": "A solid that forms when you mix two solutions"
+  },
+  {
+   "q": "Why does solid table salt not conduct electricity?",
+   "a": "The ions are fixed in their places in the lattice"
+  },
+  {
+   "q": "Why does a salt solution conduct electricity?",
+   "a": "There are freely moving ions"
+  },
+  {
+   "q": "You mix solutions of silver nitrate and sodium chloride. Which substance precipitates? (use BINAS table 45A)",
+   "a": "Silver chloride"
+  },
+  {
+   "q": "What is the equation of the precipitation reaction of silver ions with chloride ions?",
+   "a": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)"
+  },
+  {
+   "q": "You mix barium chloride solution with sodium sulfate solution. Which substance precipitates? (use BINAS table 45A)",
+   "a": "Barium sulfate"
+  },
+  {
+   "q": "What is the equation of the precipitation reaction in which limescale (CaCO<sub>3</sub>) forms from ions?",
+   "a": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)"
+  },
+  {
+   "q": "You mix solutions of sodium chloride and potassium nitrate. What happens? (use BINAS table 45A)",
+   "a": "Nothing precipitates, all combinations dissolve well"
+  },
+  {
+   "q": "Which salt is poorly soluble in water? (use BINAS table 45A)",
+   "a": "Barium sulfate"
+  },
+  {
+   "q": "What is the equation of the precipitation reaction of iron(III) ions with hydroxide ions?",
+   "a": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)"
+  },
+  {
+   "q": "What is water of crystallisation?",
+   "a": "Water that is built into the crystal lattice of a salt"
+  },
+  {
+   "q": "Calculate the mass percentage of water of crystallisation in CuSO<sub>4</sub>·5H<sub>2</sub>O. (use BINAS table 99; M(H<sub>2</sub>O) = 18.02 g/mol)",
+   "a": "36.1%: M(CuSO<sub>4</sub>·5H<sub>2</sub>O) = 63.55 + 32.06 + 4 × 16.00 + 5 × 18.02 = 249.71 g/mol; 5 × 18.02 : 249.71 × 100% = 36.1%"
+  },
+  {
+   "q": "Name two salts from everyday life and their uses.",
+   "a": "For example table salt (NaCl) for food, limestone (CaCO<sub>3</sub>) in building materials or fertiliser (NH<sub>4</sub>NO<sub>3</sub>) for plants"
+  },
+  {
+   "q": "What happens to the ions when a salt melts and why does it then conduct electricity?",
+   "a": "The ions come loose from their places in the lattice and can move freely, so the molten substance conducts electricity"
+  }
+ ]
+}

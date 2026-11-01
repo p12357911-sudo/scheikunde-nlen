@@ -1,0 +1,217 @@
+### sk4h-rekenen-KB
+heading Calculating and measuring
+0.q What is a mole?
+0.a An amount of substance of 6.02 × 10<sup>23</sup> particles
+1.q What is the number 6.02 × 10<sup>23</sup> per mole called and what is its symbol?
+1.a The Avogadro constant (N<sub>A</sub>)
+2.q What is the molar mass?
+2.a The mass of 1 mole of a substance in g/mol
+3.q How do you find the molar mass of a substance?
+3.a Add up the atomic masses (u) from BINAS table 99. The number is equal to g/mol.
+4.q Give the formula for the number of moles
+4.a n = m : M
+5.q What is the molar mass of H<sub>2</sub>O? (use BINAS table 99)
+5.a 2 × 1.008 + 16.00 = 18.02 g/mol
+6.q What is the molar mass of CO<sub>2</sub>? (use BINAS table 99)
+6.a 12.01 + 2 × 16.00 = 44.01 g/mol
+7.q How many moles is 36.0 g of water (M = 18.02 g/mol)?
+7.a 36.0 : 18.02 = 2.00 mol
+8.q How many grams is 0.50 mol of NaCl (M = 58.44 g/mol)?
+8.a 0.50 × 58.44 = 29 g
+9.q How many grams is 0.25 mol of H<sub>2</sub>O? (use BINAS table 99)
+9.a 0.25 × 18.02 = 4.5 g
+10.q How many moles is 4.0 g of H<sub>2</sub> (M = 2.016 g/mol)?
+10.a 4.0 : 2.016 = 1.984 = 2.0 mol (2 significant figures)
+10.g0 2.0 mol
+11.q How many molecules is 2.0 mol? (use BINAS table 7A)
+11.a 2.0 × 6.02 × 10<sup>23</sup> = 1.2 × 10<sup>24</sup>
+12.q How many moles of H atoms are there in 3.5 mol of H<sub>2</sub>O?
+12.a 2 × 3.5 = 7.0 mol
+13.q What is the mole ratio in a reaction equation?
+13.a The ratio of the numbers in front of the formulae
+14.q In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub>O are formed from 3 mol of O<sub>2</sub>?
+14.a 6 mol
+15.q What is a substance in excess?
+15.a A substance that is left over after the reaction
+16.q What is a limiting reactant?
+16.a A substance that is used up first
+17.q Give the formula for the mass percentage
+17.a mass of substance : total mass × 100%
+18.q There is 30 g of salt in 200 g of mixture. What is the mass percentage of salt?
+18.a 30 : 200 × 100% = 15%
+19.q How many significant figures does 0.0230 have?
+19.a 3
+20.q With how many significant figures do you give the answer when multiplying and dividing?
+20.a The same number as the number with the fewest significant figures
+21.q Write 0.0023 in scientific notation
+21.a 2.3 × 10<sup>-3</sup>
+22.q How many m<sup>3</sup> is 1 L?
+22.a 0.001 m<sup>3</sup>
+23.q How many grams is 250 mg?
+23.a 0.250 g
+24.q What is measurement uncertainty?
+24.a The margin within which the true value lies
+25.q Which piece of equipment do you use to measure a volume of liquid accurately?
+25.a A measuring cylinder (or pipette, burette)
+26.q What is the molar mass of CaCO<sub>3</sub>? (use BINAS table 99)
+26.a 40.08 + 12.01 + 3 × 16.00 = 100.09 g/mol
+27.q What is the molar mass of Ca(OH)<sub>2</sub>? (use BINAS table 99)
+27.a 40.08 + 2 × (16.00 + 1.008) = 74.10 g/mol
+28.q How many molecules are there in 0.50 mol of CO<sub>2</sub>? (use BINAS table 7A)
+28.a 0.50 × 6.02 × 10<sup>23</sup> = 3.0 × 10<sup>23</sup>
+29.q How many grams of NaOH (M = 40.00 g/mol) is 0.250 mol?
+29.a 0.250 × 40.00 = 10.0 g
+30.q In 2.0 kg of water there is 6.0 mg of nitrate. How many ppm is that?
+30.a 1 ppm = 1 mg per kg; 6.0 mg : 2.0 kg = 3.0 ppm
+31.q You dissolve 0.50 mol of NaCl to make 2.0 L of solution. What is the molarity?
+31.a c = n : V = 0.50 : 2.0 = 0.25 mol/L
+32.q How many moles is 10.0 g of CaCO<sub>3</sub> (M = 100.09 g/mol)?
+32.a 10.0 : 100.09 = 0.0999 mol
+33.q How many grams of water are formed from 4.0 g of H<sub>2</sub> according to 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? (M(H<sub>2</sub>) = 2.016 g/mol; M(H<sub>2</sub>O) = 18.02 g/mol)
+33.a Step 1: reaction equation 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (mole ratio H<sub>2</sub> : H<sub>2</sub>O = 1 : 1). n(H<sub>2</sub>) = 4.0 : 2.016 = 1.984 mol (do not round yet), so n(H<sub>2</sub>O) = 1.984 mol. m(H<sub>2</sub>O) = 1.984 × 18.02 = 35.75 g = 36 g (2 significant figures)
+34.q What does ppm mean?
+34.a Parts per million: 1 part in a million, for example 1 mg per kg
+### sk4h-zouten-KB
+heading Salts
+0.q What is a salt?
+0.a A substance made up of positive and negative ions
+1.q Which bond holds the ions together in a salt?
+1.a The ionic bond (attraction between positive and negative ions)
+2.q Which types of element does a salt usually consist of?
+2.a A metal and a non-metal
+3.q What is the formula of magnesium chloride? (Mg<sup>2+</sup> and Cl<sup>-</sup>)
+3.a MgCl<sub>2</sub>
+4.q What is the formula of aluminium oxide? (Al<sup>3+</sup> and O<sup>2-</sup>)
+4.a Al<sub>2</sub>O<sub>3</sub>: charge balanced: 2 × 3+ = 6+ and 3 × 2- = 6-
+5.q What is the formula of calcium phosphate? (Ca<sup>2+</sup> and PO<sub>4</sub><sup>3-</sup>)
+5.a Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>: charge balanced: 3 × 2+ = 6+ and 2 × 3- = 6-
+6.q What is the formula of ammonium sulfate? (NH<sub>4</sub><sup>+</sup> and SO<sub>4</sub><sup>2-</sup>)
+6.a (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>
+7.q What is the formula of iron(III) chloride?
+7.a FeCl<sub>3</sub>
+8.q What is the name of Na<sub>2</sub>CO<sub>3</sub>?
+8.a Sodium carbonate
+9.q What is the name of KNO<sub>3</sub>?
+9.a Potassium nitrate
+10.q What is the name of CuSO<sub>4</sub>?
+10.a Copper(II) sulfate
+11.q What is the name of Ba(OH)<sub>2</sub>?
+11.a Barium hydroxide
+12.q What is the name of Fe<sub>2</sub>O<sub>3</sub>?
+12.a Iron(III) oxide
+13.q What is the charge of the iron ion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)
+13.a 3+: 3 chloride ions give 3-; so the iron ion is 3+
+14.q What is the equation for dissolving sodium chloride in water?
+14.a NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)
+15.q What is the equation for dissolving calcium chloride in water?
+15.a CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)
+16.q What is the equation for dissolving aluminium sulfate in water?
+16.a Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)
+17.q What is the equation for dissolving ammonium sulfate in water?
+17.a (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)
+18.q How many moles of ions are released when 1.0 mol of CaCl<sub>2</sub> dissolves?
+18.a 3.0 mol: 1.0 mol of Ca<sup>2+</sup> and 2.0 mol of Cl<sup>-</sup>: together 3.0 mol
+19.q A solution of calcium chloride has a concentration of 0.10 mol/L. What is the concentration of Cl<sup>-</sup> in this solution?
+19.a 0.20 mol/L: for every CaCl<sub>2</sub>, 2 Cl<sup>-</sup> are released: 2 × 0.10 = 0.20 mol/L
+20.q How many grams of NaCl (M = 58.44 g/mol) are needed for 0.500 L of a 0.10 mol/L solution?
+20.a 2.9 g: n = 0.10 × 0.500 = 0.050 mol; m = 0.050 × 58.44 = 2.9 g
+21.q What is a precipitate?
+21.a A solid that forms when you mix two solutions
+22.q Why does solid table salt not conduct electricity?
+22.a The ions are fixed in their places in the lattice
+23.q Why does a salt solution conduct electricity?
+23.a There are freely moving ions
+24.q You mix solutions of silver nitrate and sodium chloride. Which substance precipitates? (use BINAS table 45A)
+24.a Silver chloride
+25.q What is the equation of the precipitation reaction of silver ions with chloride ions?
+25.a Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)
+26.q You mix barium chloride solution with sodium sulfate solution. Which substance precipitates? (use BINAS table 45A)
+26.a Barium sulfate
+27.q What is the equation of the precipitation reaction in which limescale (CaCO<sub>3</sub>) forms from ions?
+27.a Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)
+28.q You mix solutions of sodium chloride and potassium nitrate. What happens? (use BINAS table 45A)
+28.a Nothing precipitates, all combinations dissolve well
+29.q Which salt is poorly soluble in water? (use BINAS table 45A)
+29.a Barium sulfate
+30.q What is the equation of the precipitation reaction of iron(III) ions with hydroxide ions?
+30.a Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)
+31.q What is water of crystallisation?
+31.a Water that is built into the crystal lattice of a salt
+32.q Calculate the mass percentage of water of crystallisation in CuSO<sub>4</sub>·5H<sub>2</sub>O. (use BINAS table 99; M(H<sub>2</sub>O) = 18.02 g/mol)
+32.a 36.1%: M(CuSO<sub>4</sub>·5H<sub>2</sub>O) = 63.55 + 32.06 + 4 × 16.00 + 5 × 18.02 = 249.71 g/mol; 5 × 18.02 : 249.71 × 100% = 36.1%
+33.q Name two salts from everyday life and their uses.
+33.a For example table salt (NaCl) for food, limestone (CaCO<sub>3</sub>) in building materials or fertiliser (NH<sub>4</sub>NO<sub>3</sub>) for plants
+34.q What happens to the ions when a salt melts and why does it then conduct electricity?
+34.a The ions come loose from their places in the lattice and can move freely, so the molten substance conducts electricity
+### sk4h-zuren-basen-KB
+heading Acids and bases
+0.q What is an acid?
+0.a A particle that can donate an H<sup>+</sup>
+1.q What is a base?
+1.a A particle that can accept an H<sup>+</sup>
+2.q What pH does an acidic solution have?
+2.a Lower than 7
+3.q What pH does a neutral solution have at 298 K?
+3.a 7
+4.q What is the [H<sup>+</sup>] in a solution with pH = 3?
+4.a 1.0 × 10<sup>-3</sup> mol/L: [H<sup>+</sup>] = 10**-pH = 10<sup>-3</sup>
+5.q Calculate the pH of 0.010 mol/L hydrochloric acid (HCl).
+5.a 2.00: HCl is a strong acid, so [H<sup>+</sup>] = 0.010 mol/L; pH = −log 0.010 = 2.00
+6.q Calculate the pH of 0.0010 mol/L nitric acid (HNO<sub>3</sub>).
+6.a 3.00: HNO<sub>3</sub> is a strong acid, so [H<sup>+</sup>] = 0.0010 mol/L; pH = −log 0.0010 = 3.00
+7.q Calculate the pH of 0.010 mol/L sodium hydroxide solution (NaOH).
+7.a 12.00: NaOH is a strong base, so [OH<sup>-</sup>] = 0.010 mol/L; pOH = 2.00 and pH = 14 − 2.00 = 12.00
+8.q Calculate the pH of 1.0 × 10<sup>-4</sup> mol/L sodium hydroxide solution (NaOH).
+8.a 10.00: [OH<sup>-</sup>] = 1.0 × 10<sup>-4</sup> mol/L; pOH = 4.00 and pH = 14 − 4.00 = 10.00
+9.q Calculate the pH of 0.0050 mol/L barium hydroxide, Ba(OH)<sub>2</sub> (a strong base).
+9.a 12.00: Ba(OH)<sub>2</sub> → Ba<sup>2+</sup> + 2 OH<sup>-</sup>, so [OH<sup>-</sup>] = 2 × 0.0050 = 0.010 mol/L; pOH = 2.00 and pH = 12.00
+10.q What is the relationship between pH and pOH at 298 K?
+10.a pH + pOH = 14
+11.q A solution has [H<sup>+</sup>] = 2.5 × 10<sup>-4</sup> mol/L. Calculate the pH.
+11.a 3.60: pH = −log (2.5 × 10<sup>-4</sup>) = 3.60
+12.q How many times as great is the [H<sup>+</sup>] at pH = 2 as at pH = 4?
+12.a 100 times: a difference of 2 pH units is 10<sup>2</sup> = 100
+13.q A solution of a strong acid has pH = 2.0. You dilute the solution 10 times with water. What is the new pH?
+13.a 3.0: the [H<sup>+</sup>] becomes 10 times as small, so the pH becomes 1 higher
+14.q You dilute 10 mL of 1.0 mol/L HCl to 100 mL. What is the new concentration?
+14.a 0.10 mol/L: n = 0.010 L × 1.0 mol/L = 0.010 mol; c = 0.010 mol : 0.100 L = 0.10 mol/L
+15.q What does it mean that HCl is a strong acid?
+15.a All HCl molecules donate their H<sup>+</sup> to water
+16.q What does it mean that acetic acid is a weak acid?
+16.a Only a small fraction of the molecules donates an H<sup>+</sup> (equilibrium)
+17.q Which of the following acids is a strong acid? (use BINAS table 49)
+17.a HCl
+18.q What is the notation for a solution of the strong acid HNO<sub>3</sub>?
+18.a H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq)
+19.q What is the formula of nitric acid?
+19.a HNO<sub>3</sub>
+20.q What is the conjugate acid of NH<sub>3</sub>?
+20.a NH<sub>4</sub><sup>+</sup>
+21.q What is the conjugate base of HCO<sub>3</sub><sup>-</sup>?
+21.a CO<sub>3</sub><sup>2-</sup>
+22.q Which particle can react both as an acid and as a base (ampholyte)? (use BINAS table 49)
+22.a HCO<sub>3</sub><sup>-</sup>
+23.q What is the reaction equation for the neutralisation of hydrochloric acid with sodium hydroxide solution (in ions)?
+23.a H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)
+24.q Acetic acid reacts with sodium hydroxide solution. What is the equation of the acid–base reaction?
+24.a CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)
+25.q Ammonia (NH<sub>3</sub>) reacts with hydrochloric acid. What is the equation of the acid–base reaction?
+25.a NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)
+26.q You neutralise 25.0 mL of hydrochloric acid with 20.0 mL of 0.100 mol/L sodium hydroxide solution. Calculate the concentration of the hydrochloric acid.
+26.a 0.0800 mol/L: n(NaOH) = 0.0200 L × 0.100 mol/L = 2.00 × 10<sup>-3</sup> mol = n(HCl); c = 2.00 × 10<sup>-3</sup> mol : 0.0250 L = 0.0800 mol/L
+27.q How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 10.0 mL of 0.100 mol/L hydrochloric acid?
+27.a 5.00 mL: n(HCl) = 0.0100 × 0.100 = 1.00 × 10<sup>-3</sup> mol = n(NaOH); V = 1.00 × 10<sup>-3</sup> : 0.200 = 5.00 × 10<sup>-3</sup> L = 5.00 mL
+28.q How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 20.0 mL of 0.100 mol/L sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?
+28.a 20.0 mL: n(H<sub>2</sub>SO<sub>4</sub>) = 0.0200 × 0.100 = 2.00 × 10<sup>-3</sup> mol; each H<sub>2</sub>SO<sub>4</sub> gives 2 H<sup>+</sup>, so n(NaOH) = 4.00 × 10<sup>-3</sup> mol; V = 4.00 × 10<sup>-3</sup> : 0.200 = 0.0200 L = 20.0 mL
+29.q A weak acid HZ has Ka = 1.0 × 10<sup>-5</sup> and a concentration of 0.10 mol/L. Calculate the pH. (Assume that [H<sup>+</sup>] = [Z<sup>-</sup>] and that [HZ] ≈ 0.10 mol/L.)
+29.a 3.00: Ka = [H<sup>+</sup>]<sup>2</sup> : 0.10, so [H<sup>+</sup>] = square root of (1.0 × 10<sup>-5</sup> × 0.10) = 1.0 × 10<sup>-3</sup> mol/L; pH = 3.00
+30.q Four acids have these acid constants: HA 1 × 10<sup>-3</sup>, HB 1 × 10<sup>-5</sup>, HC 1 × 10<sup>-8</sup>, HD 1 × 10<sup>-10</sup>. Which acid is the strongest?
+30.a HA: the greater the Ka, the stronger the acid
+31.q What colour does litmus have at pH = 2? (use BINAS table 52A)
+31.a Red
+32.q What colour does phenolphthalein have at pH = 2? (use BINAS table 52A)
+32.a Colourless
+33.q Explain why water is an ampholyte.
+33.a Water can accept an H<sup>+</sup> (H<sub>3</sub>O<sup>+</sup>) and donate an H<sup>+</sup> (OH<sup>-</sup>), so it reacts as a base and as an acid
+34.q What happens to the pH if you dilute an acidic solution with water? Explain.
+34.a The pH becomes higher (towards 7), because the concentration of H<sup>+</sup> becomes smaller

@@ -1,0 +1,150 @@
+{
+ "title": "Acids and bases - 123 school",
+ "heading": "Acids and bases",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is an acid?",
+   "a": "A particle that can donate an H<sup>+</sup>"
+  },
+  {
+   "q": "What is a base?",
+   "a": "A particle that can accept an H<sup>+</sup>"
+  },
+  {
+   "q": "What pH does an acidic solution have?",
+   "a": "Lower than 7"
+  },
+  {
+   "q": "What pH does a neutral solution have at 298 K?",
+   "a": "7"
+  },
+  {
+   "q": "What is the [H<sup>+</sup>] in a solution with pH = 3?",
+   "a": "1.0 × 10<sup>-3</sup> mol/L: [H<sup>+</sup>] = 10**-pH = 10<sup>-3</sup>"
+  },
+  {
+   "q": "Calculate the pH of 0.010 mol/L hydrochloric acid (HCl).",
+   "a": "2.00: HCl is a strong acid, so [H<sup>+</sup>] = 0.010 mol/L; pH = −log 0.010 = 2.00"
+  },
+  {
+   "q": "Calculate the pH of 0.0010 mol/L nitric acid (HNO<sub>3</sub>).",
+   "a": "3.00: HNO<sub>3</sub> is a strong acid, so [H<sup>+</sup>] = 0.0010 mol/L; pH = −log 0.0010 = 3.00"
+  },
+  {
+   "q": "Calculate the pH of 0.010 mol/L sodium hydroxide solution (NaOH).",
+   "a": "12.00: NaOH is a strong base, so [OH<sup>-</sup>] = 0.010 mol/L; pOH = 2.00 and pH = 14 − 2.00 = 12.00"
+  },
+  {
+   "q": "Calculate the pH of 1.0 × 10<sup>-4</sup> mol/L sodium hydroxide solution (NaOH).",
+   "a": "10.00: [OH<sup>-</sup>] = 1.0 × 10<sup>-4</sup> mol/L; pOH = 4.00 and pH = 14 − 4.00 = 10.00"
+  },
+  {
+   "q": "Calculate the pH of 0.0050 mol/L barium hydroxide, Ba(OH)<sub>2</sub> (a strong base).",
+   "a": "12.00: Ba(OH)<sub>2</sub> → Ba<sup>2+</sup> + 2 OH<sup>-</sup>, so [OH<sup>-</sup>] = 2 × 0.0050 = 0.010 mol/L; pOH = 2.00 and pH = 12.00"
+  },
+  {
+   "q": "What is the relationship between pH and pOH at 298 K?",
+   "a": "pH + pOH = 14"
+  },
+  {
+   "q": "A solution has [H<sup>+</sup>] = 2.5 × 10<sup>-4</sup> mol/L. Calculate the pH.",
+   "a": "3.60: pH = −log (2.5 × 10<sup>-4</sup>) = 3.60"
+  },
+  {
+   "q": "How many times as great is the [H<sup>+</sup>] at pH = 2 as at pH = 4?",
+   "a": "100 times: a difference of 2 pH units is 10<sup>2</sup> = 100"
+  },
+  {
+   "q": "A solution of a strong acid has pH = 2.0. You dilute the solution 10 times with water. What is the new pH?",
+   "a": "3.0: the [H<sup>+</sup>] becomes 10 times as small, so the pH becomes 1 higher"
+  },
+  {
+   "q": "You dilute 10 mL of 1.0 mol/L HCl to 100 mL. What is the new concentration?",
+   "a": "0.10 mol/L: n = 0.010 L × 1.0 mol/L = 0.010 mol; c = 0.010 mol : 0.100 L = 0.10 mol/L"
+  },
+  {
+   "q": "What does it mean that HCl is a strong acid?",
+   "a": "All HCl molecules donate their H<sup>+</sup> to water"
+  },
+  {
+   "q": "What does it mean that acetic acid is a weak acid?",
+   "a": "Only a small fraction of the molecules donates an H<sup>+</sup> (equilibrium)"
+  },
+  {
+   "q": "Which of the following acids is a strong acid? (use BINAS table 49)",
+   "a": "HCl"
+  },
+  {
+   "q": "What is the notation for a solution of the strong acid HNO<sub>3</sub>?",
+   "a": "H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq)"
+  },
+  {
+   "q": "What is the formula of nitric acid?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "What is the conjugate acid of NH<sub>3</sub>?",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "What is the conjugate base of HCO<sub>3</sub><sup>-</sup>?",
+   "a": "CO<sub>3</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Which particle can react both as an acid and as a base (ampholyte)? (use BINAS table 49)",
+   "a": "HCO<sub>3</sub><sup>-</sup>"
+  },
+  {
+   "q": "What is the reaction equation for the neutralisation of hydrochloric acid with sodium hydroxide solution (in ions)?",
+   "a": "H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Acetic acid reacts with sodium hydroxide solution. What is the equation of the acid–base reaction?",
+   "a": "CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Ammonia (NH<sub>3</sub>) reacts with hydrochloric acid. What is the equation of the acid–base reaction?",
+   "a": "NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)"
+  },
+  {
+   "q": "You neutralise 25.0 mL of hydrochloric acid with 20.0 mL of 0.100 mol/L sodium hydroxide solution. Calculate the concentration of the hydrochloric acid.",
+   "a": "0.0800 mol/L: n(NaOH) = 0.0200 L × 0.100 mol/L = 2.00 × 10<sup>-3</sup> mol = n(HCl); c = 2.00 × 10<sup>-3</sup> mol : 0.0250 L = 0.0800 mol/L"
+  },
+  {
+   "q": "How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 10.0 mL of 0.100 mol/L hydrochloric acid?",
+   "a": "5.00 mL: n(HCl) = 0.0100 × 0.100 = 1.00 × 10<sup>-3</sup> mol = n(NaOH); V = 1.00 × 10<sup>-3</sup> : 0.200 = 5.00 × 10<sup>-3</sup> L = 5.00 mL"
+  },
+  {
+   "q": "How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 20.0 mL of 0.100 mol/L sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?",
+   "a": "20.0 mL: n(H<sub>2</sub>SO<sub>4</sub>) = 0.0200 × 0.100 = 2.00 × 10<sup>-3</sup> mol; each H<sub>2</sub>SO<sub>4</sub> gives 2 H<sup>+</sup>, so n(NaOH) = 4.00 × 10<sup>-3</sup> mol; V = 4.00 × 10<sup>-3</sup> : 0.200 = 0.0200 L = 20.0 mL"
+  },
+  {
+   "q": "A weak acid HZ has Ka = 1.0 × 10<sup>-5</sup> and a concentration of 0.10 mol/L. Calculate the pH. (Assume that [H<sup>+</sup>] = [Z<sup>-</sup>] and that [HZ] ≈ 0.10 mol/L.)",
+   "a": "3.00: Ka = [H<sup>+</sup>]<sup>2</sup> : 0.10, so [H<sup>+</sup>] = square root of (1.0 × 10<sup>-5</sup> × 0.10) = 1.0 × 10<sup>-3</sup> mol/L; pH = 3.00"
+  },
+  {
+   "q": "Four acids have these acid constants: HA 1 × 10<sup>-3</sup>, HB 1 × 10<sup>-5</sup>, HC 1 × 10<sup>-8</sup>, HD 1 × 10<sup>-10</sup>. Which acid is the strongest?",
+   "a": "HA: the greater the Ka, the stronger the acid"
+  },
+  {
+   "q": "What colour does litmus have at pH = 2? (use BINAS table 52A)",
+   "a": "Red"
+  },
+  {
+   "q": "What colour does phenolphthalein have at pH = 2? (use BINAS table 52A)",
+   "a": "Colourless"
+  },
+  {
+   "q": "Explain why water is an ampholyte.",
+   "a": "Water can accept an H<sup>+</sup> (H<sub>3</sub>O<sup>+</sup>) and donate an H<sup>+</sup> (OH<sup>-</sup>), so it reacts as a base and as an acid"
+  },
+  {
+   "q": "What happens to the pH if you dilute an acidic solution with water? Explain.",
+   "a": "The pH becomes higher (towards 7), because the concentration of H<sup>+</sup> becomes smaller"
+  }
+ ]
+}

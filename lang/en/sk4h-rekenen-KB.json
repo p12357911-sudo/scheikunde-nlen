@@ -1,0 +1,152 @@
+{
+ "title": "Calculating and measuring - 123 school",
+ "heading": "Calculating and measuring",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a mole?",
+   "a": "An amount of substance of 6.02 × 10<sup>23</sup> particles"
+  },
+  {
+   "q": "What is the number 6.02 × 10<sup>23</sup> per mole called and what is its symbol?",
+   "a": "The Avogadro constant (N<sub>A</sub>)"
+  },
+  {
+   "q": "What is the molar mass?",
+   "a": "The mass of 1 mole of a substance in g/mol"
+  },
+  {
+   "q": "How do you find the molar mass of a substance?",
+   "a": "Add up the atomic masses (u) from BINAS table 99. The number is equal to g/mol."
+  },
+  {
+   "q": "Give the formula for the number of moles",
+   "a": "n = m : M"
+  },
+  {
+   "q": "What is the molar mass of H<sub>2</sub>O? (use BINAS table 99)",
+   "a": "2 × 1.008 + 16.00 = 18.02 g/mol"
+  },
+  {
+   "q": "What is the molar mass of CO<sub>2</sub>? (use BINAS table 99)",
+   "a": "12.01 + 2 × 16.00 = 44.01 g/mol"
+  },
+  {
+   "q": "How many moles is 36.0 g of water (M = 18.02 g/mol)?",
+   "a": "36.0 : 18.02 = 2.00 mol"
+  },
+  {
+   "q": "How many grams is 0.50 mol of NaCl (M = 58.44 g/mol)?",
+   "a": "0.50 × 58.44 = 29 g"
+  },
+  {
+   "q": "How many grams is 0.25 mol of H<sub>2</sub>O? (use BINAS table 99)",
+   "a": "0.25 × 18.02 = 4.5 g"
+  },
+  {
+   "q": "How many moles is 4.0 g of H<sub>2</sub> (M = 2.016 g/mol)?",
+   "a": "4.0 : 2.016 = 1.984 = 2.0 mol (2 significant figures)",
+   "goed": [
+    "2.0 mol"
+   ]
+  },
+  {
+   "q": "How many molecules is 2.0 mol? (use BINAS table 7A)",
+   "a": "2.0 × 6.02 × 10<sup>23</sup> = 1.2 × 10<sup>24</sup>"
+  },
+  {
+   "q": "How many moles of H atoms are there in 3.5 mol of H<sub>2</sub>O?",
+   "a": "2 × 3.5 = 7.0 mol"
+  },
+  {
+   "q": "What is the mole ratio in a reaction equation?",
+   "a": "The ratio of the numbers in front of the formulae"
+  },
+  {
+   "q": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub>O are formed from 3 mol of O<sub>2</sub>?",
+   "a": "6 mol"
+  },
+  {
+   "q": "What is a substance in excess?",
+   "a": "A substance that is left over after the reaction"
+  },
+  {
+   "q": "What is a limiting reactant?",
+   "a": "A substance that is used up first"
+  },
+  {
+   "q": "Give the formula for the mass percentage",
+   "a": "mass of substance : total mass × 100%"
+  },
+  {
+   "q": "There is 30 g of salt in 200 g of mixture. What is the mass percentage of salt?",
+   "a": "30 : 200 × 100% = 15%"
+  },
+  {
+   "q": "How many significant figures does 0.0230 have?",
+   "a": "3"
+  },
+  {
+   "q": "With how many significant figures do you give the answer when multiplying and dividing?",
+   "a": "The same number as the number with the fewest significant figures"
+  },
+  {
+   "q": "Write 0.0023 in scientific notation",
+   "a": "2.3 × 10<sup>-3</sup>"
+  },
+  {
+   "q": "How many m<sup>3</sup> is 1 L?",
+   "a": "0.001 m<sup>3</sup>"
+  },
+  {
+   "q": "How many grams is 250 mg?",
+   "a": "0.250 g"
+  },
+  {
+   "q": "What is measurement uncertainty?",
+   "a": "The margin within which the true value lies"
+  },
+  {
+   "q": "Which piece of equipment do you use to measure a volume of liquid accurately?",
+   "a": "A measuring cylinder (or pipette, burette)"
+  },
+  {
+   "q": "What is the molar mass of CaCO<sub>3</sub>? (use BINAS table 99)",
+   "a": "40.08 + 12.01 + 3 × 16.00 = 100.09 g/mol"
+  },
+  {
+   "q": "What is the molar mass of Ca(OH)<sub>2</sub>? (use BINAS table 99)",
+   "a": "40.08 + 2 × (16.00 + 1.008) = 74.10 g/mol"
+  },
+  {
+   "q": "How many molecules are there in 0.50 mol of CO<sub>2</sub>? (use BINAS table 7A)",
+   "a": "0.50 × 6.02 × 10<sup>23</sup> = 3.0 × 10<sup>23</sup>"
+  },
+  {
+   "q": "How many grams of NaOH (M = 40.00 g/mol) is 0.250 mol?",
+   "a": "0.250 × 40.00 = 10.0 g"
+  },
+  {
+   "q": "In 2.0 kg of water there is 6.0 mg of nitrate. How many ppm is that?",
+   "a": "1 ppm = 1 mg per kg; 6.0 mg : 2.0 kg = 3.0 ppm"
+  },
+  {
+   "q": "You dissolve 0.50 mol of NaCl to make 2.0 L of solution. What is the molarity?",
+   "a": "c = n : V = 0.50 : 2.0 = 0.25 mol/L"
+  },
+  {
+   "q": "How many moles is 10.0 g of CaCO<sub>3</sub> (M = 100.09 g/mol)?",
+   "a": "10.0 : 100.09 = 0.0999 mol"
+  },
+  {
+   "q": "How many grams of water are formed from 4.0 g of H<sub>2</sub> according to 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? (M(H<sub>2</sub>) = 2.016 g/mol; M(H<sub>2</sub>O) = 18.02 g/mol)",
+   "a": "Step 1: reaction equation 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (mole ratio H<sub>2</sub> : H<sub>2</sub>O = 1 : 1). n(H<sub>2</sub>) = 4.0 : 2.016 = 1.984 mol (do not round yet), so n(H<sub>2</sub>O) = 1.984 mol. m(H<sub>2</sub>O) = 1.984 × 18.02 = 35.75 g = 36 g (2 significant figures)"
+  },
+  {
+   "q": "What does ppm mean?",
+   "a": "Parts per million: 1 part in a million, for example 1 mg per kg"
+  }
+ ]
+}
