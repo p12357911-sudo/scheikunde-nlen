@@ -1,0 +1,149 @@
+{
+ "title": "Atomic structure and the periodic table - 123 school",
+ "heading": "Atomic structure and the periodic table",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What charge do a proton, a neutron and an electron have?",
+   "a": "Proton positive (1+), neutron no charge, electron negative (1−)"
+  },
+  {
+   "q": "Where is almost all the mass of an atom?",
+   "a": "In the nucleus"
+  },
+  {
+   "q": "What is the atomic number?",
+   "a": "The number of protons"
+  },
+  {
+   "q": "What is the mass number?",
+   "a": "The number of protons plus the number of neutrons"
+  },
+  {
+   "q": "How do you calculate the number of neutrons?",
+   "a": "Mass number minus atomic number"
+  },
+  {
+   "q": "A chlorine atom has mass number 35 and atomic number 17. How many neutrons does it have?",
+   "a": "35 − 17 = 18"
+  },
+  {
+   "q": "How many electrons does a neutral atom have?",
+   "a": "The same as the number of protons"
+  },
+  {
+   "q": "What are isotopes?",
+   "a": "Atoms of the same element with a different number of neutrons"
+  },
+  {
+   "q": "What is the unit of atomic mass?",
+   "a": "u"
+  },
+  {
+   "q": "Why is the atomic mass in BINAS table 99 not a whole number?",
+   "a": "It is an average of the masses of the isotopes"
+  },
+  {
+   "q": "What are the rows and the columns of the periodic table called?",
+   "a": "Rows: periods. Columns: groups."
+  },
+  {
+   "q": "What do elements in the same group have in common?",
+   "a": "The same number of valence electrons"
+  },
+  {
+   "q": "What do elements in the same period have in common?",
+   "a": "The same number of shells containing electrons"
+  },
+  {
+   "q": "What is the maximum number of electrons in the K, L and M shells?",
+   "a": "K: 2, L: 8, M: 18"
+  },
+  {
+   "q": "What are valence electrons?",
+   "a": "The electrons in the outer shell"
+  },
+  {
+   "q": "What is the electron arrangement of oxygen (atomic number 8)?",
+   "a": "K = 2, L = 6"
+  },
+  {
+   "q": "What is the electron arrangement of chlorine (atomic number 17)?",
+   "a": "K = 2, L = 8, M = 7"
+  },
+  {
+   "q": "How many valence electrons does an element in group 17 have?",
+   "a": "7"
+  },
+  {
+   "q": "What is a noble gas configuration?",
+   "a": "An outer shell that is completely filled"
+  },
+  {
+   "q": "Which group contains the noble gases?",
+   "a": "Group 18"
+  },
+  {
+   "q": "What are the elements in group 1 (except hydrogen) and in group 17 called?",
+   "a": "Group 1: alkali metals. Group 17: halogens."
+  },
+  {
+   "q": "What is an ion?",
+   "a": "A charged particle (an atom that has gained or lost electrons)"
+  },
+  {
+   "q": "What happens when sodium (atomic number 11) becomes a Na<sup>+</sup> ion?",
+   "a": "It loses 1 electron"
+  },
+  {
+   "q": "How many electrons does an O<sup>2-</sup> ion have (atomic number 8)?",
+   "a": "10"
+  },
+  {
+   "q": "Which ions do metals form and which ions do non-metals form?",
+   "a": "Metals form positive ions, non-metals form negative ions"
+  },
+  {
+   "q": "How many protons, neutrons and electrons does an atom of Na-23 have? (atomic number 11)",
+   "a": "Protons = atomic number = 11; neutrons = 23 − 11 = 12; electrons = 11 (the atom is neutral)"
+  },
+  {
+   "q": "How many protons, neutrons and electrons does the ion Mg<sup>2+</sup> with mass number 24 have? (atomic number 12)",
+   "a": "Protons = 12; neutrons = 24 − 12 = 12; electrons = 12 − 2 = 10"
+  },
+  {
+   "q": "What is the electron arrangement of aluminium? (atomic number 13)",
+   "a": "K = 2, L = 8, M = 3"
+  },
+  {
+   "q": "Which ion does a calcium atom form? (atomic number 20)",
+   "a": "Calcium is in group 2: the atom loses 2 electrons and becomes Ca<sup>2+</sup>"
+  },
+  {
+   "q": "How many electrons does the ion S<sup>2-</sup> have? (atomic number 16)",
+   "a": "16 + 2 = 18 electrons"
+  },
+  {
+   "q": "An atom has the electron arrangement K = 2, L = 8, M = 5. In which group and period is the element?",
+   "a": "3 shells means period 3; 5 valence electrons means group 15 (phosphorus)"
+  },
+  {
+   "q": "Boron occurs as B-10 (19.9%) and B-11 (80.1%). Calculate the average atomic mass, using the mass numbers as the masses.",
+   "a": "(10 × 19.9 + 11 × 80.1) : 100 = 10.8 u"
+  },
+  {
+   "q": "Which ion charge do elements from group 2 and from group 16 form?",
+   "a": "Group 2: 2+ (lose two electrons); group 16: 2- (gain two electrons)"
+  },
+  {
+   "q": "How do you calculate the average atomic mass of an element with several isotopes?",
+   "a": "Multiply the mass of each isotope by its percentage, add them up and divide by 100 (weighted average)"
+  },
+  {
+   "q": "How many shells and how many valence electrons does potassium have? (atomic number 19)",
+   "a": "4 shells (K = 2, L = 8, M = 8, N = 1) and 1 valence electron"
+  }
+ ]
+}

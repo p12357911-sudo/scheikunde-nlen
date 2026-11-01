@@ -1,0 +1,201 @@
+{
+ "title": "Chemical bonding - 123 school",
+ "heading": "Chemical bonding",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Give the molecular formula of alcohol (ethanol)",
+   "a": "CH<sub>3</sub>CH<sub>2</sub>OH (l) or C<sub>2</sub>H<sub>6</sub>O (l)"
+  },
+  {
+   "q": "Give the molecular formula of ammonia gas",
+   "a": "NH<sub>3</sub> (g)"
+  },
+  {
+   "q": "Give the molecular formula of hydrogen peroxide",
+   "a": "H<sub>2</sub>O<sub>2</sub>"
+  },
+  {
+   "q": "Give the names of 3 types of atom from group 17",
+   "a": "F, Cl, Br, I"
+  },
+  {
+   "q": "Give the covalency of the types of atom from group 17",
+   "a": "1"
+  },
+  {
+   "q": "Give the covalency of nitrogen",
+   "a": "3"
+  },
+  {
+   "q": "Give the covalency of carbon",
+   "a": "4"
+  },
+  {
+   "q": "Give the covalency of hydrogen",
+   "a": "1"
+  },
+  {
+   "q": "Name a type of atom with a covalency of 2",
+   "a": "O, S"
+  },
+  {
+   "q": "Give the molecular formula of water",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Give the names of 4 non-metal atoms",
+   "a": "H, F, Cl, Br, I, O, S, N, P, C, Si"
+  },
+  {
+   "q": "Give the prefixes for the number of atoms: 2, 3, 4 and 5",
+   "a": "Di, tri, tetra, penta"
+  },
+  {
+   "q": "Give the molecular formula of acetic acid",
+   "a": "CH<sub>3</sub>COOH (l) or C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (l)"
+  },
+  {
+   "q": "Give the molecular formula of 3 elements whose molecules consist of 2 identical atoms",
+   "a": "F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>"
+  },
+  {
+   "q": "Give the molecular formula of chlorine gas",
+   "a": "Cl<sub>2</sub> (g)"
+  },
+  {
+   "q": "HNO<sub>3</sub> (l) is?",
+   "a": "Nitric acid"
+  },
+  {
+   "q": "Give the '-ide' ending for the following: Br, S, O",
+   "a": "Bromide, sulfide, oxide"
+  },
+  {
+   "q": "Is the N atom given the ending '-ide' in a systematic name or not?",
+   "a": "No"
+  },
+  {
+   "q": "What is a van der Waals force",
+   "a": "A bond between molecules"
+  },
+  {
+   "q": "What is the covalency of an atom",
+   "a": "The number of bonds of an atom"
+  },
+  {
+   "q": "What is a hydrogen bond",
+   "a": "A bond between molecules that needs -OH or -NH groups"
+  },
+  {
+   "q": "What is a molecular lattice",
+   "a": "Molecules do not form a crystal lattice but a molecular lattice: a regular arrangement of molecules"
+  },
+  {
+   "q": "What is a polar bond",
+   "a": "A covalent bond in which the electrons are not shared equally"
+  },
+  {
+   "q": "What is a molecular substance",
+   "a": "A substance built up from molecules"
+  },
+  {
+   "q": "What is a covalent bond",
+   "a": "Another term for a bond between atoms in which electrons are shared"
+  },
+  {
+   "q": "What is a bond between atoms (atomic bond)",
+   "a": "A bond between two atoms"
+  },
+  {
+   "q": "What is a trivial name",
+   "a": "An everyday chemical name"
+  },
+  {
+   "q": "What is a molecular formula",
+   "a": "It shows the type and number of atoms"
+  },
+  {
+   "q": "What is a structural formula",
+   "a": "It shows how atoms are connected"
+  },
+  {
+   "q": "What is a shared electron pair",
+   "a": "Valence electrons shared between 2 atoms"
+  },
+  {
+   "q": "What is hydrophilic",
+   "a": "dissolves well in water"
+  },
+  {
+   "q": "What is hydrophobic",
+   "a": "dissolves poorly in water"
+  },
+  {
+   "q": "Name 3 prefixes that indicate 1, 2, 3, 4, 5, 6, 7 or 8 in a systematic name",
+   "a": "mono, di, tri, tetra, penta, hexa, hepta, octa"
+  },
+  {
+   "q": "Name the endings for Cl, F, Br, I, O, S",
+   "a": "chloride, fluoride, bromide, iodide, oxide, sulfide"
+  },
+  {
+   "q": "Give the molecular formula for oxygen gas",
+   "a": "O<sub>2</sub> (g)"
+  },
+  {
+   "q": "Give the molecular formula for nitrogen gas",
+   "a": "N<sub>2</sub> (g)"
+  },
+  {
+   "q": "Give the molecular formula for hydrogen peroxide",
+   "a": "H<sub>2</sub>O<sub>2</sub> (l)"
+  },
+  {
+   "q": "Give the molecular formula for ammonia",
+   "a": "NH<sub>3</sub> (g)"
+  },
+  {
+   "q": "Give the molecular formula for sulfuric acid",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (l)"
+  },
+  {
+   "q": "Describe molecular substances and what they are not",
+   "a": "Substances built up from molecules, unlike salts and metals"
+  },
+  {
+   "q": "Give the molecular formula for hydrogen gas",
+   "a": "H<sub>2</sub> (g)"
+  },
+  {
+   "q": "What is the relationship between the surface area of a molecule and the van der Waals force?",
+   "a": "The larger the surface area, the stronger the van der Waals force"
+  },
+  {
+   "q": "Which properties of substances are related to van der Waals forces? Explain how.",
+   "a": "Melting point and boiling point: the larger the van der Waals forces, the higher the boiling point of a substance. Branching of molecules: substances with more branches have a relatively smaller surface area, so weaker van der Waals forces"
+  },
+  {
+   "q": "Water is a small molecule. You would expect its van der Waals forces to be smaller than those of, for example, ethanol. Why is the boiling point of water still higher?",
+   "a": "This is because of the many hydrogen bonds in water"
+  },
+  {
+   "q": "Why is alcohol a liquid at room temperature and the heavier butane is not?",
+   "a": "Alcohol can form hydrogen bonds and butane cannot"
+  },
+  {
+   "q": "Which property do no molecular substances have, that salts and metals do have?",
+   "a": "Molecular substances do not conduct electric current"
+  },
+  {
+   "q": "Describe molecular lattice",
+   "a": "A regular arrangement of molecules when the substance is in the solid state."
+  },
+  {
+   "q": "Give the abbreviations for: gas, liquid, solid, dissolved in water",
+   "a": "g, l, s, aq"
+  }
+ ]
+}

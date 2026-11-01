@@ -1,0 +1,234 @@
+### sk4h-atoombouw-KB
+heading Atomic structure and the periodic table
+0.q What charge do a proton, a neutron and an electron have?
+0.a Proton positive (1+), neutron no charge, electron negative (1−)
+1.q Where is almost all the mass of an atom?
+1.a In the nucleus
+2.q What is the atomic number?
+2.a The number of protons
+3.q What is the mass number?
+3.a The number of protons plus the number of neutrons
+4.q How do you calculate the number of neutrons?
+4.a Mass number minus atomic number
+5.q A chlorine atom has mass number 35 and atomic number 17. How many neutrons does it have?
+5.a 35 − 17 = 18
+6.q How many electrons does a neutral atom have?
+6.a The same as the number of protons
+7.q What are isotopes?
+7.a Atoms of the same element with a different number of neutrons
+8.q What is the unit of atomic mass?
+8.a u
+9.q Why is the atomic mass in BINAS table 99 not a whole number?
+9.a It is an average of the masses of the isotopes
+10.q What are the rows and the columns of the periodic table called?
+10.a Rows: periods. Columns: groups.
+11.q What do elements in the same group have in common?
+11.a The same number of valence electrons
+12.q What do elements in the same period have in common?
+12.a The same number of shells containing electrons
+13.q What is the maximum number of electrons in the K, L and M shells?
+13.a K: 2, L: 8, M: 18
+14.q What are valence electrons?
+14.a The electrons in the outer shell
+15.q What is the electron arrangement of oxygen (atomic number 8)?
+15.a K = 2, L = 6
+16.q What is the electron arrangement of chlorine (atomic number 17)?
+16.a K = 2, L = 8, M = 7
+17.q How many valence electrons does an element in group 17 have?
+17.a 7
+18.q What is a noble gas configuration?
+18.a An outer shell that is completely filled
+19.q Which group contains the noble gases?
+19.a Group 18
+20.q What are the elements in group 1 (except hydrogen) and in group 17 called?
+20.a Group 1: alkali metals. Group 17: halogens.
+21.q What is an ion?
+21.a A charged particle (an atom that has gained or lost electrons)
+22.q What happens when sodium (atomic number 11) becomes a Na<sup>+</sup> ion?
+22.a It loses 1 electron
+23.q How many electrons does an O<sup>2-</sup> ion have (atomic number 8)?
+23.a 10
+24.q Which ions do metals form and which ions do non-metals form?
+24.a Metals form positive ions, non-metals form negative ions
+25.q How many protons, neutrons and electrons does an atom of Na-23 have? (atomic number 11)
+25.a Protons = atomic number = 11; neutrons = 23 − 11 = 12; electrons = 11 (the atom is neutral)
+26.q How many protons, neutrons and electrons does the ion Mg<sup>2+</sup> with mass number 24 have? (atomic number 12)
+26.a Protons = 12; neutrons = 24 − 12 = 12; electrons = 12 − 2 = 10
+27.q What is the electron arrangement of aluminium? (atomic number 13)
+27.a K = 2, L = 8, M = 3
+28.q Which ion does a calcium atom form? (atomic number 20)
+28.a Calcium is in group 2: the atom loses 2 electrons and becomes Ca<sup>2+</sup>
+29.q How many electrons does the ion S<sup>2-</sup> have? (atomic number 16)
+29.a 16 + 2 = 18 electrons
+30.q An atom has the electron arrangement K = 2, L = 8, M = 5. In which group and period is the element?
+30.a 3 shells means period 3; 5 valence electrons means group 15 (phosphorus)
+31.q Boron occurs as B-10 (19.9%) and B-11 (80.1%). Calculate the average atomic mass, using the mass numbers as the masses.
+31.a (10 × 19.9 + 11 × 80.1) : 100 = 10.8 u
+32.q Which ion charge do elements from group 2 and from group 16 form?
+32.a Group 2: 2+ (lose two electrons); group 16: 2- (gain two electrons)
+33.q How do you calculate the average atomic mass of an element with several isotopes?
+33.a Multiply the mass of each isotope by its percentage, add them up and divide by 100 (weighted average)
+34.q How many shells and how many valence electrons does potassium have? (atomic number 19)
+34.a 4 shells (K = 2, L = 8, M = 8, N = 1) and 1 valence electron
+### sk4h-atoombouw-rekenen-KB
+heading Chemical calculations
+0.q Which three particles do you find in an atom? Also give their abbreviations
+0.a Protons, neutrons and electrons; p, n, e<sup>-</sup>
+1.q Which particles give the atom most of its mass?
+1.a Protons and neutrons
+2.q In which unit is the mass of atoms expressed?
+2.a atomic mass units (u)
+3.q What determines the atomic number?
+3.a The number of protons in the nucleus
+4.q What does the mass number show?
+4.a mass number = the number of protons + the number of neutrons
+5.q What is the overview of all atoms called?
+5.a The periodic table
+6.q What is the ratio between protons and electrons? Explain why.
+6.a Protons have an elementary charge of 1+, electrons of -1. In the atomic model atoms are neutral. So there are as many electrons as protons.
+7.q Name two atomic models and one difference between them.
+7.a The Rutherford model, in which electrons move around a nucleus in 1 cloud, and the Bohr model, in which electrons move around the nucleus in shells.
+8.q Where are the 3 atomic particles located?
+8.a p and n in the nucleus, electrons in different shells relatively far from the nucleus
+9.q What are the outermost electrons called?
+9.a Valence electrons
+10.q Name 3 electron shells, their position relative to each other and how many electrons they can hold
+10.a Seen from the nucleus the first three shells are K, L, M; with 2, 8 and 18 electrons respectively.
+11.q What is meant by noble gas configuration?
+11.a The electron configuration in which the shells are exactly filled to the maximum.
+12.q How many valence electrons does magnesium have? (use BINAS table 99)
+12.a Magnesium has atomic number 12 (BINAS table 99), with configuration K = 2, L = 8 and M = 2, so there are 2 electrons in the outer shell, so 2 valence electrons.
+13.q What does magnesium need to reach the noble gas configuration?
+13.a Lose two electrons from the M shell; Mg<sup>2+</sup> is formed
+14.q What is the molecular mass of sulfuric acid, H<sub>2</sub>SO<sub>4</sub>? (use BINAS table 99)
+14.a 2 × 1.008 + 32.06 + 4 × 16.00 = 98.08 u (BINAS table 99)
+15.q In which group are the halogens?
+15.a in group 17
+16.q In which group are the noble gases?
+16.a in group 18
+17.q Elements in a group have similar …
+17.a chemical properties
+18.q How can sodium reach a noble gas configuration?
+18.a By losing its one valence electron; Na<sup>+</sup> is formed.
+19.q How can fluorine (F) reach a noble gas configuration?
+19.a F has atomic number 9: with K: 2 and L: 7 electrons. By gaining an electron F gets the noble gas configuration and F<sup>-</sup> is formed
+20.q Explain what isotopes are.
+20.a Isotopes are atoms with the same atomic number but a different mass number. They have the same number of protons and a different number of neutrons.
+21.q The mass number in the periodic table is almost never a round number. Explain what isotopes have to do with this.
+21.a The mass number in the periodic table is the weighted average of the different isotopes that occur in nature.
+22.q The relative atomic mass of chlorine is 35.45 u and the natural isotopes are Cl-35 and Cl-37. Explain which isotope is the most abundant in nature.
+22.a 35.45 u is closer to 35 u than to 37 u. So Cl-35 will occur more often than Cl-37. Check: BINAS table 25A: 75.78% is Cl-35 and 24.22% is Cl-37.
+23.q BINAS table 25A: which isotopes of bromine occur in nature?
+23.a Br-79 and Br-81
+24.q Give the atomic composition of both isotopes of bromine.
+24.a Br-79: Br has atomic number 35, so 35 protons. The number of neutrons is 79 − 35 = 44. There are 35 electrons arranged over four shells: 2, 8, 18, 7. Br-81: also has 35 protons, but (81 − 35 =) 46 neutrons, and also 35 electrons arranged over four shells: 2, 8, 18, 7.
+25.q How many hydrogen atoms are there in 3.5 mol of water?
+25.a 1 mol of water contains 2 mol of H atoms, so 3.5 mol of water contains 2 × 3.5 = 7.0 mol of H atoms
+26.q C<sub>2</sub>H<sub>6</sub> (g) and oxygen gas react to form carbon dioxide and water. Write the reaction equation using the step-by-step method.
+26.a Step 1 (reaction scheme in words): ethane (g) + oxygen (g) -> carbon dioxide (g) + water (l). Step 2 (reaction scheme in molecular formulae): C<sub>2</sub>H<sub>6</sub> (g) + O<sub>2</sub> (g) -> CO<sub>2</sub> (g) + H<sub>2</sub>O (l). Step 3 (atom balance - balancing): C<sub>2</sub>H<sub>6</sub> (g) + 3½O<sub>2</sub> (g) -> 2CO<sub>2</sub> (g) + 3H<sub>2</sub>O (l). Step 4 (simplifying the reaction equation): 2C<sub>2</sub>H<sub>6</sub> (g) + 7O<sub>2</sub> (g) -> 4CO<sub>2</sub> (g) + 6H<sub>2</sub>O (l).
+27.q In which mole ratio does ethane burn in the reaction above?
+27.a 2 : 7 : 4 : 6 mol
+28.q In a reactor you let 2 mol of ethane react with 14 mol of oxygen. Is there an excess or a shortage of oxygen?
+28.a Excess (2× as much as needed)
+29.q Give the scientific notation of 0.0023 mol
+29.a 2.3 ∙ 10<sup>-3</sup> mol
+30.q 1 L is … m<sup>3</sup>
+30.a 0.001 m<sup>3</sup>
+### sk4h-chemische-binding-KB
+heading Chemical bonding
+0.q Give the molecular formula of alcohol (ethanol)
+0.a CH<sub>3</sub>CH<sub>2</sub>OH (l) or C<sub>2</sub>H<sub>6</sub>O (l)
+1.q Give the molecular formula of ammonia gas
+1.a NH<sub>3</sub> (g)
+2.q Give the molecular formula of hydrogen peroxide
+2.a H<sub>2</sub>O<sub>2</sub>
+3.q Give the names of 3 types of atom from group 17
+3.a F, Cl, Br, I
+4.q Give the covalency of the types of atom from group 17
+4.a 1
+5.q Give the covalency of nitrogen
+5.a 3
+6.q Give the covalency of carbon
+6.a 4
+7.q Give the covalency of hydrogen
+7.a 1
+8.q Name a type of atom with a covalency of 2
+8.a O, S
+9.q Give the molecular formula of water
+9.a H<sub>2</sub>O
+10.q Give the names of 4 non-metal atoms
+10.a H, F, Cl, Br, I, O, S, N, P, C, Si
+11.q Give the prefixes for the number of atoms: 2, 3, 4 and 5
+11.a Di, tri, tetra, penta
+12.q Give the molecular formula of acetic acid
+12.a CH<sub>3</sub>COOH (l) or C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (l)
+13.q Give the molecular formula of 3 elements whose molecules consist of 2 identical atoms
+13.a F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>, N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>
+14.q Give the molecular formula of chlorine gas
+14.a Cl<sub>2</sub> (g)
+15.q HNO<sub>3</sub> (l) is?
+15.a Nitric acid
+16.q Give the '-ide' ending for the following: Br, S, O
+16.a Bromide, sulfide, oxide
+17.q Is the N atom given the ending '-ide' in a systematic name or not?
+17.a No
+18.q What is a van der Waals force
+18.a A bond between molecules
+19.q What is the covalency of an atom
+19.a The number of bonds of an atom
+20.q What is a hydrogen bond
+20.a A bond between molecules that needs -OH or -NH groups
+21.q What is a molecular lattice
+21.a Molecules do not form a crystal lattice but a molecular lattice: a regular arrangement of molecules
+22.q What is a polar bond
+22.a A covalent bond in which the electrons are not shared equally
+23.q What is a molecular substance
+23.a A substance built up from molecules
+24.q What is a covalent bond
+24.a Another term for a bond between atoms in which electrons are shared
+25.q What is a bond between atoms (atomic bond)
+25.a A bond between two atoms
+26.q What is a trivial name
+26.a An everyday chemical name
+27.q What is a molecular formula
+27.a It shows the type and number of atoms
+28.q What is a structural formula
+28.a It shows how atoms are connected
+29.q What is a shared electron pair
+29.a Valence electrons shared between 2 atoms
+30.q What is hydrophilic
+30.a dissolves well in water
+31.q What is hydrophobic
+31.a dissolves poorly in water
+32.q Name 3 prefixes that indicate 1, 2, 3, 4, 5, 6, 7 or 8 in a systematic name
+32.a mono, di, tri, tetra, penta, hexa, hepta, octa
+33.q Name the endings for Cl, F, Br, I, O, S
+33.a chloride, fluoride, bromide, iodide, oxide, sulfide
+34.q Give the molecular formula for oxygen gas
+34.a O<sub>2</sub> (g)
+35.q Give the molecular formula for nitrogen gas
+35.a N<sub>2</sub> (g)
+36.q Give the molecular formula for hydrogen peroxide
+36.a H<sub>2</sub>O<sub>2</sub> (l)
+37.q Give the molecular formula for ammonia
+37.a NH<sub>3</sub> (g)
+38.q Give the molecular formula for sulfuric acid
+38.a H<sub>2</sub>SO<sub>4</sub> (l)
+39.q Describe molecular substances and what they are not
+39.a Substances built up from molecules, unlike salts and metals
+40.q Give the molecular formula for hydrogen gas
+40.a H<sub>2</sub> (g)
+41.q What is the relationship between the surface area of a molecule and the van der Waals force?
+41.a The larger the surface area, the stronger the van der Waals force
+42.q Which properties of substances are related to van der Waals forces? Explain how.
+42.a Melting point and boiling point: the larger the van der Waals forces, the higher the boiling point of a substance. Branching of molecules: substances with more branches have a relatively smaller surface area, so weaker van der Waals forces
+43.q Water is a small molecule. You would expect its van der Waals forces to be smaller than those of, for example, ethanol. Why is the boiling point of water still higher?
+43.a This is because of the many hydrogen bonds in water
+44.q Why is alcohol a liquid at room temperature and the heavier butane is not?
+44.a Alcohol can form hydrogen bonds and butane cannot
+45.q Which property do no molecular substances have, that salts and metals do have?
+45.a Molecular substances do not conduct electric current
+46.q Describe molecular lattice
+46.a A regular arrangement of molecules when the substance is in the solid state.
+47.q Give the abbreviations for: gas, liquid, solid, dissolved in water
+47.a g, l, s, aq

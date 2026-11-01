@@ -1,0 +1,133 @@
+{
+ "title": "Chemical calculations - 123 school",
+ "heading": "Chemical calculations",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Which three particles do you find in an atom? Also give their abbreviations",
+   "a": "Protons, neutrons and electrons; p, n, e<sup>-</sup>"
+  },
+  {
+   "q": "Which particles give the atom most of its mass?",
+   "a": "Protons and neutrons"
+  },
+  {
+   "q": "In which unit is the mass of atoms expressed?",
+   "a": "atomic mass units (u)"
+  },
+  {
+   "q": "What determines the atomic number?",
+   "a": "The number of protons in the nucleus"
+  },
+  {
+   "q": "What does the mass number show?",
+   "a": "mass number = the number of protons + the number of neutrons"
+  },
+  {
+   "q": "What is the overview of all atoms called?",
+   "a": "The periodic table"
+  },
+  {
+   "q": "What is the ratio between protons and electrons? Explain why.",
+   "a": "Protons have an elementary charge of 1+, electrons of -1. In the atomic model atoms are neutral. So there are as many electrons as protons."
+  },
+  {
+   "q": "Name two atomic models and one difference between them.",
+   "a": "The Rutherford model, in which electrons move around a nucleus in 1 cloud, and the Bohr model, in which electrons move around the nucleus in shells."
+  },
+  {
+   "q": "Where are the 3 atomic particles located?",
+   "a": "p and n in the nucleus, electrons in different shells relatively far from the nucleus"
+  },
+  {
+   "q": "What are the outermost electrons called?",
+   "a": "Valence electrons"
+  },
+  {
+   "q": "Name 3 electron shells, their position relative to each other and how many electrons they can hold",
+   "a": "Seen from the nucleus the first three shells are K, L, M; with 2, 8 and 18 electrons respectively."
+  },
+  {
+   "q": "What is meant by noble gas configuration?",
+   "a": "The electron configuration in which the shells are exactly filled to the maximum."
+  },
+  {
+   "q": "How many valence electrons does magnesium have? (use BINAS table 99)",
+   "a": "Magnesium has atomic number 12 (BINAS table 99), with configuration K = 2, L = 8 and M = 2, so there are 2 electrons in the outer shell, so 2 valence electrons."
+  },
+  {
+   "q": "What does magnesium need to reach the noble gas configuration?",
+   "a": "Lose two electrons from the M shell; Mg<sup>2+</sup> is formed"
+  },
+  {
+   "q": "What is the molecular mass of sulfuric acid, H<sub>2</sub>SO<sub>4</sub>? (use BINAS table 99)",
+   "a": "2 × 1.008 + 32.06 + 4 × 16.00 = 98.08 u (BINAS table 99)"
+  },
+  {
+   "q": "In which group are the halogens?",
+   "a": "in group 17"
+  },
+  {
+   "q": "In which group are the noble gases?",
+   "a": "in group 18"
+  },
+  {
+   "q": "Elements in a group have similar …",
+   "a": "chemical properties"
+  },
+  {
+   "q": "How can sodium reach a noble gas configuration?",
+   "a": "By losing its one valence electron; Na<sup>+</sup> is formed."
+  },
+  {
+   "q": "How can fluorine (F) reach a noble gas configuration?",
+   "a": "F has atomic number 9: with K: 2 and L: 7 electrons. By gaining an electron F gets the noble gas configuration and F<sup>-</sup> is formed"
+  },
+  {
+   "q": "Explain what isotopes are.",
+   "a": "Isotopes are atoms with the same atomic number but a different mass number. They have the same number of protons and a different number of neutrons."
+  },
+  {
+   "q": "The mass number in the periodic table is almost never a round number. Explain what isotopes have to do with this.",
+   "a": "The mass number in the periodic table is the weighted average of the different isotopes that occur in nature."
+  },
+  {
+   "q": "The relative atomic mass of chlorine is 35.45 u and the natural isotopes are Cl-35 and Cl-37. Explain which isotope is the most abundant in nature.",
+   "a": "35.45 u is closer to 35 u than to 37 u. So Cl-35 will occur more often than Cl-37. Check: BINAS table 25A: 75.78% is Cl-35 and 24.22% is Cl-37."
+  },
+  {
+   "q": "BINAS table 25A: which isotopes of bromine occur in nature?",
+   "a": "Br-79 and Br-81"
+  },
+  {
+   "q": "Give the atomic composition of both isotopes of bromine.",
+   "a": "Br-79: Br has atomic number 35, so 35 protons. The number of neutrons is 79 − 35 = 44. There are 35 electrons arranged over four shells: 2, 8, 18, 7. Br-81: also has 35 protons, but (81 − 35 =) 46 neutrons, and also 35 electrons arranged over four shells: 2, 8, 18, 7."
+  },
+  {
+   "q": "How many hydrogen atoms are there in 3.5 mol of water?",
+   "a": "1 mol of water contains 2 mol of H atoms, so 3.5 mol of water contains 2 × 3.5 = 7.0 mol of H atoms"
+  },
+  {
+   "q": "C<sub>2</sub>H<sub>6</sub> (g) and oxygen gas react to form carbon dioxide and water. Write the reaction equation using the step-by-step method.",
+   "a": "Step 1 (reaction scheme in words): ethane (g) + oxygen (g) -> carbon dioxide (g) + water (l). Step 2 (reaction scheme in molecular formulae): C<sub>2</sub>H<sub>6</sub> (g) + O<sub>2</sub> (g) -> CO<sub>2</sub> (g) + H<sub>2</sub>O (l). Step 3 (atom balance - balancing): C<sub>2</sub>H<sub>6</sub> (g) + 3½O<sub>2</sub> (g) -> 2CO<sub>2</sub> (g) + 3H<sub>2</sub>O (l). Step 4 (simplifying the reaction equation): 2C<sub>2</sub>H<sub>6</sub> (g) + 7O<sub>2</sub> (g) -> 4CO<sub>2</sub> (g) + 6H<sub>2</sub>O (l)."
+  },
+  {
+   "q": "In which mole ratio does ethane burn in the reaction above?",
+   "a": "2 : 7 : 4 : 6 mol"
+  },
+  {
+   "q": "In a reactor you let 2 mol of ethane react with 14 mol of oxygen. Is there an excess or a shortage of oxygen?",
+   "a": "Excess (2× as much as needed)"
+  },
+  {
+   "q": "Give the scientific notation of 0.0023 mol",
+   "a": "2.3 ∙ 10<sup>-3</sup> mol"
+  },
+  {
+   "q": "1 L is … m<sup>3</sup>",
+   "a": "0.001 m<sup>3</sup>"
+  }
+ ]
+}
