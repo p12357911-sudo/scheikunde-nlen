@@ -1,0 +1,150 @@
+{
+ "title": "Reaction rate and energy - 123 school",
+ "heading": "Reaction rate and energy",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is an exothermic reaction?",
+   "a": "A reaction in which energy is released"
+  },
+  {
+   "q": "What is an endothermic reaction?",
+   "a": "A reaction in which energy is absorbed"
+  },
+  {
+   "q": "Is the combustion of natural gas exothermic or endothermic?",
+   "a": "Exothermic"
+  },
+  {
+   "q": "Is photosynthesis exothermic or endothermic?",
+   "a": "Endothermic (energy from sunlight is absorbed)"
+  },
+  {
+   "q": "What is the activation energy?",
+   "a": "The minimum energy needed to start a reaction"
+  },
+  {
+   "q": "What is a catalyst?",
+   "a": "A substance that speeds up a reaction and is not used up itself"
+  },
+  {
+   "q": "What does a catalyst do to the activation energy?",
+   "a": "It becomes lower"
+  },
+  {
+   "q": "What does a catalyst do to the heat of reaction?",
+   "a": "Nothing, the heat of reaction stays the same"
+  },
+  {
+   "q": "What is an effective collision?",
+   "a": "A collision between particles with enough energy and in the right orientation, after which they react"
+  },
+  {
+   "q": "Why does a reaction go faster at a higher temperature?",
+   "a": "The particles move faster, so there are more effective collisions per second"
+  },
+  {
+   "q": "Why does a reaction go faster at a higher concentration?",
+   "a": "There are more particles per volume, so more collisions per second"
+  },
+  {
+   "q": "Why does zinc powder react faster with hydrochloric acid than a piece of zinc of the same mass?",
+   "a": "Powder has a larger contact surface"
+  },
+  {
+   "q": "What happens to the reaction rate of gases if you increase the pressure?",
+   "a": "The rate becomes greater, because there are more particles per volume"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. What happens to the rate for a 20 °C rise?",
+   "a": "4 times as great: 2 × 2 = 4"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 80 s. How long does the reaction take at 40 °C?",
+   "a": "20 s: 20 → 40 °C is doubling 2 times, the rate becomes 4 times as great, so 80 s : 4 = 20 s"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 50 °C a reaction takes 12 s. How long does the reaction take at 30 °C?",
+   "a": "48 s: 50 → 30 °C is halving the rate 2 times, the rate becomes 4 times as small, so 12 s × 4 = 48 s"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 100 s. How long does the reaction take at 30 °C?",
+   "a": "50 s: the rate becomes 2 times as great, so 100 s : 2 = 50 s"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. How many times as great is the rate at 50 °C as at 20 °C?",
+   "a": "8 times: a rise of 30 °C is doubling 3 times, 2 × 2 × 2 = 8"
+  },
+  {
+   "q": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 60 °C a reaction takes 5 s. How long does the reaction take at 20 °C?",
+   "a": "80 s: 60 → 20 °C is halving the rate 4 times, the rate becomes 16 times as small, so 5 s × 16 = 80 s"
+  },
+  {
+   "q": "How is the reaction rate defined?",
+   "a": "The change in concentration per time (Δc : Δt)"
+  },
+  {
+   "q": "What is a suitable unit for reaction rate?",
+   "a": "mol/(L·s)"
+  },
+  {
+   "q": "The concentration of substance A falls from 0.80 mol/L to 0.50 mol/L in 30 s. Calculate the average reaction rate.",
+   "a": "0.010 mol/(L·s): Δc = 0.80 − 0.50 = 0.30 mol/L; 0.30 : 30 = 0.010 mol/(L·s)"
+  },
+  {
+   "q": "In a reaction, 12 mL of gas is formed in 40 s. Calculate the average reaction rate in mL/s.",
+   "a": "0.30 mL/s: 12 mL : 40 s = 0.30 mL/s"
+  },
+  {
+   "q": "How do you make the reaction between magnesium and hydrochloric acid slower?",
+   "a": "Lower the temperature"
+  },
+  {
+   "q": "In an energy diagram of an exothermic reaction, where is the level of the products?",
+   "a": "Lower than the level of the reactants"
+  },
+  {
+   "q": "In an energy diagram of an endothermic reaction, where is the level of the products?",
+   "a": "Higher than the level of the reactants"
+  },
+  {
+   "q": "How do you read the heat of reaction from an energy diagram?",
+   "a": "The difference in height between the level of the reactants and that of the products"
+  },
+  {
+   "q": "In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. What is the activation energy?",
+   "a": "30 kJ: 150 − 120 = 30 kJ"
+  },
+  {
+   "q": "In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. How much energy is released in the reaction?",
+   "a": "40 kJ: 120 − 80 = 40 kJ"
+  },
+  {
+   "q": "The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 8.0 g of methane? (M = 16.04 g/mol)",
+   "a": "4.4 × 10<sup>5</sup> J: n = 8.0 : 16.04 = 0.4988 mol; 0.4988 × 8.9 × 10<sup>5</sup> = 4.4 × 10<sup>5</sup> J"
+  },
+  {
+   "q": "The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 2.0 mol of methane?",
+   "a": "1.8 × 10<sup>6</sup> J: 2.0 × 8.9 × 10<sup>5</sup> = 1.8 × 10<sup>6</sup> J"
+  },
+  {
+   "q": "What is a dynamic equilibrium?",
+   "a": "The forward reaction and the reverse reaction proceed at the same rate"
+  },
+  {
+   "q": "What happens to the reaction rate while the reactants are being used up?",
+   "a": "The rate becomes smaller"
+  },
+  {
+   "q": "Give two ways to speed up a reaction.",
+   "a": "For example raise the temperature, raise the concentration, use a finer division of a solid or add a catalyst"
+  },
+  {
+   "q": "Explain why a catalyst makes a reaction faster.",
+   "a": "A catalyst lowers the activation energy, so more collisions have enough energy to react"
+  }
+ ]
+}

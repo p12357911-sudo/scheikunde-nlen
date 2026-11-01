@@ -62,7 +62,7 @@ for pg in nlp:
         if t == n and len(kaal(n)) > 25 and re.search(r'[a-z]{4,}', kaal(n)) and key not in UITZ.get('en_gelijk', []): fout(pg, 'EN gelijk aan NL (niet vertaald?)', pad)
         if tags(t) != tags(n): fout(pg, 'HTML-tags wijken af', f'{pad}: {dict(tags(n))} vs {dict(tags(t))}')
         if getallen(t, False) != getallen(n, True) and key not in UITZ.get('getallen', []): fout(pg, 'getallen wijken af', f'{pad}: NL {sorted(getallen(n, True).elements())} EN {sorted(getallen(t, False).elements())}')
-        k = kaal(t)
+        k = kaal(t).replace("Only use BINAS when the question names a BINAS table.", "")
         if re.search(r'\d,\d{1,2}(?!\d)', k) and key not in UITZ.get('komma', []): fout(pg, 'decimale komma in EN', f'{pad}: {k[:80]}')
         if re.search(r'\b(vmbo|havo|vwo|mavo|nova|polaris|kader|tl)\b|\bbinas\b(?! tables? \d)', k, re.I) and key not in UITZ.get('niveau', []): fout(pg, 'niveau- of methodenaam', f'{pad}: {k[:80]}')
         if re.search(NL_WOORDEN, k, re.I) and key not in UITZ.get('nederlands', []) and pad != '/heading_nl': fout(pg, 'Nederlands woord in EN', f'{pad}: {k[:100]}')

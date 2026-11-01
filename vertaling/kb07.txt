@@ -1,0 +1,457 @@
+### sk4h-begrippen-KB
+### sk4h-begrippen-KB
+heading Chemistry terms
+0.q What is the name of the element with the symbol Na?
+0.a sodium
+1.q What is the symbol of sodium?
+1.a Na
+2.q What is the name of the element with the symbol K?
+2.a potassium
+3.q What is the symbol of potassium?
+3.a K
+4.q What is the name of the element with the symbol Li?
+4.a lithium
+5.q What is the symbol of lithium?
+5.a Li
+6.q What is the name of the element with the symbol Ca?
+6.a calcium
+7.q What is the symbol of calcium?
+7.a Ca
+8.q What is the name of the element with the symbol Mg?
+8.a magnesium
+9.q What is the symbol of magnesium?
+9.a Mg
+10.q What is the name of the element with the symbol Al?
+10.a aluminium
+11.q What is the symbol of aluminium?
+11.a Al
+12.q What is the name of the element with the symbol Fe?
+12.a iron
+13.q What is the symbol of iron?
+13.a Fe
+14.q What is the name of the element with the symbol Cu?
+14.a copper
+15.q What is the symbol of copper?
+15.a Cu
+16.q What is the name of the element with the symbol Pb?
+16.a lead
+17.q What is the symbol of lead?
+17.a Pb
+18.q What is the name of the element with the symbol Ag?
+18.a silver
+19.q What is the symbol of silver?
+19.a Ag
+20.q What is the name of the element with the symbol Sn?
+20.a tin
+21.q What is the symbol of tin?
+21.a Sn
+22.q What is the name of the element with the symbol Zn?
+22.a zinc
+23.q What is the symbol of zinc?
+23.a Zn
+24.q What is the name of the element with the symbol F?
+24.a fluorine
+25.q What is the symbol of fluorine?
+25.a F
+26.q What is the name of the element with the symbol Cl?
+26.a chlorine
+27.q What is the symbol of chlorine?
+27.a Cl
+28.q What is the name of the element with the symbol Br?
+28.a bromine
+29.q What is the symbol of bromine?
+29.a Br
+30.q What is the name of the element with the symbol I?
+30.a iodine
+31.q What is the symbol of iodine?
+31.a I
+32.q What is the name of the element with the symbol N?
+32.a nitrogen
+33.q What is the symbol of nitrogen?
+33.a N
+34.q What is the name of the element with the symbol O?
+34.a oxygen
+35.q What is the symbol of oxygen?
+35.a O
+36.q What is the name of the element with the symbol P?
+36.a phosphorus
+37.q What is the symbol of phosphorus?
+37.a P
+38.q What is the name of the element with the symbol C?
+38.a carbon
+39.q What is the symbol of carbon?
+39.a C
+40.q What is the name of the element with the symbol H?
+40.a hydrogen
+41.q What is the symbol of hydrogen?
+41.a H
+42.q What charge does the ion of sodium (Na) have?
+42.a 1+
+43.q Which ion belongs to sodium?
+43.a Na<sup>+</sup>
+44.q What charge does the ion of potassium (K) have?
+44.a 1+
+45.q Which ion belongs to potassium?
+45.a K<sup>+</sup>
+46.q What charge does the ion of lithium (Li) have?
+46.a 1+
+47.q Which ion belongs to lithium?
+47.a Li<sup>+</sup>
+48.q What charge does the ion of calcium (Ca) have?
+48.a 2+
+49.q Which ion belongs to calcium?
+49.a Ca<sup>2+</sup>
+50.q What charge does the ion of magnesium (Mg) have?
+50.a 2+
+51.q Which ion belongs to magnesium?
+51.a Mg<sup>2+</sup>
+52.q What charge does the ion of aluminium (Al) have?
+52.a 3+
+53.q Which ion belongs to aluminium?
+53.a Al<sup>3+</sup>
+54.q What charge does the ion of copper (Cu) have?
+54.a 2+
+55.q Which ion belongs to copper?
+55.a Cu<sup>2+</sup>
+56.q What charge does the ion of lead (Pb) have?
+56.a 2+
+57.q Which ion belongs to lead?
+57.a Pb<sup>2+</sup>
+58.q What charge does the ion of silver (Ag) have?
+58.a 1+
+59.q Which ion belongs to silver?
+59.a Ag<sup>+</sup>
+60.q What charge does the ion of tin (Sn) have?
+60.a 2+
+61.q Which ion belongs to tin?
+61.a Sn<sup>2+</sup>
+62.q What charge does the ion of zinc (Zn) have?
+62.a 2+
+63.q Which ion belongs to zinc?
+63.a Zn<sup>2+</sup>
+64.q What charge does the ion of fluorine (F) have?
+64.a 1−
+65.q Which ion belongs to fluorine?
+65.a F<sup>−</sup>
+66.q What charge does the ion of chlorine (Cl) have?
+66.a 1−
+67.q Which ion belongs to chlorine?
+67.a Cl<sup>−</sup>
+68.q What charge does the ion of bromine (Br) have?
+68.a 1−
+69.q Which ion belongs to bromine?
+69.a Br<sup>−</sup>
+70.q What charge does the ion of iodine (I) have?
+70.a 1−
+71.q Which ion belongs to iodine?
+71.a I<sup>−</sup>
+72.q What charge does the ion of iron have?
+72.a 2+ or 3+ (iron(II) is green, iron(III) is brown)
+73.q What colour does copper(II) (Cu<sup>2+</sup>) have in your list?
+73.a blue
+74.q What is the name of the ion S<sup>2−</sup>?
+74.a sulfide
+75.q What is the name of the ion O<sup>2−</sup>?
+75.a oxide
+76.q What is the name of the ion F<sup>−</sup>?
+76.a fluoride
+77.q What is the name of the ion Cl<sup>−</sup>?
+77.a chloride
+78.q What is the name of the ion Br<sup>−</sup>?
+78.a bromide
+79.q What is the name of the ion I<sup>−</sup>?
+79.a iodide
+80.q Which substance is Fe(II)S?
+80.a iron(II) sulfide
+81.q Which substance is CuO?
+81.a copper(II) oxide
+82.q What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?
+82.a carbonate ion
+83.q What is the formula of the carbonate ion?
+83.a CO<sub>3</sub><sup>2−</sup>
+84.q What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?
+84.a nitrate ion
+85.q What is the formula of the nitrate ion?
+85.a NO<sub>3</sub><sup>−</sup>
+86.q What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?
+86.a nitrite ion
+87.q What is the formula of the nitrite ion?
+87.a NO<sub>2</sub><sup>−</sup>
+88.q What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?
+88.a phosphate ion
+89.q What is the formula of the phosphate ion?
+89.a PO<sub>4</sub><sup>3−</sup>
+90.q What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?
+90.a ammonium ion
+91.q What is the formula of the ammonium ion?
+91.a NH<sub>4</sub><sup>+</sup>
+92.q What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?
+92.a sulfite ion
+93.q What is the formula of the sulfite ion?
+93.a SO<sub>3</sub><sup>2−</sup>
+94.q What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?
+94.a sulfate ion
+95.q What is the formula of the sulfate ion?
+95.a SO<sub>4</sub><sup>2−</sup>
+96.q What are the elements in group 1 of the periodic table called?
+96.a alkali metals
+97.q Which group of the periodic table is called alkalimetalen?
+97.a group 1
+98.q What are the elements in group 2 of the periodic table called?
+98.a alkaline earth metals
+99.q Which group of the periodic table is called aardalkalimetalen?
+99.a group 2
+100.q What are the elements in group 17 of the periodic table called?
+100.a halogens
+101.q Which group of the periodic table is called halogenen?
+101.a group 17
+102.q Of which ion do all salts dissolve well?
+102.a Na<sup>+</sup>
+103.q Of which polyatomic ion do all salts dissolve well?
+103.a NO<sub>3</sub><sup>−</sup>
+104.q Name two ions of which all salts dissolve well
+104.a for example Na<sup>+</sup>, K<sup>+</sup> and NO<sub>3</sub><sup>−</sup>
+105.q How many bonds does an element from group 16 (almost) always form?
+105.a 2
+106.q How many bonds does an element from group 17 (almost) always form?
+106.a 1
+107.q How many bonds does an element from group 15 (almost) always form?
+107.a 3
+108.q How many bonds does an element from group 14 (almost) always form?
+108.a 4
+109.q Which gas is poisonous?
+109.a carbon monoxide (CO)
+110.q What is the formula of carbon monoxide?
+110.a CO
+111.q Which formula belongs to the gas oxygen that we breathe in with the air?
+111.a O<sub>2</sub>
+112.q Which formula belongs to the gas nitrogen that we breathe in with the air?
+112.a N<sub>2</sub>
+113.q What are hydrocarbons?
+113.a molecules that mainly contain C atoms and H atoms
+114.q Which two types of atom do hydrocarbons mainly consist of?
+114.a carbon (C) and hydrogen (H)
+115.q Which substance has the formula CH<sub>4</sub>?
+115.a methane
+116.q What is the formula of methane?
+116.a CH<sub>4</sub>
+117.q Which substance has the formula C<sub>2</sub>H<sub>6</sub>?
+117.a ethane
+118.q What is the formula of ethane?
+118.a C<sub>2</sub>H<sub>6</sub>
+119.q Which substance has the formula C<sub>3</sub>H<sub>8</sub>?
+119.a propane
+120.q What is the formula of propane?
+120.a C<sub>3</sub>H<sub>8</sub>
+121.q Which substance has the formula C<sub>4</sub>H<sub>10</sub>?
+121.a butane
+122.q What is the formula of butane?
+122.a C<sub>4</sub>H<sub>10</sub>
+123.q Which substance has the formula C<sub>5</sub>H<sub>12</sub>?
+123.a pentane
+124.q What is the formula of pentane?
+124.a C<sub>5</sub>H<sub>12</sub>
+125.q Which substance has the formula C<sub>6</sub>H<sub>14</sub>?
+125.a hexane
+126.q What is the formula of hexane?
+126.a C<sub>6</sub>H<sub>14</sub>
+127.q Which substance has the formula C<sub>2</sub>H<sub>4</sub>?
+127.a ethene
+128.q What is the formula of ethene?
+128.a C<sub>2</sub>H<sub>4</sub>
+129.q Which substance has the formula C<sub>3</sub>H<sub>6</sub>?
+129.a propene
+130.q What is the formula of propene?
+130.a C<sub>3</sub>H<sub>6</sub>
+131.q Which substance has the formula C<sub>4</sub>H<sub>8</sub>?
+131.a butene
+132.q What is the formula of butene?
+132.a C<sub>4</sub>H<sub>8</sub>
+133.q Which substance has the formula C<sub>2</sub>H<sub>5</sub>OH?
+133.a ethanol
+134.q What is the formula of ethanol?
+134.a C<sub>2</sub>H<sub>5</sub>OH
+135.q Which substance has the formula H<sub>2</sub>O?
+135.a water
+136.q What is the formula of water?
+136.a H<sub>2</sub>O
+137.q Which substance has the formula CO<sub>2</sub>?
+137.a carbon dioxide
+138.q What is the formula of carbon dioxide?
+138.a CO<sub>2</sub>
+139.q What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?
+139.a sulfuric acid
+140.q What is the formula of sulfuric acid?
+140.a H<sub>2</sub>SO<sub>4</sub>
+141.q What is the name of the acid with the formula HNO<sub>3</sub>?
+141.a nitric acid
+142.q What is the formula of nitric acid?
+142.a HNO<sub>3</sub>
+143.q What is the name of the acid with the formula HCl?
+143.a hydrochloric acid
+144.q What is the formula of hydrochloric acid?
+144.a HCl
+145.q What is the name of the acid with the formula HAc?
+145.a acetic acid
+146.q What is the formula of acetic acid?
+146.a HAc
+147.q What is the name of the substance with the formula NH<sub>3</sub>?
+147.a ammonia
+148.q What is the formula of ammonia?
+148.a NH<sub>3</sub>
+149.q What is the name of the substance with the formula KOH?
+149.a potassium hydroxide solution
+150.q What is the formula of potassium hydroxide solution?
+150.a KOH
+151.q What is the name of the substance with the formula NaOH?
+151.a sodium hydroxide solution
+152.q What is the formula of sodium hydroxide solution?
+152.a NaOH
+153.q What is the name of the substance with the formula Ca(OH)<sub>2</sub>?
+153.a calcium hydroxide
+154.q What is the formula of calcium hydroxide?
+154.a Ca(OH)<sub>2</sub>
+155.q Which formula belongs to limestone and marble?
+155.a CaCO<sub>3</sub>
+156.q What is the name of a solution of Ca(OH)<sub>2</sub> in water?
+156.a limewater
+157.q How do you write that HCl dissolves in water?
+157.a HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+158.q How do you write that NaOH dissolves in water?
+158.a NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+159.q Which particles are in table salt dissolved in water?
+159.a Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+160.q What is the substance NaCl called in everyday life?
+160.a table salt (trivial name)
+161.q Is HCl an acid, a base or a salt?
+161.a an acid
+162.q Is NaOH an acid, a base or a salt?
+162.a a base
+163.q Is KOH an acid, a base or a salt?
+163.a a base
+164.q Is NaCl an acid, a base or a salt?
+164.a a salt
+165.q Is CaCO<sub>3</sub> an acid, a base or a salt?
+165.a a salt
+166.q What is the pH of a neutral solution?
+166.a 7
+167.q What is a pH of 14?
+167.a basic (alkaline)
+168.q What is a pH of 1?
+168.a acidic
+169.q Between which numbers does the pH scale run in your list?
+169.a 1 en 14
+170.q Which substance has the formula CH<sub>3</sub>COOH?
+170.a ethanoic acid (acetic acid)
+171.q What is the formula of ethanoic acid (acetic acid)?
+171.a CH<sub>3</sub>COOH
+172.q What does (s) after the name of a substance stand for?
+172.a solid
+173.q Which state symbol belongs to: solid?
+173.a (s)
+174.q What does (l) after the name of a substance stand for?
+174.a liquid
+175.q Which state symbol belongs to: liquid?
+175.a (l)
+176.q What does (g) after the name of a substance stand for?
+176.a gas
+177.q Which state symbol belongs to: gas?
+177.a (g)
+178.q What does (aq) after the name of a substance stand for?
+178.a dissolved in water (aqua)
+179.q Which state symbol belongs to: dissolved in water (aqua)?
+179.a (aq)
+180.q Name the six changes of state
+180.a freezing, melting, deposition, sublimation, vaporisation (evaporation), condensation
+181.q How many changes of state are there?
+181.a 6
+182.q What is the everyday name of a substance, such as table salt, called?
+182.a trivial name
+183.q In which BINAS table do you find the trivial names and the chemical names of substances?
+183.a BINAS table 66
+184.q In which BINAS table do you find the periodic table?
+184.a BINAS table 99
+185.q In which BINAS table do you find the mass of common substances?
+185.a BINAS table 98
+186.q What is the (Dutch) mnemonic for the separation methods?
+186.a Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal (the first letters of the Dutch names: Afgieten, Bezinken, Centrifugeren, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen, Chromatografie)
+187.q Name all the separation methods from the mnemonic
+187.a Settling, decanting, centrifuging, extraction, distillation, filtration, evaporation, adsorption, chromatography
+188.q How many separation methods are there in the mnemonic?
+188.a 9
+189.q Which separation method goes with the letter D in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+189.a Distillation (Destilleren)
+190.q Which separation method goes with the letter F in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+190.a Filtration (Filtreren)
+191.q Which separation method goes with the letter I in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+191.a Evaporation (Indampen)
+192.q Which separation method goes with the letter E in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+192.a Extraction (Extraheren)
+193.q Which separation method goes with the letter B in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+193.a Settling (Bezinken)
+194.q What are settling, decanting and centrifuging as separation methods based on?
+194.a density
+195.q What is filtration as a separation method based on?
+195.a particle size
+196.q What is evaporation as a separation method based on?
+196.a boiling point
+197.q What is distillation as a separation method based on?
+197.a difference in boiling point between liquids
+198.q What is adsorption as a separation method based on?
+198.a a stronger tendency to attach to a surface than to dissolve in a liquid or gas
+199.q What is extraction as a separation method based on?
+199.a a solid dissolves better in a liquid
+200.q Which separation method separates on the basis of density?
+200.a Settling, decanting and centrifuging
+201.q Which separation method separates on the basis of particle size?
+201.a Filtration
+202.q Which separation method separates on the basis of the difference in boiling point between liquids?
+202.a Distillation
+203.q Which separation method separates on the basis of the ability to attach to a surface?
+203.a Adsorption
+204.q Which separation method do you use to obtain salt from salt water?
+204.a Evaporation
+205.q Making tea is an example of which separation method?
+205.a Extraction
+206.q Removing alcohol from wine is an example of which separation method?
+206.a Distillation
+207.q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+207.a Adsorption
+208.q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+208.a Adsorption
+209.q Which separation method separates on the basis of solubility in the mobile phase (the solvent that moves) and the ability to attach to the surface (the stationary phase)?
+209.a Chromatography
+210.q Paper chromatography is an example of which separation method?
+210.a Chromatography
+211.q What is the formula for density?
+211.a density = mass / volume
+212.q In which unit do you give the density in your list?
+212.a g/cm<sup>3</sup>
+213.q Give the formula for density, with the unit
+213.a density = mass / volume, in g/cm<sup>3</sup>
+214.q What does the prefix milli mean?
+214.a 1/1000
+215.q What does the prefix kilo mean?
+215.a times 1000
+216.q How many litres is 4000 mL?
+216.a 4 L
+217.q How many litres is 1000 mL?
+217.a 1 L
+218.q How many grams is 3 kg?
+218.a 3000 g
+219.q How many kg is 2000 g?
+219.a 2 kg
+220.q Which formula do you use to convert degrees Celsius to kelvin?
+220.a K = °C + 273
+221.q How many K is 0 °C?
+221.a 273 K
+222.q How many K is 20 °C?
+222.a 293 K
+223.q How many °C is 273 K?
+223.a 0 °C
+224.q How many °C is 293 K?
+224.a 20 °C
+225.q How many °C is 0 K?
+225.a −273 °C
+226.q In which BINAS table do you find the prefixes?
+226.a BINAS table 2

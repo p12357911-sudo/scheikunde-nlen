@@ -1,0 +1,144 @@
+### sk4h-koolwaterstoffen-KB
+heading Hydrocarbons
+0.q What are hydrocarbons?
+0.a Substances that consist only of carbon and hydrogen
+1.q What is the general formula of the alkanes?
+1.a C<sub>n</sub>H<sub>2n+2</sub>
+2.q What is the general formula of the alkenes (with one double bond)?
+2.a C<sub>n</sub>H<sub>2n</sub>
+3.q What is the molecular formula of hexane?
+3.a C<sub>6</sub>H<sub>14</sub>
+4.q What is the molecular formula of propene?
+4.a C<sub>3</sub>H<sub>6</sub>
+5.q Which name belongs to C<sub>4</sub>H<sub>10</sub>?
+5.a Butane
+6.q Which name belongs to C<sub>5</sub>H<sub>12</sub>?
+6.a Pentane
+7.q How many hydrogen atoms does an alkane with 7 carbon atoms have?
+7.a 16: C<sub>n</sub>H<sub>2n+2</sub> with n = 7: 2 × 7 + 2 = 16 (heptane, C<sub>7</sub>H<sub>16</sub>)
+8.q What does saturated mean for a hydrocarbon?
+8.a There are only single bonds between the carbon atoms
+9.q What is the characteristic of an alkene?
+9.a A double bond between two carbon atoms (C=C)
+10.q How do you show that a substance is an alkene?
+10.a Bromine water is decolourised
+11.q What are isomers?
+11.a Substances with the same molecular formula but a different structural formula
+12.q Which substance is an isomer of butane?
+12.a 2-methylpropane: this also has the formula C<sub>4</sub>H<sub>10</sub>
+13.q How many isomers does C<sub>5</sub>H<sub>12</sub> have?
+13.a 3: pentane, 2-methylbutane and 2,2-dimethylpropane
+14.q What is the name of the substance with the formula C<sub>2</sub>H<sub>5</sub>OH?
+14.a Ethanol
+15.q What is a cycloalkane?
+15.a For example cyclohexane, C<sub>6</sub>H<sub>12</sub>
+16.q Which substances are formed in the complete combustion of a hydrocarbon?
+16.a Carbon dioxide and water
+17.q Which substances can be formed in the incomplete combustion of a hydrocarbon?
+17.a Carbon monoxide, soot (carbon) and water
+18.q What is the reaction equation for the complete combustion of methane?
+18.a Step 1 (in words): methane + oxygen → carbon dioxide + water. Step 2 (formulae): CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+19.q What is the reaction equation for the complete combustion of propane?
+19.a Step 1 (in words): propane + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>3</sub>H<sub>8</sub> + 5 O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)
+20.q What is the reaction equation for the complete combustion of butane?
+20.a Step 1 (in words): butane + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>4</sub>H<sub>10</sub> + 6½ O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O. Step 4 (simplifying): Multiply by 2: 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O. Reaction equation: 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)
+21.q What is the reaction equation for the complete combustion of ethene?
+21.a Step 1 (in words): ethene + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>2</sub>H<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>2</sub>H<sub>4</sub> + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 2 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+22.q What is the reaction equation for the complete combustion of ethanol?
+22.a Step 1 (in words): ethanol + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>2</sub>H<sub>5</sub>OH + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>2</sub>H<sub>5</sub>OH + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 3 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)
+23.q Ethene reacts with bromine. What is the reaction equation?
+23.a Step 1 (in words): ethene + bromine → 1,2-dibromoethane. Step 2 (formulae): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Step 3 (atom balance): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)
+24.q Methane reacts with bromine under the influence of light. What is the reaction equation?
+24.a Step 1 (in words): methane + bromine → bromomethane + hydrogen bromide. Step 2 (formulae): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Step 3 (atom balance): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)
+25.q What is the name of the reaction in which ethene and bromine combine to form one substance?
+25.a Addition
+26.q What is the name of the reaction in which an H atom of an alkane is replaced by a bromine atom?
+26.a Substitution
+27.q Which functional group belongs to an alcohol?
+27.a The hydroxyl group (–OH)
+28.q Which functional group belongs to a carboxylic acid?
+28.a The carboxyl group (–COOH)
+29.q What is the formula of ethanoic acid?
+29.a CH<sub>3</sub>COOH
+30.q Which substances are formed when ethanoic acid reacts with ethanol?
+30.a Ethyl ethanoate and water
+31.q What is the separation of crude oil into fractions (fractional distillation) based on?
+31.a On differences in boiling point
+32.q Which substance has the higher boiling point: pentane or hexane? (use BINAS table 42B)
+32.a Hexane: the longer the carbon chain, the higher the boiling point
+33.q Name two uses of hydrocarbons.
+33.a For example fuel (natural gas, petrol) and raw material for plastics
+34.q Why is the carbon monoxide that is formed in incomplete combustion dangerous?
+34.a It is poisonous: CO binds to the haemoglobin in the blood, so less oxygen is transported
+### sk4h-reactiekinetiek-KB
+heading Reaction rate and energy
+0.q What is an exothermic reaction?
+0.a A reaction in which energy is released
+1.q What is an endothermic reaction?
+1.a A reaction in which energy is absorbed
+2.q Is the combustion of natural gas exothermic or endothermic?
+2.a Exothermic
+3.q Is photosynthesis exothermic or endothermic?
+3.a Endothermic (energy from sunlight is absorbed)
+4.q What is the activation energy?
+4.a The minimum energy needed to start a reaction
+5.q What is a catalyst?
+5.a A substance that speeds up a reaction and is not used up itself
+6.q What does a catalyst do to the activation energy?
+6.a It becomes lower
+7.q What does a catalyst do to the heat of reaction?
+7.a Nothing, the heat of reaction stays the same
+8.q What is an effective collision?
+8.a A collision between particles with enough energy and in the right orientation, after which they react
+9.q Why does a reaction go faster at a higher temperature?
+9.a The particles move faster, so there are more effective collisions per second
+10.q Why does a reaction go faster at a higher concentration?
+10.a There are more particles per volume, so more collisions per second
+11.q Why does zinc powder react faster with hydrochloric acid than a piece of zinc of the same mass?
+11.a Powder has a larger contact surface
+12.q What happens to the reaction rate of gases if you increase the pressure?
+12.a The rate becomes greater, because there are more particles per volume
+13.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. What happens to the rate for a 20 °C rise?
+13.a 4 times as great: 2 × 2 = 4
+14.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 80 s. How long does the reaction take at 40 °C?
+14.a 20 s: 20 → 40 °C is doubling 2 times, the rate becomes 4 times as great, so 80 s : 4 = 20 s
+15.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 50 °C a reaction takes 12 s. How long does the reaction take at 30 °C?
+15.a 48 s: 50 → 30 °C is halving the rate 2 times, the rate becomes 4 times as small, so 12 s × 4 = 48 s
+16.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 100 s. How long does the reaction take at 30 °C?
+16.a 50 s: the rate becomes 2 times as great, so 100 s : 2 = 50 s
+17.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. How many times as great is the rate at 50 °C as at 20 °C?
+17.a 8 times: a rise of 30 °C is doubling 3 times, 2 × 2 × 2 = 8
+18.q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 60 °C a reaction takes 5 s. How long does the reaction take at 20 °C?
+18.a 80 s: 60 → 20 °C is halving the rate 4 times, the rate becomes 16 times as small, so 5 s × 16 = 80 s
+19.q How is the reaction rate defined?
+19.a The change in concentration per time (Δc : Δt)
+20.q What is a suitable unit for reaction rate?
+20.a mol/(L·s)
+21.q The concentration of substance A falls from 0.80 mol/L to 0.50 mol/L in 30 s. Calculate the average reaction rate.
+21.a 0.010 mol/(L·s): Δc = 0.80 − 0.50 = 0.30 mol/L; 0.30 : 30 = 0.010 mol/(L·s)
+22.q In a reaction, 12 mL of gas is formed in 40 s. Calculate the average reaction rate in mL/s.
+22.a 0.30 mL/s: 12 mL : 40 s = 0.30 mL/s
+23.q How do you make the reaction between magnesium and hydrochloric acid slower?
+23.a Lower the temperature
+24.q In an energy diagram of an exothermic reaction, where is the level of the products?
+24.a Lower than the level of the reactants
+25.q In an energy diagram of an endothermic reaction, where is the level of the products?
+25.a Higher than the level of the reactants
+26.q How do you read the heat of reaction from an energy diagram?
+26.a The difference in height between the level of the reactants and that of the products
+27.q In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. What is the activation energy?
+27.a 30 kJ: 150 − 120 = 30 kJ
+28.q In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. How much energy is released in the reaction?
+28.a 40 kJ: 120 − 80 = 40 kJ
+29.q The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 8.0 g of methane? (M = 16.04 g/mol)
+29.a 4.4 × 10<sup>5</sup> J: n = 8.0 : 16.04 = 0.4988 mol; 0.4988 × 8.9 × 10<sup>5</sup> = 4.4 × 10<sup>5</sup> J
+30.q The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 2.0 mol of methane?
+30.a 1.8 × 10<sup>6</sup> J: 2.0 × 8.9 × 10<sup>5</sup> = 1.8 × 10<sup>6</sup> J
+31.q What is a dynamic equilibrium?
+31.a The forward reaction and the reverse reaction proceed at the same rate
+32.q What happens to the reaction rate while the reactants are being used up?
+32.a The rate becomes smaller
+33.q Give two ways to speed up a reaction.
+33.a For example raise the temperature, raise the concentration, use a finer division of a solid or add a catalyst
+34.q Explain why a catalyst makes a reaction faster.
+34.a A catalyst lowers the activation energy, so more collisions have enough energy to react

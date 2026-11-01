@@ -8,11 +8,27 @@
   "sk3t-scheidingsmethoden-KB/questions/50/q",
   "sk3t-scheidingsmethoden-KB/questions/50/a"
  ],
- "getallen": [],
- "komma": [],
- "niveau": [],
+ "getallen": [
+  "sk4h-koolwaterstoffen-KB/questions/13/a",
+  "sk4h-koolwaterstoffen-KB/questions/23/a"
+ ],
+ "komma": [
+  "sk4h-koolwaterstoffen-KB/questions/13/a",
+  "sk4h-koolwaterstoffen-KB/questions/23/a"
+ ],
+ "niveau": [
+  "sk4h-begrippen-KB/questions/183/q",
+  "sk4h-begrippen-KB/questions/184/q",
+  "sk4h-begrippen-KB/questions/185/q",
+  "sk4h-begrippen-KB/questions/226/q"
+ ],
  "nederlands": [],
- "binas": [],
+ "binas": [
+  "sk4h-begrippen-KB/questions/183/q",
+  "sk4h-begrippen-KB/questions/184/q",
+  "sk4h-begrippen-KB/questions/185/q",
+  "sk4h-begrippen-KB/questions/226/q"
+ ],
  "en_gelijk": [
   "sk3h-atomen-moleculen-KB/questions/11/a",
   "sk3h-atomen-moleculen-KB/questions/12/a",

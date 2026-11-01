@@ -1,0 +1,918 @@
+{
+ "title": "Chemistry terms - 123 school",
+ "heading": "Chemistry terms",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms by heart. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What is the name of the element with the symbol Na?",
+   "a": "sodium"
+  },
+  {
+   "q": "What is the symbol of sodium?",
+   "a": "Na"
+  },
+  {
+   "q": "What is the name of the element with the symbol K?",
+   "a": "potassium"
+  },
+  {
+   "q": "What is the symbol of potassium?",
+   "a": "K"
+  },
+  {
+   "q": "What is the name of the element with the symbol Li?",
+   "a": "lithium"
+  },
+  {
+   "q": "What is the symbol of lithium?",
+   "a": "Li"
+  },
+  {
+   "q": "What is the name of the element with the symbol Ca?",
+   "a": "calcium"
+  },
+  {
+   "q": "What is the symbol of calcium?",
+   "a": "Ca"
+  },
+  {
+   "q": "What is the name of the element with the symbol Mg?",
+   "a": "magnesium"
+  },
+  {
+   "q": "What is the symbol of magnesium?",
+   "a": "Mg"
+  },
+  {
+   "q": "What is the name of the element with the symbol Al?",
+   "a": "aluminium"
+  },
+  {
+   "q": "What is the symbol of aluminium?",
+   "a": "Al"
+  },
+  {
+   "q": "What is the name of the element with the symbol Fe?",
+   "a": "iron"
+  },
+  {
+   "q": "What is the symbol of iron?",
+   "a": "Fe"
+  },
+  {
+   "q": "What is the name of the element with the symbol Cu?",
+   "a": "copper"
+  },
+  {
+   "q": "What is the symbol of copper?",
+   "a": "Cu"
+  },
+  {
+   "q": "What is the name of the element with the symbol Pb?",
+   "a": "lead"
+  },
+  {
+   "q": "What is the symbol of lead?",
+   "a": "Pb"
+  },
+  {
+   "q": "What is the name of the element with the symbol Ag?",
+   "a": "silver"
+  },
+  {
+   "q": "What is the symbol of silver?",
+   "a": "Ag"
+  },
+  {
+   "q": "What is the name of the element with the symbol Sn?",
+   "a": "tin"
+  },
+  {
+   "q": "What is the symbol of tin?",
+   "a": "Sn"
+  },
+  {
+   "q": "What is the name of the element with the symbol Zn?",
+   "a": "zinc"
+  },
+  {
+   "q": "What is the symbol of zinc?",
+   "a": "Zn"
+  },
+  {
+   "q": "What is the name of the element with the symbol F?",
+   "a": "fluorine"
+  },
+  {
+   "q": "What is the symbol of fluorine?",
+   "a": "F"
+  },
+  {
+   "q": "What is the name of the element with the symbol Cl?",
+   "a": "chlorine"
+  },
+  {
+   "q": "What is the symbol of chlorine?",
+   "a": "Cl"
+  },
+  {
+   "q": "What is the name of the element with the symbol Br?",
+   "a": "bromine"
+  },
+  {
+   "q": "What is the symbol of bromine?",
+   "a": "Br"
+  },
+  {
+   "q": "What is the name of the element with the symbol I?",
+   "a": "iodine"
+  },
+  {
+   "q": "What is the symbol of iodine?",
+   "a": "I"
+  },
+  {
+   "q": "What is the name of the element with the symbol N?",
+   "a": "nitrogen"
+  },
+  {
+   "q": "What is the symbol of nitrogen?",
+   "a": "N"
+  },
+  {
+   "q": "What is the name of the element with the symbol O?",
+   "a": "oxygen"
+  },
+  {
+   "q": "What is the symbol of oxygen?",
+   "a": "O"
+  },
+  {
+   "q": "What is the name of the element with the symbol P?",
+   "a": "phosphorus"
+  },
+  {
+   "q": "What is the symbol of phosphorus?",
+   "a": "P"
+  },
+  {
+   "q": "What is the name of the element with the symbol C?",
+   "a": "carbon"
+  },
+  {
+   "q": "What is the symbol of carbon?",
+   "a": "C"
+  },
+  {
+   "q": "What is the name of the element with the symbol H?",
+   "a": "hydrogen"
+  },
+  {
+   "q": "What is the symbol of hydrogen?",
+   "a": "H"
+  },
+  {
+   "q": "What charge does the ion of sodium (Na) have?",
+   "a": "1+"
+  },
+  {
+   "q": "Which ion belongs to sodium?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "What charge does the ion of potassium (K) have?",
+   "a": "1+"
+  },
+  {
+   "q": "Which ion belongs to potassium?",
+   "a": "K<sup>+</sup>"
+  },
+  {
+   "q": "What charge does the ion of lithium (Li) have?",
+   "a": "1+"
+  },
+  {
+   "q": "Which ion belongs to lithium?",
+   "a": "Li<sup>+</sup>"
+  },
+  {
+   "q": "What charge does the ion of calcium (Ca) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to calcium?",
+   "a": "Ca<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of magnesium (Mg) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to magnesium?",
+   "a": "Mg<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of aluminium (Al) have?",
+   "a": "3+"
+  },
+  {
+   "q": "Which ion belongs to aluminium?",
+   "a": "Al<sup>3+</sup>"
+  },
+  {
+   "q": "What charge does the ion of copper (Cu) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to copper?",
+   "a": "Cu<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of lead (Pb) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to lead?",
+   "a": "Pb<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of silver (Ag) have?",
+   "a": "1+"
+  },
+  {
+   "q": "Which ion belongs to silver?",
+   "a": "Ag<sup>+</sup>"
+  },
+  {
+   "q": "What charge does the ion of tin (Sn) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to tin?",
+   "a": "Sn<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of zinc (Zn) have?",
+   "a": "2+"
+  },
+  {
+   "q": "Which ion belongs to zinc?",
+   "a": "Zn<sup>2+</sup>"
+  },
+  {
+   "q": "What charge does the ion of fluorine (F) have?",
+   "a": "1−"
+  },
+  {
+   "q": "Which ion belongs to fluorine?",
+   "a": "F<sup>−</sup>"
+  },
+  {
+   "q": "What charge does the ion of chlorine (Cl) have?",
+   "a": "1−"
+  },
+  {
+   "q": "Which ion belongs to chlorine?",
+   "a": "Cl<sup>−</sup>"
+  },
+  {
+   "q": "What charge does the ion of bromine (Br) have?",
+   "a": "1−"
+  },
+  {
+   "q": "Which ion belongs to bromine?",
+   "a": "Br<sup>−</sup>"
+  },
+  {
+   "q": "What charge does the ion of iodine (I) have?",
+   "a": "1−"
+  },
+  {
+   "q": "Which ion belongs to iodine?",
+   "a": "I<sup>−</sup>"
+  },
+  {
+   "q": "What charge does the ion of iron have?",
+   "a": "2+ or 3+ (iron(II) is green, iron(III) is brown)"
+  },
+  {
+   "q": "What colour does copper(II) (Cu<sup>2+</sup>) have in your list?",
+   "a": "blue"
+  },
+  {
+   "q": "What is the name of the ion S<sup>2−</sup>?",
+   "a": "sulfide"
+  },
+  {
+   "q": "What is the name of the ion O<sup>2−</sup>?",
+   "a": "oxide"
+  },
+  {
+   "q": "What is the name of the ion F<sup>−</sup>?",
+   "a": "fluoride"
+  },
+  {
+   "q": "What is the name of the ion Cl<sup>−</sup>?",
+   "a": "chloride"
+  },
+  {
+   "q": "What is the name of the ion Br<sup>−</sup>?",
+   "a": "bromide"
+  },
+  {
+   "q": "What is the name of the ion I<sup>−</sup>?",
+   "a": "iodide"
+  },
+  {
+   "q": "Which substance is Fe(II)S?",
+   "a": "iron(II) sulfide"
+  },
+  {
+   "q": "Which substance is CuO?",
+   "a": "copper(II) oxide"
+  },
+  {
+   "q": "What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?",
+   "a": "carbonate ion"
+  },
+  {
+   "q": "What is the formula of the carbonate ion?",
+   "a": "CO<sub>3</sub><sup>2−</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?",
+   "a": "nitrate ion"
+  },
+  {
+   "q": "What is the formula of the nitrate ion?",
+   "a": "NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?",
+   "a": "nitrite ion"
+  },
+  {
+   "q": "What is the formula of the nitrite ion?",
+   "a": "NO<sub>2</sub><sup>−</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?",
+   "a": "phosphate ion"
+  },
+  {
+   "q": "What is the formula of the phosphate ion?",
+   "a": "PO<sub>4</sub><sup>3−</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?",
+   "a": "ammonium ion"
+  },
+  {
+   "q": "What is the formula of the ammonium ion?",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?",
+   "a": "sulfite ion"
+  },
+  {
+   "q": "What is the formula of the sulfite ion?",
+   "a": "SO<sub>3</sub><sup>2−</sup>"
+  },
+  {
+   "q": "What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?",
+   "a": "sulfate ion"
+  },
+  {
+   "q": "What is the formula of the sulfate ion?",
+   "a": "SO<sub>4</sub><sup>2−</sup>"
+  },
+  {
+   "q": "What are the elements in group 1 of the periodic table called?",
+   "a": "alkali metals"
+  },
+  {
+   "q": "Which group of the periodic table is called alkalimetalen?",
+   "a": "group 1"
+  },
+  {
+   "q": "What are the elements in group 2 of the periodic table called?",
+   "a": "alkaline earth metals"
+  },
+  {
+   "q": "Which group of the periodic table is called aardalkalimetalen?",
+   "a": "group 2"
+  },
+  {
+   "q": "What are the elements in group 17 of the periodic table called?",
+   "a": "halogens"
+  },
+  {
+   "q": "Which group of the periodic table is called halogenen?",
+   "a": "group 17"
+  },
+  {
+   "q": "Of which ion do all salts dissolve well?",
+   "a": "Na<sup>+</sup>"
+  },
+  {
+   "q": "Of which polyatomic ion do all salts dissolve well?",
+   "a": "NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "Name two ions of which all salts dissolve well",
+   "a": "for example Na<sup>+</sup>, K<sup>+</sup> and NO<sub>3</sub><sup>−</sup>"
+  },
+  {
+   "q": "How many bonds does an element from group 16 (almost) always form?",
+   "a": "2"
+  },
+  {
+   "q": "How many bonds does an element from group 17 (almost) always form?",
+   "a": "1"
+  },
+  {
+   "q": "How many bonds does an element from group 15 (almost) always form?",
+   "a": "3"
+  },
+  {
+   "q": "How many bonds does an element from group 14 (almost) always form?",
+   "a": "4"
+  },
+  {
+   "q": "Which gas is poisonous?",
+   "a": "carbon monoxide (CO)"
+  },
+  {
+   "q": "What is the formula of carbon monoxide?",
+   "a": "CO"
+  },
+  {
+   "q": "Which formula belongs to the gas oxygen that we breathe in with the air?",
+   "a": "O<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to the gas nitrogen that we breathe in with the air?",
+   "a": "N<sub>2</sub>"
+  },
+  {
+   "q": "What are hydrocarbons?",
+   "a": "molecules that mainly contain C atoms and H atoms"
+  },
+  {
+   "q": "Which two types of atom do hydrocarbons mainly consist of?",
+   "a": "carbon (C) and hydrogen (H)"
+  },
+  {
+   "q": "Which substance has the formula CH<sub>4</sub>?",
+   "a": "methane"
+  },
+  {
+   "q": "What is the formula of methane?",
+   "a": "CH<sub>4</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>2</sub>H<sub>6</sub>?",
+   "a": "ethane"
+  },
+  {
+   "q": "What is the formula of ethane?",
+   "a": "C<sub>2</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>3</sub>H<sub>8</sub>?",
+   "a": "propane"
+  },
+  {
+   "q": "What is the formula of propane?",
+   "a": "C<sub>3</sub>H<sub>8</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>4</sub>H<sub>10</sub>?",
+   "a": "butane"
+  },
+  {
+   "q": "What is the formula of butane?",
+   "a": "C<sub>4</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>5</sub>H<sub>12</sub>?",
+   "a": "pentane"
+  },
+  {
+   "q": "What is the formula of pentane?",
+   "a": "C<sub>5</sub>H<sub>12</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>6</sub>H<sub>14</sub>?",
+   "a": "hexane"
+  },
+  {
+   "q": "What is the formula of hexane?",
+   "a": "C<sub>6</sub>H<sub>14</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>2</sub>H<sub>4</sub>?",
+   "a": "ethene"
+  },
+  {
+   "q": "What is the formula of ethene?",
+   "a": "C<sub>2</sub>H<sub>4</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>3</sub>H<sub>6</sub>?",
+   "a": "propene"
+  },
+  {
+   "q": "What is the formula of propene?",
+   "a": "C<sub>3</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>4</sub>H<sub>8</sub>?",
+   "a": "butene"
+  },
+  {
+   "q": "What is the formula of butene?",
+   "a": "C<sub>4</sub>H<sub>8</sub>"
+  },
+  {
+   "q": "Which substance has the formula C<sub>2</sub>H<sub>5</sub>OH?",
+   "a": "ethanol"
+  },
+  {
+   "q": "What is the formula of ethanol?",
+   "a": "C<sub>2</sub>H<sub>5</sub>OH"
+  },
+  {
+   "q": "Which substance has the formula H<sub>2</sub>O?",
+   "a": "water"
+  },
+  {
+   "q": "What is the formula of water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "Which substance has the formula CO<sub>2</sub>?",
+   "a": "carbon dioxide"
+  },
+  {
+   "q": "What is the formula of carbon dioxide?",
+   "a": "CO<sub>2</sub>"
+  },
+  {
+   "q": "What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?",
+   "a": "sulfuric acid"
+  },
+  {
+   "q": "What is the formula of sulfuric acid?",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "What is the name of the acid with the formula HNO<sub>3</sub>?",
+   "a": "nitric acid"
+  },
+  {
+   "q": "What is the formula of nitric acid?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "What is the name of the acid with the formula HCl?",
+   "a": "hydrochloric acid"
+  },
+  {
+   "q": "What is the formula of hydrochloric acid?",
+   "a": "HCl"
+  },
+  {
+   "q": "What is the name of the acid with the formula HAc?",
+   "a": "acetic acid"
+  },
+  {
+   "q": "What is the formula of acetic acid?",
+   "a": "HAc"
+  },
+  {
+   "q": "What is the name of the substance with the formula NH<sub>3</sub>?",
+   "a": "ammonia"
+  },
+  {
+   "q": "What is the formula of ammonia?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "What is the name of the substance with the formula KOH?",
+   "a": "potassium hydroxide solution"
+  },
+  {
+   "q": "What is the formula of potassium hydroxide solution?",
+   "a": "KOH"
+  },
+  {
+   "q": "What is the name of the substance with the formula NaOH?",
+   "a": "sodium hydroxide solution"
+  },
+  {
+   "q": "What is the formula of sodium hydroxide solution?",
+   "a": "NaOH"
+  },
+  {
+   "q": "What is the name of the substance with the formula Ca(OH)<sub>2</sub>?",
+   "a": "calcium hydroxide"
+  },
+  {
+   "q": "What is the formula of calcium hydroxide?",
+   "a": "Ca(OH)<sub>2</sub>"
+  },
+  {
+   "q": "Which formula belongs to limestone and marble?",
+   "a": "CaCO<sub>3</sub>"
+  },
+  {
+   "q": "What is the name of a solution of Ca(OH)<sub>2</sub> in water?",
+   "a": "limewater"
+  },
+  {
+   "q": "How do you write that HCl dissolves in water?",
+   "a": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "How do you write that NaOH dissolves in water?",
+   "a": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Which particles are in table salt dissolved in water?",
+   "a": "Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "What is the substance NaCl called in everyday life?",
+   "a": "table salt (trivial name)"
+  },
+  {
+   "q": "Is HCl an acid, a base or a salt?",
+   "a": "an acid"
+  },
+  {
+   "q": "Is NaOH an acid, a base or a salt?",
+   "a": "a base"
+  },
+  {
+   "q": "Is KOH an acid, a base or a salt?",
+   "a": "a base"
+  },
+  {
+   "q": "Is NaCl an acid, a base or a salt?",
+   "a": "a salt"
+  },
+  {
+   "q": "Is CaCO<sub>3</sub> an acid, a base or a salt?",
+   "a": "a salt"
+  },
+  {
+   "q": "What is the pH of a neutral solution?",
+   "a": "7"
+  },
+  {
+   "q": "What is a pH of 14?",
+   "a": "basic (alkaline)"
+  },
+  {
+   "q": "What is a pH of 1?",
+   "a": "acidic"
+  },
+  {
+   "q": "Between which numbers does the pH scale run in your list?",
+   "a": "1 en 14"
+  },
+  {
+   "q": "Which substance has the formula CH<sub>3</sub>COOH?",
+   "a": "ethanoic acid (acetic acid)"
+  },
+  {
+   "q": "What is the formula of ethanoic acid (acetic acid)?",
+   "a": "CH<sub>3</sub>COOH"
+  },
+  {
+   "q": "What does (s) after the name of a substance stand for?",
+   "a": "solid"
+  },
+  {
+   "q": "Which state symbol belongs to: solid?",
+   "a": "(s)"
+  },
+  {
+   "q": "What does (l) after the name of a substance stand for?",
+   "a": "liquid"
+  },
+  {
+   "q": "Which state symbol belongs to: liquid?",
+   "a": "(l)"
+  },
+  {
+   "q": "What does (g) after the name of a substance stand for?",
+   "a": "gas"
+  },
+  {
+   "q": "Which state symbol belongs to: gas?",
+   "a": "(g)"
+  },
+  {
+   "q": "What does (aq) after the name of a substance stand for?",
+   "a": "dissolved in water (aqua)"
+  },
+  {
+   "q": "Which state symbol belongs to: dissolved in water (aqua)?",
+   "a": "(aq)"
+  },
+  {
+   "q": "Name the six changes of state",
+   "a": "freezing, melting, deposition, sublimation, vaporisation (evaporation), condensation"
+  },
+  {
+   "q": "How many changes of state are there?",
+   "a": "6"
+  },
+  {
+   "q": "What is the everyday name of a substance, such as table salt, called?",
+   "a": "trivial name"
+  },
+  {
+   "q": "In which BINAS table do you find the trivial names and the chemical names of substances?",
+   "a": "BINAS table 66"
+  },
+  {
+   "q": "In which BINAS table do you find the periodic table?",
+   "a": "BINAS table 99"
+  },
+  {
+   "q": "In which BINAS table do you find the mass of common substances?",
+   "a": "BINAS table 98"
+  },
+  {
+   "q": "What is the (Dutch) mnemonic for the separation methods?",
+   "a": "Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal (the first letters of the Dutch names: Afgieten, Bezinken, Centrifugeren, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen, Chromatografie)"
+  },
+  {
+   "q": "Name all the separation methods from the mnemonic",
+   "a": "Settling, decanting, centrifuging, extraction, distillation, filtration, evaporation, adsorption, chromatography"
+  },
+  {
+   "q": "How many separation methods are there in the mnemonic?",
+   "a": "9"
+  },
+  {
+   "q": "Which separation method goes with the letter D in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "a": "Distillation (Destilleren)"
+  },
+  {
+   "q": "Which separation method goes with the letter F in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "a": "Filtration (Filtreren)"
+  },
+  {
+   "q": "Which separation method goes with the letter I in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "a": "Evaporation (Indampen)"
+  },
+  {
+   "q": "Which separation method goes with the letter E in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "a": "Extraction (Extraheren)"
+  },
+  {
+   "q": "Which separation method goes with the letter B in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "a": "Settling (Bezinken)"
+  },
+  {
+   "q": "What are settling, decanting and centrifuging as separation methods based on?",
+   "a": "density"
+  },
+  {
+   "q": "What is filtration as a separation method based on?",
+   "a": "particle size"
+  },
+  {
+   "q": "What is evaporation as a separation method based on?",
+   "a": "boiling point"
+  },
+  {
+   "q": "What is distillation as a separation method based on?",
+   "a": "difference in boiling point between liquids"
+  },
+  {
+   "q": "What is adsorption as a separation method based on?",
+   "a": "a stronger tendency to attach to a surface than to dissolve in a liquid or gas"
+  },
+  {
+   "q": "What is extraction as a separation method based on?",
+   "a": "a solid dissolves better in a liquid"
+  },
+  {
+   "q": "Which separation method separates on the basis of density?",
+   "a": "Settling, decanting and centrifuging"
+  },
+  {
+   "q": "Which separation method separates on the basis of particle size?",
+   "a": "Filtration"
+  },
+  {
+   "q": "Which separation method separates on the basis of the difference in boiling point between liquids?",
+   "a": "Distillation"
+  },
+  {
+   "q": "Which separation method separates on the basis of the ability to attach to a surface?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "Which separation method do you use to obtain salt from salt water?",
+   "a": "Evaporation"
+  },
+  {
+   "q": "Making tea is an example of which separation method?",
+   "a": "Extraction"
+  },
+  {
+   "q": "Removing alcohol from wine is an example of which separation method?",
+   "a": "Distillation"
+  },
+  {
+   "q": "Removing colour from methylated spirits with activated carbon is an example of which separation method?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "Removing poisonous substances from the air with a gas mask is an example of which separation method?",
+   "a": "Adsorption"
+  },
+  {
+   "q": "Which separation method separates on the basis of solubility in the mobile phase (the solvent that moves) and the ability to attach to the surface (the stationary phase)?",
+   "a": "Chromatography"
+  },
+  {
+   "q": "Paper chromatography is an example of which separation method?",
+   "a": "Chromatography"
+  },
+  {
+   "q": "What is the formula for density?",
+   "a": "density = mass / volume"
+  },
+  {
+   "q": "In which unit do you give the density in your list?",
+   "a": "g/cm<sup>3</sup>"
+  },
+  {
+   "q": "Give the formula for density, with the unit",
+   "a": "density = mass / volume, in g/cm<sup>3</sup>"
+  },
+  {
+   "q": "What does the prefix milli mean?",
+   "a": "1/1000"
+  },
+  {
+   "q": "What does the prefix kilo mean?",
+   "a": "times 1000"
+  },
+  {
+   "q": "How many litres is 4000 mL?",
+   "a": "4 L"
+  },
+  {
+   "q": "How many litres is 1000 mL?",
+   "a": "1 L"
+  },
+  {
+   "q": "How many grams is 3 kg?",
+   "a": "3000 g"
+  },
+  {
+   "q": "How many kg is 2000 g?",
+   "a": "2 kg"
+  },
+  {
+   "q": "Which formula do you use to convert degrees Celsius to kelvin?",
+   "a": "K = °C + 273"
+  },
+  {
+   "q": "How many K is 0 °C?",
+   "a": "273 K"
+  },
+  {
+   "q": "How many K is 20 °C?",
+   "a": "293 K"
+  },
+  {
+   "q": "How many °C is 273 K?",
+   "a": "0 °C"
+  },
+  {
+   "q": "How many °C is 293 K?",
+   "a": "20 °C"
+  },
+  {
+   "q": "How many °C is 0 K?",
+   "a": "−273 °C"
+  },
+  {
+   "q": "In which BINAS table do you find the prefixes?",
+   "a": "BINAS table 2"
+  }
+ ]
+}

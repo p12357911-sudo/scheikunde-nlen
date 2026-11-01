@@ -1,0 +1,150 @@
+{
+ "title": "Hydrocarbons - 123 school",
+ "heading": "Hydrocarbons",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What are hydrocarbons?",
+   "a": "Substances that consist only of carbon and hydrogen"
+  },
+  {
+   "q": "What is the general formula of the alkanes?",
+   "a": "C<sub>n</sub>H<sub>2n+2</sub>"
+  },
+  {
+   "q": "What is the general formula of the alkenes (with one double bond)?",
+   "a": "C<sub>n</sub>H<sub>2n</sub>"
+  },
+  {
+   "q": "What is the molecular formula of hexane?",
+   "a": "C<sub>6</sub>H<sub>14</sub>"
+  },
+  {
+   "q": "What is the molecular formula of propene?",
+   "a": "C<sub>3</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Which name belongs to C<sub>4</sub>H<sub>10</sub>?",
+   "a": "Butane"
+  },
+  {
+   "q": "Which name belongs to C<sub>5</sub>H<sub>12</sub>?",
+   "a": "Pentane"
+  },
+  {
+   "q": "How many hydrogen atoms does an alkane with 7 carbon atoms have?",
+   "a": "16: C<sub>n</sub>H<sub>2n+2</sub> with n = 7: 2 × 7 + 2 = 16 (heptane, C<sub>7</sub>H<sub>16</sub>)"
+  },
+  {
+   "q": "What does saturated mean for a hydrocarbon?",
+   "a": "There are only single bonds between the carbon atoms"
+  },
+  {
+   "q": "What is the characteristic of an alkene?",
+   "a": "A double bond between two carbon atoms (C=C)"
+  },
+  {
+   "q": "How do you show that a substance is an alkene?",
+   "a": "Bromine water is decolourised"
+  },
+  {
+   "q": "What are isomers?",
+   "a": "Substances with the same molecular formula but a different structural formula"
+  },
+  {
+   "q": "Which substance is an isomer of butane?",
+   "a": "2-methylpropane: this also has the formula C<sub>4</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "How many isomers does C<sub>5</sub>H<sub>12</sub> have?",
+   "a": "3: pentane, 2-methylbutane and 2,2-dimethylpropane"
+  },
+  {
+   "q": "What is the name of the substance with the formula C<sub>2</sub>H<sub>5</sub>OH?",
+   "a": "Ethanol"
+  },
+  {
+   "q": "What is a cycloalkane?",
+   "a": "For example cyclohexane, C<sub>6</sub>H<sub>12</sub>"
+  },
+  {
+   "q": "Which substances are formed in the complete combustion of a hydrocarbon?",
+   "a": "Carbon dioxide and water"
+  },
+  {
+   "q": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "a": "Carbon monoxide, soot (carbon) and water"
+  },
+  {
+   "q": "What is the reaction equation for the complete combustion of methane?",
+   "a": "Step 1 (in words): methane + oxygen → carbon dioxide + water. Step 2 (formulae): CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "What is the reaction equation for the complete combustion of propane?",
+   "a": "Step 1 (in words): propane + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>3</sub>H<sub>8</sub> + 5 O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "What is the reaction equation for the complete combustion of butane?",
+   "a": "Step 1 (in words): butane + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>4</sub>H<sub>10</sub> + 6½ O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O. Step 4 (simplifying): Multiply by 2: 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O. Reaction equation: 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "What is the reaction equation for the complete combustion of ethene?",
+   "a": "Step 1 (in words): ethene + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>2</sub>H<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>2</sub>H<sub>4</sub> + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 2 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "What is the reaction equation for the complete combustion of ethanol?",
+   "a": "Step 1 (in words): ethanol + oxygen → carbon dioxide + water. Step 2 (formulae): C<sub>2</sub>H<sub>5</sub>OH + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O. Step 3 (atom balance): C<sub>2</sub>H<sub>5</sub>OH + 3 O<sub>2</sub> → 2 CO<sub>2</sub> + 3 H<sub>2</sub>O. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)"
+  },
+  {
+   "q": "Ethene reacts with bromine. What is the reaction equation?",
+   "a": "Step 1 (in words): ethene + bromine → 1,2-dibromoethane. Step 2 (formulae): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Step 3 (atom balance): C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)"
+  },
+  {
+   "q": "Methane reacts with bromine under the influence of light. What is the reaction equation?",
+   "a": "Step 1 (in words): methane + bromine → bromomethane + hydrogen bromide. Step 2 (formulae): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Step 3 (atom balance): CH<sub>4</sub> + Br<sub>2</sub> → CH<sub>3</sub>Br + HBr. Step 4 (simplifying): Not needed: the coefficients are already the smallest whole numbers. Reaction equation: CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)"
+  },
+  {
+   "q": "What is the name of the reaction in which ethene and bromine combine to form one substance?",
+   "a": "Addition"
+  },
+  {
+   "q": "What is the name of the reaction in which an H atom of an alkane is replaced by a bromine atom?",
+   "a": "Substitution"
+  },
+  {
+   "q": "Which functional group belongs to an alcohol?",
+   "a": "The hydroxyl group (–OH)"
+  },
+  {
+   "q": "Which functional group belongs to a carboxylic acid?",
+   "a": "The carboxyl group (–COOH)"
+  },
+  {
+   "q": "What is the formula of ethanoic acid?",
+   "a": "CH<sub>3</sub>COOH"
+  },
+  {
+   "q": "Which substances are formed when ethanoic acid reacts with ethanol?",
+   "a": "Ethyl ethanoate and water"
+  },
+  {
+   "q": "What is the separation of crude oil into fractions (fractional distillation) based on?",
+   "a": "On differences in boiling point"
+  },
+  {
+   "q": "Which substance has the higher boiling point: pentane or hexane? (use BINAS table 42B)",
+   "a": "Hexane: the longer the carbon chain, the higher the boiling point"
+  },
+  {
+   "q": "Name two uses of hydrocarbons.",
+   "a": "For example fuel (natural gas, petrol) and raw material for plastics"
+  },
+  {
+   "q": "Why is the carbon monoxide that is formed in incomplete combustion dangerous?",
+   "a": "It is poisonous: CO binds to the haemoglobin in the blood, so less oxygen is transported"
+  }
+ ]
+}
