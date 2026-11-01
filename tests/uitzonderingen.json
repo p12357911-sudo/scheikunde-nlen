@@ -11,7 +11,13 @@
  "getallen": [
   "sk4h-koolwaterstoffen-KB/questions/13/a",
   "sk4h-koolwaterstoffen-KB/questions/23/a",
-  "rv3t-breuken-procenten-eenheden-KB/questions/7/e"
+  "rv3t-breuken-procenten-eenheden-KB/questions/7/e",
+  "sk4t-zouten-KB/questions/8/q",
+  "sk4t-zouten-KB/questions/34/q",
+  "sk4t-stoffen-uit-de-aarde-KB/questions/8/a",
+  "sk4t-stoffen-uit-de-aarde-KB/questions/9/a",
+  "sk4t-stoffen-uit-de-aarde-KB/questions/29/a",
+  "sk4t-zouten-KB/questions/20/a"
  ],
  "komma": [
   "sk4h-koolwaterstoffen-KB/questions/13/a",
@@ -27,7 +33,9 @@
   "sk3t-begrippen-KB/questions/98/q",
   "sk4t-begrippen-KB/questions/166/q",
   "sk4t-begrippen-KB/questions/167/q",
-  "sk4t-begrippen-KB/questions/203/q"
+  "sk4t-begrippen-KB/questions/203/q",
+  "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
+  "sk4t-zouten-KB/questions/29/q"
  ],
  "nederlands": [],
  "binas": [
@@ -40,7 +48,9 @@
   "sk3t-begrippen-KB/questions/98/q",
   "sk4t-begrippen-KB/questions/166/q",
   "sk4t-begrippen-KB/questions/167/q",
-  "sk4t-begrippen-KB/questions/203/q"
+  "sk4t-begrippen-KB/questions/203/q",
+  "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
+  "sk4t-zouten-KB/questions/29/q"
  ],
  "en_gelijk": [
   "sk3h-atomen-moleculen-KB/questions/11/a",

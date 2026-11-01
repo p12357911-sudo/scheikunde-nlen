@@ -1,0 +1,150 @@
+{
+ "title": "Acids and bases - 123 school",
+ "heading": "Acids and bases",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "q": "What pH does an acidic solution have?",
+   "a": "Lower than 7"
+  },
+  {
+   "q": "What pH does a neutral solution have?",
+   "a": "7"
+  },
+  {
+   "q": "What pH does a basic solution have?",
+   "a": "Higher than 7"
+  },
+  {
+   "q": "Which ion makes a solution acidic?",
+   "a": "H<sup>+</sup> (aq)"
+  },
+  {
+   "q": "Which ion makes a solution basic?",
+   "a": "OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "What do you know about the number of H<sup>+</sup> and OH<sup>−</sup> ions in a neutral solution?",
+   "a": "There are as many H<sup>+</sup> ions as OH<sup>−</sup> ions"
+  },
+  {
+   "q": "Which pH is the most acidic: 2, 5, 7 or 9?",
+   "a": "pH 2: the lower the pH, the more acidic the solution"
+  },
+  {
+   "q": "What is the formula of hydrochloric acid?",
+   "a": "HCl (dissolved in water: HCl (aq))"
+  },
+  {
+   "q": "What is the formula of sulfuric acid?",
+   "a": "H<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "What is the formula of nitric acid?",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "What is the formula of acetic acid?",
+   "a": "CH<sub>3</sub>COOH, also written as HAc"
+  },
+  {
+   "q": "What is the formula of sodium hydroxide solution?",
+   "a": "NaOH"
+  },
+  {
+   "q": "What is the formula of potassium hydroxide solution?",
+   "a": "KOH"
+  },
+  {
+   "q": "What is the formula of limewater?",
+   "a": "Ca(OH)<sub>2</sub>"
+  },
+  {
+   "q": "What is the formula of ammonia, a base?",
+   "a": "NH<sub>3</sub>"
+  },
+  {
+   "q": "Which ions form when HCl dissolves in water? Write the reaction equation.",
+   "a": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Write the reaction equation for dissolving sodium hydroxide in water.",
+   "a": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Write the reaction equation for dissolving sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) in water.",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+  },
+  {
+   "q": "What is neutralisation?",
+   "a": "An acid reacts with a base to form a salt and water, and the pH becomes 7"
+  },
+  {
+   "q": "What is the reaction equation, in ions, for the neutralisation of an acid with a base?",
+   "a": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Hydrochloric acid reacts with sodium hydroxide solution. Write the reaction equation.",
+   "a": "HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Sulfuric acid reacts with sodium hydroxide solution. Write the reaction equation.",
+   "a": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Which salt forms when nitric acid (HNO<sub>3</sub>) reacts with potassium hydroxide solution (KOH)?",
+   "a": "Potassium nitrate"
+  },
+  {
+   "q": "Zinc reacts with hydrochloric acid. Write the reaction equation.",
+   "a": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)"
+  },
+  {
+   "q": "Which gas forms when an acid reacts with a base metal, and how do you detect it?",
+   "a": "Hydrogen; a burning splint makes a pop"
+  },
+  {
+   "q": "Limestone (CaCO<sub>3</sub>) reacts with hydrochloric acid. Write the reaction equation.",
+   "a": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)"
+  },
+  {
+   "q": "What colour does litmus have in an acidic solution? (use BINAS table 36)",
+   "a": "Red"
+  },
+  {
+   "q": "What colour does bromothymol blue have in a basic solution? (use BINAS table 36)",
+   "a": "Blue"
+  },
+  {
+   "q": "What colour does phenolphthalein have in a strongly basic solution? (use BINAS table 36)",
+   "a": "Purple. In an acidic or neutral solution phenolphthalein is colourless"
+  },
+  {
+   "q": "Universal indicator paper turns green in a solution. What kind of solution is this?",
+   "a": "A neutral solution"
+  },
+  {
+   "q": "You dilute an acidic solution with a lot of water. What happens to the pH?",
+   "a": "The pH becomes higher, towards 7"
+  },
+  {
+   "q": "You add sodium hydroxide solution drop by drop to hydrochloric acid. What happens to the pH?",
+   "a": "The pH rises to 7 at neutralisation and then rises further"
+  },
+  {
+   "q": "Which hazard symbol is on a bottle of concentrated hydrochloric acid?",
+   "a": "The symbol for corrosive"
+  },
+  {
+   "q": "Why do you not get a strong acid or a strong base on your skin?",
+   "a": "They are corrosive and damage your skin"
+  },
+  {
+   "q": "How can you use an indicator to estimate the pH of a solution?",
+   "a": "You look at which colour the indicator has and look in BINAS table 36 to see which pH that colour belongs to"
+  }
+ ]
+}

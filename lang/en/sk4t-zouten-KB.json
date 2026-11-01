@@ -1,0 +1,201 @@
+{
+ "title": "Salts - 123 school",
+ "heading": "Salts",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Into which three chemical groups can we divide all substances on earth?",
+   "a": "Molecular substances, salts and metals"
+  },
+  {
+   "q": "What is the chemical formula of water?",
+   "a": "H<sub>2</sub>O"
+  },
+  {
+   "q": "To which of the 3 chemical groups does water belong? Can you name another substance in this group?",
+   "a": "Molecular substances. For example polymers, oxygen gas O<sub>2</sub> (g), hydrogen gas H<sub>2</sub> (g)"
+  },
+  {
+   "q": "Solid, liquid, gas and dissolved in water: how do you show this in a chemical formula?",
+   "a": "s, l, g, aq"
+  },
+  {
+   "q": "Salts consist of charged particles. What do we call them?",
+   "a": "Ions"
+  },
+  {
+   "q": "Which charges do you always find in salts?",
+   "a": "Positive + and negative − charge (cations and anions respectively)"
+  },
+  {
+   "q": "Can salts conduct electric current?",
+   "a": "Yes, when they are dissolved in water. Not in solid, crystal form."
+  },
+  {
+   "q": "What colour is Cu<sup>2+</sup> (aq)?",
+   "a": "Blue"
+  },
+  {
+   "q": "How do you show in a chemical formula that iron has a charge of 3+?",
+   "a": "Fe(III)"
+  },
+  {
+   "q": "Give the chemical formula of solid calcium chloride",
+   "a": "CaCl<sub>2</sub> (s)"
+  },
+  {
+   "q": "What is the charge of chloride, bromide and iodide ions?",
+   "a": "1-"
+  },
+  {
+   "q": "What is the charge of most metal ions?",
+   "a": "2+"
+  },
+  {
+   "q": "What is the charge of K and Na ions?",
+   "a": "1+"
+  },
+  {
+   "q": "What is the charge of the atoms in group 18, the noble gases?",
+   "a": "These atoms do not occur in salts and therefore have 0 charge"
+  },
+  {
+   "q": "How many mL is one L?",
+   "a": "1 L = 1000 mL"
+  },
+  {
+   "q": "How many grams is 1 kg?",
+   "a": "1kg = 1000 g"
+  },
+  {
+   "q": "Which separation method can you choose to obtain a dissolved solid salt from a liquid?",
+   "a": "Evaporation, or precipitating it with another salt so that the salt of interest, or the unwanted salt, precipitates, and then purifying by settling and/or filtering"
+  },
+  {
+   "q": "Explain what a saturated solution of table salt is",
+   "a": "A solution in which the maximum amount of table salt per litre has dissolved and in which extra salt that is added will not dissolve"
+  },
+  {
+   "q": "What is the chemical formula of table salt?",
+   "a": "NaCl"
+  },
+  {
+   "q": "How do you write dissolved table salt as a chemical formula?",
+   "a": "Na<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)"
+  },
+  {
+   "q": "What is the density of gold? (use BINAS table 15)",
+   "a": "19.30 g/cm<sup>3</sup> (look it up in BINAS table 15)"
+  },
+  {
+   "q": "1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?",
+   "a": "1 cm<sup>3</sup>"
+  },
+  {
+   "q": "Describe what a crystal lattice is",
+   "a": "In a crystal lattice the positive and negative ions of a salt are arranged systematically."
+  },
+  {
+   "q": "Is the total charge of a salt positive, negative or neutral?",
+   "a": "The total charge of a salt is always zero/neutral, because the positive and negative charges cancel each other out exactly"
+  },
+  {
+   "q": "How does the electrical conductivity change if you add more salt to a salt solution?",
+   "a": "It increases with the concentration of salt"
+  },
+  {
+   "q": "Which two types of ions do most salts consist of?",
+   "a": "Metal ions and non-metal ions"
+  },
+  {
+   "q": "Which ion always comes first in the formula of a salt?",
+   "a": "The metal ion, e.g. it is NaCl and not ClNa"
+  },
+  {
+   "q": "How can you make salt crystals dissolve faster?",
+   "a": "By making them finer (more contact surface) or by raising the temperature"
+  },
+  {
+   "q": "How can you influence the solubility of certain salts?",
+   "a": "For a large group of salts the solubility increases with temperature. This is not the case for all salts and depends on the type of salt"
+  },
+  {
+   "q": "In which BINAS table do you find the solubility of salts?",
+   "a": "Table 35"
+  },
+  {
+   "q": "Salts of which more than 10 g per litre dissolves are called very soluble/moderately soluble/poorly soluble?",
+   "a": "very soluble"
+  },
+  {
+   "q": "What is the concentration of 12 grams of a salt in 2.5 litres of water?",
+   "a": "The concentration in g/L is 12/2.5 = 4.8 g/L"
+  },
+  {
+   "q": "What is the concentration in g/L of 200 mg of a salt in 2.5 mL?",
+   "a": "200mg = 0.2 g en 2.5 mL is 0.0025 L dus de  0.2g / 0.0025 L = 80 g/L"
+  },
+  {
+   "q": "What are the names of chlorine, bromine and fluorine ions in a salt formula?",
+   "a": "Chloride, bromide, fluoride, for example sodium chloride"
+  },
+  {
+   "q": "Which two metal ions can have a charge of 3+?",
+   "a": "Fe(III) of Fe<sup>3+</sup> en Al(III) of Al<sup>3+</sup>"
+  },
+  {
+   "q": "What do you call an oxygen ion and a sulfur ion in a salt formula?",
+   "a": "oxide and sulfide, for example iron(III) oxide"
+  },
+  {
+   "q": "Give the formula of the salt magnesium chloride",
+   "a": "MgCl<sub>2</sub> (note: it is Mg<sup>2+</sup> and Cl<sup>−</sup>, so you need two chloride ions to neutralise the magnesium charge)"
+  },
+  {
+   "q": "Give the formula of the salt iron(III) oxide",
+   "a": "Fe<sub>2</sub>O<sub>3</sub> (note: it is Fe<sup>3+</sup> and O<sup>2−</sup>, so you need two iron ions and 3 oxide ions to form a neutral salt)"
+  },
+  {
+   "q": "Give the dissolving equation of MgCl<sub>2</sub>",
+   "a": "MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)"
+  },
+  {
+   "q": "Give the evaporation equation of a solution of barium iodide",
+   "a": "Ba<sup>2+</sup> (aq) + 2I<sup>-</sup> (aq) ---> BaI<sub>2</sub> (s)"
+  },
+  {
+   "q": "Give the chemical formula of the polyatomic ammonium ion",
+   "a": "NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Give the chemical formula of the polyatomic sulfate ion",
+   "a": "SO<sub>4</sub><sup>2-</sup>"
+  },
+  {
+   "q": "Give the formula of the salt ammonium sulfate (pay attention to the neutrality of the salt)",
+   "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>"
+  },
+  {
+   "q": "What is the charge of chromium in the salt CrCl<sub>3</sub>?",
+   "a": "3+"
+  },
+  {
+   "q": "What is the charge of the polyatomic phosphate ion?",
+   "a": "3-"
+  },
+  {
+   "q": "Give the chemical formula of the hydroxide ion",
+   "a": "OH<sup>-</sup>"
+  },
+  {
+   "q": "Which salts are all very soluble?",
+   "a": "Salts of Na<sup>+</sup>, K<sup>+</sup>, NO<sub>3</sub><sup>−</sup> and NH<sub>4</sub><sup>+</sup>"
+  },
+  {
+   "q": "Is PbI<sub>2</sub> very soluble, poorly soluble or moderately soluble in water? (use BINAS table 35)",
+   "a": "poorly soluble (see BINAS table 35)"
+  }
+ ]
+}

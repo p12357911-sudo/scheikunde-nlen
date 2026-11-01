@@ -1,0 +1,344 @@
+### sk4t-stoffen-uit-de-aarde-KB
+0.a Crude oil, natural gas and coal
+4.a Fe (s)
+7.a They must have different boiling points
+12.q How many mL is one L?
+12.a 1 L = 1000 mL
+13.q How many grams is 1 kg?
+13.a 1kg = 1000 g
+14.a 19.30 g/cm<sup>3</sup>
+16.q 1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?
+16.a 1 cm<sup>3</sup>
+40.a 40
+41.a 0.05 mg/m<sup>3</sup>
+43.q A bar of 250 g contains 160 g of cocoa. What is the mass percentage of cocoa?
+43.a mass % = mass (g)/total mass (g) ∙ 100% = 160/250 ∙ 100% = 64.0%
+44.a Filtration, settling
+### sk4t-zouten-KB
+1.a H<sub>2</sub>O
+3.a s, l, g, aq
+7.a Blue
+8.a Fe(III)
+10.a 1-
+11.a 2+
+12.a 1+
+14.q How many mL is one L?
+14.a 1 L = 1000 mL
+15.q How many grams is 1 kg?
+15.a 1kg = 1000 g
+17.a A solution in which the maximum amount of table salt per litre has dissolved and in which extra salt that is added will not dissolve
+18.a NaCl
+19.a Na<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)
+21.q 1mL is 1 cm<sup>3</sup>, 1 cm<sup>2</sup> of 1 dm<sup>3</sup>?
+21.a 1 cm<sup>3</sup>
+32.a 200mg = 0.2 g en 2.5 mL is 0.0025 L dus de  0.2g / 0.0025 L = 80 g/L
+34.a Fe(III) of Fe<sup>3+</sup> en Al(III) of Al<sup>3+</sup>
+39.a Ba<sup>2+</sup> (aq) + 2I<sup>-</sup> (aq) ---> BaI<sub>2</sub> (s)
+40.a NH<sub>4</sub><sup>+</sup>
+41.a SO<sub>4</sub><sup>2-</sup>
+42.a (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>
+43.a 3+
+44.a 3-
+45.a OH<sup>-</sup>
+### sk4t-zoutreacties-KB
+1.q What is a precipitate?
+5.a Very soluble
+8.a K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>
+9.a Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (s)
+11.a Barium sulfate
+19.a Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (s)
+28.a Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (s) + 2 KNO<sub>3</sub> (aq)
+29.a Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+31.a Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2−</sup> (aq)
+32.a Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)
+### sk4t-zuren-basen-KB
+0.q What pH does an acidic solution have?
+0.a Lower than 7
+1.a 7
+3.a H<sup>+</sup> (aq)
+4.a OH<sup>−</sup> (aq)
+7.q What is the formula of hydrochloric acid?
+8.q What is the formula of sulfuric acid?
+8.a H<sub>2</sub>SO<sub>4</sub>
+9.q What is the formula of nitric acid?
+9.a HNO<sub>3</sub>
+10.q What is the formula of acetic acid?
+11.q What is the formula of sodium hydroxide solution?
+11.a NaOH
+12.q What is the formula of potassium hydroxide solution?
+12.a KOH
+13.a Ca(OH)<sub>2</sub>
+14.a NH<sub>3</sub>
+15.a HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+17.a H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)
+19.a H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)
+22.a Potassium nitrate
+26.a Red
+27.a Blue
+### sk4t-stoffen-uit-de-aarde-KB
+heading Substances from the earth
+0.q Name 3 minerals from which energy is obtained
+1.q What is mining?
+1.a Taking material/raw materials out of the ground, which are then processed further into products
+2.q Which metals are taken out of the ground as the pure metal itself?
+2.a Gold, silver, rhodium, platinum
+3.q In what form are most metals taken out of the ground?
+3.a As metal ore
+4.q How do you write pure iron as a chemical formula?
+5.q Define corrosion
+5.a Base metals react with oxygen from the air in a moist environment, and this is called corrosion
+6.q What is corrosion of iron called?
+6.a Rusting
+7.q What must be different between two liquids to be able to separate them by distillation?
+8.q Which process is used to obtain gas oil from crude oil? (use BINAS table 41)
+8.a (fractional) distillation (see BINAS table 41)
+9.q At what temperature is the gas oil fraction separated in the process above? (use BINAS table 41)
+9.a 300–150 degrees Celsius (see BINAS table 41)
+10.q What is cracking?
+10.a Breaking larger hydrocarbon molecules into smaller pieces. This is often done with the heavier hydrocarbon fractions obtained during the distillation of crude oil
+11.q What can be obtained from cracked fractions?
+11.a e.g. petrol for cars and substances that can be used in the chemical industry to make, for example, plastics or medicines
+14.q What is the density of gold? (use BINAS table 15)
+15.q What is the mass of 1 cm<sup>3</sup> of gold, and of an equally large block of copper? (use BINAS table 15)
+15.a Gold (Au) 19.3 g and copper (Cu) 8.96 g
+17.q What are polymers made of?
+17.a Monomers. Polymers are made by the polymerisation of a large number of monomers joined together.
+18.q What is another word for polymer?
+18.a Plastic
+19.q What is a plastic that can melt at higher temperatures called?
+19.a A thermoplastic
+20.q What is a plastic that does not melt at higher temperatures called?
+20.a A thermosetting plastic (thermoset)
+21.q How is polyethene made?
+21.a By linking a very large number of ethene molecules together so that long polymer chains of polyethene (PE) are formed
+22.q Name three properties of metals
+22.a They conduct electricity, they shine when polished, they conduct heat, and they can change shape without breaking (unlike salt crystals, for example)
+23.q Which atoms are metals often bonded to in metal ores?
+23.a Oxygen (O) and sulfur (S)
+24.q What is the property of noble metals?
+24.a Noble metals show little or no corrosion, so they react poorly with oxygen in the air
+25.q Name 2 noble metals
+25.a Gold, silver, platinum
+26.q 24 carat gold is 100% gold. 12 carat is a mix of 50% gold with other metals. How many carats is 75% gold?
+26.a 18 carat
+27.q What do you call a metal that is a mix of several metals? And why are these used?
+27.a An alloy. These are used because they have better properties, for example they corrode less, are harder, or are easier to work
+28.q Zinc is a base metal, yet it can be used for roof gutters. Explain why.
+28.a When zinc reacts with oxygen from the air, zinc oxide (ZnO (s)) forms. This forms an impermeable layer, so corrosion stops and the zinc below this layer stays in good condition.
+29.q What are the chemical symbols of gold, tin and copper in the periodic table? (use BINAS table 34)
+29.a Au, Sn, Cu (see BINAS table 34)
+30.q What is the residue left over from the distillation of crude oil used for?
+30.a Bitumen and asphalt
+31.q Which atoms occur mainly in hydrocarbons?
+31.a Carbon (C) and hydrogen (H)
+32.q What are fossil fuels?
+32.a Fossil fuels were formed from the remains of plants and animals that died millions of years ago
+33.q Which two fossil fuels do we extract from the ground in the Netherlands?
+33.a Crude oil in Drenthe and natural gas in Groningen
+34.q Plastics are molecular substances. Do they conduct electric current well or badly?
+34.a Badly
+35.q Name 4 products that plastics are used for
+35.a Drinking bottles, plastic bags, packaging, coffee cups, chip trays, clothing, artificial grass, bulletproof vests, toys
+36.q What are the advantages of plastics?
+36.a Light, strong, resistant to many kinds of chemical compounds, waterproof, cheap and easy to make, can be recycled well
+37.q What are the disadvantages of plastics?
+37.a Burning releases greenhouse gases, and plastics often contain additives that get into the environment when they are burnt; many plastics are difficult to break down biologically
+38.q Name 3 ways to dispose of waste
+38.a Burning, storing, reusing, recycling
+39.q What does MAC value stand for?
+39.a Maximum acceptable concentration in mg/m<sup>3</sup> that a person may take in daily
+40.q In which table can you find the MAC values in your BINAS?
+41.q What is the MAC value of mercury? (use BINAS table 40)
+42.q Which metals and their compounds are toxic? Name 2.
+42.a Mercury, cadmium, lead, zinc
+44.q Which separation method is used to purify water?
+45.q Name 3 types of radiation
+45.a Alpha, beta and gamma radiation
+46.q Why do we protect ourselves against radiation?
+46.a Because radiation can damage biological tissue and thereby increases the chance of getting cancer
+47.q Name 3 measures by which we protect ourselves against radiation
+47.a Keeping a distance from the radiation source, putting a shield between the radiation source and yourself, being exposed to radiation for as short a time as possible, wearing protective clothing
+### sk4t-zouten-KB
+heading Salts
+0.q Into which three chemical groups can we divide all substances on earth?
+0.a Molecular substances, salts and metals
+1.q What is the chemical formula of water?
+2.q To which of the 3 chemical groups does water belong? Can you name another substance in this group?
+2.a Molecular substances. For example polymers, oxygen gas O<sub>2</sub> (g), hydrogen gas H<sub>2</sub> (g)
+3.q Solid, liquid, gas and dissolved in water: how do you show this in a chemical formula?
+4.q Salts consist of charged particles. What do we call them?
+4.a Ions
+5.q Which charges do you always find in salts?
+5.a Positive + and negative − charge (cations and anions respectively)
+6.q Can salts conduct electric current?
+6.a Yes, when they are dissolved in water. Not in solid, crystal form.
+7.q What colour is Cu<sup>2+</sup> (aq)?
+8.q How do you show in a chemical formula that iron has a charge of 3+?
+9.q Give the chemical formula of solid calcium chloride
+9.a CaCl<sub>2</sub> (s)
+10.q What is the charge of chloride, bromide and iodide ions?
+11.q What is the charge of most metal ions?
+12.q What is the charge of K and Na ions?
+13.q What is the charge of the atoms in group 18, the noble gases?
+13.a These atoms do not occur in salts and therefore have 0 charge
+16.q Which separation method can you choose to obtain a dissolved solid salt from a liquid?
+16.a Evaporation, or precipitating it with another salt so that the salt of interest, or the unwanted salt, precipitates, and then purifying by settling and/or filtering
+17.q Explain what a saturated solution of table salt is
+18.q What is the chemical formula of table salt?
+19.q How do you write dissolved table salt as a chemical formula?
+20.q What is the density of gold? (use BINAS table 15)
+20.a 19.30 g/cm<sup>3</sup> (look it up in BINAS table 15)
+22.q Describe what a crystal lattice is
+22.a In a crystal lattice the positive and negative ions of a salt are arranged systematically.
+23.q Is the total charge of a salt positive, negative or neutral?
+23.a The total charge of a salt is always zero/neutral, because the positive and negative charges cancel each other out exactly
+24.q How does the electrical conductivity change if you add more salt to a salt solution?
+24.a It increases with the concentration of salt
+25.q Which two types of ions do most salts consist of?
+25.a Metal ions and non-metal ions
+26.q Which ion always comes first in the formula of a salt?
+26.a The metal ion, e.g. it is NaCl and not ClNa
+27.q How can you make salt crystals dissolve faster?
+27.a By making them finer (more contact surface) or by raising the temperature
+28.q How can you influence the solubility of certain salts?
+28.a For a large group of salts the solubility increases with temperature. This is not the case for all salts and depends on the type of salt
+29.q In which BINAS table do you find the solubility of salts?
+29.a Table 35
+30.q Salts of which more than 10 g per litre dissolves are called very soluble/moderately soluble/poorly soluble?
+30.a very soluble
+31.q What is the concentration of 12 grams of a salt in 2.5 litres of water?
+31.a The concentration in g/L is 12/2.5 = 4.8 g/L
+32.q What is the concentration in g/L of 200 mg of a salt in 2.5 mL?
+33.q What are the names of chlorine, bromine and fluorine ions in a salt formula?
+33.a Chloride, bromide, fluoride, for example sodium chloride
+34.q Which two metal ions can have a charge of 3+?
+35.q What do you call an oxygen ion and a sulfur ion in a salt formula?
+35.a oxide and sulfide, for example iron(III) oxide
+36.q Give the formula of the salt magnesium chloride
+36.a MgCl<sub>2</sub> (note: it is Mg<sup>2+</sup> and Cl<sup>−</sup>, so you need two chloride ions to neutralise the magnesium charge)
+37.q Give the formula of the salt iron(III) oxide
+37.a Fe<sub>2</sub>O<sub>3</sub> (note: it is Fe<sup>3+</sup> and O<sup>2−</sup>, so you need two iron ions and 3 oxide ions to form a neutral salt)
+38.q Give the dissolving equation of MgCl<sub>2</sub>
+38.a MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)
+39.q Give the evaporation equation of a solution of barium iodide
+40.q Give the chemical formula of the polyatomic ammonium ion
+41.q Give the chemical formula of the polyatomic sulfate ion
+42.q Give the formula of the salt ammonium sulfate (pay attention to the neutrality of the salt)
+43.q What is the charge of chromium in the salt CrCl<sub>3</sub>?
+44.q What is the charge of the polyatomic phosphate ion?
+45.q Give the chemical formula of the hydroxide ion
+46.q Which salts are all very soluble?
+46.a Salts of Na<sup>+</sup>, K<sup>+</sup>, NO<sub>3</sub><sup>−</sup> and NH<sub>4</sub><sup>+</sup>
+47.q Is PbI<sub>2</sub> very soluble, poorly soluble or moderately soluble in water? (use BINAS table 35)
+47.a poorly soluble (see BINAS table 35)
+### sk4t-zoutreacties-KB
+heading Salt reactions
+0.q What is a precipitation reaction?
+0.a Two solutions react with each other and a solid forms
+1.a A solid that forms in a solution and sinks to the bottom
+2.q How can you predict whether a precipitate forms when you mix two salt solutions?
+2.a You look in BINAS table 35 to see whether a combination of a positive ion and a negative ion is poorly soluble
+3.q Is AgCl very soluble or poorly soluble in water? (use BINAS table 35)
+3.a Poorly soluble
+4.q Is BaSO<sub>4</sub> very soluble or poorly soluble in water? (use BINAS table 35)
+4.a Poorly soluble
+5.q Is NaCl very soluble or poorly soluble in water? (use BINAS table 35)
+6.q Which ions always make a salt dissolve well?
+6.a Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> and NO<sub>3</sub><sup>−</sup>. A salt with one of these ions dissolves well
+7.q What are spectator ions?
+7.a Ions that do not take part in the reaction and stay dissolved
+8.q You mix solutions of lead(II) nitrate (Pb(NO<sub>3</sub>)<sub>2</sub>) and potassium iodide (KI). A precipitate of PbI<sub>2</sub> forms. Which ions are the spectator ions?
+9.q Write the reaction equation for the formation of the precipitate lead(II) iodide from ions.
+10.q You mix silver nitrate and sodium chloride. What is the reaction equation of the precipitate that forms?
+10.a Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (s)
+11.q You mix barium chloride (BaCl<sub>2</sub>) and sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>). Which precipitate forms?
+12.q Write the full reaction equation for mixing BaCl<sub>2</sub> (aq) and Na<sub>2</sub>SO<sub>4</sub> (aq).
+12.a BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + 2 NaCl (aq)
+13.q The precipitate barium sulfate consists of ions in a lattice. Do you write that precipitate in a reaction equation with or without charges? Give the formula.
+13.a Without charges: BaSO<sub>4</sub> (s)
+14.q Write the reaction equation for the formation of the precipitate calcium carbonate from ions.
+14.a Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (s)
+15.q Which ions make water hard?
+15.a Ca<sup>2+</sup> and Mg<sup>2+</sup> ions
+16.q What does limescale in a kettle consist of?
+16.a CaCO<sub>3</sub>
+17.q You add soda (Na<sub>2</sub>CO<sub>3</sub>) to hard water. What happens to the Ca<sup>2+</sup> ions?
+17.a They form a precipitate of CaCO<sub>3</sub> with CO<sub>3</sub><sup>2−</sup> and are removed from the water
+18.q How can you remove Pb<sup>2+</sup> ions from waste water?
+18.a Add a solution that forms a poorly soluble lead salt (a precipitate) and then filter
+19.q Which reaction equation describes the removal of Fe<sup>3+</sup> ions with limewater (OH<sup>−</sup> ions)?
+20.q Why can you not remove nitrate ions (NO<sub>3</sub><sup>−</sup>) from water as a precipitate?
+20.a Nitrates are very soluble, so a precipitate never forms
+21.q How do you detect chloride ions in a solution?
+21.a You add silver nitrate; a white precipitate of AgCl forms
+22.q How do you detect sulfate ions in a solution?
+22.a You add barium chloride; a white precipitate of BaSO<sub>4</sub> forms
+23.q How do you detect carbon dioxide, and which reaction takes place?
+23.a You pass the gas through limewater: it turns cloudy because of the precipitate CaCO<sub>3</sub>. Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)
+24.q Which two solutions do you mix to make the poorly soluble salt silver chloride?
+24.a Silver nitrate and sodium chloride
+25.q How do you separate the precipitate from the solution?
+25.a By filtering; the precipitate stays behind as the residue
+26.q How do you get the dissolved salt (with the spectator ions) back from the filtrate?
+26.a By evaporating the filtrate
+27.q You mix solutions of sodium sulfate and potassium nitrate. Does a precipitate form?
+27.a No, all possible salts dissolve well
+28.q Write the full reaction equation for mixing Pb(NO<sub>3</sub>)<sub>2</sub> (aq) and KI (aq).
+29.q What is the formula of the salt that consists of Ca<sup>2+</sup> and PO<sub>4</sub><sup>3−</sup> ions?
+30.q Write the reaction equation for dissolving calcium chloride in water.
+30.a CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)
+31.q Write the reaction equation for dissolving aluminium sulfate (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) in water.
+32.q Write the reaction equation for dissolving sodium carbonate in water.
+33.q How many ions form when one formula unit of CaCl<sub>2</sub> dissolves?
+33.a 3 ions: 1 Ca<sup>2+</sup> and 2 Cl<sup>−</sup>
+34.q How can you see in a reaction equation that a precipitate forms?
+34.a The formula of the substance is followed by (s), for example AgCl (s)
+### sk4t-zuren-basen-KB
+heading Acids and bases
+1.q What pH does a neutral solution have?
+2.q What pH does a basic solution have?
+2.a Higher than 7
+3.q Which ion makes a solution acidic?
+4.q Which ion makes a solution basic?
+5.q What do you know about the number of H<sup>+</sup> and OH<sup>−</sup> ions in a neutral solution?
+5.a There are as many H<sup>+</sup> ions as OH<sup>−</sup> ions
+6.q Which pH is the most acidic: 2, 5, 7 or 9?
+6.a pH 2: the lower the pH, the more acidic the solution
+7.a HCl (dissolved in water: HCl (aq))
+10.a CH<sub>3</sub>COOH, also written as HAc
+13.q What is the formula of limewater?
+14.q What is the formula of ammonia, a base?
+15.q Which ions form when HCl dissolves in water? Write the reaction equation.
+16.q Write the reaction equation for dissolving sodium hydroxide in water.
+16.a NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+17.q Write the reaction equation for dissolving sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) in water.
+18.q What is neutralisation?
+18.a An acid reacts with a base to form a salt and water, and the pH becomes 7
+19.q What is the reaction equation, in ions, for the neutralisation of an acid with a base?
+20.q Hydrochloric acid reacts with sodium hydroxide solution. Write the reaction equation.
+20.a HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)
+21.q Sulfuric acid reacts with sodium hydroxide solution. Write the reaction equation.
+21.a H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)
+22.q Which salt forms when nitric acid (HNO<sub>3</sub>) reacts with potassium hydroxide solution (KOH)?
+23.q Zinc reacts with hydrochloric acid. Write the reaction equation.
+23.a Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
+24.q Which gas forms when an acid reacts with a base metal, and how do you detect it?
+24.a Hydrogen; a burning splint makes a pop
+25.q Limestone (CaCO<sub>3</sub>) reacts with hydrochloric acid. Write the reaction equation.
+25.a CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)
+26.q What colour does litmus have in an acidic solution? (use BINAS table 36)
+27.q What colour does bromothymol blue have in a basic solution? (use BINAS table 36)
+28.q What colour does phenolphthalein have in a strongly basic solution? (use BINAS table 36)
+28.a Purple. In an acidic or neutral solution phenolphthalein is colourless
+29.q Universal indicator paper turns green in a solution. What kind of solution is this?
+29.a A neutral solution
+30.q You dilute an acidic solution with a lot of water. What happens to the pH?
+30.a The pH becomes higher, towards 7
+31.q You add sodium hydroxide solution drop by drop to hydrochloric acid. What happens to the pH?
+31.a The pH rises to 7 at neutralisation and then rises further
+32.q Which hazard symbol is on a bottle of concentrated hydrochloric acid?
+32.a The symbol for corrosive
+33.q Why do you not get a strong acid or a strong base on your skin?
+33.a They are corrosive and damage your skin
+34.q How can you use an indicator to estimate the pH of a solution?
+34.a You look at which colour the indicator has and look in BINAS table 36 to see which pH that colour belongs to
