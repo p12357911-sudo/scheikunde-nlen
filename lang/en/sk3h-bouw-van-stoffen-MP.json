@@ -1,0 +1,349 @@
+{
+ "title": "Structure of substances - 123 school",
+ "heading": "Structure of substances",
+ "intro": [
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "question": "Which particles are in the nucleus of an atom?",
+   "answers": {
+    "a": "Neutrons and electrons",
+    "b": "Protons and electrons",
+    "c": "Protons and neutrons",
+    "d": "Only electrons"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which particle in an atom has no charge?",
+   "answers": {
+    "a": "Ion",
+    "b": "Proton",
+    "c": "Neutron",
+    "d": "Electron"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the atomic number show?",
+   "answers": {
+    "a": "The number of neutrons in the nucleus",
+    "b": "The number of shells",
+    "c": "The number of protons and neutrons together",
+    "d": "The number of protons in the nucleus"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does the mass number show?",
+   "answers": {
+    "a": "The number of protons plus electrons",
+    "b": "The number of electrons",
+    "c": "Only the number of neutrons",
+    "d": "The number of protons plus neutrons"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An atom has 11 protons and 12 neutrons. What is the mass number?",
+   "answers": {
+    "a": "23",
+    "b": "12",
+    "c": "11",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "An atom has atomic number 17 and mass number 35. How many neutrons does it have?",
+   "answers": {
+    "a": "35",
+    "b": "17",
+    "c": "18",
+    "d": "52"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many electrons does a neutral atom with 15 protons have?",
+   "answers": {
+    "a": "15",
+    "b": "30",
+    "c": "0",
+    "d": "16"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the maximum number of electrons in the second electron shell?",
+   "answers": {
+    "a": "18",
+    "b": "10",
+    "c": "8",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A sodium atom has 11 electrons. What is the electron arrangement across the shells?",
+   "answers": {
+    "a": "8-3",
+    "b": "2-1-8",
+    "c": "2-8-1",
+    "d": "2-9"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A chlorine atom has 17 electrons. What is the electron arrangement across the shells?",
+   "answers": {
+    "a": "2-8-7",
+    "b": "2-8-8-1",
+    "c": "8-9",
+    "d": "2-7-8"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "An oxygen atom has atomic number 8. How many electrons are in the outer shell?",
+   "answers": {
+    "a": "2",
+    "b": "6",
+    "c": "4",
+    "d": "8"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why do noble gases hardly react with other substances?",
+   "answers": {
+    "a": "They have no electrons",
+    "b": "They have only one proton",
+    "c": "They are always a liquid",
+    "d": "Their outer shell is full"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is an ion?",
+   "answers": {
+    "a": "An atom without electrons and protons",
+    "b": "A charged atom or group of atoms",
+    "c": "An atom with an extra neutron",
+    "d": "A neutral molecule"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A sodium atom gives away one electron. Which ion is formed?",
+   "answers": {
+    "a": "Na",
+    "b": "Na<sup>−</sup>",
+    "c": "Na<sup>+</sup>",
+    "d": "Na<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A chlorine atom takes up one electron. Which ion is formed?",
+   "answers": {
+    "a": "Cl<sup>+</sup>",
+    "b": "Cl",
+    "c": "Cl<sup>2−</sup>",
+    "d": "Cl<sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A magnesium atom (atomic number 12) wants to give away two electrons. Which ion is formed?",
+   "answers": {
+    "a": "Mg<sup>2−</sup>",
+    "b": "Mg<sup>+</sup>",
+    "c": "Mg<sup>2+</sup>",
+    "d": "Mg<sup>12+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which atoms usually form positive ions?",
+   "answers": {
+    "a": "Metal atoms",
+    "b": "Non-metal atoms",
+    "c": "Noble gas atoms",
+    "d": "All atoms"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many electrons does an S<sup>2−</sup> ion have? Sulfur has atomic number 16.",
+   "answers": {
+    "a": "14",
+    "b": "16",
+    "c": "18",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many electrons does an Al<sup>3+</sup> ion have? Aluminium has atomic number 13.",
+   "answers": {
+    "a": "16",
+    "b": "10",
+    "c": "3",
+    "d": "13"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Mg<sup>2+</sup> and Cl<sup>−</sup> ions?",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl<sub>2</sub>",
+    "b": "MgCl<sub>2</sub>",
+    "c": "Mg<sub>2</sub>Cl",
+    "d": "MgCl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Ca<sup>2+</sup> and O<sup>2−</sup> ions?",
+   "answers": {
+    "a": "Ca<sub>2</sub>O",
+    "b": "CaO<sub>2</sub>",
+    "c": "CaO",
+    "d": "Ca<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Al<sup>3+</sup> and O<sup>2−</sup> ions?",
+   "answers": {
+    "a": "AlO",
+    "b": "Al<sub>2</sub>O<sub>3</sub>",
+    "c": "Al<sub>3</sub>O<sub>2</sub>",
+    "d": "Al<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Na<sup>+</sup> and SO<sub>4</sub><sup>2−</sup> ions?",
+   "answers": {
+    "a": "NaSO<sub>4</sub>",
+    "b": "Na(SO<sub>4</sub>)<sub>2</sub>",
+    "c": "Na<sub>2</sub>SO<sub>4</sub>",
+    "d": "Na<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Ca<sup>2+</sup> and NO<sub>3</sub><sup>−</sup> ions?",
+   "answers": {
+    "a": "CaNO<sub>6</sub>",
+    "b": "CaNO<sub>3</sub>",
+    "c": "Ca<sub>2</sub>NO<sub>3</sub>",
+    "d": "Ca(NO<sub>3</sub>)<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the salt with formula Na<sub>2</sub>S?",
+   "answers": {
+    "a": "Sulfur disodium",
+    "b": "Sodium sulfide",
+    "c": "Disodium sulfide",
+    "d": "Sodium sulfate"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How are the ions in a salt held together?",
+   "answers": {
+    "a": "Because of gravity",
+    "b": "By the attraction between positive and negative ions",
+    "c": "Because of freely moving electrons",
+    "d": "Because of shared electron pairs"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "When does a salt conduct electric current?",
+   "answers": {
+    "a": "Never",
+    "b": "Only when it is cold",
+    "c": "When it is dissolved or molten",
+    "d": "Only when it is solid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why do salts have a high melting point?",
+   "answers": {
+    "a": "The attraction between the ions is strong",
+    "b": "Salts consist of heavy atoms",
+    "c": "Salts consist of separate atoms",
+    "d": "The molecules are very large"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How is a covalent bond formed?",
+   "answers": {
+    "a": "An atom takes up a proton",
+    "b": "Two metal nuclei attract each other",
+    "c": "An atom gives up electrons to another atom",
+    "d": "Atoms share one or more pairs of electrons"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Between which atoms does a covalent bond usually occur?",
+   "answers": {
+    "a": "Between metal atoms",
+    "b": "Between a metal atom and a noble gas atom",
+    "c": "Between non-metal atoms",
+    "d": "Only between identical atoms"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many pairs of electrons do the two hydrogen atoms share in an H<sub>2</sub> molecule?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "0"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why do metals conduct electric current?",
+   "answers": {
+    "a": "They have freely moving electrons",
+    "b": "They consist of molecules",
+    "c": "They have no electrons",
+    "d": "They consist of positive and negative ions that can move"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance consists of molecules?",
+   "answers": {
+    "a": "Sodium chloride",
+    "b": "Iron",
+    "c": "Magnesium oxide",
+    "d": "Water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance conducts electric current in the solid state?",
+   "answers": {
+    "a": "Table salt",
+    "b": "Sugar",
+    "c": "Copper",
+    "d": "Sulfur"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

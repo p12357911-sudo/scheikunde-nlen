@@ -1,0 +1,349 @@
+{
+ "title": "Food and personal care - 123 school",
+ "heading": "Food and personal care",
+ "intro": [
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "question": "Which three main groups of nutrients provide energy?",
+   "answers": {
+    "a": "Carbohydrates, fats and proteins",
+    "b": "Vitamins, minerals and water",
+    "c": "Vitamins, fats and water",
+    "d": "Minerals, proteins and fibre"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which nutrient is mainly used as a building material for muscles?",
+   "answers": {
+    "a": "Carbohydrates",
+    "b": "Fibre",
+    "c": "Water",
+    "d": "Proteins"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which nutrient is the body's most important short-term source of energy?",
+   "answers": {
+    "a": "Carbohydrates",
+    "b": "Vitamins",
+    "c": "Minerals",
+    "d": "Proteins"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substances does a fat consist of?",
+   "answers": {
+    "a": "Glycerol and fatty acids",
+    "b": "Glucose and water",
+    "c": "Amino acids",
+    "d": "Starch and fibre"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which nutrient provides the most energy per gram?",
+   "answers": {
+    "a": "Water",
+    "b": "Fat",
+    "c": "Carbohydrates",
+    "d": "Proteins"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do proteins consist of?",
+   "answers": {
+    "a": "From fatty acids",
+    "b": "From minerals",
+    "c": "Amino acids",
+    "d": "From glucose"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does starch consist of?",
+   "answers": {
+    "a": "From fatty acids",
+    "b": "Long chains of glucose",
+    "c": "Amino acids",
+    "d": "From ions"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A food contains 20 g of fat. Fat provides 38 kJ per gram. How much energy does the fat provide?",
+   "answers": {
+    "a": "760 kJ",
+    "b": "190 kJ",
+    "c": "58 kJ",
+    "d": "7600 kJ"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A product contains 50 g of carbohydrates. Carbohydrates provide 17 kJ per gram. How much energy is that?",
+   "answers": {
+    "a": "850 kJ",
+    "b": "8500 kJ",
+    "c": "67 kJ",
+    "d": "294 kJ"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A product contains 10 g of fat (38 kJ per gram), 30 g of carbohydrates (17 kJ per gram) and 5 g of protein (17 kJ per gram). How much energy does this product provide?",
+   "answers": {
+    "a": "765 kJ",
+    "b": "1710 kJ",
+    "c": "890 kJ",
+    "d": "975 kJ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you test for starch?",
+   "answers": {
+    "a": "With iodine solution: blue-black",
+    "b": "With Fehling's reagent: red precipitate",
+    "c": "With limewater: cloudy",
+    "d": "With litmus: red"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you test for glucose?",
+   "answers": {
+    "a": "With limewater: cloudy",
+    "b": "With iodine: blue-black",
+    "c": "With Fehling's or Benedict's solution and heating: red precipitate",
+    "d": "With a glowing splint"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you test for protein with the biuret test?",
+   "answers": {
+    "a": "With sodium hydroxide solution and copper sulfate: purple colour",
+    "b": "With iodine: blue-black",
+    "c": "With limewater: white",
+    "d": "With Fehling's reagent: red"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you test for fat?",
+   "answers": {
+    "a": "A grease spot on paper: the paper becomes translucent",
+    "b": "With litmus: red",
+    "c": "With limewater: cloudy",
+    "d": "With iodine: blue-black"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does your body need minerals such as calcium for?",
+   "answers": {
+    "a": "For strong bones and teeth",
+    "b": "For dissolving fat",
+    "c": "For storing heat",
+    "d": "For supplying energy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an important function of vitamins?",
+   "answers": {
+    "a": "They are the main building material",
+    "b": "They make water acidic",
+    "c": "They supply a lot of energy",
+    "d": "They help the body to work properly, in small amounts"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance is an example of a preservative in food?",
+   "answers": {
+    "a": "Glucose",
+    "b": "Oxygen",
+    "c": "Water",
+    "d": "Salt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why do you preserve food?",
+   "answers": {
+    "a": "To prevent bacteria and moulds from spoiling it",
+    "b": "To make it melt faster",
+    "c": "To make it richer in energy",
+    "d": "To make it heavier"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which method does not use a chemical additive to preserve food?",
+   "answers": {
+    "a": "Brining",
+    "b": "Adding a preservative",
+    "c": "Seasoning with vinegar",
+    "d": "Freezing"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does a cut apple turn brown?",
+   "answers": {
+    "a": "The apple takes up hydrogen",
+    "b": "The apple absorbs water",
+    "c": "The apple evaporates",
+    "d": "The substances in the apple react with oxygen from the air"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance prevents browning caused by oxygen (antioxidant)?",
+   "answers": {
+    "a": "Iodine",
+    "b": "Salt",
+    "c": "Vitamin C",
+    "d": "Sugar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a pH of 3 mean?",
+   "answers": {
+    "a": "The solution contains no water",
+    "b": "The solution is basic",
+    "c": "The solution is neutral",
+    "d": "The solution is acidic"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the pH of a neutral solution?",
+   "answers": {
+    "a": "14",
+    "b": "1",
+    "c": "7",
+    "d": "0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which pH belongs to an alkaline solution?",
+   "answers": {
+    "a": "7",
+    "b": "3",
+    "c": "10",
+    "d": "1"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does blue litmus have in an acidic solution?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Colourless",
+    "d": "Blue"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance in lemon juice makes it acidic?",
+   "answers": {
+    "a": "Citric acid",
+    "b": "Hydrochloric acid",
+    "c": "Lactic acid",
+    "d": "Acetic acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You dilute an acidic solution with water. What happens to the pH?",
+   "answers": {
+    "a": "The pH becomes exactly 14",
+    "b": "The pH becomes exactly 0",
+    "c": "The pH becomes higher and gets closer to 7",
+    "d": "The pH decreases"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which reaction equation of hydrochloric acid with sodium hydroxide solution is correct?",
+   "answers": {
+    "a": "HCl + NaOH → NaCl + H<sub>2</sub>O<sub>2</sub>",
+    "b": "2 HCl + NaOH → NaCl + H<sub>2</sub>O",
+    "c": "HCl + NaOH → NaCl + H<sub>2</sub>O",
+    "d": "HCl + NaOH → NaCl + H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is formed in a neutralisation reaction of an acid and a base?",
+   "answers": {
+    "a": "A salt and water",
+    "b": "Hydrogen and oxygen",
+    "c": "Only a salt",
+    "d": "Another acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an emulsion?",
+   "answers": {
+    "a": "A solution of salt in water",
+    "b": "A mixture of two gases",
+    "c": "A solid in a solid",
+    "d": "A mixture of two liquids that do not dissolve in each other, such as oil and water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance keeps oil and water mixed in mayonnaise?",
+   "answers": {
+    "a": "Salt",
+    "b": "An acid",
+    "c": "An emulsifier such as egg yolk",
+    "d": "Sugar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you call the part of a soap molecule that dissolves in water?",
+   "answers": {
+    "a": "Neutral core",
+    "b": "Fatty-acid tail",
+    "c": "Hydrophilic head",
+    "d": "Hydrophobic tail"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you call the part of a soap molecule that dissolves well in fat?",
+   "answers": {
+    "a": "Water head",
+    "b": "Hydrophobic tail",
+    "c": "Hydrophilic head",
+    "d": "Salt head"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why can soap remove a grease stain?",
+   "answers": {
+    "a": "Soap evaporates the fat",
+    "b": "Soap makes the fat heavier than water",
+    "c": "Soap reacts with the fat to form water",
+    "d": "The hydrophobic tails attach to the fat and the hydrophilic heads to the water"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

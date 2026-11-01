@@ -1,0 +1,1212 @@
+### sk3h-atomen-moleculen-MP
+0.B Ion
+1.Q What is a molecule?
+3.Q Which atomic symbol belongs to sodium?
+3.A K
+3.B N
+3.C Ni
+3.D Na
+4.Q Which atomic symbol belongs to potassium?
+4.A K
+4.B Ka
+4.C P
+4.D Kr
+5.Q Which element has the symbol Fe?
+5.A Iron
+5.B Fluorine
+5.C Lead
+6.Q Which element has the symbol Pb?
+6.C Mercury
+6.D Lead
+7.Q Which element has the symbol Hg?
+7.A Silver
+7.C Mercury
+7.D Hydrogen
+8.Q Which element has the symbol Cu?
+8.B Copper
+9.Q How many atoms are in one molecule of H<sub>2</sub>SO<sub>4</sub>?
+9.A 3
+9.B 7
+9.C 6
+9.D 4
+10.Q How many atoms are there in total in 3 H<sub>2</sub>O?
+10.A 9
+10.B 5
+10.C 3
+10.D 6
+12.Q How many hydrogen atoms are there in total in 2 CH<sub>4</sub>?
+12.A 4
+12.B 8
+12.C 6
+12.D 2
+13.A H<sub>2</sub>O
+13.B N<sub>2</sub>
+13.C NH<sub>3</sub>
+13.D NO
+14.A N<sub>2</sub>
+14.B Cl<sub>2</sub>
+14.C CO<sub>2</sub>
+14.D O<sub>2</sub>
+15.Q What is the molecular formula of carbon monoxide?
+15.A Co
+15.B CO<sub>2</sub>
+15.C C<sub>2</sub>O
+15.D CO
+16.Q What is the systematic name of CO<sub>2</sub>?
+16.C Carbon dioxide
+17.Q What is the systematic name of SO<sub>3</sub>?
+17.A Sulfur trioxide
+17.C Sulfur dioxide
+18.A Di
+18.D Tri
+22.C Fluorine
+27.A N + H → NH<sub>3</sub>
+27.B N + H → NH
+27.C N<sub>2</sub> + H<sub>2</sub> → N<sub>2</sub>H<sub>3</sub>
+27.D N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>
+28.A 2 H<sub>2</sub>O → 2 H<sub>2</sub> + 2 O<sub>2</sub>
+28.B 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+28.C H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+28.D 2 H<sub>2</sub>O → H<sub>2</sub> + 2 O<sub>2</sub>
+29.A 2
+29.B 4
+29.C 6
+29.D 3
+30.A 2
+30.B 1
+30.C 4
+30.D 3
+31.A 5
+31.B 4
+31.C 3
+31.D 6
+### sk3h-bouw-van-stoffen-MP
+0.Q Which particles are in the nucleus of an atom?
+0.C Protons and neutrons
+1.Q Which particle in an atom has no charge?
+1.A Ion
+2.Q What does the atomic number show?
+2.D The number of protons in the nucleus
+3.Q What does the mass number show?
+3.D The number of protons plus neutrons
+4.Q An atom has 11 protons and 12 neutrons. What is the mass number?
+4.A 23
+4.B 12
+4.C 11
+4.D 1
+5.Q An atom has atomic number 17 and mass number 35. How many neutrons does it have?
+5.A 35
+5.B 17
+5.C 18
+5.D 52
+6.Q How many electrons does a neutral atom with 15 protons have?
+6.A 15
+6.B 30
+6.C 0
+6.D 16
+7.Q What is the maximum number of electrons in the second electron shell?
+7.A 18
+7.B 10
+7.C 8
+7.D 2
+8.Q A sodium atom has 11 electrons. What is the electron arrangement across the shells?
+8.A 8-3
+8.B 2-1-8
+8.C 2-8-1
+8.D 2-9
+9.Q A chlorine atom has 17 electrons. What is the electron arrangement across the shells?
+9.A 2-8-7
+9.B 2-8-8-1
+9.C 8-9
+9.D 2-7-8
+10.Q An oxygen atom has atomic number 8. How many electrons are in the outer shell?
+10.A 2
+10.B 6
+10.C 4
+10.D 8
+11.Q Why do noble gases hardly react with other substances?
+11.D Their outer shell is full
+12.Q What is an ion?
+12.B A charged atom or group of atoms
+13.Q A sodium atom gives away one electron. Which ion is formed?
+13.A Na
+13.B Na<sup>−</sup>
+13.C Na<sup>+</sup>
+13.D Na<sup>2+</sup>
+14.Q A chlorine atom takes up one electron. Which ion is formed?
+14.A Cl<sup>+</sup>
+14.B Cl
+14.C Cl<sup>2−</sup>
+14.D Cl<sup>−</sup>
+15.Q A magnesium atom (atomic number 12) wants to give away two electrons. Which ion is formed?
+15.A Mg<sup>2−</sup>
+15.B Mg<sup>+</sup>
+15.C Mg<sup>2+</sup>
+15.D Mg<sup>12+</sup>
+16.Q Which atoms usually form positive ions?
+16.A Metal atoms
+17.Q How many electrons does an S<sup>2−</sup> ion have? Sulfur has atomic number 16.
+17.A 14
+17.B 16
+17.C 18
+17.D 2
+18.Q How many electrons does an Al<sup>3+</sup> ion have? Aluminium has atomic number 13.
+18.A 16
+18.B 10
+18.C 3
+18.D 13
+19.Q What is the formula of the salt that consists of Mg<sup>2+</sup> and Cl<sup>−</sup> ions?
+19.A Mg<sub>2</sub>Cl<sub>2</sub>
+19.C Mg<sub>2</sub>Cl
+20.Q What is the formula of the salt that consists of Ca<sup>2+</sup> and O<sup>2−</sup> ions?
+20.A Ca<sub>2</sub>O
+20.B CaO<sub>2</sub>
+20.C CaO
+20.D Ca<sub>2</sub>O<sub>2</sub>
+21.Q What is the formula of the salt that consists of Al<sup>3+</sup> and O<sup>2−</sup> ions?
+21.A AlO
+21.B Al<sub>2</sub>O<sub>3</sub>
+21.C Al<sub>3</sub>O<sub>2</sub>
+21.D Al<sub>2</sub>O
+22.Q What is the formula of the salt that consists of Na<sup>+</sup> and SO<sub>4</sub><sup>2−</sup> ions?
+22.B Na(SO<sub>4</sub>)<sub>2</sub>
+22.C Na<sub>2</sub>SO<sub>4</sub>
+22.D Na<sub>2</sub>(SO<sub>4</sub>)<sub>2</sub>
+23.Q What is the formula of the salt that consists of Ca<sup>2+</sup> and NO<sub>3</sub><sup>−</sup> ions?
+23.C Ca<sub>2</sub>NO<sub>3</sub>
+23.D Ca(NO<sub>3</sub>)<sub>2</sub>
+24.Q What is the name of the salt with formula Na<sub>2</sub>S?
+24.B Sodium sulfide
+25.Q How are the ions in a salt held together?
+25.B By the attraction between positive and negative ions
+26.Q When does a salt conduct electric current?
+26.C When it is dissolved or molten
+27.Q Why do salts have a high melting point?
+27.A The attraction between the ions is strong
+28.Q How is a covalent bond formed?
+28.D Atoms share one or more pairs of electrons
+29.Q Between which atoms does a covalent bond usually occur?
+29.C Between non-metal atoms
+30.Q How many pairs of electrons do the two hydrogen atoms share in an H<sub>2</sub> molecule?
+30.A 2
+30.B 1
+30.C 3
+30.D 0
+31.Q Why do metals conduct electric current?
+31.A They have freely moving electrons
+32.Q Which substance consists of molecules?
+32.B Iron
+32.D Water
+33.Q Which substance conducts electric current in the solid state?
+33.B Sugar
+33.C Copper
+### sk3h-brandstoffen-kunststoffen-MP
+0.Q Which three substances are fossil fuels?
+0.B Crude oil, natural gas and coal
+1.Q Why are crude oil, natural gas and coal called non-renewable fuels?
+1.C They formed over millions of years and are running out
+2.Q Which fuel is renewable?
+2.C Natural gas
+3.Q How do you separate crude oil into different fractions?
+3.B By distillation, based on the difference in boiling point
+4.Q Which fraction of crude oil has the lowest boiling point?
+4.B Gas (light substances)
+5.Q Which fraction of crude oil has the highest boiling point and stays at the bottom of the distillation tower?
+5.D Gas
+6.Q What does a hydrocarbon consist of?
+6.A Only carbon and hydrogen atoms
+7.Q What is the molecular formula of methane?
+7.A CH<sub>3</sub>
+7.B C<sub>2</sub>H<sub>6</sub>
+7.C CH<sub>4</sub>
+7.D C<sub>4</sub>H<sub>10</sub>
+8.Q What is the molecular formula of propane?
+8.A C<sub>3</sub>H<sub>6</sub>
+8.B C<sub>3</sub>H<sub>4</sub>
+8.C C<sub>2</sub>H<sub>6</sub>
+8.D C<sub>3</sub>H<sub>8</sub>
+9.Q What is the molecular formula of butane?
+9.A C<sub>5</sub>H<sub>12</sub>
+9.B C<sub>4</sub>H<sub>8</sub>
+9.C C<sub>4</sub>H<sub>10</sub>
+9.D C<sub>4</sub>H<sub>6</sub>
+10.Q How many hydrogen atoms does an alkane with 5 carbon atoms have? An alkane has the formula CnH<sub>2</sub>n+2.
+10.A 14
+10.B 10
+10.C 12
+10.D 11
+11.Q Which name belongs to C<sub>2</sub>H<sub>6</sub>?
+11.A Ethene
+11.B Ethane
+12.Q Which substances are formed in the complete combustion of a hydrocarbon?
+12.A Hydrogen and oxygen
+12.C Carbon dioxide and water
+13.Q Which substances can be formed in the incomplete combustion of a hydrocarbon?
+13.A Carbon monoxide, soot and water
+14.Q Why is incomplete combustion dangerous?
+14.D Poisonous carbon monoxide is formed
+15.Q How does incomplete combustion happen?
+15.A There is too little oxygen
+16.Q Which equation shows the complete combustion of methane?
+16.A CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+16.B CH<sub>4</sub> + 2 O<sub>2</sub> → CO + 2 H<sub>2</sub>O
+16.C CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+16.D CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.Q Which number must go in front of O<sub>2</sub>? C<sub>3</sub>H<sub>8</sub> + … O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O
+17.A 7
+17.B 3
+17.C 5
+17.D 4
+18.Q Which equation shows the complete combustion of butane?
+18.A C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+18.B C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O
+18.C 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O
+18.D 2 C<sub>4</sub>H<sub>10</sub> + 9 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O
+19.Q Which gas is mainly responsible for the enhanced greenhouse effect?
+19.A Carbon dioxide
+19.D Oxygen
+20.Q Which two substances cause acid rain?
+20.D Sulfur dioxide and nitrogen oxides
+21.Q What are the three conditions for combustion (the fire triangle)?
+21.A Fuel, oxygen and a high enough temperature
+22.Q You put out a burning pan with a lid. Which condition do you remove?
+22.B The temperature
+22.C Oxygen
+23.Q Is burning an exothermic or an endothermic reaction?
+23.C Exothermic: heat is released
+24.Q What is formed when hydrogen burns?
+24.A Water
+24.B Carbon dioxide
+25.Q Which equation shows the combustion of hydrogen?
+25.A H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+25.B H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+25.C 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+25.D 2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+26.Q What is a polymer?
+26.D A substance with very long chain molecules
+27.Q What is a monomer?
+27.B The small molecule from which a polymer is built up
+28.Q From which monomer is polyethene made?
+28.A Ethane
+28.B Ethene
+29.Q What is a thermoplastic?
+29.B A plastic that softens when heated and can then be reshaped
+30.Q What is a thermosetting plastic?
+30.A A plastic that cannot be reshaped once it has hardened
+31.Q Which plastic is an elastomer?
+32.Q Why is it bad for the environment to throw plastic away in nature?
+32.D It hardly breaks down and lasts for a very long time
+33.Q What is it called when plastic is reused to make new products?
+33.D Combustion
+### sk3h-reacties-MP
+1.Q What happens in a chemical reaction?
+3.A Mixtures
+3.B Products
+3.C Reactants
+3.D Solvents
+4.A HO
+4.B HO<sub>2</sub>
+4.C H<sub>2</sub>O<sub>2</sub>
+4.D H<sub>2</sub>O
+6.A 6
+6.B 4
+6.C 5
+6.D 2
+7.A 3
+7.B 9
+7.C 6
+7.D 2
+8.Q What is the molecular formula of methane?
+8.A C<sub>4</sub>H<sub>10</sub>
+8.B CH<sub>4</sub>
+8.C C<sub>3</sub>H<sub>8</sub>
+8.D C<sub>2</sub>H<sub>6</sub>
+9.Q What is the molecular formula of oxygen gas?
+9.A O
+9.B CO<sub>2</sub>
+9.C O<sub>2</sub>
+9.D O<sub>3</sub>
+10.A H<sub>2</sub>
+10.B H<sub>2</sub>O
+10.C H
+10.D 2H
+11.A Balance the atoms
+11.B Write down the reaction scheme in molecular formulae
+11.C Simplify the reaction equation
+11.D Write down the reaction scheme in words
+12.A Simplify the reaction equation
+12.B Balance the atoms
+12.C Write down the reaction scheme in molecular formulae
+12.D Write down the reaction scheme in words
+13.A Balance the atoms
+13.B Write down the reaction scheme in molecular formulae
+13.C Write down the reaction scheme in words
+13.D Simplify the reaction equation
+15.A H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+15.B H + O → H<sub>2</sub>O
+15.C H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+15.D 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+16.A H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+16.B 2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+16.C 2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O
+16.D 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+17.A CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.B CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+17.C CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.D 2 CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+18.A 2 Mg + 2 O<sub>2</sub> → 2 MgO
+18.B Mg + O<sub>2</sub> → MgO<sub>2</sub>
+18.C 2 Mg + O<sub>2</sub> → 2 MgO
+18.D Mg + O<sub>2</sub> → MgO
+19.A 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+19.B H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+19.C 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O
+19.D 8 H<sub>2</sub> + 4 O<sub>2</sub> → 8 H<sub>2</sub>O
+20.Q What is decomposition?
+20.D Splitting a substance into two or more other substances
+21.Q What is a synthesis?
+21.C Making one new substance from two or more substances
+23.B Oxygen
+23.C Hydrogen
+23.D Carbon dioxide
+24.B Hydrogen
+24.C Carbon dioxide
+25.Q What is a fuel?
+26.Q What is a precipitate?
+26.A A solid that forms in a solution
+27.Q How do you test for oxygen?
+27.D A glowing splint burns more brightly
+28.Q How do you test for carbon dioxide?
+28.B With limewater: it turns cloudy
+29.Q How do you test for hydrogen gas?
+29.C With a burning splint: you hear a squeaky pop
+30.Q Which reaction equation of sodium with chlorine is balanced?
+31.A 1
+31.B 4
+31.C 3
+31.D 2
+32.A 2 Mg + O<sub>2</sub> → 2 MgO
+32.B 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+32.C 2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub>
+33.A N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>
+33.B 2 Mg + O<sub>2</sub> → 2 MgO
+### sk3h-rekenen-aan-reacties-MP
+0.Q What does the law of conservation of mass state?
+0.C The total mass before the reaction is equal to the total mass after the reaction
+1.Q In a reaction in a closed bottle, 12 g of magnesium reacts with 8 g of oxygen. How many grams of magnesium oxide are formed?
+1.A 20 g
+1.B 96 g
+1.C 24 g
+1.D 4 g
+2.Q When 10.0 g of limestone (CaCO<sub>3</sub>) is heated, 5.6 g of calcium oxide and carbon dioxide are formed. How many grams of carbon dioxide are formed?
+2.A 15.6 g
+2.B 4.4 g
+2.C 5.6 g
+2.D 10.0 g
+3.Q You burn steel wool in the open air. The mass increases. Why is that?
+3.A The steel wool takes up oxygen from the air
+4.Q A candle burns in the open air and the mass decreases. Why is that?
+4.C The gases formed, carbon dioxide and water vapour, escape into the air
+5.Q Calculate the molecular mass (or formula mass) of H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u.
+5.A 19 u
+5.B 17 u
+5.C 34 u
+5.D 18 u
+6.Q Calculate the molecular mass (or formula mass) of CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u.
+6.A 28 u
+6.B 56 u
+6.C 44 u
+6.D 32 u
+7.Q Calculate the molecular mass (or formula mass) of NH<sub>3</sub>. Atomic masses: N = 14.0 u, H = 1.0 u.
+7.A 3 u
+7.B 31 u
+7.C 17 u
+7.D 15 u
+8.Q Calculate the molecular mass (or formula mass) of H<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u, S = 32.0 u, O = 16.0 u.
+8.A 49 u
+8.B 98 u
+8.C 97 u
+8.D 99 u
+9.Q Calculate the molecular mass (or formula mass) of CaCO<sub>3</sub>. Atomic masses: Ca = 40.0 u, C = 12.0 u, O = 16.0 u.
+9.A 100 u
+9.B 140 u
+9.C 60 u
+9.D 68 u
+10.Q Calculate the molecular mass (or formula mass) of Ca(OH)<sub>2</sub>. Atomic masses: Ca = 40.0 u, O = 16.0 u, H = 1.0 u.
+10.A 57 u
+10.B 34 u
+10.C 74 u
+10.D 114 u
+11.Q Calculate the molecular mass (or formula mass) of Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: Fe = 56.0 u, O = 16.0 u.
+11.A 160 u
+11.B 104 u
+11.C 216 u
+11.D 72 u
+12.Q Calculate the mass percentage of carbon in CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u.
+12.A 27.3%
+12.B 13.6%
+12.C 21.4%
+12.D 72.7%
+13.Q Calculate the mass percentage of oxygen in H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u.
+13.A 47.1%
+13.B 11.1%
+13.C 44.4%
+13.D 88.9%
+14.Q Calculate the mass percentage of iron in Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: Fe = 56.0 u, O = 16.0 u.
+14.A 51.9%
+14.B 30.0%
+14.C 35.0%
+14.D 70.0%
+15.Q Hydrogen and oxygen react to form water: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u. How many grams of water are formed from 4.0 g of hydrogen?
+15.A 72.0 g
+15.B 18.0 g
+15.C 20.0 g
+15.D 36.0 g
+16.Q Carbon burns to form carbon dioxide: C + O<sub>2</sub> → CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u. How many grams of carbon dioxide are formed from 12.0 g of carbon?
+16.A 28.0 g
+16.B 32.0 g
+16.C 56.0 g
+16.D 44.0 g
+17.Q Limestone is heated: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. Atomic masses: Ca = 40.0 u, C = 12.0 u, O = 16.0 u. How many grams of calcium oxide are formed from 50.0 g of limestone?
+17.A 56.0 g
+17.B 63.6 g
+17.C 28.0 g
+17.D 22.0 g
+18.Q Magnesium burns: 2 Mg + O<sub>2</sub> → 2 MgO. Atomic masses: Mg = 24.0 u, O = 16.0 u. How many grams of magnesium oxide are formed from 12.0 g of magnesium?
+18.A 28.0 g
+18.B 20.0 g
+18.C 40.0 g
+18.D 30.0 g
+19.Q Magnesium and oxygen react in the mass ratio 3 : 2. How many grams of oxygen are needed for 9.0 g of magnesium?
+19.A 13.5 g
+19.B 18.0 g
+19.C 6.0 g
+19.D 7.0 g
+20.Q Copper and sulfur react to form copper(I) sulfide in the mass ratio 4 : 1. How many grams of copper(I) sulfide are formed from 8.0 g of copper and 2.0 g of sulfur?
+20.A 6.0 g
+20.B 8.0 g
+20.C 10.0 g
+20.D 16.0 g
+21.Q Iron and sulfur react in the mass ratio 7 : 4. How many grams of sulfur do you need for 14 g of iron?
+21.A 8 g
+21.B 10 g
+21.C 56 g
+21.D 24.5 g
+22.Q The molar mass of water is 18 g/mol. How many moles of water are in 36 g of water?
+22.A 648 mol
+22.B 18.0 mol
+22.C 0.5 mol
+22.D 2.0 mol
+23.Q The molar mass of CO<sub>2</sub> is 44 g/mol. How many moles of CO<sub>2</sub> are in 4.4 g of CO<sub>2</sub>?
+23.A 194 mol
+23.B 0.2 mol
+23.C 0.10 mol
+23.D 10 mol
+24.Q The molar mass of NaCl is 58.5 g/mol. How many grams of NaCl is 0.40 mol?
+24.A 58.9 g
+24.B 146 g
+24.C 0.01 g
+24.D 23.4 g
+25.Q The molar mass of H<sub>2</sub>SO<sub>4</sub> is 98 g/mol. How many moles is 49 g of H<sub>2</sub>SO<sub>4</sub>?
+25.A 4802 mol
+25.B 2.0 mol
+25.C 51 mol
+25.D 0.5 mol
+26.Q In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 3.0 mol of H<sub>2</sub> reacts. How many moles of H<sub>2</sub>O are formed?
+26.A 2.0 mol
+26.B 6.0 mol
+26.C 3.0 mol
+26.D 1.5 mol
+27.Q In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 4.0 mol of H<sub>2</sub> reacts. How many moles of O<sub>2</sub> are needed for this?
+27.A 1.0 mol
+27.B 8.0 mol
+27.C 4.0 mol
+27.D 2.0 mol
+28.Q In the reaction N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>, 6.0 mol of H<sub>2</sub> reacts. How many moles of NH<sub>3</sub> are formed?
+28.A 9.0 mol
+28.B 6.0 mol
+28.C 2.0 mol
+28.D 4.0 mol
+29.Q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 0.50 mol of Mg reacts. How many moles of MgO are formed?
+29.A 0.50 mol
+29.B 0.75 mol
+29.C 0.25 mol
+29.D 1.00 mol
+30.Q What does a molar mass of 18 g/mol mean for water?
+30.A One mole of water has a mass of 18 g
+31.Q What is the mass of 2.0 mol of CO<sub>2</sub>? Molar mass of CO<sub>2</sub> = 44 g/mol.
+31.A 22 g
+31.B 88 g
+31.C 176 g
+31.D 46 g
+32.Q What can you read from 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?
+32.D 2 mol of H<sub>2</sub> reacts with 1 mol of O<sub>2</sub> to form 2 mol of H<sub>2</sub>O
+33.Q How many moles of CO<sub>2</sub> is 22 g of CO<sub>2</sub>? Molar mass of CO<sub>2</sub> = 44 g/mol.
+33.A 968 mol
+33.B 0.5 mol
+33.C 2 mol
+33.D 28 mol
+### sk3h-stoffen-MP
+0.Q What is density?
+1.A ρ = m × V
+1.B ρ = m : V
+1.C ρ = V : m
+1.D ρ = m − V
+2.Q Which unit goes with density?
+2.A mL
+2.B °C
+2.C g/cm<sup>3</sup>
+2.D g/mol
+3.A 2.7 g/cm<sup>3</sup>
+3.B 0.37 g/cm<sup>3</sup>
+3.C 1080 g/cm<sup>3</sup>
+3.D 34 g/cm<sup>3</sup>
+6.D Melting point
+7.B The temperature at which a solid becomes a liquid
+8.Q What is the boiling point of water?
+8.A 50 °C
+8.B 0 °C
+8.C 100 °C
+8.D 37 °C
+10.B Hydrophobic
+10.C Hydrophilic
+16.B An element
+16.C A pure substance
+16.D A mixture
+18.Q What is a suspension?
+20.A Filtration
+20.B Chromatography
+20.C Evaporation (Indampen)
+20.D Distillation
+21.A Chromatography
+21.B Settling (Bezinken)
+21.C Distillation
+21.D Filtration
+22.A Chromatography
+22.B Filtration
+22.C Settling (Bezinken)
+22.D Evaporation (Indampen)
+26.D The residue
+28.A 32 g/cm<sup>3</sup>
+28.B 0.80 g/cm<sup>3</sup>
+28.C 1.25 g/cm<sup>3</sup>
+28.D 80.00 g/cm<sup>3</sup>
+29.A 2.9 g
+29.B 395 g
+29.C 0.63 g
+29.D 39.5 g
+30.A 1.2%
+30.B 88%
+30.C 24%
+30.D 12%
+31.A Copper
+31.B Lead
+31.C Iron
+### sk3h-voeding-verzorging-MP
+0.Q Which three main groups of nutrients provide energy?
+0.A Carbohydrates, fats and proteins
+1.Q Which nutrient is mainly used as a building material for muscles?
+1.A Carbohydrates
+1.C Water
+1.D Proteins
+2.Q Which nutrient is the body's most important short-term source of energy?
+2.A Carbohydrates
+2.D Proteins
+3.Q Which substances does a fat consist of?
+3.A Glycerol and fatty acids
+4.Q Which nutrient provides the most energy per gram?
+4.A Water
+4.B Fat
+4.C Carbohydrates
+4.D Proteins
+5.Q What do proteins consist of?
+5.C Amino acids
+6.Q What does starch consist of?
+6.B Long chains of glucose
+6.C Amino acids
+7.Q A food contains 20 g of fat. Fat provides 38 kJ per gram. How much energy does the fat provide?
+7.A 760 kJ
+7.B 190 kJ
+7.C 58 kJ
+7.D 7600 kJ
+8.Q A product contains 50 g of carbohydrates. Carbohydrates provide 17 kJ per gram. How much energy is that?
+8.A 850 kJ
+8.B 8500 kJ
+8.C 67 kJ
+8.D 294 kJ
+9.Q A product contains 10 g of fat (38 kJ per gram), 30 g of carbohydrates (17 kJ per gram) and 5 g of protein (17 kJ per gram). How much energy does this product provide?
+9.A 765 kJ
+9.B 1710 kJ
+9.C 890 kJ
+9.D 975 kJ
+10.Q How do you test for starch?
+10.A With iodine solution: blue-black
+11.Q How do you test for glucose?
+11.C With Fehling's or Benedict's solution and heating: red precipitate
+12.Q How do you test for protein with the biuret test?
+12.A With sodium hydroxide solution and copper sulfate: purple colour
+13.Q How do you test for fat?
+13.A A grease spot on paper: the paper becomes translucent
+14.Q What does your body need minerals such as calcium for?
+14.A For strong bones and teeth
+15.Q What is an important function of vitamins?
+15.D They help the body to work properly, in small amounts
+16.Q Which substance is an example of a preservative in food?
+16.B Oxygen
+16.C Water
+16.D Salt
+17.Q Why do you preserve food?
+17.A To prevent bacteria and moulds from spoiling it
+18.Q Which method does not use a chemical additive to preserve food?
+18.D Freezing
+19.Q Why does a cut apple turn brown?
+19.D The substances in the apple react with oxygen from the air
+20.Q Which substance prevents browning caused by oxygen (antioxidant)?
+20.B Salt
+20.C Vitamin C
+20.D Sugar
+21.Q What does a pH of 3 mean?
+21.D The solution is acidic
+22.Q What is the pH of a neutral solution?
+22.A 14
+22.B 1
+22.C 7
+22.D 0
+23.Q Which pH belongs to an alkaline solution?
+23.A 7
+23.B 3
+23.C 10
+23.D 1
+24.Q What colour does blue litmus have in an acidic solution?
+24.A Red
+24.C Colourless
+24.D Blue
+25.Q Which substance in lemon juice makes it acidic?
+25.A Citric acid
+25.B Hydrochloric acid
+26.Q You dilute an acidic solution with water. What happens to the pH?
+26.C The pH becomes higher and gets closer to 7
+27.Q Which reaction equation of hydrochloric acid with sodium hydroxide solution is correct?
+28.Q What is formed in a neutralisation reaction of an acid and a base?
+28.A A salt and water
+28.B Hydrogen and oxygen
+29.Q What is an emulsion?
+29.D A mixture of two liquids that do not dissolve in each other, such as oil and water
+30.Q Which substance keeps oil and water mixed in mayonnaise?
+30.A Salt
+30.C An emulsifier such as egg yolk
+30.D Sugar
+31.Q What do you call the part of a soap molecule that dissolves in water?
+31.C Hydrophilic head
+31.D Hydrophobic tail
+32.Q What do you call the part of a soap molecule that dissolves well in fat?
+32.B Hydrophobic tail
+32.C Hydrophilic head
+33.Q Why can soap remove a grease stain?
+33.D The hydrophobic tails attach to the fat and the hydrophilic heads to the water
+### sk3h-atomen-moleculen-MP
+heading Atoms and molecules
+0.Q What do you call the smallest particle of an element?
+0.A Molecule
+0.C Atom
+0.D Compound
+1.A A small group of atoms joined together
+1.B A single atom of an element
+1.C A mixture of different substances
+1.D A substance that always consists of one kind of atom
+2.Q How do you write an atomic symbol?
+2.A Always with two capital letters
+2.B Only with lower-case letters
+2.C A capital letter, possibly followed by a lower-case letter
+2.D A number followed by a letter
+5.D Phosphorus
+6.A Platinum
+6.B Phosphorus
+7.B Helium
+8.A Chromium
+8.C Calcium
+8.D Carbon
+11.Q What does the large number 4 in front of the formula in 4 NH<sub>3</sub> mean?
+11.A The molecule consists of 4 atoms
+11.B There are 4 molecules of NH<sub>3</sub>
+11.C There are 4 nitrogen atoms in one molecule
+11.D There are 4 hydrogen atoms in one molecule
+13.Q Which formula belongs to an elemental substance (consists of one kind of atom)?
+14.Q Which formula belongs to a compound?
+16.A Carbon monoxide
+16.B Carbon trioxide
+16.D Dicarbon oxide
+17.B Trisulfur oxide
+17.D Sulfur oxide
+18.Q Which numerical prefix do you use in a substance name for the number 4?
+18.B Penta
+18.C Tetra
+19.Q What are the vertical columns in the periodic table called?
+19.A Rows
+19.B Series
+19.C Groups
+19.D Periods
+20.Q What are the horizontal rows in the periodic table called?
+20.A Blocks
+20.B Groups
+20.C Columns
+20.D Periods
+21.Q What is true for elements that are in the same group of the periodic table?
+21.A They all have the same colour
+21.B They have the same mass
+21.C They have similar chemical properties
+21.D They are all gases
+22.Q Which element is a noble gas?
+22.A Sodium
+22.B Neon
+22.D Nitrogen
+23.Q Which element is a metal?
+23.A Chlorine
+23.B Magnesium
+23.C Sulfur
+23.D Carbon
+24.Q Where are the metals in the periodic table?
+24.A Only in the top row
+24.B On the right
+24.C Only in the last column
+24.D On the left and in the middle
+25.Q What does an atom consist of?
+25.A Only protons
+25.B Two or more molecules
+25.C A nucleus surrounded by neutrons
+25.D A nucleus surrounded by electrons
+26.Q What charge do electrons have?
+26.A Negative
+26.B Neutral
+26.C Positive
+26.D Changing
+27.Q Nitrogen + hydrogen → ammonia. What is the reaction scheme in molecular formulae (step 2)?
+28.Q Which reaction equation for the decomposition of water is correct?
+29.Q How many hydrogen atoms are there to the left of the arrow in 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?
+30.Q Which number must go in front of HCl to balance the equation? Mg + … HCl → MgCl<sub>2</sub> + H<sub>2</sub>
+31.Q How many atoms are there in one formula unit of Ca(OH)<sub>2</sub>?
+32.Q What is the reaction scheme in words for 2 Na + Cl<sub>2</sub> → 2 NaCl?
+32.A Sodium + chlorine → sodium chloride
+32.B Sodium + chloride → sodium chlorine
+32.C Sodium + chlorine → chlorine sodium
+32.D Sodium chloride → sodium + chlorine
+33.Q What is the difference between 2 O and O<sub>2</sub>?
+33.A 2 O is two separate oxygen atoms, O<sub>2</sub> is one molecule of two atoms
+33.B 2 O is a compound, O<sub>2</sub> is an element
+33.C There is no difference
+33.D 2 O is one molecule, O<sub>2</sub> is two separate atoms
+### sk3h-bouw-van-stoffen-MP
+heading Structure of substances
+0.A Neutrons and electrons
+0.B Protons and electrons
+0.D Only electrons
+1.B Proton
+1.C Neutron
+1.D Electron
+2.A The number of neutrons in the nucleus
+2.B The number of shells
+2.C The number of protons and neutrons together
+3.A The number of protons plus electrons
+3.B The number of electrons
+3.C Only the number of neutrons
+11.A They have no electrons
+11.B They have only one proton
+11.C They are always a liquid
+12.A An atom without electrons and protons
+12.C An atom with an extra neutron
+12.D A neutral molecule
+16.B Non-metal atoms
+16.C Noble gas atoms
+16.D All atoms
+19.B MgCl<sub>2</sub>
+19.D MgCl
+22.A NaSO<sub>4</sub>
+23.A CaNO<sub>6</sub>
+23.B CaNO<sub>3</sub>
+24.A Sulfur disodium
+24.C Disodium sulfide
+24.D Sodium sulfate
+25.A Because of gravity
+25.C Because of freely moving electrons
+25.D Because of shared electron pairs
+26.A Never
+26.B Only when it is cold
+26.D Only when it is solid
+27.B Salts consist of heavy atoms
+27.C Salts consist of separate atoms
+27.D The molecules are very large
+28.A An atom takes up a proton
+28.B Two metal nuclei attract each other
+28.C An atom gives up electrons to another atom
+29.A Between metal atoms
+29.B Between a metal atom and a noble gas atom
+29.D Only between identical atoms
+31.B They consist of molecules
+31.C They have no electrons
+31.D They consist of positive and negative ions that can move
+32.A Sodium chloride
+32.C Magnesium oxide
+33.A Table salt
+33.D Sulfur
+### sk3h-brandstoffen-kunststoffen-MP
+heading Fuels and plastics
+0.A Crude oil, wood and hydrogen
+0.C Natural gas, bio-ethanol and coal
+0.D Coal, biodiesel and solar energy
+1.A They are always toxic
+1.B They cannot burn
+1.D They are found only in the Netherlands
+2.A Petrol
+2.B Biodiesel
+2.D Coal
+3.A By extraction with salt
+3.C By evaporating the water
+3.D By filtering
+4.A Lubricating oil
+4.C Fuel oil
+4.D Bitumen
+5.A Petrol
+5.B Bitumen
+5.C Kerosene
+6.B Of carbon, hydrogen and oxygen
+6.C Only of carbon and oxygen atoms
+6.D Of water and carbon dioxide
+11.C Propane
+11.D Methane
+12.B Carbon monoxide and soot
+12.D Only carbon dioxide
+13.B Sulfur dioxide and nitrogen
+13.C Only hydrogen
+13.D Only carbon dioxide
+14.A Pure oxygen is formed
+14.B Too much water is formed
+14.C No heat is released
+15.B There is too much nitrogen
+15.C There is too much oxygen
+15.D The fuel is wet
+19.B Nitrogen
+19.C Argon
+20.A Carbon dioxide and hydrogen
+20.B Methane and ethane
+20.C Oxygen and nitrogen
+21.B Oxygen, nitrogen and a spark
+21.C Fuel, water and wind
+21.D Fuel, carbon dioxide and heat
+22.A Fuel
+22.D The hydrogen
+23.A Endothermic: heat is needed
+23.B Endothermic only at high temperature
+23.D There is no heat effect
+24.C Soot
+24.D Carbon monoxide
+26.A A substance with very small separate atoms
+26.B A salt that dissolves well
+26.C A mixture of water and oil
+27.A A mixture of polymers
+27.C A molecule of one atom
+27.D The end product of a polymer
+28.C Ethanol
+28.D Methane
+29.A A plastic that does not sink in water
+29.C A plastic that stays hard when heated and burns
+29.D A plastic that is always stretchy
+30.B A plastic that becomes soft when heated
+30.C A plastic that can be reshaped again and again
+30.D A plastic that consists of natural substances
+31.A Wood
+31.B Rubber
+31.C Glass
+31.D Metal
+32.A It dissolves immediately in water
+32.B It is converted into oxygen
+32.C It is quickly eaten by bacteria
+33.A Neutralisation
+33.B Distillation
+33.C Recycling
+### sk3h-reacties-MP
+heading Chemical reactions
+0.Q Which change is a chemical reaction?
+0.A Dissolving sugar in water
+0.B Water evaporating
+0.C Ice melting
+0.D Burning wood
+1.A Only the phase of a substance changes
+1.B A mixture of the same substances is formed
+1.C New substances with different properties are formed
+1.D Only the shape of a substance changes
+2.Q What are the reactants of a reaction?
+2.A The substances that react
+2.B The substances that are formed
+2.C The substances in which you dissolve them
+2.D The substances that do not take part
+3.Q What are the substances that are formed in a reaction called?
+4.Q What is the molecular formula of water?
+5.Q In CO<sub>2</sub> there is a small 2. What does it mean?
+5.A Two carbon atoms
+5.B Two oxygen atoms
+5.C Two molecules
+5.D A charge of 2
+6.Q How many atoms are there in one molecule of CH<sub>4</sub>?
+7.Q How many different kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?
+10.Q What is the molecular formula of hydrogen gas?
+11.Q What do you do in step 1 of the step-by-step plan for a reaction equation?
+12.Q What do you do in step 3 of the step-by-step plan for a reaction equation?
+13.Q What do you do in step 4 of the step-by-step plan for a reaction equation?
+14.Q What may you change when balancing?
+14.A The kinds of atoms
+14.B The formulae of the substances
+14.C The numbers in front of the formulae
+14.D The small numbers in the formulae
+15.Q Hydrogen + oxygen → water. What is the reaction scheme in molecular formulae (step 2)?
+16.Q Which reaction equation for the formation of water is correct?
+17.Q Which reaction equation for the combustion of methane is correct?
+18.Q Which reaction equation for magnesium with oxygen is correct?
+19.Q You can simplify the equation 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O to…
+20.A Dissolving a substance in water
+20.B Separating a mixture without making new substances
+20.C Combining two substances into one new substance
+21.A Splitting a substance into other substances
+21.B Separating a mixture
+21.D Evaporating a liquid
+22.Q Water is converted into hydrogen and oxygen with an electric current. What is this?
+22.A Decomposition
+22.B Synthesis
+22.C Separation
+22.D Dissolving
+23.Q Which substance do you need for combustion?
+23.A Nitrogen
+24.Q The complete combustion of methane produces water and one other substance. Which one?
+24.A Carbon monoxide
+24.D Soot
+25.A What is left over after a combustion
+25.B A substance that you burn to get energy
+25.C A substance that puts out a fire
+25.D The gas you need in order to burn
+26.B A gas that escapes from a solution
+26.C A liquid that floats on water
+26.D A substance that dissolves completely
+27.A Limewater turns cloudy
+27.B A burning splint gives a squeaky pop or bang
+27.C A burning splint goes out
+28.A With a burning splint: you hear a pop
+28.C With anhydrous copper(II) sulfate: it turns blue
+28.D With a glowing splint
+29.A With a glowing splint that burns more brightly
+29.B With limewater that turns blue
+29.D With limewater that turns cloudy
+30.A 2 Na + Cl<sub>2</sub> → 2 NaCl
+30.B Na + Cl<sub>2</sub> → 2 NaCl
+30.C Na + Cl<sub>2</sub> → NaCl
+30.D 2 Na + 2 Cl<sub>2</sub> → 2 NaCl
+31.Q Which number must go in front of HCl? Zn + … HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+32.Q Which reaction equation is a synthesis?
+32.D CaCO<sub>3</sub> → CaO + CO<sub>2</sub>
+33.Q Which reaction equation is a decomposition?
+33.C 2 Na + Cl<sub>2</sub> → 2 NaCl
+33.D CaCO<sub>3</sub> → CaO + CO<sub>2</sub>
+### sk3h-rekenen-aan-reacties-MP
+heading Calculations on reactions
+intro.0 All the data you need is in the question. Round to one decimal place if it does not say how.
+0.A A little mass always disappears in a reaction
+0.B The mass of the reaction products is always greater than that of the reactants
+0.D The mass of the reactants is always greater than that of the reaction products
+3.B New mass is created out of nothing
+3.C A gas escapes
+3.D The steel wool has acquired a lower density
+4.A The candle is converted into energy and nothing else
+4.B The candle takes up oxygen
+4.D The mass disappears during burning
+30.B One molecule of water has a mass of 18 g
+30.C Water has a density of 18 g/cm<sup>3</sup>
+30.D 18 mol of water has a mass of 1 g
+32.A 2 mol H<sub>2</sub> reacts with 2 mol O<sub>2</sub> to give 2 mol H<sub>2</sub>O
+32.B 2 mol H<sub>2</sub> and 1 mol O<sub>2</sub> give 3 mol H<sub>2</sub>O
+32.C 1 mol H<sub>2</sub> reacts with 1 mol O<sub>2</sub> to give 1 mol H<sub>2</sub>O
+### sk3h-stoffen-MP
+heading Substances and materials
+0.A The temperature at which a substance melts
+0.B The volume of a substance per mass
+0.C The amount of substance that dissolves in water
+0.D The mass of a substance per volume
+1.Q Which formula applies to density (ρ)?
+3.Q A small block has a mass of 54 g and a volume of 20 cm<sup>3</sup>. What is the density?
+4.Q Oil has a lower density than water. What happens when you pour oil onto water?
+4.A The oil sinks to the bottom
+4.B The oil evaporates immediately
+4.C The oil floats on the water
+4.D The oil dissolves in the water
+5.Q What is a substance property?
+5.A A property that belongs to a substance, regardless of the amount
+5.B The shape of the object the substance is in
+5.C A property that changes when you take more of the substance
+5.D The packaging of the substance
+6.Q Which property is a substance property?
+6.A Volume
+6.B Mass
+6.C Length
+7.Q What is the melting point of a substance?
+7.A The temperature at which a substance decomposes
+7.C The temperature at which a liquid starts to boil
+7.D The temperature of the room you are working in
+9.Q What does hydrophilic mean?
+9.A Is very heavy
+9.B Dissolves poorly in water
+9.C Boils at a low temperature
+9.D Dissolves well in water
+10.Q A substance dissolves poorly in water. What do you call such a substance?
+10.A Homogeneous
+10.D Heterogeneous
+11.Q What do we observe at the macro level?
+11.A What you can see with your senses or measurements
+11.B What the molecules do
+11.C How atoms are joined together
+11.D What only a model can describe
+12.Q Which statement is about the micro level?
+12.A The substance is liquid
+12.B The molecules move faster
+12.C The substance is blue
+12.D The substance has a boiling point of 78 °C
+13.Q How are the molecules arranged in a gas?
+13.A Far apart and they move in all directions
+13.B Far apart and they stand still
+13.C Close together, but they slide past each other
+13.D Close together in fixed positions
+14.Q What happens at the micro level when you heat a liquid?
+14.A The molecules become bigger
+14.B The molecules disappear
+14.C The molecules become heavier
+14.D The molecules move faster
+15.Q Which statement about a pure substance is correct?
+15.A The boiling point changes during boiling
+15.B It has a melting range
+15.C It has a fixed melting point
+15.D It consists of more kinds of molecules
+16.Q A substance starts to melt at 80 °C. At 85 °C everything is liquid. What is this substance?
+16.A A solvent
+17.Q Which mixture is homogeneous?
+17.A Water with oil
+17.B Sand and gravel
+17.C Sugar dissolved in water
+17.D Muddy water
+18.A A mixture of solid particles in a liquid
+18.B A mixture of gases
+18.C A substance that has completely dissolved
+18.D A mixture of two liquids that do not mix
+19.Q Mayonnaise is an example of an…
+19.A Suspension
+19.B Emulsion
+19.C Solution
+19.D Pure substance
+20.Q You want to separate sand and water. Which method do you use?
+21.Q You want to obtain pure water from seawater. Which method do you use?
+22.Q You want to obtain the dissolved salt from a salt solution. The water may evaporate. Which method do you use?
+23.Q What difference is distillation based on?
+23.A Difference in melting point
+23.B Difference in boiling point
+23.C Difference in density
+23.D Difference in particle size
+24.Q What difference is filtration based on?
+24.A Difference in density
+24.B Difference in melting point
+24.C Difference in particle size
+24.D Difference in boiling point
+25.Q What difference is chromatography based on?
+25.A Substances have a different density
+25.B Substances travel different distances with the liquid over the paper
+25.C Substances have a different particle size
+25.D Substances boil at a different temperature
+26.Q What is left behind on the filter during filtration?
+26.A The filtrate
+26.B The distillate
+26.C The solution
+27.Q What is the liquid you collect during distillation called?
+27.A Distillate
+27.B Residue
+27.C Solvent
+27.D Filtrate
+28.Q A liquid has a mass of 160 g and a volume of 200 cm<sup>3</sup>. What is the density?
+29.Q Iron has a density of 7.9 g/cm<sup>3</sup>. A small block of iron has a volume of 5.0 cm<sup>3</sup>. What is the mass?
+30.Q A solution of 100 g contains 12 g of dissolved salt. What is the mass percentage of salt?
+31.Q An unknown metal has a mass of 27.0 g and a volume of 10.0 cm<sup>3</sup>. Densities: aluminium 2.70 g/cm<sup>3</sup>, iron 7.87 g/cm<sup>3</sup>, copper 8.96 g/cm<sup>3</sup>, lead 11.3 g/cm<sup>3</sup>. Which metal is it?
+31.D Aluminium
+32.Q What happens during adsorption?
+32.A The substance sinks to the bottom
+32.B A substance attaches itself to the surface of a solid, such as activated carbon
+32.C The substance dissolves in water
+32.D The substance evaporates
+33.Q How do you determine the volume of an irregular object such as a stone?
+33.A You measure the boiling point
+33.B You weigh the object
+33.C You submerge it in water and read how much the water level rises
+33.D You measure length, width and height with a ruler
+### sk3h-voeding-verzorging-MP
+heading Food and personal care
+0.B Vitamins, minerals and water
+0.C Vitamins, fats and water
+0.D Minerals, proteins and fibre
+1.B Fibre
+2.B Vitamins
+2.C Minerals
+3.B Glucose and water
+3.C Amino acids
+3.D Starch and fibre
+5.A From fatty acids
+5.B From minerals
+5.D From glucose
+6.A From fatty acids
+6.D From ions
+10.B With Fehling's reagent: red precipitate
+10.C With limewater: cloudy
+10.D With litmus: red
+11.A With limewater: cloudy
+11.B With iodine: blue-black
+11.D With a glowing splint
+12.B With iodine: blue-black
+12.C With limewater: white
+12.D With Fehling's reagent: red
+13.B With litmus: red
+13.C With limewater: cloudy
+13.D With iodine: blue-black
+14.B For dissolving fat
+14.C For storing heat
+14.D For supplying energy
+15.A They are the main building material
+15.B They make water acidic
+15.C They supply a lot of energy
+16.A Glucose
+17.B To make it melt faster
+17.C To make it richer in energy
+17.D To make it heavier
+18.A Brining
+18.B Adding a preservative
+18.C Seasoning with vinegar
+19.A The apple takes up hydrogen
+19.B The apple absorbs water
+19.C The apple evaporates
+20.A Iodine
+21.A The solution contains no water
+21.B The solution is basic
+21.C The solution is neutral
+24.B Green
+25.C Lactic acid
+25.D Acetic acid
+26.A The pH becomes exactly 14
+26.B The pH becomes exactly 0
+26.D The pH decreases
+27.A HCl + NaOH → NaCl + H<sub>2</sub>O<sub>2</sub>
+27.B 2 HCl + NaOH → NaCl + H<sub>2</sub>O
+27.C HCl + NaOH → NaCl + H<sub>2</sub>O
+27.D HCl + NaOH → NaCl + H<sub>2</sub>
+28.C Only a salt
+28.D Another acid
+29.A A solution of salt in water
+29.B A mixture of two gases
+29.C A solid in a solid
+30.B An acid
+31.A Neutral core
+31.B Fatty-acid tail
+32.A Water head
+32.D Salt head
+33.A Soap evaporates the fat
+33.B Soap makes the fat heavier than water
+33.C Soap reacts with the fat to form water

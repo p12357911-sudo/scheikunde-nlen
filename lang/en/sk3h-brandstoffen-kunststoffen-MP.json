@@ -1,0 +1,349 @@
+{
+ "title": "Fuels and plastics - 123 school",
+ "heading": "Fuels and plastics",
+ "intro": [
+  "All the data you need is in the question."
+ ],
+ "questions": [
+  {
+   "question": "Which three substances are fossil fuels?",
+   "answers": {
+    "a": "Crude oil, wood and hydrogen",
+    "b": "Crude oil, natural gas and coal",
+    "c": "Natural gas, bio-ethanol and coal",
+    "d": "Coal, biodiesel and solar energy"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why are crude oil, natural gas and coal called non-renewable fuels?",
+   "answers": {
+    "a": "They are always toxic",
+    "b": "They cannot burn",
+    "c": "They formed over millions of years and are running out",
+    "d": "They are found only in the Netherlands"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which fuel is renewable?",
+   "answers": {
+    "a": "Petrol",
+    "b": "Biodiesel",
+    "c": "Natural gas",
+    "d": "Coal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you separate crude oil into different fractions?",
+   "answers": {
+    "a": "By extraction with salt",
+    "b": "By distillation, based on the difference in boiling point",
+    "c": "By evaporating the water",
+    "d": "By filtering"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which fraction of crude oil has the lowest boiling point?",
+   "answers": {
+    "a": "Lubricating oil",
+    "b": "Gas (light substances)",
+    "c": "Fuel oil",
+    "d": "Bitumen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which fraction of crude oil has the highest boiling point and stays at the bottom of the distillation tower?",
+   "answers": {
+    "a": "Petrol",
+    "b": "Bitumen",
+    "c": "Kerosene",
+    "d": "Gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a hydrocarbon consist of?",
+   "answers": {
+    "a": "Only carbon and hydrogen atoms",
+    "b": "Of carbon, hydrogen and oxygen",
+    "c": "Only of carbon and oxygen atoms",
+    "d": "Of water and carbon dioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular formula of methane?",
+   "answers": {
+    "a": "CH<sub>3</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "C<sub>4</sub>H<sub>10</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of propane?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>6</sub>",
+    "b": "C<sub>3</sub>H<sub>4</sub>",
+    "c": "C<sub>2</sub>H<sub>6</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular formula of butane?",
+   "answers": {
+    "a": "C<sub>5</sub>H<sub>12</sub>",
+    "b": "C<sub>4</sub>H<sub>8</sub>",
+    "c": "C<sub>4</sub>H<sub>10</sub>",
+    "d": "C<sub>4</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many hydrogen atoms does an alkane with 5 carbon atoms have? An alkane has the formula CnH<sub>2</sub>n+2.",
+   "answers": {
+    "a": "14",
+    "b": "10",
+    "c": "12",
+    "d": "11"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which name belongs to C<sub>2</sub>H<sub>6</sub>?",
+   "answers": {
+    "a": "Ethene",
+    "b": "Ethane",
+    "c": "Propane",
+    "d": "Methane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substances are formed in the complete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Hydrogen and oxygen",
+    "b": "Carbon monoxide and soot",
+    "c": "Carbon dioxide and water",
+    "d": "Only carbon dioxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Carbon monoxide, soot and water",
+    "b": "Sulfur dioxide and nitrogen",
+    "c": "Only hydrogen",
+    "d": "Only carbon dioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why is incomplete combustion dangerous?",
+   "answers": {
+    "a": "Pure oxygen is formed",
+    "b": "Too much water is formed",
+    "c": "No heat is released",
+    "d": "Poisonous carbon monoxide is formed"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How does incomplete combustion happen?",
+   "answers": {
+    "a": "There is too little oxygen",
+    "b": "There is too much nitrogen",
+    "c": "There is too much oxygen",
+    "d": "The fuel is wet"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which equation shows the complete combustion of methane?",
+   "answers": {
+    "a": "CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO + 2 H<sub>2</sub>O",
+    "c": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "d": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which number must go in front of O<sub>2</sub>? C<sub>3</sub>H<sub>8</sub> + … O<sub>2</sub> → 3 CO<sub>2</sub> + 4 H<sub>2</sub>O",
+   "answers": {
+    "a": "7",
+    "b": "3",
+    "c": "5",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which equation shows the complete combustion of butane?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "b": "C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O",
+    "c": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O",
+    "d": "2 C<sub>4</sub>H<sub>10</sub> + 9 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which gas is mainly responsible for the enhanced greenhouse effect?",
+   "answers": {
+    "a": "Carbon dioxide",
+    "b": "Nitrogen",
+    "c": "Argon",
+    "d": "Oxygen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which two substances cause acid rain?",
+   "answers": {
+    "a": "Carbon dioxide and hydrogen",
+    "b": "Methane and ethane",
+    "c": "Oxygen and nitrogen",
+    "d": "Sulfur dioxide and nitrogen oxides"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are the three conditions for combustion (the fire triangle)?",
+   "answers": {
+    "a": "Fuel, oxygen and a high enough temperature",
+    "b": "Oxygen, nitrogen and a spark",
+    "c": "Fuel, water and wind",
+    "d": "Fuel, carbon dioxide and heat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You put out a burning pan with a lid. Which condition do you remove?",
+   "answers": {
+    "a": "Fuel",
+    "b": "The temperature",
+    "c": "Oxygen",
+    "d": "The hydrogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is burning an exothermic or an endothermic reaction?",
+   "answers": {
+    "a": "Endothermic: heat is needed",
+    "b": "Endothermic only at high temperature",
+    "c": "Exothermic: heat is released",
+    "d": "There is no heat effect"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is formed when hydrogen burns?",
+   "answers": {
+    "a": "Water",
+    "b": "Carbon dioxide",
+    "c": "Soot",
+    "d": "Carbon monoxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which equation shows the combustion of hydrogen?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a polymer?",
+   "answers": {
+    "a": "A substance with very small separate atoms",
+    "b": "A salt that dissolves well",
+    "c": "A mixture of water and oil",
+    "d": "A substance with very long chain molecules"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a monomer?",
+   "answers": {
+    "a": "A mixture of polymers",
+    "b": "The small molecule from which a polymer is built up",
+    "c": "A molecule of one atom",
+    "d": "The end product of a polymer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "From which monomer is polyethene made?",
+   "answers": {
+    "a": "Ethane",
+    "b": "Ethene",
+    "c": "Ethanol",
+    "d": "Methane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a thermoplastic?",
+   "answers": {
+    "a": "A plastic that does not sink in water",
+    "b": "A plastic that softens when heated and can then be reshaped",
+    "c": "A plastic that stays hard when heated and burns",
+    "d": "A plastic that is always stretchy"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a thermosetting plastic?",
+   "answers": {
+    "a": "A plastic that cannot be reshaped once it has hardened",
+    "b": "A plastic that becomes soft when heated",
+    "c": "A plastic that can be reshaped again and again",
+    "d": "A plastic that consists of natural substances"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which plastic is an elastomer?",
+   "answers": {
+    "a": "Wood",
+    "b": "Rubber",
+    "c": "Glass",
+    "d": "Metal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why is it bad for the environment to throw plastic away in nature?",
+   "answers": {
+    "a": "It dissolves immediately in water",
+    "b": "It is converted into oxygen",
+    "c": "It is quickly eaten by bacteria",
+    "d": "It hardly breaks down and lasts for a very long time"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is it called when plastic is reused to make new products?",
+   "answers": {
+    "a": "Neutralisation",
+    "b": "Distillation",
+    "c": "Recycling",
+    "d": "Combustion"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

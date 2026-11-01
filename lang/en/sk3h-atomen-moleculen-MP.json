@@ -1,0 +1,347 @@
+{
+ "title": "Atoms and molecules - 123 school",
+ "heading": "Atoms and molecules",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What do you call the smallest particle of an element?",
+   "answers": {
+    "a": "Molecule",
+    "b": "Ion",
+    "c": "Atom",
+    "d": "Compound"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a molecule?",
+   "answers": {
+    "a": "A small group of atoms joined together",
+    "b": "A single atom of an element",
+    "c": "A mixture of different substances",
+    "d": "A substance that always consists of one kind of atom"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you write an atomic symbol?",
+   "answers": {
+    "a": "Always with two capital letters",
+    "b": "Only with lower-case letters",
+    "c": "A capital letter, possibly followed by a lower-case letter",
+    "d": "A number followed by a letter"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which atomic symbol belongs to sodium?",
+   "answers": {
+    "a": "K",
+    "b": "N",
+    "c": "Ni",
+    "d": "Na"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which atomic symbol belongs to potassium?",
+   "answers": {
+    "a": "K",
+    "b": "Ka",
+    "c": "P",
+    "d": "Kr"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which element has the symbol Fe?",
+   "answers": {
+    "a": "Iron",
+    "b": "Fluorine",
+    "c": "Lead",
+    "d": "Phosphorus"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which element has the symbol Pb?",
+   "answers": {
+    "a": "Platinum",
+    "b": "Phosphorus",
+    "c": "Mercury",
+    "d": "Lead"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which element has the symbol Hg?",
+   "answers": {
+    "a": "Silver",
+    "b": "Helium",
+    "c": "Mercury",
+    "d": "Hydrogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which element has the symbol Cu?",
+   "answers": {
+    "a": "Chromium",
+    "b": "Copper",
+    "c": "Calcium",
+    "d": "Carbon"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many atoms are in one molecule of H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "3",
+    "b": "7",
+    "c": "6",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many atoms are there in total in 3 H<sub>2</sub>O?",
+   "answers": {
+    "a": "9",
+    "b": "5",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does the large number 4 in front of the formula in 4 NH<sub>3</sub> mean?",
+   "answers": {
+    "a": "The molecule consists of 4 atoms",
+    "b": "There are 4 molecules of NH<sub>3</sub>",
+    "c": "There are 4 nitrogen atoms in one molecule",
+    "d": "There are 4 hydrogen atoms in one molecule"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many hydrogen atoms are there in total in 2 CH<sub>4</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "8",
+    "c": "6",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to an elemental substance (consists of one kind of atom)?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "N<sub>2</sub>",
+    "c": "NH<sub>3</sub>",
+    "d": "NO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to a compound?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "Cl<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of carbon monoxide?",
+   "answers": {
+    "a": "Co",
+    "b": "CO<sub>2</sub>",
+    "c": "C<sub>2</sub>O",
+    "d": "CO"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the systematic name of CO<sub>2</sub>?",
+   "answers": {
+    "a": "Carbon monoxide",
+    "b": "Carbon trioxide",
+    "c": "Carbon dioxide",
+    "d": "Dicarbon oxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the systematic name of SO<sub>3</sub>?",
+   "answers": {
+    "a": "Sulfur trioxide",
+    "b": "Trisulfur oxide",
+    "c": "Sulfur dioxide",
+    "d": "Sulfur oxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which numerical prefix do you use in a substance name for the number 4?",
+   "answers": {
+    "a": "Di",
+    "b": "Penta",
+    "c": "Tetra",
+    "d": "Tri"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are the vertical columns in the periodic table called?",
+   "answers": {
+    "a": "Rows",
+    "b": "Series",
+    "c": "Groups",
+    "d": "Periods"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are the horizontal rows in the periodic table called?",
+   "answers": {
+    "a": "Blocks",
+    "b": "Groups",
+    "c": "Columns",
+    "d": "Periods"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is true for elements that are in the same group of the periodic table?",
+   "answers": {
+    "a": "They all have the same colour",
+    "b": "They have the same mass",
+    "c": "They have similar chemical properties",
+    "d": "They are all gases"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which element is a noble gas?",
+   "answers": {
+    "a": "Sodium",
+    "b": "Neon",
+    "c": "Fluorine",
+    "d": "Nitrogen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which element is a metal?",
+   "answers": {
+    "a": "Chlorine",
+    "b": "Magnesium",
+    "c": "Sulfur",
+    "d": "Carbon"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Where are the metals in the periodic table?",
+   "answers": {
+    "a": "Only in the top row",
+    "b": "On the right",
+    "c": "Only in the last column",
+    "d": "On the left and in the middle"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does an atom consist of?",
+   "answers": {
+    "a": "Only protons",
+    "b": "Two or more molecules",
+    "c": "A nucleus surrounded by neutrons",
+    "d": "A nucleus surrounded by electrons"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What charge do electrons have?",
+   "answers": {
+    "a": "Negative",
+    "b": "Neutral",
+    "c": "Positive",
+    "d": "Changing"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Nitrogen + hydrogen → ammonia. What is the reaction scheme in molecular formulae (step 2)?",
+   "answers": {
+    "a": "N + H → NH<sub>3</sub>",
+    "b": "N + H → NH",
+    "c": "N<sub>2</sub> + H<sub>2</sub> → N<sub>2</sub>H<sub>3</sub>",
+    "d": "N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which reaction equation for the decomposition of water is correct?",
+   "answers": {
+    "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + 2 O<sub>2</sub>",
+    "b": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 H<sub>2</sub>O → H<sub>2</sub> + 2 O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many hydrogen atoms are there to the left of the arrow in 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which number must go in front of HCl to balance the equation? Mg + … HCl → MgCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many atoms are there in one formula unit of Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "5",
+    "b": "4",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the reaction scheme in words for 2 Na + Cl<sub>2</sub> → 2 NaCl?",
+   "answers": {
+    "a": "Sodium + chlorine → sodium chloride",
+    "b": "Sodium + chloride → sodium chlorine",
+    "c": "Sodium + chlorine → chlorine sodium",
+    "d": "Sodium chloride → sodium + chlorine"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the difference between 2 O and O<sub>2</sub>?",
+   "answers": {
+    "a": "2 O is two separate oxygen atoms, O<sub>2</sub> is one molecule of two atoms",
+    "b": "2 O is a compound, O<sub>2</sub> is an element",
+    "c": "There is no difference",
+    "d": "2 O is one molecule, O<sub>2</sub> is two separate atoms"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

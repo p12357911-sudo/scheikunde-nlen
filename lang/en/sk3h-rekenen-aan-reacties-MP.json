@@ -1,0 +1,349 @@
+{
+ "title": "Calculations on reactions - 123 school",
+ "heading": "Calculations on reactions",
+ "intro": [
+  "All the data you need is in the question. Round to one decimal place if it does not say how."
+ ],
+ "questions": [
+  {
+   "question": "What does the law of conservation of mass state?",
+   "answers": {
+    "a": "A little mass always disappears in a reaction",
+    "b": "The mass of the reaction products is always greater than that of the reactants",
+    "c": "The total mass before the reaction is equal to the total mass after the reaction",
+    "d": "The mass of the reactants is always greater than that of the reaction products"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In a reaction in a closed bottle, 12 g of magnesium reacts with 8 g of oxygen. How many grams of magnesium oxide are formed?",
+   "answers": {
+    "a": "20 g",
+    "b": "96 g",
+    "c": "24 g",
+    "d": "4 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "When 10.0 g of limestone (CaCO<sub>3</sub>) is heated, 5.6 g of calcium oxide and carbon dioxide are formed. How many grams of carbon dioxide are formed?",
+   "answers": {
+    "a": "15.6 g",
+    "b": "4.4 g",
+    "c": "5.6 g",
+    "d": "10.0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You burn steel wool in the open air. The mass increases. Why is that?",
+   "answers": {
+    "a": "The steel wool takes up oxygen from the air",
+    "b": "New mass is created out of nothing",
+    "c": "A gas escapes",
+    "d": "The steel wool has acquired a lower density"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A candle burns in the open air and the mass decreases. Why is that?",
+   "answers": {
+    "a": "The candle is converted into energy and nothing else",
+    "b": "The candle takes up oxygen",
+    "c": "The gases formed, carbon dioxide and water vapour, escape into the air",
+    "d": "The mass disappears during burning"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "19 u",
+    "b": "17 u",
+    "c": "34 u",
+    "d": "18 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "28 u",
+    "b": "56 u",
+    "c": "44 u",
+    "d": "32 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of NH<sub>3</sub>. Atomic masses: N = 14.0 u, H = 1.0 u.",
+   "answers": {
+    "a": "3 u",
+    "b": "31 u",
+    "c": "17 u",
+    "d": "15 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of H<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u, S = 32.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "49 u",
+    "b": "98 u",
+    "c": "97 u",
+    "d": "99 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of CaCO<sub>3</sub>. Atomic masses: Ca = 40.0 u, C = 12.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "100 u",
+    "b": "140 u",
+    "c": "60 u",
+    "d": "68 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of Ca(OH)<sub>2</sub>. Atomic masses: Ca = 40.0 u, O = 16.0 u, H = 1.0 u.",
+   "answers": {
+    "a": "57 u",
+    "b": "34 u",
+    "c": "74 u",
+    "d": "114 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the molecular mass (or formula mass) of Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: Fe = 56.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "160 u",
+    "b": "104 u",
+    "c": "216 u",
+    "d": "72 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the mass percentage of carbon in CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "27.3%",
+    "b": "13.6%",
+    "c": "21.4%",
+    "d": "72.7%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the mass percentage of oxygen in H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "47.1%",
+    "b": "11.1%",
+    "c": "44.4%",
+    "d": "88.9%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the mass percentage of iron in Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: Fe = 56.0 u, O = 16.0 u.",
+   "answers": {
+    "a": "51.9%",
+    "b": "30.0%",
+    "c": "35.0%",
+    "d": "70.0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hydrogen and oxygen react to form water: 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. Atomic masses: H = 1.0 u, O = 16.0 u. How many grams of water are formed from 4.0 g of hydrogen?",
+   "answers": {
+    "a": "72.0 g",
+    "b": "18.0 g",
+    "c": "20.0 g",
+    "d": "36.0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Carbon burns to form carbon dioxide: C + O<sub>2</sub> → CO<sub>2</sub>. Atomic masses: C = 12.0 u, O = 16.0 u. How many grams of carbon dioxide are formed from 12.0 g of carbon?",
+   "answers": {
+    "a": "28.0 g",
+    "b": "32.0 g",
+    "c": "56.0 g",
+    "d": "44.0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Limestone is heated: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. Atomic masses: Ca = 40.0 u, C = 12.0 u, O = 16.0 u. How many grams of calcium oxide are formed from 50.0 g of limestone?",
+   "answers": {
+    "a": "56.0 g",
+    "b": "63.6 g",
+    "c": "28.0 g",
+    "d": "22.0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Magnesium burns: 2 Mg + O<sub>2</sub> → 2 MgO. Atomic masses: Mg = 24.0 u, O = 16.0 u. How many grams of magnesium oxide are formed from 12.0 g of magnesium?",
+   "answers": {
+    "a": "28.0 g",
+    "b": "20.0 g",
+    "c": "40.0 g",
+    "d": "30.0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Magnesium and oxygen react in the mass ratio 3 : 2. How many grams of oxygen are needed for 9.0 g of magnesium?",
+   "answers": {
+    "a": "13.5 g",
+    "b": "18.0 g",
+    "c": "6.0 g",
+    "d": "7.0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Copper and sulfur react to form copper(I) sulfide in the mass ratio 4 : 1. How many grams of copper(I) sulfide are formed from 8.0 g of copper and 2.0 g of sulfur?",
+   "answers": {
+    "a": "6.0 g",
+    "b": "8.0 g",
+    "c": "10.0 g",
+    "d": "16.0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Iron and sulfur react in the mass ratio 7 : 4. How many grams of sulfur do you need for 14 g of iron?",
+   "answers": {
+    "a": "8 g",
+    "b": "10 g",
+    "c": "56 g",
+    "d": "24.5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The molar mass of water is 18 g/mol. How many moles of water are in 36 g of water?",
+   "answers": {
+    "a": "648 mol",
+    "b": "18.0 mol",
+    "c": "0.5 mol",
+    "d": "2.0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The molar mass of CO<sub>2</sub> is 44 g/mol. How many moles of CO<sub>2</sub> are in 4.4 g of CO<sub>2</sub>?",
+   "answers": {
+    "a": "194 mol",
+    "b": "0.2 mol",
+    "c": "0.10 mol",
+    "d": "10 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "The molar mass of NaCl is 58.5 g/mol. How many grams of NaCl is 0.40 mol?",
+   "answers": {
+    "a": "58.9 g",
+    "b": "146 g",
+    "c": "0.01 g",
+    "d": "23.4 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The molar mass of H<sub>2</sub>SO<sub>4</sub> is 98 g/mol. How many moles is 49 g of H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "4802 mol",
+    "b": "2.0 mol",
+    "c": "51 mol",
+    "d": "0.5 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 3.0 mol of H<sub>2</sub> reacts. How many moles of H<sub>2</sub>O are formed?",
+   "answers": {
+    "a": "2.0 mol",
+    "b": "6.0 mol",
+    "c": "3.0 mol",
+    "d": "1.5 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 4.0 mol of H<sub>2</sub> reacts. How many moles of O<sub>2</sub> are needed for this?",
+   "answers": {
+    "a": "1.0 mol",
+    "b": "8.0 mol",
+    "c": "4.0 mol",
+    "d": "2.0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In the reaction N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>, 6.0 mol of H<sub>2</sub> reacts. How many moles of NH<sub>3</sub> are formed?",
+   "answers": {
+    "a": "9.0 mol",
+    "b": "6.0 mol",
+    "c": "2.0 mol",
+    "d": "4.0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 0.50 mol of Mg reacts. How many moles of MgO are formed?",
+   "answers": {
+    "a": "0.50 mol",
+    "b": "0.75 mol",
+    "c": "0.25 mol",
+    "d": "1.00 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a molar mass of 18 g/mol mean for water?",
+   "answers": {
+    "a": "One mole of water has a mass of 18 g",
+    "b": "One molecule of water has a mass of 18 g",
+    "c": "Water has a density of 18 g/cm<sup>3</sup>",
+    "d": "18 mol of water has a mass of 1 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the mass of 2.0 mol of CO<sub>2</sub>? Molar mass of CO<sub>2</sub> = 44 g/mol.",
+   "answers": {
+    "a": "22 g",
+    "b": "88 g",
+    "c": "176 g",
+    "d": "46 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What can you read from 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "2 mol H<sub>2</sub> reacts with 2 mol O<sub>2</sub> to give 2 mol H<sub>2</sub>O",
+    "b": "2 mol H<sub>2</sub> and 1 mol O<sub>2</sub> give 3 mol H<sub>2</sub>O",
+    "c": "1 mol H<sub>2</sub> reacts with 1 mol O<sub>2</sub> to give 1 mol H<sub>2</sub>O",
+    "d": "2 mol of H<sub>2</sub> reacts with 1 mol of O<sub>2</sub> to form 2 mol of H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many moles of CO<sub>2</sub> is 22 g of CO<sub>2</sub>? Molar mass of CO<sub>2</sub> = 44 g/mol.",
+   "answers": {
+    "a": "968 mol",
+    "b": "0.5 mol",
+    "c": "2 mol",
+    "d": "28 mol"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

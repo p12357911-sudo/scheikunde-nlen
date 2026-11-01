@@ -1,0 +1,347 @@
+{
+ "title": "Chemical reactions - 123 school",
+ "heading": "Chemical reactions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Which change is a chemical reaction?",
+   "answers": {
+    "a": "Dissolving sugar in water",
+    "b": "Water evaporating",
+    "c": "Ice melting",
+    "d": "Burning wood"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens in a chemical reaction?",
+   "answers": {
+    "a": "Only the phase of a substance changes",
+    "b": "A mixture of the same substances is formed",
+    "c": "New substances with different properties are formed",
+    "d": "Only the shape of a substance changes"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are the reactants of a reaction?",
+   "answers": {
+    "a": "The substances that react",
+    "b": "The substances that are formed",
+    "c": "The substances in which you dissolve them",
+    "d": "The substances that do not take part"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What are the substances that are formed in a reaction called?",
+   "answers": {
+    "a": "Mixtures",
+    "b": "Products",
+    "c": "Reactants",
+    "d": "Solvents"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular formula of water?",
+   "answers": {
+    "a": "HO",
+    "b": "HO<sub>2</sub>",
+    "c": "H<sub>2</sub>O<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In CO<sub>2</sub> there is a small 2. What does it mean?",
+   "answers": {
+    "a": "Two carbon atoms",
+    "b": "Two oxygen atoms",
+    "c": "Two molecules",
+    "d": "A charge of 2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many atoms are there in one molecule of CH<sub>4</sub>?",
+   "answers": {
+    "a": "6",
+    "b": "4",
+    "c": "5",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many different kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "3",
+    "b": "9",
+    "c": "6",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular formula of methane?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub>",
+    "b": "CH<sub>4</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>2</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular formula of oxygen gas?",
+   "answers": {
+    "a": "O",
+    "b": "CO<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "O<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of hydrogen gas?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "H",
+    "d": "2H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you do in step 1 of the step-by-step plan for a reaction equation?",
+   "answers": {
+    "a": "Balance the atoms",
+    "b": "Write down the reaction scheme in molecular formulae",
+    "c": "Simplify the reaction equation",
+    "d": "Write down the reaction scheme in words"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you do in step 3 of the step-by-step plan for a reaction equation?",
+   "answers": {
+    "a": "Simplify the reaction equation",
+    "b": "Balance the atoms",
+    "c": "Write down the reaction scheme in molecular formulae",
+    "d": "Write down the reaction scheme in words"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do you do in step 4 of the step-by-step plan for a reaction equation?",
+   "answers": {
+    "a": "Balance the atoms",
+    "b": "Write down the reaction scheme in molecular formulae",
+    "c": "Write down the reaction scheme in words",
+    "d": "Simplify the reaction equation"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What may you change when balancing?",
+   "answers": {
+    "a": "The kinds of atoms",
+    "b": "The formulae of the substances",
+    "c": "The numbers in front of the formulae",
+    "d": "The small numbers in the formulae"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hydrogen + oxygen → water. What is the reaction scheme in molecular formulae (step 2)?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "H + O → H<sub>2</sub>O",
+    "c": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which reaction equation for the formation of water is correct?",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which reaction equation for the combustion of methane is correct?",
+   "answers": {
+    "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "c": "CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "d": "2 CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which reaction equation for magnesium with oxygen is correct?",
+   "answers": {
+    "a": "2 Mg + 2 O<sub>2</sub> → 2 MgO",
+    "b": "Mg + O<sub>2</sub> → MgO<sub>2</sub>",
+    "c": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "d": "Mg + O<sub>2</sub> → MgO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You can simplify the equation 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O to…",
+   "answers": {
+    "a": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "c": "4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+    "d": "8 H<sub>2</sub> + 4 O<sub>2</sub> → 8 H<sub>2</sub>O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is decomposition?",
+   "answers": {
+    "a": "Dissolving a substance in water",
+    "b": "Separating a mixture without making new substances",
+    "c": "Combining two substances into one new substance",
+    "d": "Splitting a substance into two or more other substances"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a synthesis?",
+   "answers": {
+    "a": "Splitting a substance into other substances",
+    "b": "Separating a mixture",
+    "c": "Making one new substance from two or more substances",
+    "d": "Evaporating a liquid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Water is converted into hydrogen and oxygen with an electric current. What is this?",
+   "answers": {
+    "a": "Decomposition",
+    "b": "Synthesis",
+    "c": "Separation",
+    "d": "Dissolving"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance do you need for combustion?",
+   "answers": {
+    "a": "Nitrogen",
+    "b": "Oxygen",
+    "c": "Hydrogen",
+    "d": "Carbon dioxide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The complete combustion of methane produces water and one other substance. Which one?",
+   "answers": {
+    "a": "Carbon monoxide",
+    "b": "Hydrogen",
+    "c": "Carbon dioxide",
+    "d": "Soot"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a fuel?",
+   "answers": {
+    "a": "What is left over after a combustion",
+    "b": "A substance that you burn to get energy",
+    "c": "A substance that puts out a fire",
+    "d": "The gas you need in order to burn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a precipitate?",
+   "answers": {
+    "a": "A solid that forms in a solution",
+    "b": "A gas that escapes from a solution",
+    "c": "A liquid that floats on water",
+    "d": "A substance that dissolves completely"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you test for oxygen?",
+   "answers": {
+    "a": "Limewater turns cloudy",
+    "b": "A burning splint gives a squeaky pop or bang",
+    "c": "A burning splint goes out",
+    "d": "A glowing splint burns more brightly"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you test for carbon dioxide?",
+   "answers": {
+    "a": "With a burning splint: you hear a pop",
+    "b": "With limewater: it turns cloudy",
+    "c": "With anhydrous copper(II) sulfate: it turns blue",
+    "d": "With a glowing splint"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you test for hydrogen gas?",
+   "answers": {
+    "a": "With a glowing splint that burns more brightly",
+    "b": "With limewater that turns blue",
+    "c": "With a burning splint: you hear a squeaky pop",
+    "d": "With limewater that turns cloudy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which reaction equation of sodium with chlorine is balanced?",
+   "answers": {
+    "a": "2 Na + Cl<sub>2</sub> → 2 NaCl",
+    "b": "Na + Cl<sub>2</sub> → 2 NaCl",
+    "c": "Na + Cl<sub>2</sub> → NaCl",
+    "d": "2 Na + 2 Cl<sub>2</sub> → 2 NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which number must go in front of HCl? Zn + … HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "1",
+    "b": "4",
+    "c": "3",
+    "d": "2"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which reaction equation is a synthesis?",
+   "answers": {
+    "a": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "b": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub>",
+    "d": "CaCO<sub>3</sub> → CaO + CO<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which reaction equation is a decomposition?",
+   "answers": {
+    "a": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "b": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "c": "2 Na + Cl<sub>2</sub> → 2 NaCl",
+    "d": "CaCO<sub>3</sub> → CaO + CO<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

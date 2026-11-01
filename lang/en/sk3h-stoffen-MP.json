@@ -1,0 +1,347 @@
+{
+ "title": "Substances and materials - 123 school",
+ "heading": "Substances and materials",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is density?",
+   "answers": {
+    "a": "The temperature at which a substance melts",
+    "b": "The volume of a substance per mass",
+    "c": "The amount of substance that dissolves in water",
+    "d": "The mass of a substance per volume"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula applies to density (ρ)?",
+   "answers": {
+    "a": "ρ = m × V",
+    "b": "ρ = m : V",
+    "c": "ρ = V : m",
+    "d": "ρ = m − V"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which unit goes with density?",
+   "answers": {
+    "a": "mL",
+    "b": "°C",
+    "c": "g/cm<sup>3</sup>",
+    "d": "g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A small block has a mass of 54 g and a volume of 20 cm<sup>3</sup>. What is the density?",
+   "answers": {
+    "a": "2.7 g/cm<sup>3</sup>",
+    "b": "0.37 g/cm<sup>3</sup>",
+    "c": "1080 g/cm<sup>3</sup>",
+    "d": "34 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Oil has a lower density than water. What happens when you pour oil onto water?",
+   "answers": {
+    "a": "The oil sinks to the bottom",
+    "b": "The oil evaporates immediately",
+    "c": "The oil floats on the water",
+    "d": "The oil dissolves in the water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a substance property?",
+   "answers": {
+    "a": "A property that belongs to a substance, regardless of the amount",
+    "b": "The shape of the object the substance is in",
+    "c": "A property that changes when you take more of the substance",
+    "d": "The packaging of the substance"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which property is a substance property?",
+   "answers": {
+    "a": "Volume",
+    "b": "Mass",
+    "c": "Length",
+    "d": "Melting point"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the melting point of a substance?",
+   "answers": {
+    "a": "The temperature at which a substance decomposes",
+    "b": "The temperature at which a solid becomes a liquid",
+    "c": "The temperature at which a liquid starts to boil",
+    "d": "The temperature of the room you are working in"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the boiling point of water?",
+   "answers": {
+    "a": "50 °C",
+    "b": "0 °C",
+    "c": "100 °C",
+    "d": "37 °C"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does hydrophilic mean?",
+   "answers": {
+    "a": "Is very heavy",
+    "b": "Dissolves poorly in water",
+    "c": "Boils at a low temperature",
+    "d": "Dissolves well in water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A substance dissolves poorly in water. What do you call such a substance?",
+   "answers": {
+    "a": "Homogeneous",
+    "b": "Hydrophobic",
+    "c": "Hydrophilic",
+    "d": "Heterogeneous"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do we observe at the macro level?",
+   "answers": {
+    "a": "What you can see with your senses or measurements",
+    "b": "What the molecules do",
+    "c": "How atoms are joined together",
+    "d": "What only a model can describe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which statement is about the micro level?",
+   "answers": {
+    "a": "The substance is liquid",
+    "b": "The molecules move faster",
+    "c": "The substance is blue",
+    "d": "The substance has a boiling point of 78 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How are the molecules arranged in a gas?",
+   "answers": {
+    "a": "Far apart and they move in all directions",
+    "b": "Far apart and they stand still",
+    "c": "Close together, but they slide past each other",
+    "d": "Close together in fixed positions"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens at the micro level when you heat a liquid?",
+   "answers": {
+    "a": "The molecules become bigger",
+    "b": "The molecules disappear",
+    "c": "The molecules become heavier",
+    "d": "The molecules move faster"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which statement about a pure substance is correct?",
+   "answers": {
+    "a": "The boiling point changes during boiling",
+    "b": "It has a melting range",
+    "c": "It has a fixed melting point",
+    "d": "It consists of more kinds of molecules"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A substance starts to melt at 80 °C. At 85 °C everything is liquid. What is this substance?",
+   "answers": {
+    "a": "A solvent",
+    "b": "An element",
+    "c": "A pure substance",
+    "d": "A mixture"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which mixture is homogeneous?",
+   "answers": {
+    "a": "Water with oil",
+    "b": "Sand and gravel",
+    "c": "Sugar dissolved in water",
+    "d": "Muddy water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a suspension?",
+   "answers": {
+    "a": "A mixture of solid particles in a liquid",
+    "b": "A mixture of gases",
+    "c": "A substance that has completely dissolved",
+    "d": "A mixture of two liquids that do not mix"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Mayonnaise is an example of an…",
+   "answers": {
+    "a": "Suspension",
+    "b": "Emulsion",
+    "c": "Solution",
+    "d": "Pure substance"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You want to separate sand and water. Which method do you use?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Chromatography",
+    "c": "Evaporation (Indampen)",
+    "d": "Distillation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You want to obtain pure water from seawater. Which method do you use?",
+   "answers": {
+    "a": "Chromatography",
+    "b": "Settling (Bezinken)",
+    "c": "Distillation",
+    "d": "Filtration"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You want to obtain the dissolved salt from a salt solution. The water may evaporate. Which method do you use?",
+   "answers": {
+    "a": "Chromatography",
+    "b": "Filtration",
+    "c": "Settling (Bezinken)",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What difference is distillation based on?",
+   "answers": {
+    "a": "Difference in melting point",
+    "b": "Difference in boiling point",
+    "c": "Difference in density",
+    "d": "Difference in particle size"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What difference is filtration based on?",
+   "answers": {
+    "a": "Difference in density",
+    "b": "Difference in melting point",
+    "c": "Difference in particle size",
+    "d": "Difference in boiling point"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What difference is chromatography based on?",
+   "answers": {
+    "a": "Substances have a different density",
+    "b": "Substances travel different distances with the liquid over the paper",
+    "c": "Substances have a different particle size",
+    "d": "Substances boil at a different temperature"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is left behind on the filter during filtration?",
+   "answers": {
+    "a": "The filtrate",
+    "b": "The distillate",
+    "c": "The solution",
+    "d": "The residue"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the liquid you collect during distillation called?",
+   "answers": {
+    "a": "Distillate",
+    "b": "Residue",
+    "c": "Solvent",
+    "d": "Filtrate"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A liquid has a mass of 160 g and a volume of 200 cm<sup>3</sup>. What is the density?",
+   "answers": {
+    "a": "32 g/cm<sup>3</sup>",
+    "b": "0.80 g/cm<sup>3</sup>",
+    "c": "1.25 g/cm<sup>3</sup>",
+    "d": "80.00 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Iron has a density of 7.9 g/cm<sup>3</sup>. A small block of iron has a volume of 5.0 cm<sup>3</sup>. What is the mass?",
+   "answers": {
+    "a": "2.9 g",
+    "b": "395 g",
+    "c": "0.63 g",
+    "d": "39.5 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A solution of 100 g contains 12 g of dissolved salt. What is the mass percentage of salt?",
+   "answers": {
+    "a": "1.2%",
+    "b": "88%",
+    "c": "24%",
+    "d": "12%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An unknown metal has a mass of 27.0 g and a volume of 10.0 cm<sup>3</sup>. Densities: aluminium 2.70 g/cm<sup>3</sup>, iron 7.87 g/cm<sup>3</sup>, copper 8.96 g/cm<sup>3</sup>, lead 11.3 g/cm<sup>3</sup>. Which metal is it?",
+   "answers": {
+    "a": "Copper",
+    "b": "Lead",
+    "c": "Iron",
+    "d": "Aluminium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens during adsorption?",
+   "answers": {
+    "a": "The substance sinks to the bottom",
+    "b": "A substance attaches itself to the surface of a solid, such as activated carbon",
+    "c": "The substance dissolves in water",
+    "d": "The substance evaporates"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you determine the volume of an irregular object such as a stone?",
+   "answers": {
+    "a": "You measure the boiling point",
+    "b": "You weigh the object",
+    "c": "You submerge it in water and read how much the water level rises",
+    "d": "You measure length, width and height with a ruler"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}
