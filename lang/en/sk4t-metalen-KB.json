@@ -1,0 +1,158 @@
+{
+ "title": "Metals - 123 school",
+ "heading": "Metals",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Name three properties that most metals have",
+   "a": "For example: shiny, good conduction of heat and electricity, deformable (malleable and ductile), high density, solid at room temperature"
+  },
+  {
+   "q": "Which metal is liquid at room temperature?",
+   "a": "Mercury (Hg)"
+  },
+  {
+   "q": "Why are copper wires used in electricity cables?",
+   "a": "Copper conducts electricity very well and is easy to shape"
+  },
+  {
+   "q": "What is an alloy?",
+   "a": "A mixture of a metal with one or more other substances (usually other metals as well)"
+  },
+  {
+   "q": "What is bronze made of?",
+   "a": "Copper and tin"
+  },
+  {
+   "q": "What is brass made of?",
+   "a": "Copper and zinc"
+  },
+  {
+   "q": "What is steel made of?",
+   "a": "Iron with a small amount of carbon (and sometimes other metals)"
+  },
+  {
+   "q": "Why do people sometimes make an alloy instead of using a pure metal?",
+   "a": "The alloy has better properties, for example it is harder or rusts less quickly"
+  },
+  {
+   "q": "What is the metal in stainless steel that prevents rusting?",
+   "a": "Chromium (together with nickel)"
+  },
+  {
+   "q": "What forms when magnesium burns?",
+   "a": "Magnesium oxide (MgO)"
+  },
+  {
+   "q": "Balance: Mg + O<sub>2</sub> → MgO",
+   "a": "2 Mg + O<sub>2</sub> → 2 MgO"
+  },
+  {
+   "q": "Balance: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub> (left 4 Fe and 6 O, right 4 Fe and 6 O)"
+  },
+  {
+   "q": "Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "a": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub> (left 4 Al and 6 O, right 4 Al and 6 O)"
+  },
+  {
+   "q": "Balance: Cu + O<sub>2</sub> → CuO",
+   "a": "2 Cu + O<sub>2</sub> → 2 CuO"
+  },
+  {
+   "q": "Balance: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "a": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+  },
+  {
+   "q": "Balance: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+   "a": "2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub> (left 2 Na, 4 H and 2 O, right 2 Na, 4 H and 2 O)"
+  },
+  {
+   "q": "Which gas forms when sodium reacts with water?",
+   "a": "Hydrogen"
+  },
+  {
+   "q": "What is rust?",
+   "a": "Iron oxide, which forms when iron reacts with oxygen and water"
+  },
+  {
+   "q": "What is needed for iron to rust?",
+   "a": "Oxygen and water"
+  },
+  {
+   "q": "Name two ways to protect iron from rusting",
+   "a": "For example: painting, a layer of zinc (galvanising), a layer of oil or grease, another metal layer (chromium plating), an alloy such as stainless steel"
+  },
+  {
+   "q": "What is galvanising?",
+   "a": "Covering an iron object with a layer of zinc"
+  },
+  {
+   "q": "Why does aluminium not rust through?",
+   "a": "A thin, dense layer of aluminium oxide forms on the surface and protects the metal"
+  },
+  {
+   "q": "What is an ore?",
+   "a": "A rock from which you can extract a metal"
+  },
+  {
+   "q": "Which metal is made from iron ore in the blast furnace?",
+   "a": "Iron"
+  },
+  {
+   "q": "What is carbon (coke) used for in the blast furnace?",
+   "a": "Coke (carbon) removes oxygen from the ore. It also supplies heat."
+  },
+  {
+   "q": "What is the iron that comes out of the blast furnace called?",
+   "a": "Pig iron"
+  },
+  {
+   "q": "Why is recycling metals important?",
+   "a": "It saves raw materials and energy, and there is less waste"
+  },
+  {
+   "q": "Which metals are attracted by a magnet?",
+   "a": "Iron, nickel and cobalt"
+  },
+  {
+   "q": "A piece of copper has a mass of 89.6 g and a volume of 10.0 cm³. What is the density of copper?",
+   "a": "89.6 / 10.0 = 8.96 g/cm³"
+  },
+  {
+   "q": "A block of aluminium has a volume of 40 cm³. The density of aluminium is 2.7 g/cm³. What is the mass?",
+   "a": "2.7 × 40 = 108 g (1.1 × 10<sup>2</sup> g to 2 significant figures)",
+   "goed": [
+    "108 g",
+    "110 g",
+    "1.1 × 10^2 g"
+   ]
+  },
+  {
+   "q": "A piece of iron of 156 g has a density of 7.8 g/cm³. What is the volume?",
+   "a": "156 / 7.8 = 20 cm³"
+  },
+  {
+   "q": "Which metal has the greatest density: aluminium (2.7 g/cm³), iron (7.9 g/cm³), lead (11.3 g/cm³) or zinc (7.1 g/cm³)?",
+   "a": "Lead"
+  },
+  {
+   "q": "An ore of 200 g contains 140 g of iron oxide (Fe<sub>2</sub>O<sub>3</sub>). What is the mass percentage of iron oxide in the ore?",
+   "a": "140 / 200 × 100% = 70%"
+  },
+  {
+   "q": "500 g of ore contains 8.0 mass% of copper. How many grams of copper are there in the ore?",
+   "a": "0.080 × 500 = 40 g"
+  },
+  {
+   "q": "What is the symbol of lead?",
+   "a": "Pb"
+  },
+  {
+   "q": "Which of these metals occurs in nature mainly as an ore and not in pure form: gold or iron?",
+   "a": "Iron, because iron reacts easily with oxygen; gold occurs in pure form"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "title": "Calculating with substances and reactions - 123 school",
+ "heading": "Calculating with substances and reactions",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'.",
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "q": "Give the formula for concentration",
+   "a": "concentration = mass of dissolved substance : volume of solution"
+  },
+  {
+   "q": "Which unit goes with concentration?",
+   "a": "g/L"
+  },
+  {
+   "q": "What does 20 g/L mean?",
+   "a": "20 grams of substance in 1 litre of solution"
+  },
+  {
+   "q": "10 g of salt is dissolved in 2 L of solution. What is the concentration?",
+   "a": "10 g : 2 L = 5 g/L"
+  },
+  {
+   "q": "The concentration is 4 g/L. How many grams are there in 3 L?",
+   "a": "4 g/L × 3 L = 12 g"
+  },
+  {
+   "q": "How many grams of NaCl are there in 0.50 L of a solution with a concentration of 12 g/L?",
+   "a": "12 g/L × 0.50 L = 6.0 g"
+  },
+  {
+   "q": "45 g of sugar is dissolved in 0.250 L of solution. What is the concentration?",
+   "a": "45 g : 0.250 L = 180 g/L"
+  },
+  {
+   "q": "A solution has a concentration of 5.0 g/L. In what volume is 2.0 g of dissolved substance?",
+   "a": "2.0 g : 5.0 g/L = 0.40 L"
+  },
+  {
+   "q": "Convert 250 mL to litres.",
+   "a": "0.250 L"
+  },
+  {
+   "q": "Convert 1.5 g to mg.",
+   "a": "1500 mg"
+  },
+  {
+   "q": "Convert 300 mg to g.",
+   "a": "0.300 g"
+  },
+  {
+   "q": "15 mg of a substance is dissolved in 3.0 L of water. What is the concentration in mg/L?",
+   "a": "15 mg : 3.0 L = 5.0 mg/L"
+  },
+  {
+   "q": "Calculate the mass percentage of sodium in NaCl. Atomic masses: Na = 23.0 u; Cl = 35.5 u.",
+   "a": "23.0 / 58.5 × 100% = 39.3%"
+  },
+  {
+   "q": "Calculate the mass percentage of calcium in CaCO<sub>3</sub>. Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u.",
+   "a": "40.1 / 100.1 × 100% = 40.1%"
+  },
+  {
+   "q": "Calculate the mass percentage of chlorine in CaCl<sub>2</sub>. Atomic masses: Cl = 35.5 u; Ca = 40.1 u.",
+   "a": "71.0 / 111.1 × 100% = 63.9%"
+  },
+  {
+   "q": "Calculate the mass percentage of aluminium in AlPO<sub>4</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.",
+   "a": "27.0 / 122.0 × 100% = 22.1%"
+  },
+  {
+   "q": "How many mg of aluminium are there in 1.5 mg of AlPO<sub>4</sub>? Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.",
+   "a": "27.0 / 122.0 × 1.5 mg = 0.33 mg"
+  },
+  {
+   "q": "What is the maximum mass of calcium in g that you can obtain from 250 g of CaCl<sub>2</sub>? Atomic masses: Cl = 35.5 u; Ca = 40.1 u.",
+   "a": "40.1 / 111.1 × 250 g = 90.2 g"
+  },
+  {
+   "q": "What is the maximum mass of copper in g that you can obtain from 100 g of CuO? Atomic masses: O = 16.0 u; Cu = 63.5 u.",
+   "a": "63.5 / 79.5 × 100 g = 79.9 g"
+  },
+  {
+   "q": "Calculate the formula mass of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; S = 32.1 u.",
+   "a": "2 × 27.0 + 3 × (32.1 + 4 × 16.0) = 54.0 + 288.3 = 342.3 u"
+  },
+  {
+   "q": "Calculate the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Atomic masses: O = 16.0 u; P = 31.0 u; Ca = 40.1 u.",
+   "a": "3 × 40.1 + 2 × (31.0 + 4 × 16.0) = 120.3 + 190.0 = 310.3 u"
+  },
+  {
+   "q": "Calculate the formula mass of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; N = 14.0 u; O = 16.0 u; S = 32.1 u.",
+   "a": "2 × (14.0 + 4 × 1.0) + 32.1 + 4 × 16.0 = 36.0 + 96.1 = 132.1 u"
+  },
+  {
+   "q": "A liquid has a density of 0.79 g/mL. What is the mass of 50 mL?",
+   "a": "0.79 g/mL × 50 mL = 39.5 g (40 g to 2 significant figures)",
+   "goed": [
+    "39.5 g",
+    "40 g"
+   ]
+  },
+  {
+   "q": "A gold ring of 8.0 g is 18 carat (75 mass% gold). How many g of gold are there in the ring?",
+   "a": "0.75 × 8.0 g = 6.0 g"
+  },
+  {
+   "q": "What are the five steps in chemical calculations, in the correct order?",
+   "a": "1 Write the reaction equation (balanced, with state symbols)<br/>2 Write down what is given and what is asked, and put the masses (u) under the equation<br/>3 Make a ratio table<br/>4 Carry out the calculation<br/>5 Write the answer, with unit"
+  },
+  {
+   "q": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 1: write the balanced reaction equation, with state symbols.",
+   "a": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO<sub>2</sub> (g)"
+  },
+  {
+   "q": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 2: put the masses (u) of iron oxide and iron under the reaction equation.",
+   "a": "2 Fe<sub>2</sub>O<sub>3</sub>: 2 × 159.6 = 319.2 u<br/>4 Fe: 4 × 55.8 = 223.2 u"
+  },
+  {
+   "q": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 3: make the ratio table for 80 g of iron oxide. You are looking for the mass of iron.",
+   "a": "Factor: 80 : 319.2 = 0.2506",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>iron oxide</th><th>iron</th></tr><tr><td>mass ratio (u)</td><td>319.2 u</td><td>223.2 u</td></tr><tr><td>actual mass (g)</td><td>80</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
+  },
+  {
+   "q": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 319.2 u goes with 223.2 u, and 80 g goes with x g.",
+   "a": "x = 223.2 × 80 : 319.2 = 55.9 g<br/>Answer: 55.9 g of iron"
+  },
+  {
+   "q": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 1: write the balanced reaction equation, with state symbols.",
+   "a": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)"
+  },
+  {
+   "q": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 2: put the masses (u) of calcium hydroxide and hydrochloric acid (HCl) under the reaction equation.",
+   "a": "Ca(OH)<sub>2</sub>: 1 × 74.1 = 74.1 u<br/>2 HCl: 2 × 36.5 = 73.0 u"
+  },
+  {
+   "q": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 3: make the ratio table for 3.7 g of calcium hydroxide. You are looking for the mass of hydrochloric acid (HCl).",
+   "a": "Factor: 3.7 : 74.1 = 0.0499",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>calcium hydroxide</th><th>hydrochloric acid (HCl)</th></tr><tr><td>mass ratio (u)</td><td>74.1 u</td><td>73.0 u</td></tr><tr><td>actual mass (g)</td><td>3.7</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
+  },
+  {
+   "q": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 74.1 u goes with 73.0 u, and 3.7 g goes with x g.",
+   "a": "x = 73.0 × 3.7 : 74.1 = 3.645 = 3.6 g (2 significant figures)<br/>Answer: 3.6 g of hydrochloric acid (HCl)"
+  },
+  {
+   "q": "Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 3: make the ratio table for 8.0 g of sodium hydroxide. You are looking for the mass of hydrochloric acid (HCl).",
+   "a": "Factor: 8.0 : 40.0 = 0.2",
+   "tabel": "<table class=\"w3-table w3-bordered rekentabel\"><tr><th></th><th>sodium hydroxide</th><th>hydrochloric acid (HCl)</th></tr><tr><td>mass ratio (u)</td><td>40.0 u</td><td>36.5 u</td></tr><tr><td>actual mass (g)</td><td>8.0</td><td>x</td></tr></table>",
+   "pc": "rekenregel"
+  },
+  {
+   "q": "Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 40.0 u goes with 36.5 u, and 8.0 g goes with x g.",
+   "a": "x = 36.5 × 8.0 : 40.0 = 7.3 g<br/>Answer: 7.3 g of hydrochloric acid (HCl)"
+  }
+ ]
+}

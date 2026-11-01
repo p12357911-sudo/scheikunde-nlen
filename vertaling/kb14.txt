@@ -1,0 +1,640 @@
+### sk4t-begrippen-KB
+0.q What is the name of the element with the symbol Na?
+0.a sodium
+1.q What is the symbol of sodium?
+1.a Na
+2.q What is the name of the element with the symbol K?
+2.a potassium
+3.q What is the symbol of potassium?
+3.a K
+4.q What is the name of the element with the symbol Li?
+5.q What is the symbol of lithium?
+5.a Li
+6.q What is the name of the element with the symbol Ca?
+7.q What is the symbol of calcium?
+7.a Ca
+8.q What is the name of the element with the symbol Mg?
+9.q What is the symbol of magnesium?
+9.a Mg
+10.q What is the name of the element with the symbol Al?
+11.q What is the symbol of aluminium?
+11.a Al
+12.q What is the name of the element with the symbol Fe?
+12.a iron
+13.q What is the symbol of iron?
+13.a Fe
+14.q What is the name of the element with the symbol Cu?
+14.a copper
+15.q What is the symbol of copper?
+15.a Cu
+16.q What is the name of the element with the symbol Pb?
+16.a lead
+17.q What is the symbol of lead?
+17.a Pb
+18.q What is the name of the element with the symbol Ag?
+18.a silver
+19.q What is the symbol of silver?
+19.a Ag
+20.q What is the name of the element with the symbol Sn?
+20.a tin
+21.q What is the symbol of tin?
+21.a Sn
+22.q What is the name of the element with the symbol Zn?
+22.a zinc
+23.q What is the symbol of zinc?
+23.a Zn
+24.q What is the name of the element with the symbol F?
+24.a fluorine
+25.q What is the symbol of fluorine?
+25.a F
+26.q What is the name of the element with the symbol Cl?
+26.a chlorine
+27.q What is the symbol of chlorine?
+27.a Cl
+28.q What is the name of the element with the symbol Br?
+28.a bromine
+29.q What is the symbol of bromine?
+29.a Br
+30.q What is the name of the element with the symbol I?
+30.a iodine
+31.q What is the symbol of iodine?
+31.a I
+32.q What is the name of the element with the symbol N?
+32.a nitrogen
+33.q What is the symbol of nitrogen?
+33.a N
+34.q What is the name of the element with the symbol O?
+34.a oxygen
+35.q What is the symbol of oxygen?
+35.a O
+36.q What is the name of the element with the symbol P?
+36.a phosphorus
+37.q What is the symbol of phosphorus?
+37.a P
+38.q What is the name of the element with the symbol C?
+38.a carbon
+39.q What is the symbol of carbon?
+39.a C
+40.q What is the name of the element with the symbol H?
+40.a hydrogen
+41.q What is the symbol of hydrogen?
+41.a H
+42.q What charge does the ion of sodium (Na) have?
+42.a 1+
+43.q Which ion belongs to sodium?
+43.a Na<sup>+</sup>
+44.q What charge does the ion of potassium (K) have?
+44.a 1+
+45.q Which ion belongs to potassium?
+45.a K<sup>+</sup>
+46.q What charge does the ion of lithium (Li) have?
+46.a 1+
+47.q Which ion belongs to lithium?
+47.a Li<sup>+</sup>
+48.q What charge does the ion of calcium (Ca) have?
+48.a 2+
+49.q Which ion belongs to calcium?
+49.a Ca<sup>2+</sup>
+50.q What charge does the ion of magnesium (Mg) have?
+50.a 2+
+51.q Which ion belongs to magnesium?
+51.a Mg<sup>2+</sup>
+52.q What charge does the ion of aluminium (Al) have?
+52.a 3+
+53.q Which ion belongs to aluminium?
+53.a Al<sup>3+</sup>
+54.q What charge does the ion of copper (Cu) have?
+54.a 2+
+55.q Which ion belongs to copper?
+55.a Cu<sup>2+</sup>
+56.q What charge does the ion of lead (Pb) have?
+56.a 2+
+57.q Which ion belongs to lead?
+57.a Pb<sup>2+</sup>
+58.q What charge does the ion of silver (Ag) have?
+58.a 1+
+59.q Which ion belongs to silver?
+59.a Ag<sup>+</sup>
+60.q What charge does the ion of tin (Sn) have?
+60.a 2+
+61.q Which ion belongs to tin?
+61.a Sn<sup>2+</sup>
+62.q What charge does the ion of zinc (Zn) have?
+62.a 2+
+63.q Which ion belongs to zinc?
+63.a Zn<sup>2+</sup>
+64.q What charge does the ion of fluorine (F) have?
+64.a 1−
+65.q Which ion belongs to fluorine?
+65.a F<sup>−</sup>
+66.q What charge does the ion of chlorine (Cl) have?
+66.a 1−
+67.q Which ion belongs to chlorine?
+67.a Cl<sup>−</sup>
+68.q What charge does the ion of bromine (Br) have?
+68.a 1−
+69.q Which ion belongs to bromine?
+69.a Br<sup>−</sup>
+70.q What charge does the ion of iodine (I) have?
+70.a 1−
+71.q Which ion belongs to iodine?
+71.a I<sup>−</sup>
+72.q What charge does the ion of iron have?
+72.a 2+ or 3+ (iron(II) is green, iron(III) is brown)
+73.q What colour does copper(II) (Cu<sup>2+</sup>) have in your list?
+73.a blue
+74.q What is the name of the ion S<sup>2−</sup>?
+75.q What is the name of the ion O<sup>2−</sup>?
+75.a oxide
+76.q What is the name of the ion F<sup>−</sup>?
+77.q What is the name of the ion Cl<sup>−</sup>?
+78.q What is the name of the ion Br<sup>−</sup>?
+79.q What is the name of the ion I<sup>−</sup>?
+80.q Which substance is Fe(II)S?
+80.a iron(II) sulfide
+81.q Which substance is CuO?
+81.a copper(II) oxide
+82.q What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?
+82.a carbonate ion
+83.q What is the formula of the carbonate ion?
+83.a CO<sub>3</sub><sup>2−</sup>
+84.q What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?
+84.a nitrate ion
+85.q What is the formula of the nitrate ion?
+85.a NO<sub>3</sub><sup>−</sup>
+86.q What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?
+86.a nitrite ion
+87.q What is the formula of the nitrite ion?
+87.a NO<sub>2</sub><sup>−</sup>
+88.q What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?
+88.a phosphate ion
+89.q What is the formula of the phosphate ion?
+89.a PO<sub>4</sub><sup>3−</sup>
+90.q What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?
+90.a ammonium ion
+91.q What is the formula of the ammonium ion?
+91.a NH<sub>4</sub><sup>+</sup>
+92.q What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?
+92.a sulfite ion
+93.q What is the formula of the sulfite ion?
+93.a SO<sub>3</sub><sup>2−</sup>
+94.q What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?
+94.a sulfate ion
+95.q What is the formula of the sulfate ion?
+95.a SO<sub>4</sub><sup>2−</sup>
+96.q What are the elements in group 1 of the periodic table called?
+96.a alkali metals
+97.q Which group of the periodic table is called alkalimetalen?
+97.a group 1
+98.q What are the elements in group 2 of the periodic table called?
+98.a alkaline earth metals
+99.q Which group of the periodic table is called aardalkalimetalen?
+99.a group 2
+100.q What are the elements in group 17 of the periodic table called?
+100.a halogens
+101.q Which group of the periodic table is called halogenen?
+101.a group 17
+102.q Of which ion do all salts dissolve well?
+102.a Na<sup>+</sup>
+103.q Of which polyatomic ion do all salts dissolve well?
+103.a NO<sub>3</sub><sup>−</sup>
+104.q Name two ions of which all salts dissolve well
+104.a for example Na<sup>+</sup>, K<sup>+</sup> and NO<sub>3</sub><sup>−</sup>
+105.q Which gas is poisonous?
+105.a carbon monoxide (CO)
+106.q What is the formula of carbon monoxide?
+106.a CO
+107.q Which formula belongs to the gas oxygen that we breathe in with the air?
+107.a O<sub>2</sub>
+108.q Which formula belongs to the gas nitrogen that we breathe in with the air?
+108.a N<sub>2</sub>
+109.a CO<sub>2</sub>
+110.q What are hydrocarbons?
+110.a molecules that mainly contain C atoms and H atoms
+111.q Which two types of atom do hydrocarbons mainly consist of?
+111.a carbon (C) and hydrogen (H)
+112.a methane
+113.q Which substance has the formula H<sub>2</sub>O?
+113.a water
+114.q What is the formula of water?
+114.a H<sub>2</sub>O
+115.q Which substance has the formula CH<sub>4</sub>?
+115.a methane
+116.q What is the formula of methane?
+116.a CH<sub>4</sub>
+117.q Which substance has the formula CO<sub>2</sub>?
+117.a carbon dioxide
+118.q What is the formula of carbon dioxide?
+118.a CO<sub>2</sub>
+119.q What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?
+119.a sulfuric acid
+120.q What is the formula of sulfuric acid?
+120.a H<sub>2</sub>SO<sub>4</sub>
+121.q What is the name of the acid with the formula HNO<sub>3</sub>?
+121.a nitric acid
+122.q What is the formula of nitric acid?
+122.a HNO<sub>3</sub>
+123.q What is the name of the acid with the formula HCl?
+123.a hydrochloric acid
+124.q What is the formula of hydrochloric acid?
+124.a HCl
+125.q What is the name of the acid with the formula HAc?
+125.a acetic acid
+126.q What is the formula of acetic acid?
+126.a HAc
+127.q What is the name of the substance with the formula NH<sub>3</sub>?
+127.a ammonia
+128.q What is the formula of ammonia?
+128.a NH<sub>3</sub>
+129.q What is the name of the substance with the formula KOH?
+129.a potassium hydroxide solution
+130.q What is the formula of potassium hydroxide solution?
+130.a KOH
+131.q What is the name of the substance with the formula NaOH?
+131.a sodium hydroxide solution
+132.q What is the formula of sodium hydroxide solution?
+132.a NaOH
+133.q What is the name of the substance with the formula Ca(OH)<sub>2</sub>?
+133.a calcium hydroxide
+134.q What is the formula of calcium hydroxide?
+134.a Ca(OH)<sub>2</sub>
+135.q Which formula belongs to limestone and marble?
+136.q What is the name of a solution of Ca(OH)<sub>2</sub> in water?
+136.a limewater
+137.q How do you write that HCl dissolves in water?
+137.a HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+138.q How do you write that NaOH dissolves in water?
+139.q Which particles are in table salt dissolved in water?
+139.a Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+140.q What is the substance NaCl called in everyday life?
+140.a table salt (trivial name)
+141.q Is HCl an acid, a base or a salt?
+141.a an acid
+142.q Is NaOH an acid, a base or a salt?
+142.a a base
+143.q Is KOH an acid, a base or a salt?
+143.a a base
+144.q Is NaCl an acid, a base or a salt?
+144.a a salt
+145.q Is CaCO<sub>3</sub> an acid, a base or a salt?
+145.a a salt
+146.q What is the pH of a neutral solution?
+146.a 7
+147.q What is a pH of 14?
+147.a basic (alkaline)
+148.q What is a pH of 1?
+148.a acidic
+149.q Between which numbers does the pH scale run in your list?
+149.a 1 en 14
+153.a H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)
+155.q What does (s) after the name of a substance stand for?
+155.a solid
+156.q Which state symbol belongs to: solid?
+156.a (s)
+157.q What does (l) after the name of a substance stand for?
+157.a liquid
+158.q Which state symbol belongs to: liquid?
+158.a (l)
+159.q What does (g) after the name of a substance stand for?
+159.a gas
+160.q Which state symbol belongs to: gas?
+160.a (g)
+161.q What does (aq) after the name of a substance stand for?
+161.a dissolved in water (aqua)
+162.q Which state symbol belongs to: dissolved in water (aqua)?
+162.a (aq)
+163.q Name the six changes of state
+163.a freezing, melting, deposition, sublimation, vaporisation (evaporation), condensation
+164.q How many changes of state are there?
+164.a 6
+165.q What is the everyday name of a substance, such as table salt, called?
+165.a trivial name
+166.q In which BINAS table do you find the trivial names and the chemical names of substances?
+166.a BINAS table 42
+167.q In which BINAS table do you find the periodic table?
+167.a BINAS table 34
+168.q What is the (Dutch) mnemonic for the separation methods?
+168.a Bart & Anne Eten Dikke Friet In Amsterdam (the first letters of the Dutch names: Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen)
+169.q Name all the separation methods from the mnemonic
+169.a Settling, decanting, extraction, distillation, filtration, evaporation, adsorption
+170.q How many separation methods are there in the mnemonic?
+170.a 7
+171.q Which separation method goes with the letter D in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+171.a Distillation
+172.q Which separation method goes with the letter F in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+172.a Filtration
+173.q Which separation method goes with the letter I in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+173.a Evaporation (Indampen)
+174.q Which separation method goes with the letter E in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+174.a Extraction (Extraheren)
+175.q Which separation method goes with the letter B in the Dutch mnemonic 'Bart & Anne Eten Dikke Friet In Amsterdam'?
+175.a Settling (Bezinken)
+176.q What are settling and decanting as separation methods based on?
+176.a density
+177.q What is filtration as a separation method based on?
+177.a particle size
+178.q What is evaporation as a separation method based on?
+178.a boiling point
+179.q What is distillation as a separation method based on?
+179.a difference in boiling point between liquids
+180.q What is adsorption as a separation method based on?
+180.a a stronger tendency to attach to a surface than to dissolve in a liquid or gas
+181.q What is extraction as a separation method based on?
+181.a a solid dissolves better in a liquid
+182.q Which separation method separates on the basis of density?
+182.a Settling and decanting
+183.q Which separation method separates on the basis of particle size?
+183.a Filtration
+184.q Which separation method separates on the basis of the difference in boiling point between liquids?
+184.a Distillation
+185.q Which separation method separates on the basis of the ability to attach to a surface?
+185.a Adsorption
+186.q Which separation method do you use to obtain salt from salt water?
+186.a Evaporation (Indampen)
+187.q Making tea is an example of which separation method?
+187.a Extraction (Extraheren)
+188.q Removing alcohol from wine is an example of which separation method?
+188.a Distillation
+189.q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+189.a Adsorption
+190.q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+190.a Adsorption
+191.q What does the prefix milli mean?
+191.a 1/1000
+192.q What does the prefix kilo mean?
+192.a times 1000
+193.q How many litres is 4000 mL?
+193.a 4 L
+194.q How many litres is 1000 mL?
+194.a 1 L
+195.q How many grams is 3 kg?
+195.a 3000 g
+196.q How many kg is 2000 g?
+196.a 2 kg
+197.q Which formula do you use to convert degrees Celsius to kelvin?
+197.a K = °C + 273
+198.q How many K is 0 °C?
+198.a 273 K
+199.q How many K is 20 °C?
+199.a 293 K
+200.q How many °C is 273 K?
+200.a 0 °C
+201.q How many °C is 293 K?
+201.a 20 °C
+202.q How many °C is 0 K?
+202.a −273 °C
+203.q In which BINAS tables do you find the prefixes and the conversion rules?
+203.a BINAS tables 2 and 3
+### sk4t-metalen-KB
+10.q Balance: Mg + O<sub>2</sub> → MgO
+10.a 2 Mg + O<sub>2</sub> → 2 MgO
+11.q Balance: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>
+12.q Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+13.a 2 Cu + O<sub>2</sub> → 2 CuO
+14.q Balance: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+23.a Iron
+28.a 89.6 / 10.0 = 8.96 g/cm³
+29.g0 108 g
+29.g1 110 g
+29.g2 1.1 × 10^2 g
+30.a 156 / 7.8 = 20 cm³
+31.a Lead
+32.a 140 / 200 × 100% = 70%
+33.a 0.080 × 500 = 40 g
+34.q What is the symbol of lead?
+34.a Pb
+### sk4t-rekenen-KB
+1.a g/L
+3.a 10 g : 2 L = 5 g/L
+4.a 4 g/L × 3 L = 12 g
+5.a 12 g/L × 0.50 L = 6.0 g
+6.a 45 g : 0.250 L = 180 g/L
+7.a 2.0 g : 5.0 g/L = 0.40 L
+8.a 0.250 L
+9.a 1500 mg
+10.a 0.300 g
+11.a 15 mg : 3.0 L = 5.0 mg/L
+12.a 23.0 / 58.5 × 100% = 39.3%
+13.a 40.1 / 100.1 × 100% = 40.1%
+14.a 71.0 / 111.1 × 100% = 63.9%
+15.a 27.0 / 122.0 × 100% = 22.1%
+16.a 27.0 / 122.0 × 1.5 mg = 0.33 mg
+17.a 40.1 / 111.1 × 250 g = 90.2 g
+18.a 63.5 / 79.5 × 100 g = 79.9 g
+19.a 2 × 27.0 + 3 × (32.1 + 4 × 16.0) = 54.0 + 288.3 = 342.3 u
+20.a 3 × 40.1 + 2 × (31.0 + 4 × 16.0) = 120.3 + 190.0 = 310.3 u
+21.a 2 × (14.0 + 4 × 1.0) + 32.1 + 4 × 16.0 = 36.0 + 96.1 = 132.1 u
+22.g0 39.5 g
+22.g1 40 g
+23.a 0.75 × 8.0 g = 6.0 g
+24.q What are the five steps in chemical calculations, in the correct order?
+24.a 1 Write the reaction equation (balanced, with state symbols)<br/>2 Write down what is given and what is asked, and put the masses (u) under the equation<br/>3 Make a ratio table<br/>4 Carry out the calculation<br/>5 Write the answer, with unit
+25.a 2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO<sub>2</sub> (g)
+26.a 2 Fe<sub>2</sub>O<sub>3</sub>: 2 × 159.6 = 319.2 u<br/>4 Fe: 4 × 55.8 = 223.2 u
+30.a Ca(OH)<sub>2</sub>: 1 × 74.1 = 74.1 u<br/>2 HCl: 2 × 36.5 = 73.0 u
+### sk4t-schoon-KB
+2.a De kop
+10.q What is a cream?
+29.a Carbon dioxide
+32.a NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (g)
+33.q What is an emulsion?
+34.q What is an emulsifier?
+### sk4t-begrippen-KB
+heading Chemistry terms
+4.a lithium
+6.a calcium
+8.a magnesium
+10.a aluminium
+74.a sulfide
+76.a fluoride
+77.a chloride
+78.a bromide
+79.a iodide
+109.q Which gas forms acid in water?
+112.q What is the smallest hydrocarbon?
+135.a CaCO<sub>3</sub>
+138.a NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+150.q What is the ion H<sup>+</sup> called?
+150.a hydrogen ion (proton)
+151.q What is the ion OH<sup>−</sup> called?
+151.a hydroxide ion
+152.q What forms when you mix H<sup>+</sup> and OH<sup>−</sup> in the ratio 1 : 1?
+152.a neutral water
+153.q Give the reaction equation for mixing H<sup>+</sup> and OH<sup>−</sup> in the ratio 1 : 1
+154.q What is present in large amounts in an acidic solution?
+154.a many H<sup>+</sup> and few OH<sup>−</sup>
+### sk4t-metalen-KB
+heading Metals
+0.q Name three properties that most metals have
+0.a For example: shiny, good conduction of heat and electricity, deformable (malleable and ductile), high density, solid at room temperature
+1.q Which metal is liquid at room temperature?
+1.a Mercury (Hg)
+2.q Why are copper wires used in electricity cables?
+2.a Copper conducts electricity very well and is easy to shape
+3.q What is an alloy?
+3.a A mixture of a metal with one or more other substances (usually other metals as well)
+4.q What is bronze made of?
+4.a Copper and tin
+5.q What is brass made of?
+5.a Copper and zinc
+6.q What is steel made of?
+6.a Iron with a small amount of carbon (and sometimes other metals)
+7.q Why do people sometimes make an alloy instead of using a pure metal?
+7.a The alloy has better properties, for example it is harder or rusts less quickly
+8.q What is the metal in stainless steel that prevents rusting?
+8.a Chromium (together with nickel)
+9.q What forms when magnesium burns?
+9.a Magnesium oxide (MgO)
+11.a 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub> (left 4 Fe and 6 O, right 4 Fe and 6 O)
+12.a 4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub> (left 4 Al and 6 O, right 4 Al and 6 O)
+13.q Balance: Cu + O<sub>2</sub> → CuO
+14.a Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+15.q Balance: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>
+15.a 2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub> (left 2 Na, 4 H and 2 O, right 2 Na, 4 H and 2 O)
+16.q Which gas forms when sodium reacts with water?
+16.a Hydrogen
+17.q What is rust?
+17.a Iron oxide, which forms when iron reacts with oxygen and water
+18.q What is needed for iron to rust?
+18.a Oxygen and water
+19.q Name two ways to protect iron from rusting
+19.a For example: painting, a layer of zinc (galvanising), a layer of oil or grease, another metal layer (chromium plating), an alloy such as stainless steel
+20.q What is galvanising?
+20.a Covering an iron object with a layer of zinc
+21.q Why does aluminium not rust through?
+21.a A thin, dense layer of aluminium oxide forms on the surface and protects the metal
+22.q What is an ore?
+22.a A rock from which you can extract a metal
+23.q Which metal is made from iron ore in the blast furnace?
+24.q What is carbon (coke) used for in the blast furnace?
+24.a Coke (carbon) removes oxygen from the ore. It also supplies heat.
+25.q What is the iron that comes out of the blast furnace called?
+25.a Pig iron
+26.q Why is recycling metals important?
+26.a It saves raw materials and energy, and there is less waste
+27.q Which metals are attracted by a magnet?
+27.a Iron, nickel and cobalt
+28.q A piece of copper has a mass of 89.6 g and a volume of 10.0 cm³. What is the density of copper?
+29.q A block of aluminium has a volume of 40 cm³. The density of aluminium is 2.7 g/cm³. What is the mass?
+29.a 2.7 × 40 = 108 g (1.1 × 10<sup>2</sup> g to 2 significant figures)
+30.q A piece of iron of 156 g has a density of 7.8 g/cm³. What is the volume?
+31.q Which metal has the greatest density: aluminium (2.7 g/cm³), iron (7.9 g/cm³), lead (11.3 g/cm³) or zinc (7.1 g/cm³)?
+32.q An ore of 200 g contains 140 g of iron oxide (Fe<sub>2</sub>O<sub>3</sub>). What is the mass percentage of iron oxide in the ore?
+33.q 500 g of ore contains 8.0 mass% of copper. How many grams of copper are there in the ore?
+35.q Which of these metals occurs in nature mainly as an ore and not in pure form: gold or iron?
+35.a Iron, because iron reacts easily with oxygen; gold occurs in pure form
+### sk4t-rekenen-KB
+heading Calculating with substances and reactions
+0.q Give the formula for concentration
+0.a concentration = mass of dissolved substance : volume of solution
+1.q Which unit goes with concentration?
+2.q What does 20 g/L mean?
+2.a 20 grams of substance in 1 litre of solution
+3.q 10 g of salt is dissolved in 2 L of solution. What is the concentration?
+4.q The concentration is 4 g/L. How many grams are there in 3 L?
+5.q How many grams of NaCl are there in 0.50 L of a solution with a concentration of 12 g/L?
+6.q 45 g of sugar is dissolved in 0.250 L of solution. What is the concentration?
+7.q A solution has a concentration of 5.0 g/L. In what volume is 2.0 g of dissolved substance?
+8.q Convert 250 mL to litres.
+9.q Convert 1.5 g to mg.
+10.q Convert 300 mg to g.
+11.q 15 mg of a substance is dissolved in 3.0 L of water. What is the concentration in mg/L?
+12.q Calculate the mass percentage of sodium in NaCl. Atomic masses: Na = 23.0 u; Cl = 35.5 u.
+13.q Calculate the mass percentage of calcium in CaCO<sub>3</sub>. Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u.
+14.q Calculate the mass percentage of chlorine in CaCl<sub>2</sub>. Atomic masses: Cl = 35.5 u; Ca = 40.1 u.
+15.q Calculate the mass percentage of aluminium in AlPO<sub>4</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.
+16.q How many mg of aluminium are there in 1.5 mg of AlPO<sub>4</sub>? Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.
+17.q What is the maximum mass of calcium in g that you can obtain from 250 g of CaCl<sub>2</sub>? Atomic masses: Cl = 35.5 u; Ca = 40.1 u.
+18.q What is the maximum mass of copper in g that you can obtain from 100 g of CuO? Atomic masses: O = 16.0 u; Cu = 63.5 u.
+19.q Calculate the formula mass of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; S = 32.1 u.
+20.q Calculate the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Atomic masses: O = 16.0 u; P = 31.0 u; Ca = 40.1 u.
+21.q Calculate the formula mass of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; N = 14.0 u; O = 16.0 u; S = 32.1 u.
+22.q A liquid has a density of 0.79 g/mL. What is the mass of 50 mL?
+22.a 0.79 g/mL × 50 mL = 39.5 g (40 g to 2 significant figures)
+23.q A gold ring of 8.0 g is 18 carat (75 mass% gold). How many g of gold are there in the ring?
+25.q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 1: write the balanced reaction equation, with state symbols.
+26.q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 2: put the masses (u) of iron oxide and iron under the reaction equation.
+27.q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 3: make the ratio table for 80 g of iron oxide. You are looking for the mass of iron.
+27.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>iron oxide</th><th>iron</th></tr><tr><td>mass ratio (u)</td><td>319.2 u</td><td>223.2 u</td></tr><tr><td>actual mass (g)</td><td>80</td><td>x</td></tr></table>
+27.a Factor: 80 : 319.2 = 0.2506
+28.q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 319.2 u goes with 223.2 u, and 80 g goes with x g.
+28.a x = 223.2 × 80 : 319.2 = 55.9 g<br/>Answer: 55.9 g of iron
+29.q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 1: write the balanced reaction equation, with state symbols.
+29.a Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)
+30.q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 2: put the masses (u) of calcium hydroxide and hydrochloric acid (HCl) under the reaction equation.
+31.q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 3: make the ratio table for 3.7 g of calcium hydroxide. You are looking for the mass of hydrochloric acid (HCl).
+31.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>calcium hydroxide</th><th>hydrochloric acid (HCl)</th></tr><tr><td>mass ratio (u)</td><td>74.1 u</td><td>73.0 u</td></tr><tr><td>actual mass (g)</td><td>3.7</td><td>x</td></tr></table>
+31.a Factor: 3.7 : 74.1 = 0.0499
+32.q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 74.1 u goes with 73.0 u, and 3.7 g goes with x g.
+32.a x = 73.0 × 3.7 : 74.1 = 3.645 = 3.6 g (2 significant figures)<br/>Answer: 3.6 g of hydrochloric acid (HCl)
+33.q Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 3: make the ratio table for 8.0 g of sodium hydroxide. You are looking for the mass of hydrochloric acid (HCl).
+33.t <table class="w3-table w3-bordered rekentabel"><tr><th></th><th>sodium hydroxide</th><th>hydrochloric acid (HCl)</th></tr><tr><td>mass ratio (u)</td><td>40.0 u</td><td>36.5 u</td></tr><tr><td>actual mass (g)</td><td>8.0</td><td>x</td></tr></table>
+33.a Factor: 8.0 : 40.0 = 0.2
+34.q Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 4 and 5: carry out the calculation and write the answer with unit. The ratio table is already prepared: 40.0 u goes with 36.5 u, and 8.0 g goes with x g.
+34.a x = 36.5 × 8.0 : 40.0 = 7.3 g<br/>Answer: 7.3 g of hydrochloric acid (HCl)
+### sk4t-schoon-KB
+heading Cleaning and personal care
+0.q What is natural soap made from?
+0.a From vegetable and animal oils and fats (synthetic soap: from petroleum products)
+1.q Which two parts does a soap molecule consist of?
+1.a A head and a tail
+2.q Which part of a soap molecule dissolves in water?
+3.q Which part of a soap molecule dissolves in fat?
+3.a The tail
+4.q What type of substance is soap?
+4.a An emulsifier
+5.q What does soap do when cleaning?
+5.a It makes fat and water mix, so that the fat can be rinsed away
+6.q What is hard water?
+6.a Water in which a lot of lime is dissolved. Soft water contains little lime.
+7.q What is soap scum?
+7.a A white solid that forms when soap reacts with lime
+8.q Do you need more or less soap with hard water than with soft water?
+8.a More soap
+9.q What are cosmetics? Give two examples
+9.a Products for caring for or beautifying your body. For example shampoo and toothpaste.
+10.a An emulsion that you rub onto your skin
+11.q What are the main ingredients of a cream?
+11.a Water, oil or fat and an emulsifier
+12.q What are the main ingredients of shampoo?
+12.a Water, soap and table salt
+13.q What are the main ingredients of toothpaste?
+13.a Soap and an abrasive
+14.q What does the abrasive in toothpaste do?
+14.a It polishes your teeth clean
+15.q Which ingredient in toothpaste speeds up the repair of your tooth enamel?
+15.a Fluoride
+16.q What is sebum?
+16.a The thin layer of fat (skin oil) on your skin
+17.q Why can you not remove sebum with water alone?
+17.a Sebum is fat and fat does not dissolve in water
+18.q Why do you need more soap with hard water?
+18.a Part of the soap reacts with lime to form soap scum. Less active soap is then left.
+19.q What happens to your skin if you wash away all the sebum?
+19.a Your skin dries out
+20.q What does hydrophilic mean?
+20.a Water-loving: the substance or the part of the molecule dissolves well in water
+21.q What does hydrophobic mean?
+21.a Water-fearing: the substance or the part of the molecule does not dissolve in water
+22.q Which part of a soap molecule is hydrophilic and which part is hydrophobic?
+22.a The head is hydrophilic, the tail is hydrophobic
+23.q Why does fat not dissolve in water?
+23.a Fat is hydrophobic
+24.q How do soap molecules make it possible for a drop of fat to be rinsed away?
+24.a The tails are in the fat and the heads stick out into the water
+25.q What function does water have when washing clothes?
+25.a Solvent and rinsing agent
+26.q What pH does an all-purpose cleaner for grease usually have?
+26.a Higher than 7 (basic)
+27.q What pH does a descaler usually have?
+27.a Lower than 7 (acidic)
+28.q Why does an acid such as vinegar help against limescale?
+28.a The acid reacts with lime to form a soluble salt, water and carbon dioxide
+29.q You pour descaler onto limescale and it starts to fizz. Which gas forms?
+30.q What type of substance is a drain cleaner containing sodium hydroxide solution?
+30.a A strong base
+31.q Why are soft drinks bad for your teeth?
+31.a Soft drinks are acidic and attack the tooth enamel
+32.q Sal ammoniac (NH<sub>4</sub>Cl) decomposes when heated. What is the reaction equation?
+33.a A mixture in which small droplets of one liquid are spread through another liquid
+34.a A substance that makes water and oil or fat mix
