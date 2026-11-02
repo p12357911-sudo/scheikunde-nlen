@@ -1,0 +1,349 @@
+{
+ "title": "Reaction rate and energy - 123 school",
+ "heading": "Reaction rate and energy",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is an exothermic reaction?",
+   "answers": {
+    "a": "A reaction in which a gas is formed",
+    "b": "A reaction in which energy is needed",
+    "c": "A reaction that proceeds very quickly",
+    "d": "A reaction in which energy is released"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is an endothermic reaction?",
+   "answers": {
+    "a": "A reaction in which energy is absorbed",
+    "b": "A reaction without an energy effect",
+    "c": "A reaction in which energy is released",
+    "d": "A reaction in which a precipitate is formed"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is the combustion of natural gas exothermic or endothermic?",
+   "answers": {
+    "a": "Exothermic",
+    "b": "That depends on the temperature",
+    "c": "Neither",
+    "d": "Endothermic"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is photosynthesis exothermic or endothermic?",
+   "answers": {
+    "a": "Exothermic",
+    "b": "Neither",
+    "c": "Endothermic (energy from sunlight is absorbed)",
+    "d": "First exothermic, then endothermic"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the activation energy?",
+   "answers": {
+    "a": "The energy of the products",
+    "b": "The energy supplied by the catalyst",
+    "c": "The energy released in the reaction",
+    "d": "The minimum energy needed to start a reaction"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a catalyst?",
+   "answers": {
+    "a": "A substance that is converted in the reaction",
+    "b": "A substance that slows down a reaction",
+    "c": "A substance that speeds up a reaction and is not used up itself",
+    "d": "A substance that supplies energy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a catalyst do to the activation energy?",
+   "answers": {
+    "a": "It becomes higher",
+    "b": "It becomes lower",
+    "c": "It stays the same",
+    "d": "It becomes zero"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a catalyst do to the heat of reaction?",
+   "answers": {
+    "a": "Nothing, the heat of reaction stays the same",
+    "b": "It becomes smaller",
+    "c": "It becomes negative",
+    "d": "It becomes greater"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an effective collision?",
+   "answers": {
+    "a": "A collision with the wall of the vessel",
+    "b": "Every collision between particles",
+    "c": "A collision between particles of the same substance",
+    "d": "A collision between particles with enough energy and in the right orientation, after which they react"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does a reaction go faster at a higher temperature?",
+   "answers": {
+    "a": "There are more particles",
+    "b": "The particles move faster, so there are more effective collisions per second",
+    "c": "The particles become larger",
+    "d": "The activation energy becomes zero"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why does a reaction go faster at a higher concentration?",
+   "answers": {
+    "a": "The particles become smaller",
+    "b": "The activation energy becomes lower",
+    "c": "There are more particles per volume, so more collisions per second",
+    "d": "The particles move faster"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does zinc powder react faster with hydrochloric acid than a piece of zinc of the same mass?",
+   "answers": {
+    "a": "Powder has a higher temperature",
+    "b": "Powder has a larger contact surface",
+    "c": "Powder has a lower activation energy",
+    "d": "Powder contains more zinc"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What happens to the reaction rate of gases if you increase the pressure?",
+   "answers": {
+    "a": "The rate stays the same",
+    "b": "The rate becomes greater, because there are more particles per volume",
+    "c": "The rate becomes smaller",
+    "d": "The reaction stops"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. What happens to the rate for a 20 °C rise?",
+   "answers": {
+    "a": "It becomes 20 times as large",
+    "b": "It becomes 4 times as large",
+    "c": "It becomes 2 times as large",
+    "d": "It becomes 8 times as large"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 80 s. How long does the reaction take at 40 °C?",
+   "answers": {
+    "a": "40 s",
+    "b": "160 s",
+    "c": "10 s",
+    "d": "20 s"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 50 °C a reaction takes 12 s. How long does the reaction take at 30 °C?",
+   "answers": {
+    "a": "36 s",
+    "b": "48 s",
+    "c": "24 s",
+    "d": "6 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 100 s. How long does the reaction take at 30 °C?",
+   "answers": {
+    "a": "90 s",
+    "b": "200 s",
+    "c": "50 s",
+    "d": "25 s"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. How many times as great is the rate at 50 °C as at 20 °C?",
+   "answers": {
+    "a": "16 times",
+    "b": "8 times",
+    "c": "3 times",
+    "d": "6 times"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 60 °C a reaction takes 5 s. How long does the reaction take at 20 °C?",
+   "answers": {
+    "a": "8 s",
+    "b": "80 s",
+    "c": "20 s",
+    "d": "40 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How is the reaction rate defined?",
+   "answers": {
+    "a": "The amount of energy per mole",
+    "b": "The time the reaction takes",
+    "c": "The change in concentration per time (Δc : Δt)",
+    "d": "The total mass that reacts"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a suitable unit for reaction rate?",
+   "answers": {
+    "a": "J/mol",
+    "b": "L/mol",
+    "c": "mol/L",
+    "d": "mol/(L·s)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The concentration of substance A falls from 0.80 mol/L to 0.50 mol/L in 30 s. Calculate the average reaction rate.",
+   "answers": {
+    "a": "0.10 mol/(L·s)",
+    "b": "0.010 mol/(L·s)",
+    "c": "0.030 mol/(L·s)",
+    "d": "0.017 mol/(L·s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In a reaction, 12 mL of gas is formed in 40 s. Calculate the average reaction rate in mL/s.",
+   "answers": {
+    "a": "480 mL/s",
+    "b": "0.30 mL/s",
+    "c": "0.030 mL/s",
+    "d": "3.3 mL/s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you make the reaction between magnesium and hydrochloric acid slower?",
+   "answers": {
+    "a": "Use stronger hydrochloric acid",
+    "b": "Add a catalyst",
+    "c": "Lower the temperature",
+    "d": "Use magnesium powder"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In an energy diagram of an exothermic reaction, where is the level of the products?",
+   "answers": {
+    "a": "Equal to the level of the reactants",
+    "b": "Lower than the level of the reactants",
+    "c": "That cannot be said",
+    "d": "Higher than the level of the reactants"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In an energy diagram of an endothermic reaction, where is the level of the products?",
+   "answers": {
+    "a": "Lower than the level of the reactants",
+    "b": "Higher than the level of the reactants",
+    "c": "That cannot be said",
+    "d": "Equal to the level of the reactants"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you read the heat of reaction from an energy diagram?",
+   "answers": {
+    "a": "The difference in height between the top and the products",
+    "b": "The height of the top of the hill",
+    "c": "The difference in height between the level of the reactants and that of the products",
+    "d": "The height of the reactants"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. What is the activation energy?",
+   "answers": {
+    "a": "40 kJ",
+    "b": "70 kJ",
+    "c": "30 kJ",
+    "d": "150 kJ"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. How much energy is released in the reaction?",
+   "answers": {
+    "a": "70 kJ",
+    "b": "30 kJ",
+    "c": "80 kJ",
+    "d": "40 kJ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 8.0 g of methane? (M = 16.04 g/mol)",
+   "answers": {
+    "a": "7.1 × 10<sup>6</sup> J",
+    "b": "4.4 × 10<sup>5</sup> J",
+    "c": "4.4 × 10<sup>4</sup> J",
+    "d": "8.9 × 10<sup>5</sup> J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 2.0 mol of methane?",
+   "answers": {
+    "a": "1.8 × 10<sup>5</sup> J",
+    "b": "8.9 × 10<sup>5</sup> J",
+    "c": "4.5 × 10<sup>5</sup> J",
+    "d": "1.8 × 10<sup>6</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a dynamic equilibrium?",
+   "answers": {
+    "a": "The concentrations are all equal",
+    "b": "The forward reaction and the reverse reaction proceed at the same rate",
+    "c": "Only the forward reaction takes place",
+    "d": "The reactions have stopped"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What happens to the reaction rate while the reactants are being used up?",
+   "answers": {
+    "a": "The rate first becomes zero",
+    "b": "The rate becomes smaller",
+    "c": "The rate becomes greater",
+    "d": "The rate stays the same"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What happens to the reaction rate when you grind a solid finely?",
+   "answers": {
+    "a": "The reaction stops",
+    "b": "The rate becomes smaller",
+    "c": "The rate becomes greater",
+    "d": "The rate stays the same"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

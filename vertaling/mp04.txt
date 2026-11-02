@@ -1,0 +1,1212 @@
+### sk4h-atoombouw-MP
+0.D Electron
+1.B Ion
+1.C Electron
+2.Q Where is almost all the mass of an atom?
+2.B In the nucleus
+3.Q What is the atomic number?
+3.A The number of shells
+3.C The number of protons
+4.Q What is the mass number?
+4.A The number of protons plus the number of neutrons
+4.B The number of shells
+5.Q A chlorine atom has mass number 35 and atomic number 17. How many neutrons does it have?
+5.A 52
+5.B 35
+5.C 18
+5.D 17
+6.A 23
+6.B 11
+6.C 12
+6.D 10
+7.Q What is the electron arrangement of oxygen (atomic number 8)?
+7.A K = 6, L = 2
+7.B K = 2, L = 8
+7.C K = 8, L = 2
+7.D K = 2, L = 6
+8.A 4
+8.B 6
+8.C 12
+8.D 2
+9.A 18
+9.B 2
+9.C 32
+9.D 8
+10.D Group 18
+11.Q In which group are the noble gases?
+11.B Group 18
+12.A Neon
+12.B Sodium
+12.C Iron
+12.D Chlorine
+13.A Argon
+13.C Chlorine
+14.Q Which element is a noble gas?
+14.A Argon
+14.C Chlorine
+14.D Nitrogen
+15.Q What is a noble gas configuration?
+18.A 14
+18.B 10
+18.C 2
+18.D 12
+19.A 35
+19.B 16
+19.C 18
+19.D 17
+20.B Molecules
+20.C Ions
+21.C The number of protons
+23.Q What is the unit of atomic mass?
+23.A g
+23.B mol
+23.C kg
+23.D u
+24.Q What do elements in the same group have in common?
+24.C The number of protons
+25.Q What do elements in the same period have in common?
+25.A The number of protons
+26.Q How many protons, neutrons and electrons does an atom of Na-23 have? (atomic number 11)
+27.Q How many protons, neutrons and electrons does the ion Mg<sup>2+</sup> with mass number 24 have? (atomic number 12)
+28.Q What is the electron arrangement of aluminium? (atomic number 13)
+28.A K = 2, L = 11
+28.B K = 2, L = 8, M = 3
+28.C K = 3, L = 8, M = 2
+28.D K = 2, L = 8, M = 8
+29.Q Which ion does a calcium atom form? (atomic number 20)
+29.A Ca<sup>+</sup>
+29.B Ca<sup>2-</sup>
+29.C Ca<sup>20+</sup>
+29.D Ca<sup>2+</sup>
+30.Q How many electrons does the ion S<sup>2-</sup> have? (atomic number 16)
+30.A 2
+30.B 14
+30.C 16
+30.D 18
+31.Q An atom has the electron arrangement K = 2, L = 8, M = 5. In which group and period is the element?
+32.Q Boron occurs as B-10 (19.9%) and B-11 (80.1%). Calculate the average atomic mass, using the mass numbers as the masses.
+32.A 10.8 u
+32.B 10.2 u
+32.C 10.5 u
+32.D 11.0 u
+33.A 6.00 u
+33.B 12.01 u
+33.C 16.00 u
+33.D 14.01 u
+### sk4h-chemische-binding-MP
+2.A 2
+2.B 3
+2.C 1
+2.D 4
+3.A 1
+3.B 2
+3.C 3
+3.D 4
+4.A 2
+4.B 3
+4.C 5
+4.D 4
+5.A 3
+5.B 2
+5.C 4
+5.D 6
+6.A 2
+6.B 8
+6.C 4
+6.D 6
+7.A Penta
+7.B Tri
+7.C Tetra
+7.D Di
+8.A Penta
+8.B Di
+8.C Tetra
+8.D Tri
+9.A Dicarbon oxide
+9.B Carbon dioxide
+9.C Carbon trioxide
+10.A Trisulfur oxide
+10.B Sulfur oxide
+10.C Sulfur dioxide
+10.D Sulfur trioxide
+11.A N<sub>2</sub>O<sub>5</sub>
+11.B N<sub>2</sub>O<sub>3</sub>
+11.C N<sub>3</sub>O<sub>2</sub>
+11.D NO<sub>3</sub>
+12.A C<sub>2</sub>Cl<sub>4</sub>
+12.B CCl<sub>4</sub>
+12.C CCl<sub>2</sub>
+12.D C<sub>4</sub>Cl
+13.A 4
+13.B 2
+13.C 1
+13.D 3
+14.A 1
+14.B 6
+14.C 3
+14.D 2
+15.A 2
+15.B 4
+15.C 3
+15.D 1
+16.A 4
+16.B 0
+16.C 1
+16.D 2
+17.Q Which substance consists of molecules?
+17.A MgO
+17.B Fe
+17.C NaCl
+17.D H<sub>2</sub>O
+23.Q What is the van der Waals force?
+25.A Methane
+25.B Propane
+25.D Ethane
+27.A Ethane
+27.B Ethene
+27.C Methane
+29.Q What does hydrophilic mean?
+30.B Sugar
+31.A Table salt
+31.B Water
+31.C Sugar
+### sk4h-koolwaterstoffen-MP
+0.Q What are hydrocarbons?
+0.D Substances that consist only of carbon and hydrogen
+1.Q What is the general formula of the alkanes?
+1.A C<sub>n</sub>H<sub>2n+2</sub>
+1.B C<sub>2n</sub>H<sub>n</sub>
+1.C C<sub>n</sub>H<sub>2n</sub>
+2.Q What is the general formula of the alkenes (with one double bond)?
+2.B C<sub>n</sub>H<sub>2n+2</sub>
+2.C C<sub>2n</sub>H<sub>2n</sub>
+2.D C<sub>n</sub>H<sub>2n</sub>
+3.Q What is the molecular formula of hexane?
+3.A C<sub>6</sub>H<sub>6</sub>
+3.B C<sub>5</sub>H<sub>12</sub>
+3.C C<sub>6</sub>H<sub>14</sub>
+3.D C<sub>6</sub>H<sub>12</sub>
+4.Q What is the molecular formula of propene?
+4.A C<sub>3</sub>H<sub>6</sub>
+4.B C<sub>3</sub>H<sub>4</sub>
+4.C C<sub>2</sub>H<sub>6</sub>
+4.D C<sub>3</sub>H<sub>8</sub>
+5.Q Which name belongs to C<sub>4</sub>H<sub>10</sub>?
+5.B Pentane
+5.C Propane
+5.D Butane
+6.Q Which name belongs to C<sub>5</sub>H<sub>12</sub>?
+6.C Propane
+6.D Pentane
+7.Q How many hydrogen atoms does an alkane with 7 carbon atoms have?
+7.A 15
+7.B 18
+7.C 14
+7.D 16
+8.Q What does saturated mean for a hydrocarbon?
+8.B There are only single bonds between the carbon atoms
+9.Q What is the characteristic of an alkene?
+9.B A double bond between two carbon atoms (C=C)
+10.Q How do you show that a substance is an alkene?
+10.B Limewater turns cloudy
+10.C Bromine water is decolourised
+10.D The substance dissolves in water
+11.Q What are isomers?
+11.A Substances with the same molecular formula but a different structural formula
+12.Q Which substance is an isomer of butane?
+12.C Pentane
+12.D Propane
+13.Q How many isomers does C<sub>5</sub>H<sub>12</sub> have?
+13.A 4
+13.B 5
+13.C 2
+13.D 3
+14.Q What is the name of the substance with the formula C<sub>2</sub>H<sub>5</sub>OH?
+14.A Ethane
+15.Q What is a cycloalkane?
+16.Q Which substances are formed in the complete combustion of a hydrocarbon?
+16.A Carbon dioxide and hydrogen
+16.C Carbon dioxide and water
+17.Q Which substances can be formed in the incomplete combustion of a hydrocarbon?
+17.A Hydrogen and oxygen
+17.C Only carbon dioxide
+17.D Carbon monoxide, soot (carbon) and water
+18.Q What is the reaction equation for the complete combustion of methane?
+18.A CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)
+18.B 2 CH<sub>4</sub>(g) + O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+18.C CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+18.D CH<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)
+19.Q What is the reaction equation for the complete combustion of propane?
+19.A C<sub>3</sub>H<sub>8</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)
+19.B C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 8 H<sub>2</sub>O(l)
+19.C C<sub>3</sub>H<sub>8</sub>(g) + 3 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)
+19.D C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)
+20.Q What is the reaction equation for the complete combustion of butane?
+20.A C<sub>4</sub>H<sub>10</sub>(g) + 6 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)
+20.B C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)
+20.C 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)
+20.D 2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)
+21.Q What is the reaction equation for the complete combustion of ethene?
+21.A C<sub>2</sub>H<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+21.B C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)
+21.C C<sub>2</sub>H<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)
+21.D C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)
+22.Q What is the reaction equation for the complete combustion of ethanol?
+22.A C<sub>2</sub>H<sub>5</sub>OH(l) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)
+22.B C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 6 H<sub>2</sub>O(l)
+22.C C<sub>2</sub>H<sub>5</sub>OH(l) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)
+22.D C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)
+23.Q Ethene reacts with bromine. What is the reaction equation?
+23.A C<sub>2</sub>H<sub>6</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)
+23.B C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>3</sub>Br(l) + HBr(g)
+23.C C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)
+23.D C<sub>2</sub>H<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>4</sub>(l)
+24.Q Methane reacts with bromine under the influence of light. What is the reaction equation?
+24.A CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>4</sub>Br<sub>2</sub>(l)
+24.B CH<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + 2 HBr(g)
+24.C CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)
+24.D CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g)
+25.Q What is the name of the reaction in which ethene and bromine combine to form one substance?
+25.A Combustion
+25.B Neutralisation
+25.C Addition
+25.D Substitution
+26.Q What is the name of the reaction in which an H atom of an alkane is replaced by a bromine atom?
+26.A Addition
+26.B Neutralisation
+26.C Substitution
+26.D Combustion
+27.Q Which functional group belongs to an alcohol?
+27.A The hydroxyl group (–OH)
+27.D The carboxyl group (–COOH)
+28.Q Which functional group belongs to a carboxylic acid?
+28.A The hydroxyl group (–OH)
+28.D The carboxyl group (–COOH)
+29.Q What is the formula of ethanoic acid?
+29.B CH<sub>3</sub>CHO
+29.C CH<sub>3</sub>CH<sub>2</sub>OH
+30.Q Which substances are formed when ethanoic acid reacts with ethanol?
+30.A Ethyl ethanoate and water
+31.Q What is the separation of crude oil into fractions (fractional distillation) based on?
+31.B On differences in boiling point
+32.Q Which substance has the higher boiling point: pentane or hexane? (use BINAS table 42B)
+32.B Pentane
+33.A 12
+33.B 5
+33.C 4
+33.D 6
+### sk4h-reactiekinetiek-MP
+0.Q What is an exothermic reaction?
+0.D A reaction in which energy is released
+1.Q What is an endothermic reaction?
+1.A A reaction in which energy is absorbed
+1.C A reaction in which energy is released
+2.Q Is the combustion of natural gas exothermic or endothermic?
+2.A Exothermic
+3.Q Is photosynthesis exothermic or endothermic?
+3.A Exothermic
+3.C Endothermic (energy from sunlight is absorbed)
+4.Q What is the activation energy?
+4.D The minimum energy needed to start a reaction
+5.Q What is a catalyst?
+5.C A substance that speeds up a reaction and is not used up itself
+6.Q What does a catalyst do to the activation energy?
+6.B It becomes lower
+7.Q What does a catalyst do to the heat of reaction?
+7.A Nothing, the heat of reaction stays the same
+8.Q What is an effective collision?
+8.D A collision between particles with enough energy and in the right orientation, after which they react
+9.Q Why does a reaction go faster at a higher temperature?
+9.B The particles move faster, so there are more effective collisions per second
+10.Q Why does a reaction go faster at a higher concentration?
+10.C There are more particles per volume, so more collisions per second
+11.Q Why does zinc powder react faster with hydrochloric acid than a piece of zinc of the same mass?
+11.B Powder has a larger contact surface
+12.Q What happens to the reaction rate of gases if you increase the pressure?
+12.B The rate becomes greater, because there are more particles per volume
+12.C The rate becomes smaller
+13.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. What happens to the rate for a 20 °C rise?
+14.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 80 s. How long does the reaction take at 40 °C?
+14.A 40 s
+14.B 160 s
+14.C 10 s
+14.D 20 s
+15.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 50 °C a reaction takes 12 s. How long does the reaction take at 30 °C?
+15.A 36 s
+15.B 48 s
+15.C 24 s
+15.D 6 s
+16.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 20 °C a reaction takes 100 s. How long does the reaction take at 30 °C?
+16.A 90 s
+16.B 200 s
+16.C 50 s
+16.D 25 s
+17.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. How many times as great is the rate at 50 °C as at 20 °C?
+18.Q According to the rule of thumb, the reaction rate doubles for every 10 °C rise in temperature. At 60 °C a reaction takes 5 s. How long does the reaction take at 20 °C?
+18.A 8 s
+18.B 80 s
+18.C 20 s
+18.D 40 s
+19.Q How is the reaction rate defined?
+19.C The change in concentration per time (Δc : Δt)
+20.Q What is a suitable unit for reaction rate?
+20.A J/mol
+20.B L/mol
+20.C mol/L
+20.D mol/(L·s)
+21.Q The concentration of substance A falls from 0.80 mol/L to 0.50 mol/L in 30 s. Calculate the average reaction rate.
+21.A 0.10 mol/(L·s)
+21.B 0.010 mol/(L·s)
+21.C 0.030 mol/(L·s)
+21.D 0.017 mol/(L·s)
+22.Q In a reaction, 12 mL of gas is formed in 40 s. Calculate the average reaction rate in mL/s.
+22.A 480 mL/s
+22.B 0.30 mL/s
+22.C 0.030 mL/s
+22.D 3.3 mL/s
+23.Q How do you make the reaction between magnesium and hydrochloric acid slower?
+23.C Lower the temperature
+24.Q In an energy diagram of an exothermic reaction, where is the level of the products?
+24.B Lower than the level of the reactants
+24.D Higher than the level of the reactants
+25.Q In an energy diagram of an endothermic reaction, where is the level of the products?
+25.A Lower than the level of the reactants
+25.B Higher than the level of the reactants
+26.Q How do you read the heat of reaction from an energy diagram?
+26.C The difference in height between the level of the reactants and that of the products
+27.Q In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. What is the activation energy?
+27.A 40 kJ
+27.B 70 kJ
+27.C 30 kJ
+27.D 150 kJ
+28.Q In an energy diagram the reactants are at 120 kJ, the products at 80 kJ and the top of the hill at 150 kJ. How much energy is released in the reaction?
+28.A 70 kJ
+28.B 30 kJ
+28.C 80 kJ
+28.D 40 kJ
+29.Q The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 8.0 g of methane? (M = 16.04 g/mol)
+29.A 7.1 × 10<sup>6</sup> J
+29.B 4.4 × 10<sup>5</sup> J
+29.C 4.4 × 10<sup>4</sup> J
+29.D 8.9 × 10<sup>5</sup> J
+30.Q The combustion of methane releases 8.9 × 10<sup>5</sup> J per mole of methane. How much energy is released in the combustion of 2.0 mol of methane?
+30.A 1.8 × 10<sup>5</sup> J
+30.B 8.9 × 10<sup>5</sup> J
+30.C 4.5 × 10<sup>5</sup> J
+30.D 1.8 × 10<sup>6</sup> J
+31.Q What is a dynamic equilibrium?
+31.B The forward reaction and the reverse reaction proceed at the same rate
+32.Q What happens to the reaction rate while the reactants are being used up?
+32.B The rate becomes smaller
+33.B The rate becomes smaller
+### sk4h-rekenen-MP
+0.A mol
+0.C u
+1.A 6.02 × 10<sup>20</sup>
+1.B 6.02 × 10<sup>3</sup>
+1.C 6.02 × 10<sup>-23</sup>
+1.D 6.02 × 10<sup>23</sup>
+3.A n = M : m
+3.B n = m × M
+3.C n = m : M
+3.D n = m + M
+4.A mol
+4.B g
+4.C mol/g
+4.D g/mol
+5.Q What is the molar mass of H<sub>2</sub>O? (use BINAS table 99)
+5.A 17.01 g/mol
+5.B 16.00 g/mol
+5.C 18.02 g/mol
+5.D 34.02 g/mol
+6.Q What is the molar mass of CO<sub>2</sub>? (use BINAS table 99)
+6.A 22.00 g/mol
+6.B 44.01 g/mol
+6.C 60.01 g/mol
+6.D 28.01 g/mol
+7.A 16.04 g/mol
+7.B 17.03 g/mol
+7.C 13.02 g/mol
+7.D 12.01 g/mol
+8.A 0.500 mol
+8.B 2.00 mol
+8.C 6840 mol
+8.D 58.4 mol
+9.A 29 g
+9.B 58 g
+9.C 117 g
+9.D 0.0086 g
+10.Q How many grams is 0.25 mol of H<sub>2</sub>O? (use BINAS table 99)
+10.A 72 g
+10.B 18 g
+10.C 0.014 g
+10.D 4.5 g
+11.A 3.0 × 10<sup>23</sup>
+11.B 2.0 × 10<sup>23</sup>
+11.C 1.2 × 10<sup>24</sup>
+11.D 6.0 × 10<sup>23</sup>
+12.A 18 mol
+12.B 2 mol
+12.C 3 mol
+12.D 1 mol
+13.A 1 mol
+13.B 0.5 mol
+13.C 2 mol
+13.D 4 mol
+14.A 8 mol
+14.B 2 mol
+14.C 1 mol
+14.D 4 mol
+15.A O<sub>2</sub>
+15.B C<sub>2</sub>H<sub>6</sub>
+16.Q What is a substance in excess?
+16.C A substance that is left over after the reaction
+16.D A substance that is used up first
+17.Q There is 30 g of salt in 200 g of mixture. What is the mass percentage of salt?
+17.A 0.15%
+17.B 6.7%
+17.C 150%
+17.D 15%
+18.Q How many significant figures does 0.0230 have?
+18.A 3
+18.B 4
+18.C 5
+18.D 2
+19.A 12
+19.B 12.5
+19.C 12.4
+19.D 12.46
+20.A 2.3 × 10<sup>-4</sup>
+20.B 2.3 × 10<sup>-2</sup>
+20.C 2.3 × 10<sup>3</sup>
+20.D 2.3 × 10<sup>-3</sup>
+21.Q How many m<sup>3</sup> is 1 L?
+21.A 10 m<sup>3</sup>
+21.B 0.01 m<sup>3</sup>
+21.C 0.001 m<sup>3</sup>
+21.D 1000 m<sup>3</sup>
+22.Q How many grams is 250 mg?
+22.A 0.250 g
+22.B 25 g
+22.C 0.025 g
+22.D 2.5 g
+23.B With a measuring cylinder
+23.D With a thermometer
+24.Q What is the molar mass of CaCO<sub>3</sub>? (use BINAS table 99)
+24.A 84.09 g/mol
+24.B 116.09 g/mol
+24.C 100.09 g/mol
+24.D 68.09 g/mol
+25.Q What is the molar mass of Ca(OH)<sub>2</sub>? (use BINAS table 99)
+25.A 56.08 g/mol
+25.B 57.09 g/mol
+25.C 72.08 g/mol
+25.D 74.10 g/mol
+26.Q How many molecules are there in 0.50 mol of CO<sub>2</sub>? (use BINAS table 7A)
+26.A 3.0 × 10<sup>22</sup>
+26.B 6.0 × 10<sup>23</sup>
+26.C 1.2 × 10<sup>24</sup>
+26.D 3.0 × 10<sup>23</sup>
+27.Q How many grams of NaOH (M = 40.00 g/mol) is 0.250 mol?
+27.A 160 g
+27.B 1.00 g
+27.C 0.00625 g
+27.D 10.0 g
+28.Q In 2.0 kg of water there is 6.0 mg of nitrate. How many ppm is that?
+28.A 12 ppm
+28.B 3.0 ppm
+28.C 3.0 × 10<sup>-3</sup> ppm
+28.D 0.33 ppm
+29.Q You dissolve 0.50 mol of NaCl to make 2.0 L of solution. What is the molarity?
+29.A 0.50 mol/L
+29.B 0.25 mol/L
+29.C 4.0 mol/L
+29.D 1.0 mol/L
+30.A 0.050 mol
+30.B 0.50 mol
+30.C 2.0 mol
+30.D 162 mol
+31.A 1.5 mol
+31.B 4.5 mol
+31.C 3.0 mol
+31.D 0.75 mol
+32.A 3.0 mol
+32.B 1.5 mol
+32.C 0.50 mol
+32.D 1.0 mol
+33.A 5
+33.B 4
+33.C 2
+33.D 3
+### sk4h-zouten-MP
+0.Q What is a salt?
+0.D A substance made up of positive and negative ions
+1.Q Which bond holds the ions together in a salt?
+1.A The ionic bond (attraction between positive and negative ions)
+2.Q Which types of element does a salt usually consist of?
+2.A A metal and a non-metal
+3.Q What is the formula of magnesium chloride? (Mg<sup>2+</sup> and Cl<sup>-</sup>)
+3.A Mg<sub>2</sub>Cl<sub>2</sub>
+3.C MgCl
+3.D Mg<sub>2</sub>Cl
+4.Q What is the formula of aluminium oxide? (Al<sup>3+</sup> and O<sup>2-</sup>)
+4.A Al<sub>3</sub>O<sub>2</sub>
+4.B Al<sub>2</sub>O<sub>3</sub>
+4.C Al<sub>2</sub>O
+4.D AlO
+5.Q What is the formula of calcium phosphate? (Ca<sup>2+</sup> and PO<sub>4</sub><sup>3-</sup>)
+5.A Ca<sub>3</sub>PO<sub>4</sub>
+5.C Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+5.D Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>
+6.Q What is the formula of ammonium sulfate? (NH<sub>4</sub><sup>+</sup> and SO<sub>4</sub><sup>2-</sup>)
+6.A NH<sub>4</sub>SO<sub>4</sub>
+6.B (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>
+6.C NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>
+6.D N<sub>2</sub>H<sub>8</sub>SO<sub>4</sub>
+7.Q What is the formula of iron(III) chloride?
+7.C Fe<sub>2</sub>Cl<sub>3</sub>
+7.D Fe<sub>3</sub>Cl
+8.Q What is the name of Na<sub>2</sub>CO<sub>3</sub>?
+8.C Sodium carbonate
+9.Q What is the name of KNO<sub>3</sub>?
+9.D Potassium nitrate
+10.Q What is the name of CuSO<sub>4</sub>?
+10.C Copper(II) sulfate
+11.Q What is the name of Ba(OH)<sub>2</sub>?
+11.A Barium hydroxide
+12.Q What is the name of Fe<sub>2</sub>O<sub>3</sub>?
+12.A Iron(III) oxide
+13.Q What is the charge of the iron ion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)
+13.A 1+
+13.B 3+
+13.C 2+
+13.D 3-
+14.Q What is the equation for dissolving sodium chloride in water?
+15.Q What is the equation for dissolving calcium chloride in water?
+16.Q What is the equation for dissolving aluminium sulfate in water?
+16.A Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)
+16.B Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)
+16.C Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)
+16.D Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 3 Al<sup>2+</sup>(aq) + 2 SO<sub>4</sub><sup>3-</sup>(aq)
+17.Q What is the equation for dissolving ammonium sulfate in water?
+17.A (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + 2 SO<sub>4</sub><sup>2-</sup>(aq)
+17.B (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)
+17.C (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub>(aq)
+17.D (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)
+18.Q How many moles of ions are released when 1.0 mol of CaCl<sub>2</sub> dissolves?
+18.A 2.0 mol
+18.B 3.0 mol
+18.C 0.33 mol
+18.D 1.0 mol
+19.Q A solution of calcium chloride has a concentration of 0.10 mol/L. What is the concentration of Cl<sup>-</sup> in this solution?
+19.A 0.30 mol/L
+19.B 0.20 mol/L
+19.C 0.10 mol/L
+19.D 0.050 mol/L
+20.Q How many grams of NaCl (M = 58.44 g/mol) are needed for 0.500 L of a 0.10 mol/L solution?
+20.A 5.8 g
+20.B 2.9 g
+20.C 29 g
+20.D 0.29 g
+21.Q What is a precipitate?
+21.D A solid that forms when you mix two solutions
+22.Q Why does solid table salt not conduct electricity?
+22.A The ions are fixed in their places in the lattice
+23.Q Why does a salt solution conduct electricity?
+23.B There are freely moving ions
+24.Q You mix solutions of silver nitrate and sodium chloride. Which substance precipitates? (use BINAS table 45A)
+24.A Silver chloride
+25.Q What is the equation of the precipitation reaction of silver ions with chloride ions?
+26.Q You mix barium chloride solution with sodium sulfate solution. Which substance precipitates? (use BINAS table 45A)
+26.A Barium sulfate
+26.B Sodium sulfate
+26.D Sodium chloride
+27.Q What is the equation of the precipitation reaction in which limescale (CaCO<sub>3</sub>) forms from ions?
+28.Q You mix solutions of sodium chloride and potassium nitrate. What happens? (use BINAS table 45A)
+28.C Nothing precipitates, all combinations dissolve well
+29.Q Which salt is poorly soluble in water? (use BINAS table 45A)
+29.A Barium sulfate
+30.Q What is the equation of the precipitation reaction of iron(III) ions with hydroxide ions?
+30.A Fe<sup>2+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)
+30.B Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)
+30.D Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(aq)
+31.Q What is water of crystallisation?
+31.D Water that is built into the crystal lattice of a salt
+32.Q Calculate the mass percentage of water of crystallisation in CuSO<sub>4</sub>·5H<sub>2</sub>O. (use BINAS table 99; M(H<sub>2</sub>O) = 18.02 g/mol)
+32.A 63.9%
+32.B 7.2%
+32.C 56.5%
+32.D 36.1%
+### sk4h-zuren-basen-MP
+0.Q What is an acid?
+0.C A particle that can donate an H<sup>+</sup>
+0.D A particle that can accept an H<sup>+</sup>
+1.Q What is a base?
+1.A A particle that can accept an H<sup>+</sup>
+1.C A particle that can donate an H<sup>+</sup>
+2.Q What pH does an acidic solution have?
+2.A Lower than 7
+2.D Higher than 7
+3.Q What pH does a neutral solution have at 298 K?
+3.A 7
+3.B 14
+3.C 0
+3.D 1
+4.Q What is the [H<sup>+</sup>] in a solution with pH = 3?
+4.A 0.30 mol/L
+4.B 1.0 × 10<sup>3</sup> mol/L
+4.C 3.0 mol/L
+4.D 1.0 × 10<sup>-3</sup> mol/L
+5.Q Calculate the pH of 0.010 mol/L hydrochloric acid (HCl).
+5.A 1.00
+5.B 12.00
+5.C 0.010
+5.D 2.00
+6.Q Calculate the pH of 0.0010 mol/L nitric acid (HNO<sub>3</sub>).
+6.A 0.0010
+6.B 2.00
+6.C 11.00
+6.D 3.00
+7.Q Calculate the pH of 0.010 mol/L sodium hydroxide solution (NaOH).
+7.A 2.00
+7.B 14.00
+7.C 11.00
+7.D 12.00
+8.Q Calculate the pH of 1.0 × 10<sup>-4</sup> mol/L sodium hydroxide solution (NaOH).
+8.A 10.00
+8.B 9.00
+8.C 14.00
+8.D 4.00
+9.Q Calculate the pH of 0.0050 mol/L barium hydroxide, Ba(OH)<sub>2</sub> (a strong base).
+9.A 2.30
+9.B 12.00
+9.C 2.00
+9.D 11.70
+10.Q What is the relationship between pH and pOH at 298 K?
+10.A pH + pOH = 7
+10.B pH + pOH = 14
+10.C pH − pOH = 14
+10.D pH × pOH = 14
+11.Q A solution has [H<sup>+</sup>] = 2.5 × 10<sup>-4</sup> mol/L. Calculate the pH.
+11.A 4.60
+11.B 3.60
+11.C 2.50
+11.D 3.40
+12.Q How many times as great is the [H<sup>+</sup>] at pH = 2 as at pH = 4?
+13.Q A solution of a strong acid has pH = 2.0. You dilute the solution 10 times with water. What is the new pH?
+13.A 2.1
+13.B 20
+13.C 1.0
+13.D 3.0
+14.Q You dilute 10 mL of 1.0 mol/L HCl to 100 mL. What is the new concentration?
+14.A 10 mol/L
+14.B 1.0 mol/L
+14.C 0.10 mol/L
+14.D 0.010 mol/L
+15.Q What does it mean that HCl is a strong acid?
+15.B All HCl molecules donate their H<sup>+</sup> to water
+16.Q What does it mean that acetic acid is a weak acid?
+16.D Only a small fraction of the molecules donates an H<sup>+</sup> (equilibrium)
+17.Q Which of the following acids is a strong acid? (use BINAS table 49)
+17.A HCl
+17.B NH<sub>4</sub><sup>+</sup>
+17.D H<sub>2</sub>CO<sub>3</sub>
+18.Q What is the notation for a solution of the strong acid HNO<sub>3</sub>?
+18.A HNO<sub>3</sub>(l)
+18.B HNO<sub>3</sub>(aq)
+18.C H(aq) + NO<sub>3</sub>(aq)
+18.D H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq)
+19.Q What is the formula of nitric acid?
+19.A HNO<sub>3</sub>
+19.B HNO<sub>2</sub>
+19.C H<sub>2</sub>NO<sub>3</sub>
+19.D NH<sub>3</sub>
+20.Q What is the conjugate acid of NH<sub>3</sub>?
+20.A NH<sub>3</sub><sup>+</sup>
+20.B NH<sub>2</sub><sup>-</sup>
+20.C NH<sub>4</sub><sup>+</sup>
+20.D N<sub>2</sub>H<sub>4</sub>
+21.Q What is the conjugate base of HCO<sub>3</sub><sup>-</sup>?
+21.A CO<sub>3</sub><sup>2-</sup>
+21.B OH<sup>-</sup>
+21.C H<sub>2</sub>CO<sub>3</sub>
+21.D CO<sub>2</sub>
+22.Q Which particle can react both as an acid and as a base (ampholyte)? (use BINAS table 49)
+22.A HCO<sub>3</sub><sup>-</sup>
+22.B Na<sup>+</sup>
+22.C NH<sub>4</sub><sup>+</sup>
+22.D Cl<sup>-</sup>
+23.Q What is the reaction equation for the neutralisation of hydrochloric acid with sodium hydroxide solution (in ions)?
+23.B H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)
+23.C H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>3</sub>O(l)
+23.D H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>(g) + O<sub>2</sub>(g)
+24.Q Acetic acid reacts with sodium hydroxide solution. What is the equation of the acid–base reaction?
+25.Q Ammonia (NH<sub>3</sub>) reacts with hydrochloric acid. What is the equation of the acid–base reaction?
+25.A NH<sub>4</sub><sup>+</sup>(aq) + H<sup>+</sup>(aq) → NH<sub>3</sub>(aq)
+25.B NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)
+25.C NH<sub>3</sub>(aq) + OH<sup>-</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)
+25.D NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>2</sub><sup>-</sup>(aq) + H<sub>2</sub>(g)
+26.Q You neutralise 25.0 mL of hydrochloric acid with 20.0 mL of 0.100 mol/L sodium hydroxide solution. Calculate the concentration of the hydrochloric acid.
+26.A 0.125 mol/L
+26.B 0.00200 mol/L
+26.C 0.100 mol/L
+26.D 0.0800 mol/L
+27.Q How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 10.0 mL of 0.100 mol/L hydrochloric acid?
+27.A 10.0 mL
+27.B 2.00 mL
+27.C 5.00 mL
+27.D 20.0 mL
+28.Q How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 20.0 mL of 0.100 mol/L sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?
+28.A 5.00 mL
+28.B 10.0 mL
+28.C 20.0 mL
+28.D 40.0 mL
+29.Q A weak acid HZ has Ka = 1.0 × 10<sup>-5</sup> and a concentration of 0.10 mol/L. Calculate the pH. (Assume that [H<sup>+</sup>] = [Z<sup>-</sup>] and that [HZ] ≈ 0.10 mol/L.)
+29.A 5.00
+29.B 2.00
+29.C 1.00
+29.D 3.00
+30.Q Four acids have these acid constants: HA 1 × 10<sup>-3</sup>, HB 1 × 10<sup>-5</sup>, HC 1 × 10<sup>-8</sup>, HD 1 × 10<sup>-10</sup>. Which acid is the strongest?
+30.A HC
+30.B HD
+30.C HA
+30.D HB
+31.Q What colour does litmus have at pH = 2? (use BINAS table 52A)
+31.A Blue
+31.B Yellow
+31.C Red
+31.D Colourless
+32.Q What colour does phenolphthalein have at pH = 2? (use BINAS table 52A)
+32.B Blue
+32.C Colourless
+32.D Yellow
+33.A Yellow
+33.B Blue
+33.C Red
+33.D Green
+### sk4h-atoombouw-MP
+heading Atomic structure and the periodic table
+0.Q Which particle has a negative charge?
+0.A Atomic nucleus
+0.B Proton
+0.C Neutron
+1.Q Which particle has no charge?
+1.A Neutron
+1.D Proton
+2.A In the outer shell
+2.C Evenly distributed over the atom
+2.D In the electron cloud
+3.B The number of protons and neutrons
+3.D The number of neutrons
+4.C The number of protons plus the number of electrons
+4.D The number of neutrons minus the number of protons
+6.Q A neutral sodium atom has atomic number 11. How many electrons does it have?
+8.Q How many valence electrons does carbon (atomic number 6) have?
+9.Q What is the maximum number of electrons the L shell can hold?
+10.Q In which group is an element with 7 valence electrons?
+10.A Group 1
+10.B Group 2
+10.C Group 17
+11.A Group 1
+11.C Group 17
+11.D Group 2
+12.Q Which element is a halogen?
+13.Q Which element is an alkali metal?
+13.B Potassium
+13.D Calcium
+14.B Potassium
+15.A The atom has as many protons as neutrons
+15.B The atom has no electrons
+15.C The outer shell is completely filled
+15.D The outer shell is empty
+16.Q What does a sodium atom do to obtain a noble gas configuration?
+16.A It gives up 1 electron and becomes Na<sup>+</sup>
+16.B It takes up 7 electrons
+16.C It takes up 1 electron and becomes Na<sup>-</sup>
+16.D It gives up 7 electrons
+17.Q What does a chlorine atom do to obtain a noble gas configuration?
+17.A It gives up 1 electron and becomes Cl<sup>+</sup>
+17.B It gives up 7 electrons
+17.C It takes up 1 electron and becomes Cl<sup>-</sup>
+17.D It takes up 7 electrons
+18.Q How many electrons does an Mg<sup>2+</sup> ion have (the atomic number of magnesium is 12)?
+19.Q How many protons does a Cl<sup>-</sup> ion have (the atomic number of chlorine is 17)?
+20.Q Chlorine-35 and chlorine-37 are…
+20.A Isotopes
+20.D Noble gases
+21.Q What is the same for isotopes of one element?
+21.A The mass
+21.B The mass number
+21.D The number of neutrons
+22.Q Why is the atomic mass of chlorine 35.45 u and not a whole number?
+22.A It is the number of neutrons minus protons
+22.B It is the average of the masses of the isotopes
+22.C It is the number of protons and electrons together
+22.D It is always the mass number of the heaviest isotope
+24.A The atomic number
+24.B The number of valence electrons
+24.D The mass number
+25.B The number of neutrons
+25.C The number of valence electrons
+25.D The number of shells containing electrons
+26.A 11 protons, 12 neutrons, 11 electrons
+26.B 11 protons, 12 neutrons, 10 electrons
+26.C 12 protons, 11 neutrons, 12 electrons
+26.D 11 protons, 23 neutrons, 11 electrons
+27.A 12 protons, 12 neutrons, 10 electrons
+27.B 12 protons, 12 neutrons, 12 electrons
+27.C 10 protons, 14 neutrons, 10 electrons
+27.D 12 protons, 12 neutrons, 14 electrons
+31.A Group 15, period 5
+31.B Group 13, period 3
+31.C Group 5, period 3
+31.D Group 15, period 3
+33.Q What is the atomic mass of carbon? (use BINAS table 99)
+### sk4h-chemische-binding-MP
+heading Chemical bonding
+0.Q What is a covalent bond?
+0.A A bond between metal atoms and free electrons
+0.B A bond in which two atoms share electrons
+0.C A bond between a positive and a negative ion
+0.D A bond between two molecules
+1.Q What is a shared electron pair?
+1.A Two electrons that are shared by two atoms
+1.B Two electrons that an atom gives up
+1.C Two protons in the nucleus
+1.D Two neutrons that stay together
+2.Q What is the covalency of hydrogen?
+3.Q What is the covalency of oxygen?
+4.Q What is the covalency of nitrogen?
+5.Q What is the covalency of carbon?
+6.Q What is the covalency of an atom from group 16?
+7.Q Which prefix goes with the number 4 in the name of a molecular substance?
+8.Q Which prefix goes with the number 3 in the name of a molecular substance?
+9.Q What is the name of CO<sub>2</sub>?
+9.D Carbon oxide
+10.Q What is the name of SO<sub>3</sub>?
+11.Q What is the formula of dinitrogen trioxide?
+12.Q What is the formula of carbon tetrachloride?
+13.Q How many covalent bonds does the carbon atom have in CH<sub>4</sub>?
+14.Q How many shared electron pairs are there between the atoms in an N<sub>2</sub> molecule?
+15.Q How many shared electron pairs are there between the atoms in an O<sub>2</sub> molecule?
+16.Q How many lone (non-bonding) electron pairs does the oxygen atom have in an H<sub>2</sub>O molecule?
+18.Q What is a polar covalent bond?
+18.A A bond in which the electrons are shared equally
+18.B A bond without electrons
+18.C A bond between two ions
+18.D A bond in which the electrons are not shared equally between the atoms
+19.Q Which bond is polar? (electronegativity: H = 2.1; Cl = 3.0)
+19.A None of these bonds
+19.B The Cl–Cl bond
+19.C The H–H bond
+19.D The H–Cl bond
+20.Q In an H–Cl bond, Cl is more electronegative (3.0) than H (2.1). Which atom gets the partial negative charge?
+20.A The chlorine atom
+20.B Neither
+20.C The hydrogen atom
+20.D Both atoms equally
+21.Q Why is CO<sub>2</sub> a non-polar molecule, although the C=O bonds are polar?
+21.A The bonds are not polar
+21.B The molecule is bent
+21.C CO<sub>2</sub> contains no electrons
+21.D The molecule is linear and symmetrical, so the charges cancel out
+22.Q Why is an H<sub>2</sub>O molecule polar?
+22.A The molecule is bent, so the charges do not cancel out
+22.B Water contains no hydrogen
+22.C H<sub>2</sub>O has only non-polar bonds
+22.D The molecule is linear
+23.A A bond between metal atoms
+23.B A bond between ions
+23.C A strong bond within a molecule
+23.D A weak attraction between all molecules
+24.Q What happens to the van der Waals force when the molecular mass becomes greater?
+24.A The van der Waals force stays the same
+24.B The van der Waals force becomes weaker
+24.C The van der Waals force disappears
+24.D The van der Waals force becomes stronger
+25.Q Which substance has the highest boiling point? (use BINAS table 42B)
+25.C They boil at the same temperature
+26.Q What condition must a molecule meet to be able to form hydrogen bonds?
+26.B It contains only carbon and hydrogen
+26.C It is a noble gas
+26.D It contains an H atom bonded to O or N
+27.Q Between the molecules of which substance are there hydrogen bonds?
+27.D Ethanol
+28.Q Why is the boiling point of water higher than that of H<sub>2</sub>S?
+28.A Water consists of ions
+28.B Water contains no covalent bonds
+28.C Water forms hydrogen bonds
+28.D Water has a greater van der Waals force than H<sub>2</sub>S
+29.A Always solid
+29.B Dissolves well in water
+29.C Dissolves well in oil
+29.D Dissolves poorly in water
+30.Q Which substance is hydrophobic?
+30.A Methanol
+30.C Ethanol
+30.D Hexane
+31.Q Which substance dissolves well in hexane (non-polar)?
+31.D Vegetable oil
+32.Q Why do molecular substances not conduct electricity in the liquid state?
+32.A Molecules have no mass
+32.B There are no free charged particles
+32.C The atoms are too large
+32.D Molecular substances always contain ions
+33.Q Which bond is broken when water boils?
+33.A The metallic bonds
+33.B The ionic bonds
+33.C The covalent bonds within the molecules
+33.D The hydrogen bonds between the molecules
+### sk4h-koolwaterstoffen-MP
+heading Hydrocarbons
+0.A Substances that consist of carbon, hydrogen and oxygen
+0.B Substances that consist only of hydrogen
+0.C Substances that consist of carbon and oxygen
+1.D C<sub>n</sub>H<sub>n+2</sub>
+2.A C<sub>n</sub>H<sub>n</sub>
+5.A Butene
+6.A Hexane
+6.B Pentene
+8.A It contains a double bond
+8.C The substance is dissolved in water
+8.D The substance contains no hydrogen
+9.A An OH group
+9.C A ring of six carbon atoms
+9.D Only single bonds
+10.A Litmus turns red
+11.B Substances with the same name
+11.C Substances with the same boiling point
+11.D Substances with the same structural formula and a different molecular formula
+12.A Butene
+12.B 2-methylpropane
+14.B Methanol
+14.C Ethanoic acid
+14.D Ethanol
+15.A A hydrocarbon without hydrogen
+15.B A hydrocarbon with a double bond
+15.C An alkane with an OH group
+15.D A hydrocarbon with a ring of carbon atoms with single bonds
+16.B Soot and water
+16.D Carbon monoxide and water
+17.B Only water
+27.B The amino group (–NH<sub>2</sub>)
+27.C The ester group (–COO–)
+28.B The amino group (–NH<sub>2</sub>)
+28.C The ester group (–COO–)
+29.A CH<sub>3</sub>COOCH<sub>3</sub>
+29.D CH<sub>3</sub>COOH
+30.B Propanoic acid and water
+30.C Ethyl ethanoate and hydrogen
+30.D Ethane and carbon dioxide
+31.A On a difference in melting point
+31.C On a difference in solubility
+31.D On a difference in colour
+32.A Hexane
+32.C They have the same boiling points
+32.D That cannot be said
+33.Q How many carbon atoms does a molecule of pentane have?
+### sk4h-reactiekinetiek-MP
+heading Reaction rate and energy
+0.A A reaction in which a gas is formed
+0.B A reaction in which energy is needed
+0.C A reaction that proceeds very quickly
+1.B A reaction without an energy effect
+1.D A reaction in which a precipitate is formed
+2.B That depends on the temperature
+2.C Neither
+2.D Endothermic
+3.B Neither
+3.D First exothermic, then endothermic
+4.A The energy of the products
+4.B The energy supplied by the catalyst
+4.C The energy released in the reaction
+5.A A substance that is converted in the reaction
+5.B A substance that slows down a reaction
+5.D A substance that supplies energy
+6.A It becomes higher
+6.C It stays the same
+6.D It becomes zero
+7.B It becomes smaller
+7.C It becomes negative
+7.D It becomes greater
+8.A A collision with the wall of the vessel
+8.B Every collision between particles
+8.C A collision between particles of the same substance
+9.A There are more particles
+9.C The particles become larger
+9.D The activation energy becomes zero
+10.A The particles become smaller
+10.B The activation energy becomes lower
+10.D The particles move faster
+11.A Powder has a higher temperature
+11.C Powder has a lower activation energy
+11.D Powder contains more zinc
+12.A The rate stays the same
+12.D The reaction stops
+13.A It becomes 20 times as large
+13.B It becomes 4 times as large
+13.C It becomes 2 times as large
+13.D It becomes 8 times as large
+17.A 16 times
+17.B 8 times
+17.C 3 times
+17.D 6 times
+19.A The amount of energy per mole
+19.B The time the reaction takes
+19.D The total mass that reacts
+23.A Use stronger hydrochloric acid
+23.B Add a catalyst
+23.D Use magnesium powder
+24.A Equal to the level of the reactants
+24.C That cannot be said
+25.C That cannot be said
+25.D Equal to the level of the reactants
+26.A The difference in height between the top and the products
+26.B The height of the top of the hill
+26.D The height of the reactants
+31.A The concentrations are all equal
+31.C Only the forward reaction takes place
+31.D The reactions have stopped
+32.A The rate first becomes zero
+32.C The rate becomes greater
+32.D The rate stays the same
+33.Q What happens to the reaction rate when you grind a solid finely?
+33.A The reaction stops
+33.C The rate becomes greater
+33.D The rate stays the same
+### sk4h-rekenen-MP
+heading Calculating and measuring
+0.Q What is the unit of amount of substance?
+0.B litre
+0.D gram
+1.Q How many particles are there in 1 mol?
+2.Q What is the number 6.02 × 10<sup>23</sup> per mole called?
+2.A Faraday's constant
+2.B Avogadro's constant
+2.C Boltzmann's constant
+2.D Planck's constant
+3.Q How do you calculate the number of moles (n) from the mass (m) and the molar mass (M)?
+4.Q What is the unit of molar mass?
+7.Q What is the molar mass of CH<sub>4</sub>? (use BINAS table 99)
+8.Q The molar mass of NaCl is 58.44 g/mol. How many moles is 117 g of NaCl?
+9.Q The molar mass of NaCl is 58.44 g/mol. How many grams is 0.50 mol of NaCl?
+11.Q How many molecules are there in 2.0 mol of H<sub>2</sub>? (use BINAS table 7A)
+12.Q How many moles of H atoms are there in 1 mol of H<sub>2</sub>O?
+13.Q In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub>O are formed from 1 mol of O<sub>2</sub>?
+14.Q In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub> do you need for 4 mol of H<sub>2</sub>O?
+15.Q You let 2 mol of C<sub>2</sub>H<sub>6</sub> react with 14 mol of O<sub>2</sub> (2 C<sub>2</sub>H<sub>6</sub> + 7 O<sub>2</sub> → 4 CO<sub>2</sub> + 6 H<sub>2</sub>O). Which substance is in excess?
+15.C Neither
+15.D Both
+16.A A substance that is formed in the reaction
+16.B A substance that does not take part in the equation
+19.Q Round 12.456 to 3 significant figures.
+20.Q What is 0.0023 in scientific notation?
+23.Q What do you use to measure a volume of liquid accurately?
+23.A With a balance
+23.C With a pH meter
+30.Q How many moles is 9.0 g of water? (M = 18.02 g/mol)
+31.Q According to N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: how many moles of NH<sub>3</sub> are formed from 1.5 mol of N<sub>2</sub>?
+32.Q According to N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: how many moles of H<sub>2</sub> are needed for 1.0 mol of NH<sub>3</sub>?
+33.Q How many significant figures does 1.200 × 10<sup>3</sup> have?
+### sk4h-zouten-MP
+heading Salts
+0.A A substance built up of atoms with shared electrons
+0.B A substance that always tastes like table salt
+0.C A substance built up of molecules
+1.B The covalent bond
+1.C The hydrogen bond
+1.D The metallic bond
+2.B Only of noble gases
+2.C Only of metals
+2.D Only of non-metals
+3.B MgCl<sub>2</sub>
+5.B CaPO<sub>4</sub>
+7.A FeCl<sub>3</sub>
+7.B FeCl<sub>2</sub>
+8.A Sodium carbide
+8.B Disodium carbonate
+8.D Sodium hydrogencarbonate
+9.A Potassium nitrite
+9.B Potassium nitrogen oxide
+9.C Potassium nitride
+10.A Copper(I) sulfate
+10.B Copper(II) sulfite
+10.D Copper(II) sulfide
+11.B Barium hydrogen oxide
+11.C Barium oxide
+11.D Barium peroxide
+12.B Iron(II) oxide
+12.C Iron(III) hydroxide
+12.D Iron(VI) oxide
+14.A NaCl(s) → Na(aq) + Cl(aq)
+14.B NaCl(s) → Na<sup>-</sup>(aq) + Cl<sup>+</sup>(aq)
+14.C NaCl(s) → Na<sup>+</sup>(aq) + Cl<sub>2</sub><sup>-</sup>(aq)
+14.D NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)
+15.A CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)
+15.B CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sub>2</sub><sup>2-</sup>(aq)
+15.C CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sup>-</sup>(aq)
+15.D CaCl<sub>2</sub>(s) → Ca<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq)
+21.A A gas that is formed on mixing
+21.B A liquid above a solution
+21.C A substance that dissolves in water
+22.B There are no ions
+22.C Salt is a molecular substance
+22.D There are no electrons
+23.A Water contains metal atoms
+23.C There are freely moving molecules
+23.D Salt contains free electrons
+24.B Silver nitrate
+24.C Sodium nitrate
+24.D Nothing precipitates
+25.A Ag<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq) → AgCl<sub>2</sub>(s)
+25.B Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)
+25.C Ag(aq) + Cl(aq) → AgCl(s)
+25.D Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(aq)
+26.C Barium chloride
+27.A Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(aq)
+27.B Ca(aq) + CO<sub>3</sub>(aq) → CaCO<sub>3</sub>(s)
+27.C Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)
+27.D Ca<sup>2+</sup>(aq) + 2 CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)
+28.A Sodium nitrate precipitates
+28.B Potassium chloride precipitates
+28.D A gas is formed
+29.B Sodium nitrate
+29.C Potassium chloride
+29.D Magnesium chloride
+30.C Fe<sup>3+</sup>(aq) + OH<sup>-</sup>(aq) → FeOH(s)
+31.A Water in which a salt is dissolved
+31.B Water that has frozen
+31.C Water that comes out of crystals when they melt
+33.Q What is the name of the ion NO<sub>3</sub><sup>-</sup>?
+33.A Nitrate ion
+33.B Nitrogen ion
+33.C Nitride ion
+33.D Nitrite ion
+### sk4h-zuren-basen-MP
+heading Acids and bases
+0.A A particle that can take up an electron
+0.B A particle that can give up an OH<sup>-</sup>
+1.B A particle that can take up an OH<sup>-</sup>
+1.D A particle that can give up an electron
+2.B Exactly 14
+2.C Exactly 7
+12.A 1000 times
+12.B 100 times
+12.C 10 times
+12.D 2 times
+15.A HCl gives up only part of its H<sup>+</sup>
+15.C HCl does not dissolve in water
+15.D A lot of HCl is dissolved
+16.A It is a base
+16.B All molecules give up an H<sup>+</sup>
+16.C The solution is always dilute
+17.C CH<sub>3</sub>COOH
+23.A Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → NaCl(s)
+24.A CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>(g)
+24.B CH<sub>3</sub>COO<sup>-</sup>(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COOH(aq) + H<sub>2</sub>O(l)
+24.C CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)
+24.D CH<sub>3</sub>COOH(aq) + H<sup>+</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)
+32.A Pink
+33.Q What colour does universal indicator paper turn in an acidic solution?
+### sk4h-chemische-binding-MP
+26.A It is an ion

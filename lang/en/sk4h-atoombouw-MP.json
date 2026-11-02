@@ -1,0 +1,347 @@
+{
+ "title": "Atomic structure and the periodic table - 123 school",
+ "heading": "Atomic structure and the periodic table",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Which particle has a negative charge?",
+   "answers": {
+    "a": "Atomic nucleus",
+    "b": "Proton",
+    "c": "Neutron",
+    "d": "Electron"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which particle has no charge?",
+   "answers": {
+    "a": "Neutron",
+    "b": "Ion",
+    "c": "Electron",
+    "d": "Proton"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Where is almost all the mass of an atom?",
+   "answers": {
+    "a": "In the outer shell",
+    "b": "In the nucleus",
+    "c": "Evenly distributed over the atom",
+    "d": "In the electron cloud"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the atomic number?",
+   "answers": {
+    "a": "The number of shells",
+    "b": "The number of protons and neutrons",
+    "c": "The number of protons",
+    "d": "The number of neutrons"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the mass number?",
+   "answers": {
+    "a": "The number of protons plus the number of neutrons",
+    "b": "The number of shells",
+    "c": "The number of protons plus the number of electrons",
+    "d": "The number of neutrons minus the number of protons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A chlorine atom has mass number 35 and atomic number 17. How many neutrons does it have?",
+   "answers": {
+    "a": "52",
+    "b": "35",
+    "c": "18",
+    "d": "17"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A neutral sodium atom has atomic number 11. How many electrons does it have?",
+   "answers": {
+    "a": "23",
+    "b": "11",
+    "c": "12",
+    "d": "10"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the electron arrangement of oxygen (atomic number 8)?",
+   "answers": {
+    "a": "K = 6, L = 2",
+    "b": "K = 2, L = 8",
+    "c": "K = 8, L = 2",
+    "d": "K = 2, L = 6"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many valence electrons does carbon (atomic number 6) have?",
+   "answers": {
+    "a": "4",
+    "b": "6",
+    "c": "12",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the maximum number of electrons the L shell can hold?",
+   "answers": {
+    "a": "18",
+    "b": "2",
+    "c": "32",
+    "d": "8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which group is an element with 7 valence electrons?",
+   "answers": {
+    "a": "Group 1",
+    "b": "Group 2",
+    "c": "Group 17",
+    "d": "Group 18"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which group are the noble gases?",
+   "answers": {
+    "a": "Group 1",
+    "b": "Group 18",
+    "c": "Group 17",
+    "d": "Group 2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which element is a halogen?",
+   "answers": {
+    "a": "Neon",
+    "b": "Sodium",
+    "c": "Iron",
+    "d": "Chlorine"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which element is an alkali metal?",
+   "answers": {
+    "a": "Argon",
+    "b": "Potassium",
+    "c": "Chlorine",
+    "d": "Calcium"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which element is a noble gas?",
+   "answers": {
+    "a": "Argon",
+    "b": "Potassium",
+    "c": "Chlorine",
+    "d": "Nitrogen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a noble gas configuration?",
+   "answers": {
+    "a": "The atom has as many protons as neutrons",
+    "b": "The atom has no electrons",
+    "c": "The outer shell is completely filled",
+    "d": "The outer shell is empty"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a sodium atom do to obtain a noble gas configuration?",
+   "answers": {
+    "a": "It gives up 1 electron and becomes Na<sup>+</sup>",
+    "b": "It takes up 7 electrons",
+    "c": "It takes up 1 electron and becomes Na<sup>-</sup>",
+    "d": "It gives up 7 electrons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a chlorine atom do to obtain a noble gas configuration?",
+   "answers": {
+    "a": "It gives up 1 electron and becomes Cl<sup>+</sup>",
+    "b": "It gives up 7 electrons",
+    "c": "It takes up 1 electron and becomes Cl<sup>-</sup>",
+    "d": "It takes up 7 electrons"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many electrons does an Mg<sup>2+</sup> ion have (the atomic number of magnesium is 12)?",
+   "answers": {
+    "a": "14",
+    "b": "10",
+    "c": "2",
+    "d": "12"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many protons does a Cl<sup>-</sup> ion have (the atomic number of chlorine is 17)?",
+   "answers": {
+    "a": "35",
+    "b": "16",
+    "c": "18",
+    "d": "17"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Chlorine-35 and chlorine-37 are…",
+   "answers": {
+    "a": "Isotopes",
+    "b": "Molecules",
+    "c": "Ions",
+    "d": "Noble gases"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the same for isotopes of one element?",
+   "answers": {
+    "a": "The mass",
+    "b": "The mass number",
+    "c": "The number of protons",
+    "d": "The number of neutrons"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why is the atomic mass of chlorine 35.45 u and not a whole number?",
+   "answers": {
+    "a": "It is the number of neutrons minus protons",
+    "b": "It is the average of the masses of the isotopes",
+    "c": "It is the number of protons and electrons together",
+    "d": "It is always the mass number of the heaviest isotope"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the unit of atomic mass?",
+   "answers": {
+    "a": "g",
+    "b": "mol",
+    "c": "kg",
+    "d": "u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do elements in the same group have in common?",
+   "answers": {
+    "a": "The atomic number",
+    "b": "The number of valence electrons",
+    "c": "The number of protons",
+    "d": "The mass number"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do elements in the same period have in common?",
+   "answers": {
+    "a": "The number of protons",
+    "b": "The number of neutrons",
+    "c": "The number of valence electrons",
+    "d": "The number of shells containing electrons"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many protons, neutrons and electrons does an atom of Na-23 have? (atomic number 11)",
+   "answers": {
+    "a": "11 protons, 12 neutrons, 11 electrons",
+    "b": "11 protons, 12 neutrons, 10 electrons",
+    "c": "12 protons, 11 neutrons, 12 electrons",
+    "d": "11 protons, 23 neutrons, 11 electrons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many protons, neutrons and electrons does the ion Mg<sup>2+</sup> with mass number 24 have? (atomic number 12)",
+   "answers": {
+    "a": "12 protons, 12 neutrons, 10 electrons",
+    "b": "12 protons, 12 neutrons, 12 electrons",
+    "c": "10 protons, 14 neutrons, 10 electrons",
+    "d": "12 protons, 12 neutrons, 14 electrons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the electron arrangement of aluminium? (atomic number 13)",
+   "answers": {
+    "a": "K = 2, L = 11",
+    "b": "K = 2, L = 8, M = 3",
+    "c": "K = 3, L = 8, M = 2",
+    "d": "K = 2, L = 8, M = 8"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ion does a calcium atom form? (atomic number 20)",
+   "answers": {
+    "a": "Ca<sup>+</sup>",
+    "b": "Ca<sup>2-</sup>",
+    "c": "Ca<sup>20+</sup>",
+    "d": "Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many electrons does the ion S<sup>2-</sup> have? (atomic number 16)",
+   "answers": {
+    "a": "2",
+    "b": "14",
+    "c": "16",
+    "d": "18"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An atom has the electron arrangement K = 2, L = 8, M = 5. In which group and period is the element?",
+   "answers": {
+    "a": "Group 15, period 5",
+    "b": "Group 13, period 3",
+    "c": "Group 5, period 3",
+    "d": "Group 15, period 3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Boron occurs as B-10 (19.9%) and B-11 (80.1%). Calculate the average atomic mass, using the mass numbers as the masses.",
+   "answers": {
+    "a": "10.8 u",
+    "b": "10.2 u",
+    "c": "10.5 u",
+    "d": "11.0 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the atomic mass of carbon? (use BINAS table 99)",
+   "answers": {
+    "a": "6.00 u",
+    "b": "12.01 u",
+    "c": "16.00 u",
+    "d": "14.01 u"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

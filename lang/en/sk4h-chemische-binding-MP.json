@@ -1,0 +1,349 @@
+{
+ "title": "Chemical bonding - 123 school",
+ "heading": "Chemical bonding",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is a covalent bond?",
+   "answers": {
+    "a": "A bond between metal atoms and free electrons",
+    "b": "A bond in which two atoms share electrons",
+    "c": "A bond between a positive and a negative ion",
+    "d": "A bond between two molecules"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a shared electron pair?",
+   "answers": {
+    "a": "Two electrons that are shared by two atoms",
+    "b": "Two electrons that an atom gives up",
+    "c": "Two protons in the nucleus",
+    "d": "Two neutrons that stay together"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the covalency of hydrogen?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the covalency of oxygen?",
+   "answers": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the covalency of nitrogen?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "5",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the covalency of carbon?",
+   "answers": {
+    "a": "3",
+    "b": "2",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the covalency of an atom from group 16?",
+   "answers": {
+    "a": "2",
+    "b": "8",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which prefix goes with the number 4 in the name of a molecular substance?",
+   "answers": {
+    "a": "Penta",
+    "b": "Tri",
+    "c": "Tetra",
+    "d": "Di"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which prefix goes with the number 3 in the name of a molecular substance?",
+   "answers": {
+    "a": "Penta",
+    "b": "Di",
+    "c": "Tetra",
+    "d": "Tri"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of CO<sub>2</sub>?",
+   "answers": {
+    "a": "Dicarbon oxide",
+    "b": "Carbon dioxide",
+    "c": "Carbon trioxide",
+    "d": "Carbon oxide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of SO<sub>3</sub>?",
+   "answers": {
+    "a": "Trisulfur oxide",
+    "b": "Sulfur oxide",
+    "c": "Sulfur dioxide",
+    "d": "Sulfur trioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of dinitrogen trioxide?",
+   "answers": {
+    "a": "N<sub>2</sub>O<sub>5</sub>",
+    "b": "N<sub>2</sub>O<sub>3</sub>",
+    "c": "N<sub>3</sub>O<sub>2</sub>",
+    "d": "NO<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of carbon tetrachloride?",
+   "answers": {
+    "a": "C<sub>2</sub>Cl<sub>4</sub>",
+    "b": "CCl<sub>4</sub>",
+    "c": "CCl<sub>2</sub>",
+    "d": "C<sub>4</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many covalent bonds does the carbon atom have in CH<sub>4</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many shared electron pairs are there between the atoms in an N<sub>2</sub> molecule?",
+   "answers": {
+    "a": "1",
+    "b": "6",
+    "c": "3",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many shared electron pairs are there between the atoms in an O<sub>2</sub> molecule?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many lone (non-bonding) electron pairs does the oxygen atom have in an H<sub>2</sub>O molecule?",
+   "answers": {
+    "a": "4",
+    "b": "0",
+    "c": "1",
+    "d": "2"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance consists of molecules?",
+   "answers": {
+    "a": "MgO",
+    "b": "Fe",
+    "c": "NaCl",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a polar covalent bond?",
+   "answers": {
+    "a": "A bond in which the electrons are shared equally",
+    "b": "A bond without electrons",
+    "c": "A bond between two ions",
+    "d": "A bond in which the electrons are not shared equally between the atoms"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which bond is polar? (electronegativity: H = 2.1; Cl = 3.0)",
+   "answers": {
+    "a": "None of these bonds",
+    "b": "The Cl–Cl bond",
+    "c": "The H–H bond",
+    "d": "The H–Cl bond"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In an H–Cl bond, Cl is more electronegative (3.0) than H (2.1). Which atom gets the partial negative charge?",
+   "answers": {
+    "a": "The chlorine atom",
+    "b": "Neither",
+    "c": "The hydrogen atom",
+    "d": "Both atoms equally"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why is CO<sub>2</sub> a non-polar molecule, although the C=O bonds are polar?",
+   "answers": {
+    "a": "The bonds are not polar",
+    "b": "The molecule is bent",
+    "c": "CO<sub>2</sub> contains no electrons",
+    "d": "The molecule is linear and symmetrical, so the charges cancel out"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is an H<sub>2</sub>O molecule polar?",
+   "answers": {
+    "a": "The molecule is bent, so the charges do not cancel out",
+    "b": "Water contains no hydrogen",
+    "c": "H<sub>2</sub>O has only non-polar bonds",
+    "d": "The molecule is linear"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the van der Waals force?",
+   "answers": {
+    "a": "A bond between metal atoms",
+    "b": "A bond between ions",
+    "c": "A strong bond within a molecule",
+    "d": "A weak attraction between all molecules"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens to the van der Waals force when the molecular mass becomes greater?",
+   "answers": {
+    "a": "The van der Waals force stays the same",
+    "b": "The van der Waals force becomes weaker",
+    "c": "The van der Waals force disappears",
+    "d": "The van der Waals force becomes stronger"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the highest boiling point? (use BINAS table 42B)",
+   "answers": {
+    "a": "Methane",
+    "b": "Propane",
+    "c": "They boil at the same temperature",
+    "d": "Ethane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What condition must a molecule meet to be able to form hydrogen bonds?",
+   "answers": {
+    "a": "It is an ion",
+    "b": "It contains only carbon and hydrogen",
+    "c": "It is a noble gas",
+    "d": "It contains an H atom bonded to O or N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Between the molecules of which substance are there hydrogen bonds?",
+   "answers": {
+    "a": "Ethane",
+    "b": "Ethene",
+    "c": "Methane",
+    "d": "Ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is the boiling point of water higher than that of H<sub>2</sub>S?",
+   "answers": {
+    "a": "Water consists of ions",
+    "b": "Water contains no covalent bonds",
+    "c": "Water forms hydrogen bonds",
+    "d": "Water has a greater van der Waals force than H<sub>2</sub>S"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does hydrophilic mean?",
+   "answers": {
+    "a": "Always solid",
+    "b": "Dissolves well in water",
+    "c": "Dissolves well in oil",
+    "d": "Dissolves poorly in water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance is hydrophobic?",
+   "answers": {
+    "a": "Methanol",
+    "b": "Sugar",
+    "c": "Ethanol",
+    "d": "Hexane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance dissolves well in hexane (non-polar)?",
+   "answers": {
+    "a": "Table salt",
+    "b": "Water",
+    "c": "Sugar",
+    "d": "Vegetable oil"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why do molecular substances not conduct electricity in the liquid state?",
+   "answers": {
+    "a": "Molecules have no mass",
+    "b": "There are no free charged particles",
+    "c": "The atoms are too large",
+    "d": "Molecular substances always contain ions"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which bond is broken when water boils?",
+   "answers": {
+    "a": "The metallic bonds",
+    "b": "The ionic bonds",
+    "c": "The covalent bonds within the molecules",
+    "d": "The hydrogen bonds between the molecules"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

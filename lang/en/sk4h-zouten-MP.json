@@ -1,0 +1,349 @@
+{
+ "title": "Salts - 123 school",
+ "heading": "Salts",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is a salt?",
+   "answers": {
+    "a": "A substance built up of atoms with shared electrons",
+    "b": "A substance that always tastes like table salt",
+    "c": "A substance built up of molecules",
+    "d": "A substance made up of positive and negative ions"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which bond holds the ions together in a salt?",
+   "answers": {
+    "a": "The ionic bond (attraction between positive and negative ions)",
+    "b": "The covalent bond",
+    "c": "The hydrogen bond",
+    "d": "The metallic bond"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which types of element does a salt usually consist of?",
+   "answers": {
+    "a": "A metal and a non-metal",
+    "b": "Only of noble gases",
+    "c": "Only of metals",
+    "d": "Only of non-metals"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of magnesium chloride? (Mg<sup>2+</sup> and Cl<sup>-</sup>)",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl<sub>2</sub>",
+    "b": "MgCl<sub>2</sub>",
+    "c": "MgCl",
+    "d": "Mg<sub>2</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of aluminium oxide? (Al<sup>3+</sup> and O<sup>2-</sup>)",
+   "answers": {
+    "a": "Al<sub>3</sub>O<sub>2</sub>",
+    "b": "Al<sub>2</sub>O<sub>3</sub>",
+    "c": "Al<sub>2</sub>O",
+    "d": "AlO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of calcium phosphate? (Ca<sup>2+</sup> and PO<sub>4</sub><sup>3-</sup>)",
+   "answers": {
+    "a": "Ca<sub>3</sub>PO<sub>4</sub>",
+    "b": "CaPO<sub>4</sub>",
+    "c": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+    "d": "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of ammonium sulfate? (NH<sub>4</sub><sup>+</sup> and SO<sub>4</sub><sup>2-</sup>)",
+   "answers": {
+    "a": "NH<sub>4</sub>SO<sub>4</sub>",
+    "b": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "c": "NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>",
+    "d": "N<sub>2</sub>H<sub>8</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of iron(III) chloride?",
+   "answers": {
+    "a": "FeCl<sub>3</sub>",
+    "b": "FeCl<sub>2</sub>",
+    "c": "Fe<sub>2</sub>Cl<sub>3</sub>",
+    "d": "Fe<sub>3</sub>Cl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of Na<sub>2</sub>CO<sub>3</sub>?",
+   "answers": {
+    "a": "Sodium carbide",
+    "b": "Disodium carbonate",
+    "c": "Sodium carbonate",
+    "d": "Sodium hydrogencarbonate"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of KNO<sub>3</sub>?",
+   "answers": {
+    "a": "Potassium nitrite",
+    "b": "Potassium nitrogen oxide",
+    "c": "Potassium nitride",
+    "d": "Potassium nitrate"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of CuSO<sub>4</sub>?",
+   "answers": {
+    "a": "Copper(I) sulfate",
+    "b": "Copper(II) sulfite",
+    "c": "Copper(II) sulfate",
+    "d": "Copper(II) sulfide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of Ba(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "Barium hydroxide",
+    "b": "Barium hydrogen oxide",
+    "c": "Barium oxide",
+    "d": "Barium peroxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of Fe<sub>2</sub>O<sub>3</sub>?",
+   "answers": {
+    "a": "Iron(III) oxide",
+    "b": "Iron(II) oxide",
+    "c": "Iron(III) hydroxide",
+    "d": "Iron(VI) oxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the charge of the iron ion in FeCl<sub>3</sub>? (Cl<sup>-</sup>)",
+   "answers": {
+    "a": "1+",
+    "b": "3+",
+    "c": "2+",
+    "d": "3-"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equation for dissolving sodium chloride in water?",
+   "answers": {
+    "a": "NaCl(s) → Na(aq) + Cl(aq)",
+    "b": "NaCl(s) → Na<sup>-</sup>(aq) + Cl<sup>+</sup>(aq)",
+    "c": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sub>2</sub><sup>-</sup>(aq)",
+    "d": "NaCl(s) → Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the equation for dissolving calcium chloride in water?",
+   "answers": {
+    "a": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + 2 Cl<sup>-</sup>(aq)",
+    "b": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sub>2</sub><sup>2-</sup>(aq)",
+    "c": "CaCl<sub>2</sub>(s) → Ca<sup>2+</sup>(aq) + Cl<sup>-</sup>(aq)",
+    "d": "CaCl<sub>2</sub>(s) → Ca<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the equation for dissolving aluminium sulfate in water?",
+   "answers": {
+    "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "b": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "c": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 2 Al<sup>3+</sup>(aq) + 3 SO<sub>4</sub><sup>2-</sup>(aq)",
+    "d": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s) → 3 Al<sup>2+</sup>(aq) + 2 SO<sub>4</sub><sup>3-</sup>(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the equation for dissolving ammonium sulfate in water?",
+   "answers": {
+    "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + 2 SO<sub>4</sub><sup>2-</sup>(aq)",
+    "b": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)",
+    "c": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub>(aq)",
+    "d": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s) → 2 NH<sub>4</sub><sup>+</sup>(aq) + SO<sub>4</sub><sup>2-</sup>(aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many moles of ions are released when 1.0 mol of CaCl<sub>2</sub> dissolves?",
+   "answers": {
+    "a": "2.0 mol",
+    "b": "3.0 mol",
+    "c": "0.33 mol",
+    "d": "1.0 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A solution of calcium chloride has a concentration of 0.10 mol/L. What is the concentration of Cl<sup>-</sup> in this solution?",
+   "answers": {
+    "a": "0.30 mol/L",
+    "b": "0.20 mol/L",
+    "c": "0.10 mol/L",
+    "d": "0.050 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many grams of NaCl (M = 58.44 g/mol) are needed for 0.500 L of a 0.10 mol/L solution?",
+   "answers": {
+    "a": "5.8 g",
+    "b": "2.9 g",
+    "c": "29 g",
+    "d": "0.29 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a precipitate?",
+   "answers": {
+    "a": "A gas that is formed on mixing",
+    "b": "A liquid above a solution",
+    "c": "A substance that dissolves in water",
+    "d": "A solid that forms when you mix two solutions"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does solid table salt not conduct electricity?",
+   "answers": {
+    "a": "The ions are fixed in their places in the lattice",
+    "b": "There are no ions",
+    "c": "Salt is a molecular substance",
+    "d": "There are no electrons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does a salt solution conduct electricity?",
+   "answers": {
+    "a": "Water contains metal atoms",
+    "b": "There are freely moving ions",
+    "c": "There are freely moving molecules",
+    "d": "Salt contains free electrons"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You mix solutions of silver nitrate and sodium chloride. Which substance precipitates? (use BINAS table 45A)",
+   "answers": {
+    "a": "Silver chloride",
+    "b": "Silver nitrate",
+    "c": "Sodium nitrate",
+    "d": "Nothing precipitates"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the equation of the precipitation reaction of silver ions with chloride ions?",
+   "answers": {
+    "a": "Ag<sup>+</sup>(aq) + 2 Cl<sup>-</sup>(aq) → AgCl<sub>2</sub>(s)",
+    "b": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(s)",
+    "c": "Ag(aq) + Cl(aq) → AgCl(s)",
+    "d": "Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → AgCl(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You mix barium chloride solution with sodium sulfate solution. Which substance precipitates? (use BINAS table 45A)",
+   "answers": {
+    "a": "Barium sulfate",
+    "b": "Sodium sulfate",
+    "c": "Barium chloride",
+    "d": "Sodium chloride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the equation of the precipitation reaction in which limescale (CaCO<sub>3</sub>) forms from ions?",
+   "answers": {
+    "a": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(aq)",
+    "b": "Ca(aq) + CO<sub>3</sub>(aq) → CaCO<sub>3</sub>(s)",
+    "c": "Ca<sup>2+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)",
+    "d": "Ca<sup>2+</sup>(aq) + 2 CO<sub>3</sub><sup>2-</sup>(aq) → CaCO<sub>3</sub>(s)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You mix solutions of sodium chloride and potassium nitrate. What happens? (use BINAS table 45A)",
+   "answers": {
+    "a": "Sodium nitrate precipitates",
+    "b": "Potassium chloride precipitates",
+    "c": "Nothing precipitates, all combinations dissolve well",
+    "d": "A gas is formed"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which salt is poorly soluble in water? (use BINAS table 45A)",
+   "answers": {
+    "a": "Barium sulfate",
+    "b": "Sodium nitrate",
+    "c": "Potassium chloride",
+    "d": "Magnesium chloride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the equation of the precipitation reaction of iron(III) ions with hydroxide ions?",
+   "answers": {
+    "a": "Fe<sup>2+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)",
+    "b": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(s)",
+    "c": "Fe<sup>3+</sup>(aq) + OH<sup>-</sup>(aq) → FeOH(s)",
+    "d": "Fe<sup>3+</sup>(aq) + 3 OH<sup>-</sup>(aq) → Fe(OH)<sub>3</sub>(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is water of crystallisation?",
+   "answers": {
+    "a": "Water in which a salt is dissolved",
+    "b": "Water that has frozen",
+    "c": "Water that comes out of crystals when they melt",
+    "d": "Water that is built into the crystal lattice of a salt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the mass percentage of water of crystallisation in CuSO<sub>4</sub>·5H<sub>2</sub>O. (use BINAS table 99; M(H<sub>2</sub>O) = 18.02 g/mol)",
+   "answers": {
+    "a": "63.9%",
+    "b": "7.2%",
+    "c": "56.5%",
+    "d": "36.1%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the ion NO<sub>3</sub><sup>-</sup>?",
+   "answers": {
+    "a": "Nitrate ion",
+    "b": "Nitrogen ion",
+    "c": "Nitride ion",
+    "d": "Nitrite ion"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

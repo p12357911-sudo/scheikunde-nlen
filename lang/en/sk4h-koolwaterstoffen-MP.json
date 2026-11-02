@@ -1,0 +1,349 @@
+{
+ "title": "Hydrocarbons - 123 school",
+ "heading": "Hydrocarbons",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What are hydrocarbons?",
+   "answers": {
+    "a": "Substances that consist of carbon, hydrogen and oxygen",
+    "b": "Substances that consist only of hydrogen",
+    "c": "Substances that consist of carbon and oxygen",
+    "d": "Substances that consist only of carbon and hydrogen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the general formula of the alkanes?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "b": "C<sub>2n</sub>H<sub>n</sub>",
+    "c": "C<sub>n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>n+2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the general formula of the alkenes (with one double bond)?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>n</sub>",
+    "b": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "c": "C<sub>2n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>2n</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular formula of hexane?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>6</sub>",
+    "b": "C<sub>5</sub>H<sub>12</sub>",
+    "c": "C<sub>6</sub>H<sub>14</sub>",
+    "d": "C<sub>6</sub>H<sub>12</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of propene?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>6</sub>",
+    "b": "C<sub>3</sub>H<sub>4</sub>",
+    "c": "C<sub>2</sub>H<sub>6</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which name belongs to C<sub>4</sub>H<sub>10</sub>?",
+   "answers": {
+    "a": "Butene",
+    "b": "Pentane",
+    "c": "Propane",
+    "d": "Butane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which name belongs to C<sub>5</sub>H<sub>12</sub>?",
+   "answers": {
+    "a": "Hexane",
+    "b": "Pentene",
+    "c": "Propane",
+    "d": "Pentane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many hydrogen atoms does an alkane with 7 carbon atoms have?",
+   "answers": {
+    "a": "15",
+    "b": "18",
+    "c": "14",
+    "d": "16"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does saturated mean for a hydrocarbon?",
+   "answers": {
+    "a": "It contains a double bond",
+    "b": "There are only single bonds between the carbon atoms",
+    "c": "The substance is dissolved in water",
+    "d": "The substance contains no hydrogen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the characteristic of an alkene?",
+   "answers": {
+    "a": "An OH group",
+    "b": "A double bond between two carbon atoms (C=C)",
+    "c": "A ring of six carbon atoms",
+    "d": "Only single bonds"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you show that a substance is an alkene?",
+   "answers": {
+    "a": "Litmus turns red",
+    "b": "Limewater turns cloudy",
+    "c": "Bromine water is decolourised",
+    "d": "The substance dissolves in water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are isomers?",
+   "answers": {
+    "a": "Substances with the same molecular formula but a different structural formula",
+    "b": "Substances with the same name",
+    "c": "Substances with the same boiling point",
+    "d": "Substances with the same structural formula and a different molecular formula"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is an isomer of butane?",
+   "answers": {
+    "a": "Butene",
+    "b": "2-methylpropane",
+    "c": "Pentane",
+    "d": "Propane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many isomers does C<sub>5</sub>H<sub>12</sub> have?",
+   "answers": {
+    "a": "4",
+    "b": "5",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the substance with the formula C<sub>2</sub>H<sub>5</sub>OH?",
+   "answers": {
+    "a": "Ethane",
+    "b": "Methanol",
+    "c": "Ethanoic acid",
+    "d": "Ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a cycloalkane?",
+   "answers": {
+    "a": "A hydrocarbon without hydrogen",
+    "b": "A hydrocarbon with a double bond",
+    "c": "An alkane with an OH group",
+    "d": "A hydrocarbon with a ring of carbon atoms with single bonds"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substances are formed in the complete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Carbon dioxide and hydrogen",
+    "b": "Soot and water",
+    "c": "Carbon dioxide and water",
+    "d": "Carbon monoxide and water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Hydrogen and oxygen",
+    "b": "Only water",
+    "c": "Only carbon dioxide",
+    "d": "Carbon monoxide, soot (carbon) and water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the reaction equation for the complete combustion of methane?",
+   "answers": {
+    "a": "CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "2 CH<sub>4</sub>(g) + O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "c": "CH<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "d": "CH<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the reaction equation for the complete combustion of propane?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>8</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 8 H<sub>2</sub>O(l)",
+    "c": "C<sub>3</sub>H<sub>8</sub>(g) + 3 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)",
+    "d": "C<sub>3</sub>H<sub>8</sub>(g) + 5 O<sub>2</sub>(g) → 3 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the reaction equation for the complete combustion of butane?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub>(g) + 6 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)",
+    "b": "C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 5 H<sub>2</sub>O(l)",
+    "c": "2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 4 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)",
+    "d": "2 C<sub>4</sub>H<sub>10</sub>(g) + 13 O<sub>2</sub>(g) → 8 CO<sub>2</sub>(g) + 10 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the reaction equation for the complete combustion of ethene?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>(g) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)",
+    "b": "C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 4 H<sub>2</sub>O(l)",
+    "c": "C<sub>2</sub>H<sub>4</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "d": "C<sub>2</sub>H<sub>4</sub>(g) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 2 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the reaction equation for the complete combustion of ethanol?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>5</sub>OH(l) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(l)",
+    "b": "C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 6 H<sub>2</sub>O(l)",
+    "c": "C<sub>2</sub>H<sub>5</sub>OH(l) + 2 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)",
+    "d": "C<sub>2</sub>H<sub>5</sub>OH(l) + 3 O<sub>2</sub>(g) → 2 CO<sub>2</sub>(g) + 3 H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Ethene reacts with bromine. What is the reaction equation?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>6</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)",
+    "b": "C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>3</sub>Br(l) + HBr(g)",
+    "c": "C<sub>2</sub>H<sub>4</sub>(g) + Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>(l)",
+    "d": "C<sub>2</sub>H<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → C<sub>2</sub>H<sub>4</sub>Br<sub>4</sub>(l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Methane reacts with bromine under the influence of light. What is the reaction equation?",
+   "answers": {
+    "a": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>4</sub>Br<sub>2</sub>(l)",
+    "b": "CH<sub>4</sub>(g) + 2 Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + 2 HBr(g)",
+    "c": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g) + HBr(g)",
+    "d": "CH<sub>4</sub>(g) + Br<sub>2</sub>(l) → CH<sub>3</sub>Br(g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the reaction in which ethene and bromine combine to form one substance?",
+   "answers": {
+    "a": "Combustion",
+    "b": "Neutralisation",
+    "c": "Addition",
+    "d": "Substitution"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the reaction in which an H atom of an alkane is replaced by a bromine atom?",
+   "answers": {
+    "a": "Addition",
+    "b": "Neutralisation",
+    "c": "Substitution",
+    "d": "Combustion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which functional group belongs to an alcohol?",
+   "answers": {
+    "a": "The hydroxyl group (–OH)",
+    "b": "The amino group (–NH<sub>2</sub>)",
+    "c": "The ester group (–COO–)",
+    "d": "The carboxyl group (–COOH)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which functional group belongs to a carboxylic acid?",
+   "answers": {
+    "a": "The hydroxyl group (–OH)",
+    "b": "The amino group (–NH<sub>2</sub>)",
+    "c": "The ester group (–COO–)",
+    "d": "The carboxyl group (–COOH)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of ethanoic acid?",
+   "answers": {
+    "a": "CH<sub>3</sub>COOCH<sub>3</sub>",
+    "b": "CH<sub>3</sub>CHO",
+    "c": "CH<sub>3</sub>CH<sub>2</sub>OH",
+    "d": "CH<sub>3</sub>COOH"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substances are formed when ethanoic acid reacts with ethanol?",
+   "answers": {
+    "a": "Ethyl ethanoate and water",
+    "b": "Propanoic acid and water",
+    "c": "Ethyl ethanoate and hydrogen",
+    "d": "Ethane and carbon dioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the separation of crude oil into fractions (fractional distillation) based on?",
+   "answers": {
+    "a": "On a difference in melting point",
+    "b": "On differences in boiling point",
+    "c": "On a difference in solubility",
+    "d": "On a difference in colour"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the higher boiling point: pentane or hexane? (use BINAS table 42B)",
+   "answers": {
+    "a": "Hexane",
+    "b": "Pentane",
+    "c": "They have the same boiling points",
+    "d": "That cannot be said"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many carbon atoms does a molecule of pentane have?",
+   "answers": {
+    "a": "12",
+    "b": "5",
+    "c": "4",
+    "d": "6"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "title": "Calculating and measuring - 123 school",
+ "heading": "Calculating and measuring",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is the unit of amount of substance?",
+   "answers": {
+    "a": "mol",
+    "b": "litre",
+    "c": "u",
+    "d": "gram"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many particles are there in 1 mol?",
+   "answers": {
+    "a": "6.02 × 10<sup>20</sup>",
+    "b": "6.02 × 10<sup>3</sup>",
+    "c": "6.02 × 10<sup>-23</sup>",
+    "d": "6.02 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the number 6.02 × 10<sup>23</sup> per mole called?",
+   "answers": {
+    "a": "Faraday's constant",
+    "b": "Avogadro's constant",
+    "c": "Boltzmann's constant",
+    "d": "Planck's constant"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you calculate the number of moles (n) from the mass (m) and the molar mass (M)?",
+   "answers": {
+    "a": "n = M : m",
+    "b": "n = m × M",
+    "c": "n = m : M",
+    "d": "n = m + M"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the unit of molar mass?",
+   "answers": {
+    "a": "mol",
+    "b": "g",
+    "c": "mol/g",
+    "d": "g/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molar mass of H<sub>2</sub>O? (use BINAS table 99)",
+   "answers": {
+    "a": "17.01 g/mol",
+    "b": "16.00 g/mol",
+    "c": "18.02 g/mol",
+    "d": "34.02 g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molar mass of CO<sub>2</sub>? (use BINAS table 99)",
+   "answers": {
+    "a": "22.00 g/mol",
+    "b": "44.01 g/mol",
+    "c": "60.01 g/mol",
+    "d": "28.01 g/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molar mass of CH<sub>4</sub>? (use BINAS table 99)",
+   "answers": {
+    "a": "16.04 g/mol",
+    "b": "17.03 g/mol",
+    "c": "13.02 g/mol",
+    "d": "12.01 g/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The molar mass of NaCl is 58.44 g/mol. How many moles is 117 g of NaCl?",
+   "answers": {
+    "a": "0.500 mol",
+    "b": "2.00 mol",
+    "c": "6840 mol",
+    "d": "58.4 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The molar mass of NaCl is 58.44 g/mol. How many grams is 0.50 mol of NaCl?",
+   "answers": {
+    "a": "29 g",
+    "b": "58 g",
+    "c": "117 g",
+    "d": "0.0086 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many grams is 0.25 mol of H<sub>2</sub>O? (use BINAS table 99)",
+   "answers": {
+    "a": "72 g",
+    "b": "18 g",
+    "c": "0.014 g",
+    "d": "4.5 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many molecules are there in 2.0 mol of H<sub>2</sub>? (use BINAS table 7A)",
+   "answers": {
+    "a": "3.0 × 10<sup>23</sup>",
+    "b": "2.0 × 10<sup>23</sup>",
+    "c": "1.2 × 10<sup>24</sup>",
+    "d": "6.0 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many moles of H atoms are there in 1 mol of H<sub>2</sub>O?",
+   "answers": {
+    "a": "18 mol",
+    "b": "2 mol",
+    "c": "3 mol",
+    "d": "1 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub>O are formed from 1 mol of O<sub>2</sub>?",
+   "answers": {
+    "a": "1 mol",
+    "b": "0.5 mol",
+    "c": "2 mol",
+    "d": "4 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O: how many moles of H<sub>2</sub> do you need for 4 mol of H<sub>2</sub>O?",
+   "answers": {
+    "a": "8 mol",
+    "b": "2 mol",
+    "c": "1 mol",
+    "d": "4 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You let 2 mol of C<sub>2</sub>H<sub>6</sub> react with 14 mol of O<sub>2</sub> (2 C<sub>2</sub>H<sub>6</sub> + 7 O<sub>2</sub> → 4 CO<sub>2</sub> + 6 H<sub>2</sub>O). Which substance is in excess?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "Neither",
+    "d": "Both"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a substance in excess?",
+   "answers": {
+    "a": "A substance that is formed in the reaction",
+    "b": "A substance that does not take part in the equation",
+    "c": "A substance that is left over after the reaction",
+    "d": "A substance that is used up first"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "There is 30 g of salt in 200 g of mixture. What is the mass percentage of salt?",
+   "answers": {
+    "a": "0.15%",
+    "b": "6.7%",
+    "c": "150%",
+    "d": "15%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many significant figures does 0.0230 have?",
+   "answers": {
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "2"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Round 12.456 to 3 significant figures.",
+   "answers": {
+    "a": "12",
+    "b": "12.5",
+    "c": "12.4",
+    "d": "12.46"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is 0.0023 in scientific notation?",
+   "answers": {
+    "a": "2.3 × 10<sup>-4</sup>",
+    "b": "2.3 × 10<sup>-2</sup>",
+    "c": "2.3 × 10<sup>3</sup>",
+    "d": "2.3 × 10<sup>-3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many m<sup>3</sup> is 1 L?",
+   "answers": {
+    "a": "10 m<sup>3</sup>",
+    "b": "0.01 m<sup>3</sup>",
+    "c": "0.001 m<sup>3</sup>",
+    "d": "1000 m<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many grams is 250 mg?",
+   "answers": {
+    "a": "0.250 g",
+    "b": "25 g",
+    "c": "0.025 g",
+    "d": "2.5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use to measure a volume of liquid accurately?",
+   "answers": {
+    "a": "With a balance",
+    "b": "With a measuring cylinder",
+    "c": "With a pH meter",
+    "d": "With a thermometer"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molar mass of CaCO<sub>3</sub>? (use BINAS table 99)",
+   "answers": {
+    "a": "84.09 g/mol",
+    "b": "116.09 g/mol",
+    "c": "100.09 g/mol",
+    "d": "68.09 g/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molar mass of Ca(OH)<sub>2</sub>? (use BINAS table 99)",
+   "answers": {
+    "a": "56.08 g/mol",
+    "b": "57.09 g/mol",
+    "c": "72.08 g/mol",
+    "d": "74.10 g/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many molecules are there in 0.50 mol of CO<sub>2</sub>? (use BINAS table 7A)",
+   "answers": {
+    "a": "3.0 × 10<sup>22</sup>",
+    "b": "6.0 × 10<sup>23</sup>",
+    "c": "1.2 × 10<sup>24</sup>",
+    "d": "3.0 × 10<sup>23</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many grams of NaOH (M = 40.00 g/mol) is 0.250 mol?",
+   "answers": {
+    "a": "160 g",
+    "b": "1.00 g",
+    "c": "0.00625 g",
+    "d": "10.0 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In 2.0 kg of water there is 6.0 mg of nitrate. How many ppm is that?",
+   "answers": {
+    "a": "12 ppm",
+    "b": "3.0 ppm",
+    "c": "3.0 × 10<sup>-3</sup> ppm",
+    "d": "0.33 ppm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You dissolve 0.50 mol of NaCl to make 2.0 L of solution. What is the molarity?",
+   "answers": {
+    "a": "0.50 mol/L",
+    "b": "0.25 mol/L",
+    "c": "4.0 mol/L",
+    "d": "1.0 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many moles is 9.0 g of water? (M = 18.02 g/mol)",
+   "answers": {
+    "a": "0.050 mol",
+    "b": "0.50 mol",
+    "c": "2.0 mol",
+    "d": "162 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "According to N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: how many moles of NH<sub>3</sub> are formed from 1.5 mol of N<sub>2</sub>?",
+   "answers": {
+    "a": "1.5 mol",
+    "b": "4.5 mol",
+    "c": "3.0 mol",
+    "d": "0.75 mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "According to N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>: how many moles of H<sub>2</sub> are needed for 1.0 mol of NH<sub>3</sub>?",
+   "answers": {
+    "a": "3.0 mol",
+    "b": "1.5 mol",
+    "c": "0.50 mol",
+    "d": "1.0 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many significant figures does 1.200 × 10<sup>3</sup> have?",
+   "answers": {
+    "a": "5",
+    "b": "4",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

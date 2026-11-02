@@ -1,0 +1,349 @@
+{
+ "title": "Acids and bases - 123 school",
+ "heading": "Acids and bases",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is an acid?",
+   "answers": {
+    "a": "A particle that can take up an electron",
+    "b": "A particle that can give up an OH<sup>-</sup>",
+    "c": "A particle that can donate an H<sup>+</sup>",
+    "d": "A particle that can accept an H<sup>+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a base?",
+   "answers": {
+    "a": "A particle that can accept an H<sup>+</sup>",
+    "b": "A particle that can take up an OH<sup>-</sup>",
+    "c": "A particle that can donate an H<sup>+</sup>",
+    "d": "A particle that can give up an electron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What pH does an acidic solution have?",
+   "answers": {
+    "a": "Lower than 7",
+    "b": "Exactly 14",
+    "c": "Exactly 7",
+    "d": "Higher than 7"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What pH does a neutral solution have at 298 K?",
+   "answers": {
+    "a": "7",
+    "b": "14",
+    "c": "0",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the [H<sup>+</sup>] in a solution with pH = 3?",
+   "answers": {
+    "a": "0.30 mol/L",
+    "b": "1.0 × 10<sup>3</sup> mol/L",
+    "c": "3.0 mol/L",
+    "d": "1.0 × 10<sup>-3</sup> mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the pH of 0.010 mol/L hydrochloric acid (HCl).",
+   "answers": {
+    "a": "1.00",
+    "b": "12.00",
+    "c": "0.010",
+    "d": "2.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the pH of 0.0010 mol/L nitric acid (HNO<sub>3</sub>).",
+   "answers": {
+    "a": "0.0010",
+    "b": "2.00",
+    "c": "11.00",
+    "d": "3.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the pH of 0.010 mol/L sodium hydroxide solution (NaOH).",
+   "answers": {
+    "a": "2.00",
+    "b": "14.00",
+    "c": "11.00",
+    "d": "12.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the pH of 1.0 × 10<sup>-4</sup> mol/L sodium hydroxide solution (NaOH).",
+   "answers": {
+    "a": "10.00",
+    "b": "9.00",
+    "c": "14.00",
+    "d": "4.00"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the pH of 0.0050 mol/L barium hydroxide, Ba(OH)<sub>2</sub> (a strong base).",
+   "answers": {
+    "a": "2.30",
+    "b": "12.00",
+    "c": "2.00",
+    "d": "11.70"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the relationship between pH and pOH at 298 K?",
+   "answers": {
+    "a": "pH + pOH = 7",
+    "b": "pH + pOH = 14",
+    "c": "pH − pOH = 14",
+    "d": "pH × pOH = 14"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A solution has [H<sup>+</sup>] = 2.5 × 10<sup>-4</sup> mol/L. Calculate the pH.",
+   "answers": {
+    "a": "4.60",
+    "b": "3.60",
+    "c": "2.50",
+    "d": "3.40"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many times as great is the [H<sup>+</sup>] at pH = 2 as at pH = 4?",
+   "answers": {
+    "a": "1000 times",
+    "b": "100 times",
+    "c": "10 times",
+    "d": "2 times"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A solution of a strong acid has pH = 2.0. You dilute the solution 10 times with water. What is the new pH?",
+   "answers": {
+    "a": "2.1",
+    "b": "20",
+    "c": "1.0",
+    "d": "3.0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You dilute 10 mL of 1.0 mol/L HCl to 100 mL. What is the new concentration?",
+   "answers": {
+    "a": "10 mol/L",
+    "b": "1.0 mol/L",
+    "c": "0.10 mol/L",
+    "d": "0.010 mol/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does it mean that HCl is a strong acid?",
+   "answers": {
+    "a": "HCl gives up only part of its H<sup>+</sup>",
+    "b": "All HCl molecules donate their H<sup>+</sup> to water",
+    "c": "HCl does not dissolve in water",
+    "d": "A lot of HCl is dissolved"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does it mean that acetic acid is a weak acid?",
+   "answers": {
+    "a": "It is a base",
+    "b": "All molecules give up an H<sup>+</sup>",
+    "c": "The solution is always dilute",
+    "d": "Only a small fraction of the molecules donates an H<sup>+</sup> (equilibrium)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of the following acids is a strong acid? (use BINAS table 49)",
+   "answers": {
+    "a": "HCl",
+    "b": "NH<sub>4</sub><sup>+</sup>",
+    "c": "CH<sub>3</sub>COOH",
+    "d": "H<sub>2</sub>CO<sub>3</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the notation for a solution of the strong acid HNO<sub>3</sub>?",
+   "answers": {
+    "a": "HNO<sub>3</sub>(l)",
+    "b": "HNO<sub>3</sub>(aq)",
+    "c": "H(aq) + NO<sub>3</sub>(aq)",
+    "d": "H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of nitric acid?",
+   "answers": {
+    "a": "HNO<sub>3</sub>",
+    "b": "HNO<sub>2</sub>",
+    "c": "H<sub>2</sub>NO<sub>3</sub>",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the conjugate acid of NH<sub>3</sub>?",
+   "answers": {
+    "a": "NH<sub>3</sub><sup>+</sup>",
+    "b": "NH<sub>2</sub><sup>-</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "N<sub>2</sub>H<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the conjugate base of HCO<sub>3</sub><sup>-</sup>?",
+   "answers": {
+    "a": "CO<sub>3</sub><sup>2-</sup>",
+    "b": "OH<sup>-</sup>",
+    "c": "H<sub>2</sub>CO<sub>3</sub>",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which particle can react both as an acid and as a base (ampholyte)? (use BINAS table 49)",
+   "answers": {
+    "a": "HCO<sub>3</sub><sup>-</sup>",
+    "b": "Na<sup>+</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "Cl<sup>-</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the reaction equation for the neutralisation of hydrochloric acid with sodium hydroxide solution (in ions)?",
+   "answers": {
+    "a": "Na<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) → NaCl(s)",
+    "b": "H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>O(l)",
+    "c": "H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>3</sub>O(l)",
+    "d": "H<sup>+</sup>(aq) + OH<sup>-</sup>(aq) → H<sub>2</sub>(g) + O<sub>2</sub>(g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Acetic acid reacts with sodium hydroxide solution. What is the equation of the acid–base reaction?",
+   "answers": {
+    "a": "CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>(g)",
+    "b": "CH<sub>3</sub>COO<sup>-</sup>(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COOH(aq) + H<sub>2</sub>O(l)",
+    "c": "CH<sub>3</sub>COOH(aq) + OH<sup>-</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)",
+    "d": "CH<sub>3</sub>COOH(aq) + H<sup>+</sup>(aq) → CH<sub>3</sub>COO<sup>-</sup>(aq) + H<sub>2</sub>O(l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) reacts with hydrochloric acid. What is the equation of the acid–base reaction?",
+   "answers": {
+    "a": "NH<sub>4</sub><sup>+</sup>(aq) + H<sup>+</sup>(aq) → NH<sub>3</sub>(aq)",
+    "b": "NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)",
+    "c": "NH<sub>3</sub>(aq) + OH<sup>-</sup>(aq) → NH<sub>4</sub><sup>+</sup>(aq)",
+    "d": "NH<sub>3</sub>(aq) + H<sup>+</sup>(aq) → NH<sub>2</sub><sup>-</sup>(aq) + H<sub>2</sub>(g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You neutralise 25.0 mL of hydrochloric acid with 20.0 mL of 0.100 mol/L sodium hydroxide solution. Calculate the concentration of the hydrochloric acid.",
+   "answers": {
+    "a": "0.125 mol/L",
+    "b": "0.00200 mol/L",
+    "c": "0.100 mol/L",
+    "d": "0.0800 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 10.0 mL of 0.100 mol/L hydrochloric acid?",
+   "answers": {
+    "a": "10.0 mL",
+    "b": "2.00 mL",
+    "c": "5.00 mL",
+    "d": "20.0 mL"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many mL of 0.200 mol/L sodium hydroxide solution is needed to neutralise 20.0 mL of 0.100 mol/L sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?",
+   "answers": {
+    "a": "5.00 mL",
+    "b": "10.0 mL",
+    "c": "20.0 mL",
+    "d": "40.0 mL"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A weak acid HZ has Ka = 1.0 × 10<sup>-5</sup> and a concentration of 0.10 mol/L. Calculate the pH. (Assume that [H<sup>+</sup>] = [Z<sup>-</sup>] and that [HZ] ≈ 0.10 mol/L.)",
+   "answers": {
+    "a": "5.00",
+    "b": "2.00",
+    "c": "1.00",
+    "d": "3.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Four acids have these acid constants: HA 1 × 10<sup>-3</sup>, HB 1 × 10<sup>-5</sup>, HC 1 × 10<sup>-8</sup>, HD 1 × 10<sup>-10</sup>. Which acid is the strongest?",
+   "answers": {
+    "a": "HC",
+    "b": "HD",
+    "c": "HA",
+    "d": "HB"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does litmus have at pH = 2? (use BINAS table 52A)",
+   "answers": {
+    "a": "Blue",
+    "b": "Yellow",
+    "c": "Red",
+    "d": "Colourless"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does phenolphthalein have at pH = 2? (use BINAS table 52A)",
+   "answers": {
+    "a": "Pink",
+    "b": "Blue",
+    "c": "Colourless",
+    "d": "Yellow"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does universal indicator paper turn in an acidic solution?",
+   "answers": {
+    "a": "Yellow",
+    "b": "Blue",
+    "c": "Red",
+    "d": "Green"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}
