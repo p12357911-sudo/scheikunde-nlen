@@ -628,3 +628,9 @@ footer .w3-tooltip .w3-button { padding: 4px 10px; }
   /* pictogrammen boven de secties en kolommen: groter (40 px), dezelfde donkerblauwe kleur als de koppen, nauwelijks extra hoogte */
   body.home i.fa-solid { display: block; font-size: 40px; line-height: 1; color: #003A5C; margin: 4px auto 8px auto; }
 }
+
+/* -- Beginpagina op telefoon: Peter Pan-plaatje groter (ca. 76% van de breedte), gecentreerd; kopblok blijft rustig -- */
+@media (max-width: 600px) {
+  body.home .jumbotron { padding: 62px 16px 28px 16px; }
+  body.home .jumbotron img { display: block; width: 76vw; max-width: 300px; height: auto; margin: 0 auto 10px auto; }
+}
