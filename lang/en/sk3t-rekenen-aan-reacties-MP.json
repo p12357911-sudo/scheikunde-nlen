@@ -1,0 +1,347 @@
+{
+ "title": "Calculating with reactions - 123 school",
+ "heading": "Multiple-choice questions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is the molecular mass?",
+   "answers": {
+    "a": "The mass of all the molecules together",
+    "b": "The mass of one molecule",
+    "c": "The mass of one electron",
+    "d": "The mass of one atom"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you calculate the molecular mass?",
+   "answers": {
+    "a": "You add up the atomic masses of all the atoms in the molecule",
+    "b": "You measure the pressure and the temperature",
+    "c": "You multiply the concentrations of the substances",
+    "d": "You subtract the mass of the products from the mass of the reactants"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the mass ratio of a reaction?",
+   "answers": {
+    "a": "The ratio between the numbers of molecules that react",
+    "b": "The ratio between the mass and the volume of a substance",
+    "c": "The ratio between the masses of the substances that react with each other and are formed",
+    "d": "The ratio between the mass of a substance and the time the reaction takes"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You are going to do a calculation on a reaction. What do you do first?",
+   "answers": {
+    "a": "Write down the answer",
+    "b": "Write the reaction equation",
+    "c": "Calculate the molecular masses",
+    "d": "Weigh the mass of the product"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is an excess?",
+   "answers": {
+    "a": "A substance that does not take part in the reaction",
+    "b": "A reactant that is completely used up after the reaction",
+    "c": "The ideal amount of a substance",
+    "d": "A reactant of which some is left over after the reaction"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you find out which reactant is in excess?",
+   "answers": {
+    "a": "You only weigh the products",
+    "b": "You calculate how much of one substance you need for the other and compare that with what you have",
+    "c": "You measure the reaction time",
+    "d": "You measure the concentration of the substances"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the molecular mass of H<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; O = 16.0 u; S = 32.1 u.",
+   "answers": {
+    "a": "82.1 u",
+    "b": "130.2 u",
+    "c": "97.1 u",
+    "d": "98.1 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the mass ratio hydrogen : oxygen : water for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? Atomic masses: H = 1.0 u; O = 16.0 u.",
+   "answers": {
+    "a": "4.0 : 16.0 : 20.0",
+    "b": "2.0 : 16.0 : 18.0",
+    "c": "4.0 : 32.0 : 36.0",
+    "d": "2.0 : 32.0 : 34.0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon. How many g of oxygen are needed at least? Atomic masses: C = 12.0 u; O = 16.0 u.",
+   "answers": {
+    "a": "12.0 g",
+    "b": "16.0 g",
+    "c": "32.0 g",
+    "d": "8.0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon completely. How many g of carbon dioxide are formed? Atomic masses: C = 12.0 u; O = 16.0 u.",
+   "answers": {
+    "a": "44.0 g",
+    "b": "22.0 g",
+    "c": "12.0 g",
+    "d": "16.0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO: how many g of magnesium oxide are formed from 24.3 g of magnesium? Atomic masses: O = 16.0 u; Mg = 24.3 u.",
+   "answers": {
+    "a": "48.6 g",
+    "b": "40.3 g",
+    "c": "20.1 g",
+    "d": "56.3 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>, 36 g of water is decomposed. How many g of hydrogen and oxygen are formed together?",
+   "answers": {
+    "a": "4 g",
+    "b": "18 g",
+    "c": "36 g",
+    "d": "72 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Heating CaCO<sub>3</sub> forms CaO and CO<sub>2</sub>: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. You heat 10.0 g of limestone. 4.4 g of CO<sub>2</sub> is formed. How many g of CaO remain?",
+   "answers": {
+    "a": "10.0 g",
+    "b": "5.6 g",
+    "c": "14.4 g",
+    "d": "4.4 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In water (H<sub>2</sub>O), hydrogen and oxygen are present in the mass ratio 1 : 8. How many g of oxygen are there in 45 g of water?",
+   "answers": {
+    "a": "40.0 g",
+    "b": "36.0 g",
+    "c": "45.0 g",
+    "d": "5.0 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In the combustion of methane (CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O), 16.0 g of methane reacts with 64.0 g of oxygen. How many g of carbon dioxide and water are formed together?",
+   "answers": {
+    "a": "48.0 g",
+    "b": "64.0 g",
+    "c": "80.0 g",
+    "d": "16.0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the mass percentage of hydrogen in water (H<sub>2</sub>O). Atomic masses: H = 1.0 u; O = 16.0 u.",
+   "answers": {
+    "a": "11.1%",
+    "b": "88.9%",
+    "c": "5.6%",
+    "d": "12.5%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the mass percentage of iron in Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: O = 16.0 u; Fe = 55.8 u.",
+   "answers": {
+    "a": "69.9%",
+    "b": "23.2%",
+    "c": "30.1%",
+    "d": "35.0%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You let 24.3 g of magnesium react with 32.0 g of oxygen (2 Mg + O<sub>2</sub> → 2 MgO). 24.3 g of Mg needs 16.0 g of O<sub>2</sub>. Which substance is in excess and how many g remain?",
+   "answers": {
+    "a": "Oxygen, 8.0 g",
+    "b": "Magnesium, 8.3 g",
+    "c": "Oxygen, 16.0 g",
+    "d": "Magnesium, 16.0 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "There is 40 mL of alcohol in 250 mL of an alcoholic drink. What is the volume percentage of alcohol?",
+   "answers": {
+    "a": "6.3%",
+    "b": "40%",
+    "c": "84%",
+    "d": "16%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are the five steps in chemical calculations, in the correct order?",
+   "answers": {
+    "a": "Write the reaction equation → put the masses under the equation → ratio table → calculation → answer with unit",
+    "b": "Put the masses under the equation → write the reaction equation → calculation → ratio table → answer with unit",
+    "c": "Calculation → write the reaction equation → ratio table → put the masses under the equation → answer with unit",
+    "d": "Ratio table → calculation → write the reaction equation → answer with unit → put the masses under the equation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g)",
+    "b": "2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO (g) + 10 H<sub>2</sub>O (g)",
+    "c": "2 C<sub>4</sub>H<sub>10</sub> (g) + 9 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)",
+    "d": "2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 2: which masses (u) of butane and oxygen do you put under the reaction equation?",
+   "answers": {
+    "a": "116.0 u en 32.0 u",
+    "b": "116.0 u en 416.0 u",
+    "c": "58.0 u en 416.0 u",
+    "d": "58.0 u en 32.0 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 3: which ratio table fits the question? You are looking for the mass of oxygen from 29 g of butane.",
+   "answers": {
+    "a": "butane: 58.0 u → 29 g; oxygen: 32.0 u → x g",
+    "b": "butane: 116.0 u → 29 g; oxygen: 416.0 u → x g",
+    "c": "butane: 116.0 u → 29 g; oxygen: 32.0 u → x g",
+    "d": "butane: 58.0 u → 29 g; oxygen: 416.0 u → x g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 4: which calculation fits the ratio table?",
+   "answers": {
+    "a": "x = 416.0 × 29 : 58.0 = 208 g",
+    "b": "x = 32.0 × 29 : 58.0 = 16 g",
+    "c": "x = 116.0 × 29 : 416.0 = 8 g",
+    "d": "x = 416.0 × 29 : 116.0 = 104 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 5: your calculation gives x = 104. What is the correct answer?",
+   "answers": {
+    "a": "104 oxygen",
+    "b": "104 g oxygen",
+    "c": "104 u oxygen",
+    "d": "104 kg oxygen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "N (g) + H (g) → NH<sub>3</sub> (g)",
+    "b": "N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → NH<sub>3</sub> (g)",
+    "c": "N<sub>2</sub> (g) + H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)",
+    "d": "N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 2: which masses (u) of nitrogen and ammonia do you put under the reaction equation?",
+   "answers": {
+    "a": "28.0 u en 34.0 u",
+    "b": "28.0 u en 17.0 u",
+    "c": "45.0 u en 34.0 u",
+    "d": "34.0 u en 28.0 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 3: which ratio table fits the question? You are looking for the mass of ammonia from 14 g of nitrogen.",
+   "answers": {
+    "a": "nitrogen: 28.0 u → 14 g; ammonia: 17.0 u → x g",
+    "b": "nitrogen: 28.0 u → x g; ammonia: 34.0 u → 14 g",
+    "c": "nitrogen: 45.0 u → 14 g; ammonia: 34.0 u → x g",
+    "d": "nitrogen: 28.0 u → 14 g; ammonia: 34.0 u → x g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 4: which calculation fits the ratio table?",
+   "answers": {
+    "a": "x = 17.0 × 14 : 28.0 = 9 g",
+    "b": "x = 34.0 × 14 : 28.0 = 17 g",
+    "c": "x = 28.0 × 14 : 17.0 = 23 g",
+    "d": "x = 28.0 × 14 : 34.0 = 12 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 5: your calculation gives x = 17. What is the correct answer?",
+   "answers": {
+    "a": "17 ammonia",
+    "b": "17 g ammonia",
+    "c": "17 kg ammonia",
+    "d": "17 u ammonia"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "CaCO<sub>3</sub> (s) → Ca (s) + C (s) + O<sub>2</sub> (g)",
+    "b": "CaCO<sub>3</sub> (s) + O<sub>2</sub> (g) → CaO (s) + CO<sub>2</sub> (g)",
+    "c": "CaCO<sub>3</sub> (s) → CaO (s) + CO<sub>2</sub> (g)",
+    "d": "CaCO<sub>3</sub> (s) → CaO (s) + CO (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 3: which ratio table fits the question? You are looking for the mass of quicklime from 250 g of limestone.",
+   "answers": {
+    "a": "limestone: 100.1 u → 250 g; quicklime: 56.1 u → x g",
+    "b": "limestone: 100.1 u → 250 g; quicklime: 156.2 u → x g",
+    "c": "limestone: 100.1 u → x g; quicklime: 56.1 u → 250 g",
+    "d": "limestone: 156.2 u → 250 g; quicklime: 56.1 u → x g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 5: your calculation gives x = 140. What is the correct answer?",
+   "answers": {
+    "a": "140 quicklime",
+    "b": "140 u quicklime",
+    "c": "140 g quicklime",
+    "d": "140 kg quicklime"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Copper(II) oxide contains copper and oxygen in the mass ratio 4 : 1. How many g of copper are there in 30 g of copper(II) oxide? Use a ratio table.",
+   "answers": {
+    "a": "7.5 g",
+    "b": "120 g",
+    "c": "24 g",
+    "d": "6 g"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

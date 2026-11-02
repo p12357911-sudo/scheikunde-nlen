@@ -1,0 +1,347 @@
+{
+ "title": "Separating substances - 123 school",
+ "heading": "Separating substances",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is a mixture?",
+   "answers": {
+    "a": "A substance that consists of one type of molecule",
+    "b": "A substance with a fixed boiling point",
+    "c": "A substance made up of more than one kind of molecule",
+    "d": "A substance made up of one kind of atom"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a pure substance?",
+   "answers": {
+    "a": "A substance that is not a compound",
+    "b": "A substance without colour or smell",
+    "c": "A substance made up of several kinds of molecules",
+    "d": "A substance that consists of one type of molecule"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How can you recognise a pure substance from its boiling point?",
+   "answers": {
+    "a": "The boiling point differs from sample to sample",
+    "b": "The boiling point is fixed and stays the same during boiling",
+    "c": "The temperature keeps rising during boiling",
+    "d": "The substance has no boiling point"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are the separation methods in BAEDFIA?",
+   "answers": {
+    "a": "Settling, decanting, decomposition, drying, filtration, melting, adsorption",
+    "b": "Settling, reading off, extraction, drying, filtration, evaporation, cooling",
+    "c": "Breaking, decanting, electrolysis, distillation, filtration, evaporation, diluting",
+    "d": "Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen (Dutch: settling, decanting, extraction, distillation, filtration, evaporation, adsorption)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which method do you use to separate sand from water?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Distillation",
+    "c": "Filtration",
+    "d": "Extraction (Extraheren)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What difference between substances is filtration based on?",
+   "answers": {
+    "a": "The difference in boiling point",
+    "b": "The difference in density of the liquids",
+    "c": "The difference in particle size",
+    "d": "The difference in solubility"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is left behind on the filter: the residue or the filtrate?",
+   "answers": {
+    "a": "The residue",
+    "b": "The filtrate",
+    "c": "The extract",
+    "d": "The distillate"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What passes through the filter: the residue or the filtrate?",
+   "answers": {
+    "a": "The filtrate",
+    "b": "The distillate",
+    "c": "The residue",
+    "d": "The suspension"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a mixture of a solid and a liquid, in which the solid does not dissolve, called?",
+   "answers": {
+    "a": "An alloy",
+    "b": "A suspension",
+    "c": "A solution",
+    "d": "An emulsion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a mixture of two liquids that do not mix, such as oil and water, called?",
+   "answers": {
+    "a": "A solution",
+    "b": "An emulsion",
+    "c": "A suspension",
+    "d": "Smoke"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you separate a suspension of chalk in water?",
+   "answers": {
+    "a": "By distilling",
+    "b": "By adsorbing",
+    "c": "By extracting",
+    "d": "By filtering"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you separate oil from water in an emulsion that has been left to stand for a while?",
+   "answers": {
+    "a": "By adsorbing with activated carbon",
+    "b": "By evaporating",
+    "c": "By filtering",
+    "d": "By decanting or with a separating funnel, because oil floats on water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What difference is settling and decanting based on?",
+   "answers": {
+    "a": "The difference in density",
+    "b": "The difference in melting point",
+    "c": "The difference in boiling point",
+    "d": "The difference in solubility"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you get salt out of salt water if you do not need to keep the water?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Filtration",
+    "c": "Adsorption",
+    "d": "Settling and decanting"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you turn salt water back into pure water that you keep?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Distillation",
+    "c": "Filtration",
+    "d": "Extraction (Extraheren)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "On which difference between substances is distillation based?",
+   "answers": {
+    "a": "The difference in colour",
+    "b": "The difference in particle size",
+    "c": "The difference in density",
+    "d": "The difference in boiling point"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the substance called that becomes liquid in the condenser during distillation and is collected?",
+   "answers": {
+    "a": "The distillate",
+    "b": "The residue",
+    "c": "The filtrate",
+    "d": "The extract"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the condenser used for in a distillation?",
+   "answers": {
+    "a": "To let the vapour condense back into a liquid",
+    "b": "To filter the residue",
+    "c": "To let the vapour burn",
+    "d": "To make the mixture boil"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Alcohol boils at 78 °C and water at 100 °C. Which substance distils over first if you distil the mixture?",
+   "answers": {
+    "a": "Alcohol, because it has the lowest boiling point",
+    "b": "Water, because it has the highest boiling point",
+    "c": "Both at the same time",
+    "d": "Neither, the mixture does not boil"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Substance A boils at 65 °C and substance B at 110 °C. You heat the mixture slowly to 80 °C. What has distilled over then?",
+   "answers": {
+    "a": "Nothing",
+    "b": "An equal mixture of A and B",
+    "c": "Mostly substance B",
+    "d": "Mostly substance A"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is distillation not a good way to separate sand from water?",
+   "answers": {
+    "a": "Sand has the same boiling point as water",
+    "b": "Sand evaporates at 100 °C",
+    "c": "Sand dissolves in water",
+    "d": "Sand does not dissolve, so filtering is much simpler"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is it called when you separate a substance from a mixture using a solvent in which only that substance dissolves?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Filtration",
+    "c": "Adsorption",
+    "d": "Extraction (Extraheren)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which example is extraction?",
+   "answers": {
+    "a": "Heating water",
+    "b": "Getting salt out of sea water by evaporation",
+    "c": "Making tea: the flavour compounds dissolve in the hot water",
+    "d": "Sieving sand out of water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What difference is extraction based on?",
+   "answers": {
+    "a": "The difference in solubility",
+    "b": "The difference in boiling point",
+    "c": "The difference in density",
+    "d": "The difference in particle size"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is it called when substances are separated because a solid holds on to the substances differently, as in a carbon filter?",
+   "answers": {
+    "a": "Adsorption",
+    "b": "Extraction (Extraheren)",
+    "c": "Evaporation (Indampen)",
+    "d": "Settling (Bezinken)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use to remove odours or dyes from a mixture?",
+   "answers": {
+    "a": "A sieve",
+    "b": "A Bunsen burner",
+    "c": "A separating funnel",
+    "d": "Activated carbon (adsorption)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you get iron powder out of a mixture of iron powder and sulfur powder?",
+   "answers": {
+    "a": "With a magnet",
+    "b": "By filtering",
+    "c": "By distilling",
+    "d": "By extracting"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you get sugar out of sugar water if you do not need to keep the water?",
+   "answers": {
+    "a": "Settling (Bezinken)",
+    "b": "Adsorption",
+    "c": "Evaporation (Indampen)",
+    "d": "Filtration"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which method do you use to separate sand and salt? Sand does not dissolve in water, salt does.",
+   "answers": {
+    "a": "Evaporation only",
+    "b": "Filtration only",
+    "c": "Add water, filter and evaporate the filtrate",
+    "d": "Distil the dry mixture"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You filter a mixture of chalk and water. The filtrate is clear. Is the filtrate a pure substance?",
+   "answers": {
+    "a": "No, there is still chalk in it",
+    "b": "Yes, filtering always gives a pure substance",
+    "c": "Not necessarily, something may still be dissolved in the water",
+    "d": "Yes, because it is clear and therefore pure water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is it called when coloured substances are separated on paper using a solvent?",
+   "answers": {
+    "a": "Chromatography",
+    "b": "Distillation",
+    "c": "Evaporation (Indampen)",
+    "d": "Extraction"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which two steps belong to separating a mixture of sand, salt and water, in the correct order?",
+   "answers": {
+    "a": "First adsorb, then settle",
+    "b": "First distil, then filter",
+    "c": "First filter, then evaporate the filtrate",
+    "d": "First evaporate, then filter"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you get small iron nails out of a tray of sand?",
+   "answers": {
+    "a": "By evaporating",
+    "b": "With a magnet",
+    "c": "By extracting",
+    "d": "By distilling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "While boiling a liquid, you measure that the temperature keeps rising. What does that mean?",
+   "answers": {
+    "a": "It is an element",
+    "b": "It is a pure substance",
+    "c": "The liquid is already boiling",
+    "d": "It is probably a mixture"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

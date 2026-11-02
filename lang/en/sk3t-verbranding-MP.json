@@ -1,0 +1,347 @@
+{
+ "title": "Combustion - 123 school",
+ "heading": "Combustion",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is a fuel?",
+   "answers": {
+    "a": "The gas needed for burning",
+    "b": "A substance that you burn to get heat (energy)",
+    "c": "A substance that puts out a fire",
+    "d": "A substance that cannot burn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Name the three things needed to make something burn (fire triangle)",
+   "answers": {
+    "a": "Fuel, carbon dioxide and wind",
+    "b": "Fuel, nitrogen and a spark",
+    "c": "Oxygen, water and heat",
+    "d": "Fuel, oxygen and a temperature above the ignition temperature"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the ignition temperature?",
+   "answers": {
+    "a": "The temperature of the flame",
+    "b": "The temperature at which a substance starts to burn",
+    "c": "The temperature at which a substance boils",
+    "d": "The temperature at which a substance melts"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which gas from the air is needed for combustion?",
+   "answers": {
+    "a": "Hydrogen",
+    "b": "Nitrogen",
+    "c": "Oxygen",
+    "d": "Carbon dioxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a combustion called in which enough oxygen is present?",
+   "answers": {
+    "a": "Decomposition",
+    "b": "Synthesis",
+    "c": "Incomplete combustion",
+    "d": "Complete combustion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a combustion called in which too little oxygen is present?",
+   "answers": {
+    "a": "Complete combustion",
+    "b": "Incomplete combustion",
+    "c": "Electrolysis",
+    "d": "Decomposition"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which two substances are formed in the complete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Carbon monoxide and soot",
+    "b": "Carbon dioxide and water",
+    "c": "Oxygen and hydrogen",
+    "d": "Carbon and hydrogen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substances can be formed in the incomplete combustion of a hydrocarbon?",
+   "answers": {
+    "a": "Only carbon dioxide and water",
+    "b": "Carbon monoxide, soot (carbon) and water",
+    "c": "Oxygen and hydrogen",
+    "d": "Only carbon dioxide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What colour is the flame in the incomplete combustion of natural gas?",
+   "answers": {
+    "a": "Green",
+    "b": "Colourless",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What colour is the flame in complete combustion in a burner?",
+   "answers": {
+    "a": "Black",
+    "b": "Yellow",
+    "c": "Blue",
+    "d": "Red"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why is carbon monoxide (CO) dangerous?",
+   "answers": {
+    "a": "It is poisonous and you cannot smell it",
+    "b": "It causes acid rain",
+    "c": "It is a greenhouse gas that makes the Earth melt",
+    "d": "It is explosive in water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is soot?",
+   "answers": {
+    "a": "A fuel from crude oil",
+    "b": "Water that comes out of the flame",
+    "c": "Fine black particles of carbon (C) that are formed in incomplete combustion",
+    "d": "A gas that is formed in complete combustion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which two elements are in a hydrocarbon?",
+   "answers": {
+    "a": "Carbon and hydrogen (C and H)",
+    "b": "Carbon and oxygen",
+    "c": "Carbon and nitrogen",
+    "d": "Hydrogen and oxygen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which three fuels are fossil fuels?",
+   "answers": {
+    "a": "Coal, crude oil and natural gas",
+    "b": "Crude oil, solar energy and natural gas",
+    "c": "Natural gas, hydrogen and wood",
+    "d": "Coal, charcoal and biogas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular formula of methane, the main component of natural gas?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "CH"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you show that water is formed in a combustion?",
+   "answers": {
+    "a": "A burning splint goes out",
+    "b": "Limewater turns cloudy",
+    "c": "White copper(II) sulfate turns blue",
+    "d": "A glowing splint bursts into flame"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you show that carbon dioxide is formed in a combustion?",
+   "answers": {
+    "a": "White copper(II) sulfate turns blue",
+    "b": "Limewater turns cloudy (white)",
+    "c": "A glowing splint bursts into flame",
+    "d": "You hear a pop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+   "answers": {
+    "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O",
+    "c": "2 CH<sub>4</sub> + O<sub>2</sub> → 2 CO<sub>2</sub> + H<sub>2</sub>O",
+    "d": "CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: C + O<sub>2</sub> → CO<sub>2</sub>",
+   "answers": {
+    "a": "2 C + O<sub>2</sub> → CO<sub>2</sub>",
+    "b": "C + 2 O<sub>2</sub> → CO<sub>2</sub>",
+    "c": "C + O<sub>2</sub> → CO<sub>2</sub> (already balanced)",
+    "d": "2 C + 2 O<sub>2</sub> → CO<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Balance: 2 CH<sub>4</sub> + 3 O<sub>2</sub> → … CO + … H<sub>2</sub>O (incomplete combustion)",
+   "answers": {
+    "a": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 2 H<sub>2</sub>O",
+    "b": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → CO + 4 H<sub>2</sub>O",
+    "c": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 4 H<sub>2</sub>O",
+    "d": "2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 3 H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Balance: CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O (incomplete combustion with soot)",
+   "answers": {
+    "a": "CH<sub>4</sub> + O<sub>2</sub> → C + 2 H<sub>2</sub>O",
+    "b": "CH<sub>4</sub> + 2 O<sub>2</sub> → C + 2 H<sub>2</sub>O",
+    "c": "2 CH<sub>4</sub> + O<sub>2</sub> → 2 C + 2 H<sub>2</sub>O",
+    "d": "CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Balance: C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (butane, complete combustion)",
+   "answers": {
+    "a": "2 C<sub>4</sub>H<sub>10</sub> + 10 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O",
+    "b": "C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O",
+    "c": "2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O",
+    "d": "C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Balance: Mg + O<sub>2</sub> → MgO (burning of magnesium)",
+   "answers": {
+    "a": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "b": "Mg + O<sub>2</sub> → MgO",
+    "c": "Mg + O<sub>2</sub> → 2 MgO",
+    "d": "2 Mg + 2 O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "When 16 g of methane burns with 64 g of oxygen, 44 g of carbon dioxide and some water are formed. How many g of water are formed?",
+   "answers": {
+    "a": "20 g",
+    "b": "80 g",
+    "c": "44 g",
+    "d": "36 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "At high temperature in a car engine, nitrogen and oxygen react. Which substances are formed?",
+   "answers": {
+    "a": "Carbon dioxide and water",
+    "b": "Sulfur dioxide",
+    "c": "Nitrogen oxides (NO and NO<sub>2</sub>)",
+    "d": "Soot and hydrogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which gas causes acid rain (together with nitrogen oxides)?",
+   "answers": {
+    "a": "Sulfur dioxide (SO<sub>2</sub>)",
+    "b": "Nitrogen (N<sub>2</sub>)",
+    "c": "Oxygen (O<sub>2</sub>)",
+    "d": "Carbon dioxide (CO<sub>2</sub>)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to a burning candle under an upturned glass?",
+   "answers": {
+    "a": "Nothing changes",
+    "b": "The candle burns more brightly",
+    "c": "The candle goes out, because the nitrogen is used up",
+    "d": "The candle goes out, because the oxygen is used up"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which extinguisher do you never use on a fat fire?",
+   "answers": {
+    "a": "A fire blanket",
+    "b": "Water",
+    "c": "A lid on the pan",
+    "d": "An extinguisher with foam or powder"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why does a fire blanket put out a fire?",
+   "answers": {
+    "a": "The fuel is cooled to below the ignition temperature",
+    "b": "The blanket reacts with the fuel to form water",
+    "c": "The oxygen can no longer reach the fuel",
+    "d": "The fuel dissolves"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does water cool a fire?",
+   "answers": {
+    "a": "The temperature falls below the ignition temperature",
+    "b": "Water removes the oxygen from the fuel",
+    "c": "Water wets the fuel so that it dissolves",
+    "d": "Water is not a fuel itself"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "With which process do you make petrol and diesel from crude oil?",
+   "answers": {
+    "a": "Fractional distillation",
+    "b": "Filtration",
+    "c": "Settling and decanting",
+    "d": "Extraction"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance in the air is mainly responsible for the enhanced greenhouse effect?",
+   "answers": {
+    "a": "Argon",
+    "b": "Oxygen (O<sub>2</sub>)",
+    "c": "Nitrogen (N<sub>2</sub>)",
+    "d": "Carbon dioxide (CO<sub>2</sub>)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is there more and more CO<sub>2</sub> in the air because of humans?",
+   "answers": {
+    "a": "Because more nitrogen is being used",
+    "b": "Because the Sun is getting stronger",
+    "c": "Because we burn large amounts of fossil fuels",
+    "d": "Because plants produce more oxygen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How can you make sure there is less CO<sub>2</sub> emission?",
+   "answers": {
+    "a": "Cut down more trees for firewood",
+    "b": "Burn more natural gas instead of using solar energy",
+    "c": "Use energy more economically and use solar and wind energy",
+    "d": "Drive more cars that run on petrol"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

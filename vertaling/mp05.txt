@@ -2695,3 +2695,362 @@ heading Reaction rate
 33.B Mg (s) + HCl (aq) → MgCl (aq) + H<sub>2</sub> (g)
 33.C Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
 33.D Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)
+### sk3t-rekenen-aan-reacties-MP
+title Calculating with reactions - 123 school
+heading Multiple-choice questions
+0.Q What is the molecular mass?
+0.A The mass of all the molecules together
+0.B The mass of one molecule
+0.C The mass of one electron
+0.D The mass of one atom
+1.Q How do you calculate the molecular mass?
+1.A You add up the atomic masses of all the atoms in the molecule
+1.B You measure the pressure and the temperature
+1.C You multiply the concentrations of the substances
+1.D You subtract the mass of the products from the mass of the reactants
+2.Q What is the mass ratio of a reaction?
+2.A The ratio between the numbers of molecules that react
+2.B The ratio between the mass and the volume of a substance
+2.C The ratio between the masses of the substances that react with each other and are formed
+2.D The ratio between the mass of a substance and the time the reaction takes
+3.Q You are going to do a calculation on a reaction. What do you do first?
+3.A Write down the answer
+3.B Write the reaction equation
+3.C Calculate the molecular masses
+3.D Weigh the mass of the product
+4.Q What is an excess?
+4.A A substance that does not take part in the reaction
+4.B A reactant that is completely used up after the reaction
+4.C The ideal amount of a substance
+4.D A reactant of which some is left over after the reaction
+5.Q How do you find out which reactant is in excess?
+5.A You only weigh the products
+5.B You calculate how much of one substance you need for the other and compare that with what you have
+5.C You measure the reaction time
+5.D You measure the concentration of the substances
+17.A Oxygen, 8.0 g
+17.B Magnesium, 8.3 g
+17.C Oxygen, 16.0 g
+17.D Magnesium, 16.0 g
+19.A Write the reaction equation → put the masses under the equation → ratio table → calculation → answer with unit
+19.B Put the masses under the equation → write the reaction equation → calculation → ratio table → answer with unit
+19.C Calculation → write the reaction equation → ratio table → put the masses under the equation → answer with unit
+19.D Ratio table → calculation → write the reaction equation → answer with unit → put the masses under the equation
+20.Q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 1: what is the balanced reaction equation, with state symbols?
+21.Q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 2: which masses (u) of butane and oxygen do you put under the reaction equation?
+22.Q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 3: which ratio table fits the question? You are looking for the mass of oxygen from 29 g of butane.
+22.A butane: 58.0 u → 29 g; oxygen: 32.0 u → x g
+22.B butane: 116.0 u → 29 g; oxygen: 416.0 u → x g
+22.C butane: 116.0 u → 29 g; oxygen: 32.0 u → x g
+22.D butane: 58.0 u → 29 g; oxygen: 416.0 u → x g
+23.Q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 4: which calculation fits the ratio table?
+24.Q Butane (C<sub>4</sub>H<sub>10</sub>) burns completely to carbon dioxide and water vapour. You burn 29 g of butane. How many grams of oxygen are needed? Atomic masses: H = 1.0 u; C = 12.0 u; O = 16.0 u. Step 5: your calculation gives x = 104. What is the correct answer?
+24.A 104 oxygen
+24.B 104 g oxygen
+24.C 104 u oxygen
+24.D 104 kg oxygen
+25.Q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 1: what is the balanced reaction equation, with state symbols?
+26.Q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 2: which masses (u) of nitrogen and ammonia do you put under the reaction equation?
+27.Q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 3: which ratio table fits the question? You are looking for the mass of ammonia from 14 g of nitrogen.
+27.A nitrogen: 28.0 u → 14 g; ammonia: 17.0 u → x g
+27.B nitrogen: 28.0 u → x g; ammonia: 34.0 u → 14 g
+27.C nitrogen: 45.0 u → 14 g; ammonia: 34.0 u → x g
+27.D nitrogen: 28.0 u → 14 g; ammonia: 34.0 u → x g
+28.Q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 4: which calculation fits the ratio table?
+29.Q Ammonia (NH<sub>3</sub>) is made from nitrogen and hydrogen. You let 14 g of nitrogen react completely. How many grams of ammonia are formed? Atomic masses: H = 1.0 u; N = 14.0 u. Step 5: your calculation gives x = 17. What is the correct answer?
+29.A 17 ammonia
+29.B 17 g ammonia
+29.C 17 kg ammonia
+29.D 17 u ammonia
+30.Q Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 1: what is the balanced reaction equation, with state symbols?
+30.A CaCO<sub>3</sub> (s) → Ca (s) + C (s) + O<sub>2</sub> (g)
+30.B CaCO<sub>3</sub> (s) + O<sub>2</sub> (g) → CaO (s) + CO<sub>2</sub> (g)
+30.C CaCO<sub>3</sub> (s) → CaO (s) + CO<sub>2</sub> (g)
+30.D CaCO<sub>3</sub> (s) → CaO (s) + CO (g)
+31.Q Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 3: which ratio table fits the question? You are looking for the mass of quicklime from 250 g of limestone.
+31.A limestone: 100.1 u → 250 g; quicklime: 56.1 u → x g
+31.B limestone: 100.1 u → 250 g; quicklime: 156.2 u → x g
+31.C limestone: 100.1 u → x g; quicklime: 56.1 u → 250 g
+31.D limestone: 156.2 u → 250 g; quicklime: 56.1 u → x g
+32.Q Limestone (CaCO<sub>3</sub>) is heated to form quicklime (CaO) and carbon dioxide. You heat 250 g of limestone. How many grams of quicklime are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u. Step 5: your calculation gives x = 140. What is the correct answer?
+32.A 140 quicklime
+32.B 140 u quicklime
+32.C 140 g quicklime
+32.D 140 kg quicklime
+### sk3t-scheidingsmethoden-MP
+heading Separating substances
+0.B A substance with a fixed boiling point
+0.C A substance made up of more than one kind of molecule
+0.D A substance made up of one kind of atom
+1.A A substance that is not a compound
+1.B A substance without colour or smell
+1.C A substance made up of several kinds of molecules
+2.Q How can you recognise a pure substance from its boiling point?
+2.A The boiling point differs from sample to sample
+2.B The boiling point is fixed and stays the same during boiling
+2.C The temperature keeps rising during boiling
+2.D The substance has no boiling point
+3.Q What are the separation methods in BAEDFIA?
+3.A Settling, decanting, decomposition, drying, filtration, melting, adsorption
+3.B Settling, reading off, extraction, drying, filtration, evaporation, cooling
+3.C Breaking, decanting, electrolysis, distillation, filtration, evaporation, diluting
+4.Q Which method do you use to separate sand from water?
+5.Q What difference between substances is filtration based on?
+5.B The difference in density of the liquids
+5.C The difference in particle size
+5.D The difference in solubility
+6.Q What is left behind on the filter: the residue or the filtrate?
+6.C The extract
+7.Q What passes through the filter: the residue or the filtrate?
+7.D The suspension
+8.Q What is a mixture of a solid and a liquid, in which the solid does not dissolve, called?
+8.A An alloy
+9.Q What is a mixture of two liquids that do not mix, such as oil and water, called?
+9.D Smoke
+10.Q How do you separate a suspension of chalk in water?
+10.A By distilling
+10.B By adsorbing
+10.C By extracting
+10.D By filtering
+11.Q How do you separate oil from water in an emulsion that has been left to stand for a while?
+11.A By adsorbing with activated carbon
+11.B By evaporating
+11.C By filtering
+11.D By decanting or with a separating funnel, because oil floats on water
+12.Q What difference is settling and decanting based on?
+12.A The difference in density
+12.B The difference in melting point
+12.D The difference in solubility
+13.Q How do you get salt out of salt water if you do not need to keep the water?
+14.Q How do you turn salt water back into pure water that you keep?
+15.A The difference in colour
+15.B The difference in particle size
+15.C The difference in density
+16.Q What is the substance called that becomes liquid in the condenser during distillation and is collected?
+16.D The extract
+17.Q What is the condenser used for in a distillation?
+17.A To let the vapour condense back into a liquid
+17.B To filter the residue
+17.C To let the vapour burn
+17.D To make the mixture boil
+18.Q Alcohol boils at 78 °C and water at 100 °C. Which substance distils over first if you distil the mixture?
+18.A Alcohol, because it has the lowest boiling point
+18.B Water, because it has the highest boiling point
+18.C Both at the same time
+18.D Neither, the mixture does not boil
+19.Q Substance A boils at 65 °C and substance B at 110 °C. You heat the mixture slowly to 80 °C. What has distilled over then?
+19.A Nothing
+19.B An equal mixture of A and B
+19.C Mostly substance B
+19.D Mostly substance A
+20.Q Why is distillation not a good way to separate sand from water?
+20.A Sand has the same boiling point as water
+20.B Sand evaporates at 100 °C
+20.C Sand dissolves in water
+20.D Sand does not dissolve, so filtering is much simpler
+21.Q What is it called when you separate a substance from a mixture using a solvent in which only that substance dissolves?
+22.Q Which example is extraction?
+22.A Heating water
+22.B Getting salt out of sea water by evaporation
+22.C Making tea: the flavour compounds dissolve in the hot water
+22.D Sieving sand out of water
+23.Q What difference is extraction based on?
+23.A The difference in solubility
+23.C The difference in density
+23.D The difference in particle size
+24.Q What is it called when substances are separated because a solid holds on to the substances differently, as in a carbon filter?
+25.Q What do you use to remove odours or dyes from a mixture?
+25.A A sieve
+25.B A Bunsen burner
+25.C A separating funnel
+25.D Activated carbon (adsorption)
+26.Q How do you get iron powder out of a mixture of iron powder and sulfur powder?
+26.A With a magnet
+26.B By filtering
+26.C By distilling
+26.D By extracting
+27.Q How do you get sugar out of sugar water if you do not need to keep the water?
+28.Q Which method do you use to separate sand and salt? Sand does not dissolve in water, salt does.
+28.A Evaporation only
+28.B Filtration only
+28.C Add water, filter and evaporate the filtrate
+28.D Distil the dry mixture
+29.Q You filter a mixture of chalk and water. The filtrate is clear. Is the filtrate a pure substance?
+29.A No, there is still chalk in it
+29.B Yes, filtering always gives a pure substance
+29.C Not necessarily, something may still be dissolved in the water
+29.D Yes, because it is clear and therefore pure water
+30.Q What is it called when coloured substances are separated on paper using a solvent?
+30.D Extraction
+31.Q Which two steps belong to separating a mixture of sand, salt and water, in the correct order?
+31.A First adsorb, then settle
+31.B First distil, then filter
+31.C First filter, then evaporate the filtrate
+31.D First evaporate, then filter
+32.Q How do you get small iron nails out of a tray of sand?
+32.A By evaporating
+32.B With a magnet
+32.C By extracting
+32.D By distilling
+33.Q While boiling a liquid, you measure that the temperature keeps rising. What does that mean?
+33.A It is an element
+33.B It is a pure substance
+33.C The liquid is already boiling
+33.D It is probably a mixture
+### sk3t-verbranding-MP
+heading Combustion
+0.A The gas needed for burning
+0.C A substance that puts out a fire
+0.D A substance that cannot burn
+1.A Fuel, carbon dioxide and wind
+1.B Fuel, nitrogen and a spark
+1.C Oxygen, water and heat
+2.A The temperature of the flame
+4.A Decomposition
+5.D Decomposition
+6.C Oxygen and hydrogen
+6.D Carbon and hydrogen
+7.A Only carbon dioxide and water
+7.C Oxygen and hydrogen
+9.A Black
+10.B It causes acid rain
+10.C It is a greenhouse gas that makes the Earth melt
+10.D It is explosive in water
+11.A A fuel from crude oil
+11.B Water that comes out of the flame
+11.D A gas that is formed in complete combustion
+12.B Carbon and oxygen
+12.C Carbon and nitrogen
+13.B Crude oil, solar energy and natural gas
+13.C Natural gas, hydrogen and wood
+13.D Coal, charcoal and biogas
+15.D A glowing splint bursts into flame
+16.C A glowing splint bursts into flame
+16.D You hear a pop
+18.C C + O<sub>2</sub> → CO<sub>2</sub> (already balanced)
+24.D Soot and hydrogen
+25.B Nitrogen (N<sub>2</sub>)
+25.C Oxygen (O<sub>2</sub>)
+26.A Nothing changes
+26.B The candle burns more brightly
+26.C The candle goes out, because the nitrogen is used up
+27.A A fire blanket
+27.C A lid on the pan
+27.D An extinguisher with foam or powder
+28.A The fuel is cooled to below the ignition temperature
+28.B The blanket reacts with the fuel to form water
+28.D The fuel dissolves
+29.B Water removes the oxygen from the fuel
+29.C Water wets the fuel so that it dissolves
+29.D Water is not a fuel itself
+30.B Filtration
+30.D Extraction
+31.B Oxygen (O<sub>2</sub>)
+31.C Nitrogen (N<sub>2</sub>)
+32.A Because more nitrogen is being used
+32.B Because the Sun is getting stronger
+32.D Because plants produce more oxygen
+33.A Cut down more trees for firewood
+33.B Burn more natural gas instead of using solar energy
+33.C Use energy more economically and use solar and wind energy
+33.D Drive more cars that run on petrol
+### sk3t-water-MP
+heading Water
+0.Q What function does water have when you flush the toilet?
+0.D Drinking water
+1.Q What function does water have when you dissolve sugar in tea?
+1.B Drinking water
+2.A Water from the tap
+2.B Water underground
+2.C Water in the air
+2.D Water in rivers, lakes and oceans
+3.A Water from the tap
+3.B Water in the soil, underground
+3.C Water in rivers and lakes
+3.D Water in the air
+4.Q Which water usually contains less pollution?
+4.A Surface water
+4.B Sewage
+4.D All water equally
+5.Q What is water without dissolved substances called?
+5.A Drinking water
+5.B Distilled water
+6.B Distilled water
+6.C Drinking water
+8.B Moderately soluble
+8.C Reacts with water
+9.Q Less water is flowing in a river. The amount of pollution stays the same. What happens to the concentration of pollution?
+9.A It disappears
+10.B Make fat dissolve
+10.C Rinse away dirt with water
+10.D Remove limescale
+11.Q How can you disinfect something?
+11.A With cold water
+11.B By heating or with a disinfectant
+11.C With soap without water
+11.D With sand
+12.C Drinking water
+13.A A substance that rinses things clean
+13.B A substance in which other substances dissolve
+13.D A substance that speeds up a reaction
+14.A Water boils at 20 °C
+14.B Water is always ice cold
+14.C Water always contains dissolved salt
+15.A Water that factories use, for example for cooling or cleaning
+15.B Water that cannot evaporate
+15.C Water that is only used in the home
+15.D Tap water that you are allowed to drink
+16.C Industrial water
+17.B Drinking water
+18.A A substance that stops a reaction
+18.B A substance that is always a solid
+18.C A substance that only carries away heat
+19.A A cloudy mixture of two liquids
+19.B A pure substance without dissolved parts
+19.D A mixture of two solids
+20.A Water is the solute, salt is the solvent
+20.B Salt is both
+20.C Water is both
+21.A Sewage and distilled water
+21.B Industrial water and sea water
+21.C Sea water and rainwater
+22.A It is always too warm
+22.B It contains no water
+22.D It is always distilled
+23.B Add activated carbon
+23.C Disinfect the water
+23.D Distil the water
+24.A To make the water evaporate
+24.B To remove salt from the water
+24.D To cool the water
+25.A The sand itself
+25.B The gas that is released
+25.C The dirt that stays behind in the filter
+25.D The water that passes through the filter
+26.A It makes the water softer by evaporation
+26.B It makes the water boil
+26.D It makes salt dissolve
+27.A Ability to attach to a surface
+27.B Density
+27.C Particle size
+28.A To make the water foam
+28.B To make the water colourless
+28.C To add salt
+29.A By filtering through a sand filter
+29.B By letting the water settle
+29.C By adding activated carbon
+30.A A mixture of water and sand
+30.D Sea water with more salt
+31.A By letting the water settle
+31.B By filtering the water
+31.C By evaporating the water
+31.D By decanting the water
+32.A It contains only sand
+32.B It is always frozen
+32.D It contains no water
+33.A Waste water is always drinking water
+33.C The water then boils away
+33.D Rivers no longer need water
+34.A It is pumped into the ground without being treated
+34.C It is distilled to salt
+34.D It is sold directly as drinking water
