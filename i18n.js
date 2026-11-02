@@ -10,7 +10,7 @@
                               MP: title, heading, questions[{question,answers,correctAnswer,fixed?}])
 
    Pagina (HTML) heeft alleen een skelet:
-     <body data-pagina="kb|mp|index" data-inhoud="sk3t-stoffen-KB">
+     <body data-pagina="kb|mp|puzzel|index" data-inhoud="sk3t-stoffen-KB">
      <div id="navbar"></div> <nav class="oefen-wissel" data-wissel="sk3t-stoffen"></nav> ... <div id="inhoud"></div>
      Losse teksten in de HTML: data-i18n="sleutel" (tekst), data-i18n-html="sleutel" (met opmaak),
      data-i18n-attr="aria-label:sleutel;title:sleutel2" (attributen).
@@ -150,6 +150,13 @@
     if (b) { b.textContent = d.knop || t('mp.controleer'); }
   }
 
+  /* ---------- Puzzelpagina: kop, uitleg en puzzelgegevens uit de JSON; filippine.js bouwt daarna het raster ---------- */
+  function bouwPuzzel(d) {
+    var k = document.getElementById('puz-kop'); if (k) { k.textContent = d.heading; }
+    var p = document.getElementById('puz-intro'); if (p) { p.textContent = (d.intro || [])[0] || ''; }
+    var g = document.getElementById('filippine-data'); if (g) { g.textContent = JSON.stringify(d.data, null, 2); }
+  }
+
   function bouwPagina() {
     document.documentElement.setAttribute('lang', taal);
     /* CSS-teksten (Antwoord:) staan in een eigen eigenschap, zodat 123school.css geen tekst bevat */
@@ -160,10 +167,11 @@
     var soort = document.body.getAttribute('data-pagina');
     if (inhoud && soort === 'kb') { bouwKB(inhoud); }
     if (inhoud && soort === 'mp') { bouwMP(inhoud); }
+    if (inhoud && soort === 'puzzel') { bouwPuzzel(inhoud); }
     vulLosseTeksten();
     if (inhoud && inhoud.nietVertaald) {
       var m = document.createElement('p'); m.className = 'niet-vertaald'; m.setAttribute('role', 'note'); m.textContent = t('pagina.niet_vertaald');
-      var plek = document.getElementById('inhoud') || document.getElementById('quiz');
+      var plek = document.getElementById('inhoud') || document.getElementById('quiz') || document.querySelector('.fil');
       if (plek) { plek.parentNode.insertBefore(m, plek); }
     }
     if (document.body.hasAttribute('data-nl-only') && taal !== 'nl') {

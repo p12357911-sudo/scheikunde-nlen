@@ -1,0 +1,73 @@
+{
+ "title": "Puzzle: Molecular substances - 123 school",
+ "heading": "Puzzle: Molecular substances",
+ "intro": [
+  "Solve the clues and fill in the letters for each word. The boxes contain small numbers: the same numbers stand for the same letters, so a letter you already know can be used elsewhere. Then put the letters of the yellow boxes in the Solution table: together they form the key word. Click ‘Check answers’. Only the words that are completely filled in and the letters you entered in the Solution are checked."
+ ],
+ "data": {
+  "titel": "Molecular substances",
+  "sleutelwoord": "COVALENTBOND",
+  "rijen": [
+   {
+    "omschrijving": "Splitting large molecules into smaller ones",
+    "antwoord": "CRACKING",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Alcohol with two carbon atoms",
+    "antwoord": "ETHANOL",
+    "sleutelpositie": 6
+   },
+   {
+    "omschrijving": "Removing the solvent from a solution by heating it",
+    "antwoord": "EVAPORATION",
+    "sleutelpositie": 2
+   },
+   {
+    "omschrijving": "Hydrocarbon with only single bonds",
+    "antwoord": "ALKANE",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Particle made of atoms that are bonded together",
+    "antwoord": "MOLECULE",
+    "sleutelpositie": 3
+   },
+   {
+    "omschrijving": "Same molecular formula, different structural formula",
+    "antwoord": "ISOMER",
+    "sleutelpositie": 5
+   },
+   {
+    "omschrijving": "Lighter fuel with four carbon atoms",
+    "antwoord": "BUTANE",
+    "sleutelpositie": 5
+   },
+   {
+    "omschrijving": "Main component of natural gas",
+    "antwoord": "METHANE",
+    "sleutelpositie": 3
+   },
+   {
+    "omschrijving": "Reaction with oxygen that releases heat",
+    "antwoord": "COMBUSTION",
+    "sleutelpositie": 4
+   },
+   {
+    "omschrijving": "Substance containing only carbon and hydrogen",
+    "antwoord": "HYDROCARBON",
+    "sleutelpositie": 5
+   },
+   {
+    "omschrijving": "Flammable gas with three carbon atoms",
+    "antwoord": "PROPANE",
+    "sleutelpositie": 6
+   },
+   {
+    "omschrijving": "Having one or more double bonds",
+    "antwoord": "UNSATURATED",
+    "sleutelpositie": 11
+   }
+  ]
+ }
+}

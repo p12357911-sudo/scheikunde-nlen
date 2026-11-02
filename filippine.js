@@ -27,6 +27,8 @@
     return e;
   }
 
+  function T(k, v) { return (window.i18n && window.i18n.t) ? window.i18n.t(k, v) : k; }
+
   function start() {
     var wortel = document.getElementById('filippine');
     var gegevensTag = document.getElementById('filippine-data');
@@ -75,7 +77,7 @@
 
     /* ----- omschrijvingen (op een breed scherm als lijst boven de figuur) ----- */
     var clues = el('div', 'fil-clues');
-    clues.appendChild(el('h3', 'fil-kop', 'Omschrijvingen'));
+    clues.appendChild(el('h3', 'fil-kop', T('puz.omschrijvingen')));
     var cluesLijst = el('div', 'fil-clues-lijst');
     rijen.forEach(function (r) {
       var p = el('p', 'fil-clue');
@@ -88,7 +90,7 @@
     /* ----- figuur: rijen opbouwen ----- */
     var lijst = el('div', 'fil-figuur');
     lijst.setAttribute('role', 'group');
-    lijst.setAttribute('aria-label', 'Filippine: ' + rijen.length + ' woorden');
+    lijst.setAttribute('aria-label', T('puz.figuur_aria', { n: rijen.length }));
     var maxNa = Math.max.apply(null, rijen.map(function (r) { return r.antwoord.length - r.pos; }));
     var kolommen = maxVoor + 1 + maxNa;
     wortel.style.setProperty('--kol', String(kolommen));
@@ -99,7 +101,7 @@
       var kop = el('div', 'fil-omschrijving');
       kop.appendChild(el('span', 'fil-nr', r.nr + '.'));
       kop.appendChild(document.createTextNode(' ' + r.omschrijving + ' '));
-      kop.appendChild(el('span', 'fil-lengte', '(' + r.antwoord.length + ' letters)'));
+      kop.appendChild(el('span', 'fil-lengte', T('puz.lengte', { n: r.antwoord.length })));
       kaart.appendChild(kop);
       var regel = el('div', 'fil-regel');
       kaart.style.setProperty('--versch', String(maxVoor - (r.pos - 1)));
@@ -108,9 +110,9 @@
       regel.appendChild(nrvak);
       var vak = el('div', 'fil-vakjes');
       vak.setAttribute('role', 'group');
-      vak.setAttribute('aria-label', 'Antwoord ' + r.nr + ', ' + r.antwoord.length + ' letters');
+      vak.setAttribute('aria-label', T('puz.antwoord_aria', { nr: r.nr, n: r.antwoord.length }));
       for (var k = 0; k < r.antwoord.length; k++) {
-        var v = maakVakje('Antwoord ' + r.nr + ', letter ' + (k + 1) + ' van ' + r.antwoord.length + (k === r.pos - 1 ? ' (gele sleutelletter)' : ''), k === r.pos - 1, codeVan[r.antwoord.charAt(k)]);
+        var v = maakVakje(T('puz.letter_aria', { nr: r.nr, k: k + 1, n: r.antwoord.length }) + (k === r.pos - 1 ? T('puz.sleutelletter') : ''), k === r.pos - 1, codeVan[r.antwoord.charAt(k)]);
         r.vakjes.push(v.inp);
         vak.appendChild(v.cel);
       }
@@ -126,14 +128,14 @@
     var opl = { nr: rijen.length + 1, vakjes: [], kaart: null, melding: null, isOpl: true };
     var oplKader = el('div', 'fil-oplossing');
     opl.kaart = oplKader;
-    oplKader.appendChild(el('h3', 'fil-kop', 'Oplossing'));
-    oplKader.appendChild(el('p', 'fil-opltekst', 'Zet hier de letters van de gele vakjes, van boven naar beneden. Onder elk vakje staat het nummer van het woord, boven in het vakje het cijfer van de letter. Samen vormen ze het sleutelwoord.'));
+    oplKader.appendChild(el('h3', 'fil-kop', T('puz.oplossing')));
+    oplKader.appendChild(el('p', 'fil-opltekst', T('puz.opltekst')));
     var oplRij = el('div', 'fil-oplrij');
     oplRij.setAttribute('role', 'group');
-    oplRij.setAttribute('aria-label', 'Oplossing: sleutelwoord van ' + rijen.length + ' letters');
+    oplRij.setAttribute('aria-label', T('puz.opl_aria', { n: rijen.length }));
     rijen.forEach(function (r) {
       var kol = el('span', 'fil-oplkolom');
-      var v = maakVakje('Oplossing, letter ' + r.nr + ' van ' + rijen.length + ' (gele vakje van woord ' + r.nr + ')', true, codeVan[r.antwoord.charAt(r.pos - 1)]);
+      var v = maakVakje(T('puz.opl_letter_aria', { nr: r.nr, n: rijen.length }), true, codeVan[r.antwoord.charAt(r.pos - 1)]);
       kol.appendChild(v.cel);
       var nr = el('span', 'fil-oplnr', String(r.nr));
       nr.setAttribute('aria-hidden', 'true');
@@ -149,7 +151,7 @@
 
     /* ----- knoppen ----- */
     var onder = el('div', 'kb-controle w3-center');
-    var knop = el('button', 'w3-button knop-blauw', 'Controleer antwoorden');
+    var knop = el('button', 'w3-button knop-blauw', T('kb.controleer'));
     knop.type = 'button'; knop.id = 'fil-controleer';
     var uitslag = el('div'); uitslag.id = 'kb-uitslag'; uitslag.setAttribute('role', 'status'); uitslag.setAttribute('aria-live', 'polite');
     onder.appendChild(knop); onder.appendChild(uitslag);
@@ -249,19 +251,19 @@
         wisOordeel(r);
         var n = gevuld(r);
         if (n === 0) { leeg++; return; }
-        if (n < r.vakjes.length) { onaf++; r.melding.textContent = 'Nog niet helemaal ingevuld, dus niet nagekeken.'; return; }
+        if (n < r.vakjes.length) { onaf++; r.melding.textContent = T('puz.onaf'); return; }
         ingevuld++;
         var juist = tekstVan(r) === r.antwoord;
         if (juist) { goed++; }
         r.kaart.classList.add(juist ? 'fil-goed' : 'fil-fout');
         if (!juist) { r.vakjes.forEach(function (v) { v.setAttribute('aria-invalid', 'true'); }); }
-        r.melding.textContent = juist ? '\u2713 Goed' : '\u2717 Niet goed';
+        r.melding.textContent = juist ? T('puz.goed') : T('puz.fout');
         r.melding.className = 'fil-melding uitslag ' + (juist ? 'uitslag-goed' : 'uitslag-fout');
         if (!juist) {
-          var toon = el('button', 'fil-toon', 'Toon antwoord');
+          var toon = el('button', 'fil-toon', T('puz.toon'));
           toon.type = 'button';
           toon.addEventListener('click', function () {
-            r.melding.textContent = '\u2717 Niet goed. Het antwoord is: ' + r.weergave.toLowerCase();
+            r.melding.textContent = T('puz.fout_antwoord', { a: r.weergave.toLowerCase() });
           });
           r.melding.appendChild(document.createTextNode(' '));
           r.melding.appendChild(toon);
@@ -281,28 +283,28 @@
       });
       if (oplVol) {
         if (oplGoed === rijen.length) {
-          opl.melding.textContent = '\u2713 Goed! Het sleutelwoord is: ' + sleutel.toLowerCase() + '.';
+          opl.melding.textContent = T('puz.sleutel_goed', { a: sleutel.toLowerCase() });
           opl.melding.className = 'fil-oplmelding uitslag uitslag-goed';
         } else {
-          opl.melding.textContent = (oplGoed === oplVol ? '\u2713 ' : '\u2717 ') + oplGoed + ' van de ' + oplVol + ' ingevulde letters van het sleutelwoord goed.';
+          opl.melding.textContent = (oplGoed === oplVol ? '\u2713 ' : '\u2717 ') + T('puz.opl_deel', { g: oplGoed, v: oplVol });
           opl.melding.className = 'fil-oplmelding uitslag ' + (oplGoed === oplVol ? 'uitslag-goed' : 'uitslag-fout');
         }
       }
 
       if (!ingevuld && !oplVol) {
-        uitslag.innerHTML = '<p class="inline-melding">Vul eerst minstens \u00e9\u00e9n woord helemaal in.</p>';
+        uitslag.innerHTML = '<p class="inline-melding">' + T('puz.eerst') + '</p>';
         return;
       }
-      var tekst = ingevuld ? goed + ' van de ' + ingevuld + ' ingevulde woorden goed' : 'Nog geen woord helemaal ingevuld';
+      var tekst = ingevuld ? T('puz.n_goed', { g: goed, n: ingevuld }) : T('puz.nog_geen');
       var rest = onaf + leeg;
-      if (ingevuld && rest) { tekst += ' (' + rest + ' nog niet nagekeken)'; }
+      if (ingevuld && rest) { tekst += T('puz.rest', { n: rest }); }
       uitslag.textContent = tekst;
     });
 
     /* ----- zwevende knop (zelfde als bij de andere oefenpagina's) ----- */
-    var zweef = el('button', 'zweefknop', 'Controleer antwoorden');
+    var zweef = el('button', 'zweefknop', T('kb.controleer'));
     zweef.type = 'button'; zweef.id = 'zweefknop';
-    zweef.setAttribute('aria-label', 'Controleer antwoorden: kijk alleen de ingevulde woorden na');
+    zweef.setAttribute('aria-label', T('puz.zweef_aria'));
     zweef.addEventListener('click', function () { knop.click(); });
     document.body.appendChild(zweef);
     document.body.classList.add('heeft-zweefknop');
@@ -311,5 +313,6 @@
     }
   }
 
-  if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', start); } else { start(); }
+  function wacht() { if (window.i18nKlaar && window.i18nKlaar.then) { window.i18nKlaar.then(start); } else { start(); } }
+  if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', wacht); } else { wacht(); }
 })();

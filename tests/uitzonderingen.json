@@ -1,7 +1,8 @@
 {
  "ui_gelijk": [
   "titel.index",
-  "index.school_trainer"
+  "index.school_trainer",
+  "puz.lengte"
  ],
  "nl_punt": [
   "acidbase1KB/questions/11/a",

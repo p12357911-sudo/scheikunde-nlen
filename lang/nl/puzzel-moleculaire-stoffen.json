@@ -1,0 +1,73 @@
+{
+ "title": "Puzzel Moleculaire stoffen - 123 school",
+ "heading": "Puzzel: Moleculaire stoffen",
+ "intro": [
+  "Los de omschrijvingen op en vul per woord de letters in. In de vakjes staan kleine cijfers: dezelfde cijfers horen bij dezelfde letters, dus een letter die je al weet kun je elders gebruiken. Zet daarna de letters van de gele vakjes in de tabel Oplossing: samen vormen ze het sleutelwoord. Klik op 'Controleer antwoorden'. Alleen de woorden die helemaal ingevuld zijn en de ingevulde letters van de Oplossing worden nagekeken."
+ ],
+ "data": {
+  "titel": "Moleculaire stoffen",
+  "sleutelwoord": "ATOOMBINDING",
+  "rijen": [
+   {
+    "omschrijving": "Koolwaterstof met alleen enkele bindingen",
+    "antwoord": "ALKAAN",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Alcohol met twee koolstofatomen",
+    "antwoord": "ETHANOL",
+    "sleutelpositie": 2
+   },
+   {
+    "omschrijving": "Deeltje van atomen die aan elkaar vastzitten",
+    "antwoord": "MOLECUUL",
+    "sleutelpositie": 2
+   },
+   {
+    "omschrijving": "Stof met alleen koolstof en waterstof",
+    "antwoord": "KOOLWATERSTOF",
+    "sleutelpositie": 2
+   },
+   {
+    "omschrijving": "Hoofdbestanddeel van aardgas",
+    "antwoord": "METHAAN",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Brandstof in aanstekers, met vier koolstofatomen",
+    "antwoord": "BUTAAN",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Zelfde molecuulformule, andere structuurformule",
+    "antwoord": "ISOMEER",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Brandbaar gas met drie koolstofatomen",
+    "antwoord": "PROPAAN",
+    "sleutelpositie": 7
+   },
+   {
+    "omschrijving": "Aardolie scheiden op grond van kookpunt",
+    "antwoord": "DESTILLATIE",
+    "sleutelpositie": 1
+   },
+   {
+    "omschrijving": "Met een of meer dubbele bindingen",
+    "antwoord": "ONVERZADIGD",
+    "sleutelpositie": 9
+   },
+   {
+    "omschrijving": "Grote moleculen opsplitsen in kleinere",
+    "antwoord": "KRAKEN",
+    "sleutelpositie": 6
+   },
+   {
+    "omschrijving": "Reactie met zuurstof waarbij warmte vrijkomt",
+    "antwoord": "VERBRANDING",
+    "sleutelpositie": 11
+   }
+  ]
+ }
+}

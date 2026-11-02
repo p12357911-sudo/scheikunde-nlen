@@ -52,8 +52,8 @@ def vergelijk(a, c):
         if a[k] != c.get(k):
             if isinstance(a[k], list) and isinstance(c.get(k), list) and len(a[k]) == len(c[k]):
                 for i, (x, y) in enumerate(zip(a[k], c[k])):
-                    if x != y: delen.append(f'  {k}[{i}]\n    orig: {str(x)[:300]}\n    nieuw: {str(y)[:300]}'); break
-            else: delen.append(f'  {k}\n    orig: {str(a[k])[:300]}\n    nieuw: {str(c.get(k))[:300]}')
+                    if x != y: delen.append(f'  {k}[{i}]\n    orig: {str(x)[:3000]}\n    nieuw: {str(y)[:3000]}'); break
+            else: delen.append(f'  {k}\n    orig: {str(a[k])[:3000]}\n    nieuw: {str(c.get(k))[:3000]}')
     return delen
 
 def main():
