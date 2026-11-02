@@ -1,0 +1,1038 @@
+### sk4t-begrippen-MP
+0.Q What is the name of the element with the symbol Na?
+0.A phosphorus
+0.B zinc
+0.C sodium
+0.D hydrogen
+1.Q What is the symbol of sodium?
+1.A N
+1.B Pb
+1.C Na
+1.D O
+2.Q What is the name of the element with the symbol K?
+2.A hydrogen
+2.B zinc
+2.D potassium
+3.Q What is the symbol of potassium?
+3.A Cu
+3.B Br
+3.C K
+3.D Mg
+4.Q What is the name of the element with the symbol Li?
+4.B lead
+4.D chlorine
+5.Q What is the symbol of lithium?
+5.A Pb
+5.B H
+5.C Li
+5.D O
+6.Q What is the name of the element with the symbol Ca?
+6.B fluorine
+6.C chlorine
+6.D silver
+7.Q What is the symbol of calcium?
+7.A Ca
+7.B Pb
+7.C Cl
+7.D Fe
+8.Q What is the name of the element with the symbol Mg?
+8.A iron
+9.Q What is the symbol of magnesium?
+9.A O
+9.B F
+9.C Mg
+9.D C
+10.Q What is the name of the element with the symbol Al?
+10.B bromine
+10.C lead
+10.D sodium
+11.Q What is the symbol of aluminium?
+11.A Fe
+11.B F
+11.C I
+11.D Al
+12.Q What is the name of the element with the symbol Fe?
+12.A iron
+12.B fluorine
+12.C silver
+13.Q What is the symbol of iron?
+13.A Fe
+13.B Al
+13.C Ca
+13.D Cu
+14.Q What is the name of the element with the symbol Cu?
+14.A copper
+14.B carbon
+14.C hydrogen
+14.D potassium
+15.Q What is the symbol of copper?
+15.A Na
+15.B N
+15.C Ca
+15.D Cu
+16.Q What is the name of the element with the symbol Pb?
+16.A lead
+16.D nitrogen
+17.Q What is the symbol of lead?
+17.A Pb
+17.B N
+17.C O
+17.D Li
+18.Q What is the name of the element with the symbol Ag?
+18.A copper
+18.B iron
+18.D silver
+19.Q What is the symbol of silver?
+19.A P
+19.B Li
+19.C Ag
+19.D O
+20.Q What is the name of the element with the symbol Sn?
+20.A carbon
+20.B tin
+20.C sodium
+20.D iodine
+21.Q What is the symbol of tin?
+21.A H
+21.B F
+21.C O
+21.D Sn
+22.Q What is the name of the element with the symbol Zn?
+22.B zinc
+22.D carbon
+23.Q What is the symbol of zinc?
+23.A Sn
+23.B Mg
+23.C Cu
+23.D Zn
+24.Q What is the name of the element with the symbol F?
+24.A silver
+24.B phosphorus
+24.C fluorine
+25.Q What is the symbol of fluorine?
+25.A Ca
+25.B K
+25.C Mg
+25.D F
+26.Q What is the name of the element with the symbol Cl?
+26.A bromine
+26.B chlorine
+26.C tin
+26.D carbon
+27.Q What is the symbol of chlorine?
+27.A Cl
+27.B F
+27.C Pb
+27.D Fe
+28.Q What is the name of the element with the symbol Br?
+28.A bromine
+28.C silver
+29.Q What is the symbol of bromine?
+29.A Fe
+29.B Li
+29.C Br
+29.D Al
+30.Q What is the name of the element with the symbol I?
+30.B iodine
+30.C oxygen
+30.D sodium
+31.Q What is the symbol of iodine?
+31.A K
+31.B I
+31.C Zn
+31.D O
+32.Q What is the name of the element with the symbol N?
+32.A iron
+32.B lead
+32.C oxygen
+32.D nitrogen
+33.Q What is the symbol of nitrogen?
+33.A Ca
+33.B Ag
+33.C Br
+33.D N
+34.Q What is the name of the element with the symbol O?
+34.A carbon
+34.C oxygen
+34.D iron
+35.Q What is the symbol of oxygen?
+35.A Ag
+35.B O
+35.C Ca
+35.D Mg
+36.Q What is the name of the element with the symbol P?
+36.A silver
+36.B oxygen
+36.C phosphorus
+36.D iron
+37.Q What is the symbol of phosphorus?
+37.A P
+37.B Pb
+37.C I
+37.D Sn
+38.Q What is the name of the element with the symbol C?
+38.A carbon
+38.B phosphorus
+38.C chlorine
+38.D iron
+39.Q What is the symbol of carbon?
+39.A Na
+39.B C
+39.C F
+39.D O
+40.Q What is the name of the element with the symbol H?
+40.B hydrogen
+40.C sodium
+40.D tin
+41.Q What is the symbol of hydrogen?
+41.A Fe
+41.B Sn
+41.C H
+41.D Br
+42.Q What charge does the ion of sodium (Na) have?
+42.A 3−
+42.B 2+
+42.C 2−
+42.D 1+
+43.Q Which ion belongs to sodium?
+43.A Na<sup>3−</sup>
+43.B Na<sup>3+</sup>
+43.C Na<sup>2−</sup>
+43.D Na<sup>+</sup>
+44.Q What charge does the ion of potassium (K) have?
+44.A 2−
+44.B 3−
+44.C 1+
+44.D 1−
+45.Q Which ion belongs to potassium?
+45.A K<sup>3+</sup>
+45.B K<sup>3−</sup>
+45.C K<sup>−</sup>
+45.D K<sup>+</sup>
+46.Q What charge does the ion of lithium (Li) have?
+46.A 2−
+46.B 1+
+46.C 2+
+46.D 1−
+47.Q Which ion belongs to lithium?
+47.A Li<sup>+</sup>
+47.B Li<sup>3+</sup>
+47.C Li<sup>−</sup>
+47.D Li<sup>2−</sup>
+48.Q What charge does the ion of calcium (Ca) have?
+48.A 2+
+48.B 1−
+48.C 1+
+48.D 3+
+49.Q Which ion belongs to calcium?
+49.A Ca<sup>+</sup>
+49.B Ca<sup>2−</sup>
+49.C Ca<sup>3+</sup>
+49.D Ca<sup>2+</sup>
+50.Q What charge does the ion of magnesium (Mg) have?
+50.A 2−
+50.B 2+
+50.C 1−
+50.D 3−
+51.Q Which ion belongs to magnesium?
+51.A Mg<sup>2+</sup>
+51.B Mg<sup>2−</sup>
+51.C Mg<sup>3−</sup>
+51.D Mg<sup>−</sup>
+52.Q What charge does the ion of aluminium (Al) have?
+52.A 3−
+52.B 2−
+52.C 2+
+52.D 3+
+53.Q Which ion belongs to aluminium?
+53.A Al<sup>+</sup>
+53.B Al<sup>3+</sup>
+53.C Al<sup>3−</sup>
+53.D Al<sup>2−</sup>
+54.Q What charge does the ion of copper (Cu) have?
+54.A 2+
+54.B 3+
+54.C 1−
+54.D 2−
+55.Q Which ion belongs to copper?
+55.A Cu<sup>2−</sup>
+55.B Cu<sup>−</sup>
+55.C Cu<sup>3−</sup>
+55.D Cu<sup>2+</sup>
+56.Q What charge does the ion of lead (Pb) have?
+56.A 2+
+56.B 1+
+56.C 2−
+56.D 3+
+57.Q Which ion belongs to lead?
+57.A Pb<sup>2+</sup>
+57.B Pb<sup>3+</sup>
+57.C Pb<sup>−</sup>
+57.D Pb<sup>+</sup>
+58.Q What charge does the ion of silver (Ag) have?
+58.A 2+
+58.B 1−
+58.C 1+
+58.D 3−
+59.Q Which ion belongs to silver?
+59.A Ag<sup>2−</sup>
+59.B Ag<sup>+</sup>
+59.C Ag<sup>2+</sup>
+59.D Ag<sup>−</sup>
+60.Q What charge does the ion of tin (Sn) have?
+60.A 3−
+60.B 2−
+60.C 2+
+60.D 1+
+61.Q Which ion belongs to tin?
+61.A Sn<sup>+</sup>
+61.B Sn<sup>2+</sup>
+61.C Sn<sup>3+</sup>
+61.D Sn<sup>2−</sup>
+62.Q What charge does the ion of zinc (Zn) have?
+62.A 1+
+62.B 1−
+62.C 2+
+62.D 3+
+63.Q Which ion belongs to zinc?
+63.A Zn<sup>+</sup>
+63.B Zn<sup>2−</sup>
+63.C Zn<sup>2+</sup>
+63.D Zn<sup>3+</sup>
+64.Q What charge does the ion of fluorine (F) have?
+64.A 1−
+64.B 2+
+64.C 3−
+64.D 2−
+65.Q Which ion belongs to fluorine?
+65.A F<sup>2−</sup>
+65.B F<sup>+</sup>
+65.C F<sup>3+</sup>
+65.D F<sup>−</sup>
+66.Q What charge does the ion of chlorine (Cl) have?
+66.A 3−
+66.B 1−
+66.C 2+
+66.D 2−
+67.Q Which ion belongs to chlorine?
+67.A Cl<sup>2−</sup>
+67.B Cl<sup>−</sup>
+67.C Cl<sup>3+</sup>
+67.D Cl<sup>2+</sup>
+68.Q What charge does the ion of bromine (Br) have?
+68.A 3+
+68.B 1−
+68.C 2−
+68.D 1+
+69.Q Which ion belongs to bromine?
+69.A Br<sup>3−</sup>
+69.B Br<sup>+</sup>
+69.C Br<sup>−</sup>
+69.D Br<sup>3+</sup>
+70.Q What charge does the ion of iodine (I) have?
+70.A 2+
+70.B 1−
+70.C 1+
+70.D 3−
+71.Q Which ion belongs to iodine?
+71.A I<sup>2+</sup>
+71.B I<sup>2−</sup>
+71.C I<sup>−</sup>
+71.D I<sup>3−</sup>
+72.Q What charge does the ion of iron have?
+72.A 2+ of 3+
+72.B 1+
+72.C 2−
+72.D 1−
+73.Q What colour does copper(II) (Cu<sup>2+</sup>) have in your list?
+73.A purple
+73.B blue
+73.C yellow
+73.D colourless
+74.Q Which colours does your list give for iron(II) and iron(III)?
+74.A red and purple
+74.B blue and yellow
+74.C blue and green
+74.D green and brown
+75.Q What is the name of the ion S<sup>2−</sup>?
+75.B oxide
+76.Q What is the name of the ion O<sup>2−</sup>?
+76.B oxide
+77.Q What is the name of the ion F<sup>−</sup>?
+77.C iodide
+78.Q What is the name of the ion Cl<sup>−</sup>?
+78.D iodide
+79.Q What is the name of the ion Br<sup>−</sup>?
+79.C oxide
+79.D iodide
+80.Q What is the name of the ion I<sup>−</sup>?
+80.A iodide
+80.C oxide
+81.Q Which substance is Fe(II)S?
+81.A copper sulfide
+81.B iron oxide
+81.C iron chloride
+81.D iron(II) sulfide
+82.Q Which substance is CuO?
+82.A iron oxide
+82.B copper carbonate
+82.C copper(II) oxide
+82.D copper sulfide
+83.Q What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?
+83.A nitrite ion
+83.B sulfate ion
+83.C ammonium ion
+83.D carbonate ion
+84.Q What is the formula of the carbonate ion?
+84.A SO<sub>4</sub><sup>2−</sup>
+84.B CO<sub>3</sub><sup>2−</sup>
+84.C NO<sub>3</sub><sup>−</sup>
+84.D PO<sub>4</sub><sup>3−</sup>
+85.Q What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?
+85.A nitrate ion
+85.B sulfate ion
+85.C nitrite ion
+85.D phosphate ion
+86.Q What is the formula of the nitrate ion?
+86.A CO<sub>3</sub><sup>2−</sup>
+86.B PO<sub>4</sub><sup>3−</sup>
+86.C NO<sub>3</sub><sup>−</sup>
+86.D SO<sub>3</sub><sup>2−</sup>
+87.Q What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?
+87.A sulfite ion
+87.B ammonium ion
+87.C sulfate ion
+87.D nitrite ion
+88.Q What is the formula of the nitrite ion?
+88.A SO<sub>3</sub><sup>2−</sup>
+88.B NO<sub>2</sub><sup>−</sup>
+88.C NO<sub>3</sub><sup>−</sup>
+88.D CO<sub>3</sub><sup>2−</sup>
+89.Q What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?
+89.A carbonate ion
+89.B phosphate ion
+89.C sulfite ion
+89.D nitrate ion
+90.Q What is the formula of the phosphate ion?
+90.A SO<sub>3</sub><sup>2−</sup>
+90.B SO<sub>4</sub><sup>2−</sup>
+90.C PO<sub>4</sub><sup>3−</sup>
+90.D NO<sub>3</sub><sup>−</sup>
+91.Q What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?
+91.A sulfate ion
+91.B ammonium ion
+91.C carbonate ion
+91.D sulfite ion
+92.Q What is the formula of the ammonium ion?
+92.A SO<sub>3</sub><sup>2−</sup>
+92.B SO<sub>4</sub><sup>2−</sup>
+92.C NH<sub>4</sub><sup>+</sup>
+92.D NO<sub>3</sub><sup>−</sup>
+93.Q What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?
+93.A carbonate ion
+93.B sulfite ion
+93.C phosphate ion
+93.D nitrite ion
+94.Q What is the formula of the sulfite ion?
+94.A SO<sub>4</sub><sup>2−</sup>
+94.B CO<sub>3</sub><sup>2−</sup>
+94.C NO<sub>3</sub><sup>−</sup>
+94.D SO<sub>3</sub><sup>2−</sup>
+95.Q What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?
+95.A sulfite ion
+95.B sulfate ion
+95.C nitrate ion
+95.D nitrite ion
+96.Q What is the formula of the sulfate ion?
+96.A CO<sub>3</sub><sup>2−</sup>
+96.B NH<sub>4</sub><sup>+</sup>
+96.C SO<sub>4</sub><sup>2−</sup>
+96.D NO<sub>3</sub><sup>−</sup>
+97.Q What are the elements in group 1 of the periodic table called?
+97.A noble gases
+97.B alkaline earth metals
+97.C halogens
+97.D alkali metals
+98.Q Which group of the periodic table is called alkalimetalen?
+98.A group 18
+98.B group 17
+98.C group 2
+98.D group 1
+99.Q What are the elements in group 2 of the periodic table called?
+99.A alkali metals
+99.B alkaline earth metals
+99.C noble gases
+99.D halogens
+100.Q Which group of the periodic table is called aardalkalimetalen?
+100.A group 18
+100.B group 1
+100.C group 2
+100.D group 17
+101.Q What are the elements in group 17 of the periodic table called?
+101.A noble gases
+101.B alkali metals
+101.C alkaline earth metals
+101.D halogens
+102.Q Which group of the periodic table is called halogenen?
+102.A group 2
+102.B group 17
+102.C group 18
+102.D group 1
+103.Q Of which ion do all salts dissolve well?
+103.A Ag<sup>+</sup>
+103.B Pb<sup>2+</sup>
+103.C Ca<sup>2+</sup>
+103.D Na<sup>+</sup>
+104.Q The salts of which ion all dissolve well in water?
+104.A K<sup>+</sup>
+104.B Ca<sup>2+</sup>
+104.C Pb<sup>2+</sup>
+104.D Ag<sup>+</sup>
+105.Q Of which polyatomic ion do all salts dissolve well?
+105.A PO<sub>4</sub><sup>3−</sup>
+105.B CO<sub>3</sub><sup>2−</sup>
+105.C S<sup>2−</sup>
+105.D NO<sub>3</sub><sup>−</sup>
+106.Q Which gas is poisonous?
+106.A oxygen gas (O<sub>2</sub>)
+106.B hydrogen gas (H<sub>2</sub>)
+106.C nitrogen gas (N<sub>2</sub>)
+106.D carbon monoxide (CO)
+107.Q What is the formula of carbon monoxide?
+107.A C<sub>2</sub>O
+107.B CH
+107.C CO
+107.D CO<sub>2</sub>
+108.Q Which formula belongs to the gas oxygen that we breathe in with the air?
+108.A N<sub>2</sub>
+108.B CO
+108.C CO<sub>2</sub>
+108.D O<sub>2</sub>
+109.Q Which formula belongs to the gas nitrogen that we breathe in with the air?
+109.A CO<sub>2</sub>
+109.B N<sub>2</sub>
+109.C O<sub>2</sub>
+109.D CO
+110.Q Which gas forms acid in water?
+110.A CO<sub>2</sub>
+110.B O<sub>2</sub>
+110.C H<sub>2</sub>
+110.D N<sub>2</sub>
+111.Q What are hydrocarbons?
+111.A molecules that mainly contain C atoms and O atoms
+111.B molecules that mainly contain H atoms and O atoms
+111.C molecules that mainly contain C atoms and H atoms
+111.D molecules that mainly contain N atoms and H atoms
+112.Q Which two types of atom do hydrocarbons mainly consist of?
+112.A hydrogen (H) and oxygen (O)
+112.B carbon (C) and oxygen (O)
+112.C nitrogen (N) and hydrogen (H)
+112.D carbon (C) and hydrogen (H)
+113.Q What is the smallest hydrocarbon?
+113.A methane
+113.B butane
+113.C ethane
+113.D propane
+114.Q Which substance has the formula H<sub>2</sub>O?
+114.A carbon dioxide
+114.B water
+114.C methane
+114.D table salt
+115.Q What is the formula of water?
+115.A H<sub>2</sub>O
+115.B CH<sub>4</sub>
+115.C CO<sub>2</sub>
+115.D NaCl
+116.Q Which substance has the formula CH<sub>4</sub>?
+116.A hydrochloric acid
+116.B water
+116.C methane
+116.D table salt
+117.Q What is the formula of methane?
+117.A CO<sub>2</sub>
+117.B H<sub>2</sub>O
+117.C CH<sub>4</sub>
+117.D HCl
+118.Q Which substance has the formula CO<sub>2</sub>?
+118.A hydrochloric acid
+118.B water
+118.C methane
+118.D carbon dioxide
+119.Q What is the formula of carbon dioxide?
+119.A NaCl
+119.B H<sub>2</sub>O
+119.C HCl
+119.D CO<sub>2</sub>
+120.Q What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?
+120.A acetic acid
+120.B nitric acid
+120.C hydrochloric acid
+120.D sulfuric acid
+121.Q What is the formula of sulfuric acid?
+121.A H<sub>2</sub>SO<sub>4</sub>
+121.B HNO<sub>3</sub>
+121.C HCl
+121.D HAc
+122.Q What is the name of the acid with the formula HNO<sub>3</sub>?
+122.A sulfuric acid
+122.B nitric acid
+122.C acetic acid
+122.D hydrochloric acid
+123.Q What is the formula of nitric acid?
+123.A HAc
+123.B H<sub>2</sub>SO<sub>4</sub>
+123.C HNO<sub>3</sub>
+123.D HCl
+124.Q What is the name of the acid with the formula HCl?
+124.A nitric acid
+124.B sulfuric acid
+124.C hydrochloric acid
+124.D acetic acid
+125.Q What is the formula of hydrochloric acid?
+125.A HCl
+125.B HAc
+125.C H<sub>2</sub>SO<sub>4</sub>
+125.D HNO<sub>3</sub>
+126.Q What is the name of the acid with the formula HAc?
+126.A nitric acid
+126.B hydrochloric acid
+126.C acetic acid
+126.D sulfuric acid
+127.Q What is the formula of acetic acid?
+127.A HAc
+127.B H<sub>2</sub>SO<sub>4</sub>
+127.C HNO<sub>3</sub>
+127.D HCl
+128.Q What is the name of the substance with the formula NH<sub>3</sub>?
+128.A ammonia
+128.B potassium hydroxide solution
+128.C sodium hydroxide solution
+128.D calcium hydroxide
+129.Q What is the formula of ammonia?
+129.A KOH
+129.B NaOH
+129.C Ca(OH)<sub>2</sub>
+129.D NH<sub>3</sub>
+130.Q What is the name of the substance with the formula KOH?
+130.A calcium hydroxide
+130.B potassium hydroxide solution
+130.C ammonia
+130.D sodium hydroxide solution
+131.Q What is the formula of potassium hydroxide solution?
+131.A Ca(OH)<sub>2</sub>
+131.B NaOH
+131.C KOH
+131.D NH<sub>3</sub>
+132.Q What is the name of the substance with the formula NaOH?
+132.A potassium hydroxide solution
+132.B calcium hydroxide
+132.C sodium hydroxide solution
+132.D ammonia
+133.Q What is the formula of sodium hydroxide solution?
+133.A KOH
+133.B NH<sub>3</sub>
+133.C NaOH
+133.D Ca(OH)<sub>2</sub>
+134.Q What is the name of the substance with the formula Ca(OH)<sub>2</sub>?
+134.A ammonia
+134.B potassium hydroxide solution
+134.C sodium hydroxide solution
+134.D calcium hydroxide
+135.Q What is the formula of calcium hydroxide?
+135.A KOH
+135.B NaOH
+135.C NH<sub>3</sub>
+135.D Ca(OH)<sub>2</sub>
+136.Q Which formula belongs to limestone and marble?
+136.A NaCl
+136.C KOH
+136.D Ca(OH)<sub>2</sub>
+137.Q What is the name of a solution of Ca(OH)<sub>2</sub> in water?
+137.A hydrochloric acid
+137.B potassium hydroxide solution
+137.C sodium hydroxide solution
+137.D limewater
+138.Q How do you write that HCl dissolves in water?
+138.A HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+138.B HCl (g) → H<sup>+</sup> (aq) + Cl<sup>+</sup> (aq)
+138.C HCl (s) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+138.D HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+139.Q How do you write that NaOH dissolves in water?
+140.Q Which particles are in table salt dissolved in water?
+140.A Na<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+140.C Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+140.D Na (aq) + Cl<sub>2</sub> (aq)
+141.Q What is the substance NaCl called in everyday life?
+141.A hydrochloric acid
+141.B sodium hydroxide solution
+141.C table salt
+141.D limewater
+142.Q Is HCl an acid, a base or a salt?
+142.A a base
+142.B an acid
+142.C a metal
+142.D a salt
+143.Q Is NaOH an acid, a base or a salt?
+143.A an acid
+143.B a base
+143.C a metal
+143.D a salt
+144.Q Is KOH an acid, a base or a salt?
+144.A a metal
+144.B an acid
+144.C a salt
+144.D a base
+145.Q Is NaCl an acid, a base or a salt?
+145.A a metal
+145.B a base
+145.C a salt
+145.D an acid
+146.Q Is CaCO<sub>3</sub> an acid, a base or a salt?
+146.A a base
+146.B a salt
+146.C an acid
+146.D a metal
+147.Q What is the pH of a neutral solution?
+147.A 10
+147.B 1
+147.C 14
+147.D 7
+148.Q What is a pH of 14?
+148.A basic (alkaline)
+148.B neutral
+148.C weak acid
+148.D acidic
+149.Q What is a pH of 1?
+149.A neutral
+149.B weakly basic
+149.C acidic
+149.D basic (alkaline)
+150.Q Between which numbers does the pH scale run in your list?
+150.A 1 en 7
+150.B 1 en 14
+150.C 7 en 14
+150.D 0 en 7
+151.Q What is the ion H<sup>+</sup> called?
+151.A hydroxide ion
+152.Q What is the ion OH<sup>−</sup> called?
+152.C hydroxide ion
+153.A Na<sup>+</sup>
+153.B OH<sup>−</sup>
+153.C H<sup>+</sup>
+153.D Cl<sup>−</sup>
+154.Q What forms when you mix H<sup>+</sup> and OH<sup>−</sup> in the ratio 1 : 1?
+154.A hydrochloric acid
+154.B neutral water
+154.C limewater
+154.D sodium hydroxide solution
+155.Q What is present in large amounts in an acidic solution?
+155.A many H<sup>+</sup> and few OH<sup>−</sup>
+156.Q What does (s) after the name of a substance stand for?
+156.A dissolved in water (aqua)
+156.B liquid
+156.C gas
+156.D solid
+157.Q Which state symbol belongs to: solid?
+157.A (aq)
+157.B (s)
+157.C (l)
+157.D (g)
+158.Q What does (l) after the name of a substance stand for?
+158.A liquid
+158.B gas
+158.C dissolved in water (aqua)
+158.D solid
+159.Q Which state symbol belongs to: liquid?
+159.A (l)
+159.B (g)
+159.C (aq)
+159.D (s)
+160.Q What does (g) after the name of a substance stand for?
+160.A liquid
+160.B gas
+160.C dissolved in water (aqua)
+160.D solid
+161.Q Which state symbol belongs to: gas?
+161.A (s)
+161.B (g)
+161.C (l)
+161.D (aq)
+162.Q What does (aq) after the name of a substance stand for?
+162.A liquid
+162.B gas
+162.C solid
+162.D dissolved in water (aqua)
+163.Q Which state symbol belongs to: dissolved in water (aqua)?
+163.A (aq)
+163.B (l)
+163.C (g)
+163.D (s)
+164.Q How many changes of state are there?
+164.A 6
+164.B 4
+164.C 5
+164.D 8
+165.Q Which of these is a change of state?
+165.A freezing
+165.B settling
+165.C dissolving
+165.D filtration
+166.Q Which of these is also a change of state?
+166.A filtration
+166.B dissolving
+166.C evaporation
+166.D deposition
+167.Q Which of these is NOT a change of state?
+167.A sublimation
+167.B dissolving
+167.C melting
+167.D vaporisation
+168.Q Which of these is also NOT a change of state?
+168.A freezing
+168.B deposition
+168.C condensation
+168.D filtration
+169.Q What is the everyday name of a substance, such as table salt, called?
+169.A formula
+169.B state symbol
+169.C trivial name
+169.D atomic symbol
+170.Q In which BINAS table do you find the trivial names and the chemical names of substances?
+170.A table 2
+170.B table 42
+170.C table 52
+170.D table 9
+171.Q In which BINAS table do you find the periodic table?
+171.A table 39
+171.B table 52
+171.C table 34
+171.D table 9
+172.Q Which sentence is the (Dutch) mnemonic for the separation methods?
+173.Q How many separation methods are there in the mnemonic?
+173.A 8
+173.B 5
+173.C 7
+173.D 6
+174.Q Which separation method goes with the letter D in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+174.A Evaporation (Indampen)
+174.B Filtration
+174.C Distillation
+174.D Extraction (Extraheren)
+175.Q Which separation method goes with the letter F in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+175.A Extraction (Extraheren)
+175.B Filtration
+175.C Evaporation (Indampen)
+175.D Distillation
+176.Q Which separation method goes with the letter I in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+176.A Evaporation (Indampen)
+176.B Distillation
+176.C Filtration
+176.D Extraction (Extraheren)
+177.Q Which separation method goes with the letter E in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+177.A Distillation
+177.B Extraction (Extraheren)
+177.C Filtration
+177.D Evaporation (Indampen)
+178.Q Which separation method goes with the letter B in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+178.A Distillation
+178.B Adsorption
+178.C Filtration
+178.D Settling (Bezinken)
+179.Q What are settling and decanting as separation methods based on?
+179.A boiling point
+179.B ability to attach to a surface
+179.C density
+179.D particle size
+180.Q What is filtration as a separation method based on?
+180.A density
+180.B ability to attach to a surface
+180.C particle size
+180.D boiling point
+181.Q What is evaporation as a separation method based on?
+181.A particle size
+181.B boiling point
+181.C ability to attach to a surface
+181.D density
+182.Q What is distillation as a separation method based on?
+182.A particle size
+182.B difference in boiling point between liquids
+182.C ability to attach to a surface
+182.D density
+183.Q What is adsorption as a separation method based on?
+183.A particle size
+183.B ability to attach to a surface
+183.C density
+183.D boiling point
+184.Q What is extraction as a separation method based on?
+184.A boiling point
+184.B density
+184.C a solid dissolves better in a liquid
+184.D particle size
+185.Q Which separation method separates on the basis of density?
+185.A Adsorption
+185.B Evaporation (Indampen)
+185.C Filtration
+185.D Settling and decanting
+186.Q Which separation method separates on the basis of particle size?
+186.A Adsorption
+186.B Distillation
+186.C Filtration
+186.D Settling and decanting
+187.Q Which separation method separates on the basis of the difference in boiling point between liquids?
+187.A Filtration
+187.B Adsorption
+187.C Settling and decanting
+187.D Distillation
+188.Q Which separation method separates on the basis of the ability to attach to a surface?
+188.A Adsorption
+188.B Filtration
+188.C Distillation
+188.D Settling and decanting
+189.Q Which separation method do you use to obtain salt from salt water?
+189.A Evaporation (Indampen)
+189.B Settling and decanting
+189.C Filtration
+189.D Extraction (Extraheren)
+190.Q Making tea is an example of which separation method?
+190.A Distillation
+190.B Extraction (Extraheren)
+190.C Adsorption
+190.D Evaporation (Indampen)
+191.Q Removing alcohol from wine is an example of which separation method?
+191.A Filtration
+191.B Adsorption
+191.C Distillation
+191.D Settling and decanting
+192.Q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+192.A Evaporation (Indampen)
+192.B Adsorption
+192.C Settling and decanting
+192.D Distillation
+193.Q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+193.A Evaporation (Indampen)
+193.B Extraction (Extraheren)
+193.C Adsorption
+193.D Distillation
+194.Q What does the prefix milli mean?
+194.A 1/1000
+194.B 1/100
+194.C 1/10
+194.D times 1000
+195.Q What does the prefix kilo mean?
+195.A times 100
+195.B 1/1000
+195.C times 10
+195.D times 1000
+196.Q How many litres is 4000 mL?
+196.A 4 L
+196.B 40 L
+196.C 400 L
+196.D 0.4 L
+197.Q How many litres is 1000 mL?
+197.A 100 L
+197.B 1 L
+197.C 0.1 L
+197.D 10 L
+198.Q How many grams is 3 kg?
+198.A 0.3 g
+198.B 300 g
+198.C 30 g
+198.D 3000 g
+199.Q How many kg is 2000 g?
+199.A 20 kg
+199.B 0.2 kg
+199.C 2 kg
+199.D 200 kg
+200.Q Which formula do you use to convert degrees Celsius to kelvin?
+200.A K = °C × 273
+200.B K = °C + 273
+200.C K = °C − 273
+200.D °C = K + 273
+201.Q How many K is 0 °C?
+201.A 0 K
+201.B 100 K
+201.C 273 K
+201.D −273 K
+202.Q How many K is 20 °C?
+202.A 253 K
+202.B 20 K
+202.C 293 K
+202.D 273 K
+203.Q How many °C is 273 K?
+203.A 273 °C
+203.B −273 °C
+203.C 100 °C
+203.D 0 °C
+204.Q How many °C is 293 K?
+204.A 293 °C
+204.B 20 °C
+204.C 566 °C
+204.D −20 °C
+205.Q How many °C is 0 K?
+205.A −100 °C
+205.B 273 °C
+205.C 0 °C
+205.D −273 °C
+206.Q In which BINAS tables do you find the prefixes and the conversion rules?
+206.A tables 2 and 3
+206.B tables 4, 5 and 6
+206.C tables 7, 8 and 9
+206.D tables 10, 11 and 12
+### sk4t-begrippen-MP
+heading Chemistry terms
+2.C lithium
+4.A lithium
+4.C aluminium
+6.A calcium
+8.B aluminium
+8.C lithium
+8.D magnesium
+10.A aluminium
+12.D aluminium
+16.B lithium
+16.C calcium
+18.C calcium
+22.A magnesium
+22.C aluminium
+24.D aluminium
+28.B aluminium
+28.D magnesium
+30.A aluminium
+34.B magnesium
+40.A lithium
+75.A chloride
+75.C sulfide
+75.D nitride
+76.A hydroxide
+76.C sulfide
+76.D chloride
+77.A sulfide
+77.B fluoride
+77.D bromide
+78.A chloride
+78.B fluoride
+78.C sulfide
+79.A fluoride
+79.B bromide
+80.B chloride
+80.D fluoride
+136.B CaCO<sub>3</sub>
+139.A NaOH (g) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+139.B NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)
+139.C NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+139.D NaOH (s) → Na<sup>+</sup> (aq) + O<sup>2−</sup> (aq)
+140.B NaCl (s)
+151.B hydrogen ion (proton)
+151.C chloride ion
+151.D oxide ion
+152.A hydrogen ion (proton)
+152.B chloride ion
+152.D oxide ion
+153.Q Which ion is a proton?
+155.B no H<sup>+</sup> and no OH<sup>−</sup>
+155.C many H<sup>+</sup> and many OH<sup>−</sup>
+155.D many OH<sup>−</sup> and few H<sup>+</sup>
+172.A Bart &amp; Anne Eten Dikke Friet In Amsterdam
+172.B Bart &amp; Anne Eten Dikke Friet In Rotterdam
+172.C Bart &amp; Anne Eten Dunne Friet In Amsterdam
+172.D Anne &amp; Bart Eten Dikke Friet In Amsterdam

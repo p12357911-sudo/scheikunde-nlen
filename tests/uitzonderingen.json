@@ -46,7 +46,10 @@
   "sk4h-begrippen-MP/questions/228/question",
   "sk3t-begrippen-MP/questions/64/question",
   "sk3t-begrippen-MP/questions/65/question",
-  "sk3t-begrippen-MP/questions/102/question"
+  "sk3t-begrippen-MP/questions/102/question",
+  "sk4t-begrippen-MP/questions/170/question",
+  "sk4t-begrippen-MP/questions/171/question",
+  "sk4t-begrippen-MP/questions/206/question"
  ],
  "nederlands": [],
  "binas": [
@@ -69,7 +72,10 @@
   "sk4h-begrippen-MP/questions/228/question",
   "sk3t-begrippen-MP/questions/102/question",
   "sk3t-begrippen-MP/questions/64/question",
-  "sk3t-begrippen-MP/questions/65/question"
+  "sk3t-begrippen-MP/questions/65/question",
+  "sk4t-begrippen-MP/questions/170/question",
+  "sk4t-begrippen-MP/questions/171/question",
+  "sk4t-begrippen-MP/questions/206/question"
  ],
  "en_gelijk": [
   "sk3h-atomen-moleculen-KB/questions/11/a",
@@ -83,7 +89,11 @@
   "sk3t-begrippen-MP/questions/66/answers/a",
   "sk3t-begrippen-MP/questions/66/answers/b",
   "sk3t-begrippen-MP/questions/66/answers/c",
-  "sk3t-begrippen-MP/questions/66/answers/d"
+  "sk3t-begrippen-MP/questions/66/answers/d",
+  "sk4t-begrippen-MP/questions/172/answers/a",
+  "sk4t-begrippen-MP/questions/172/answers/b",
+  "sk4t-begrippen-MP/questions/172/answers/c",
+  "sk4t-begrippen-MP/questions/172/answers/d"
  ],
  "tags": [
   "acidbase1KB/questions/34/a",
