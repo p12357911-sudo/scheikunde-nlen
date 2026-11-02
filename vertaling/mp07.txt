@@ -458,7 +458,7 @@ heading Cleaning and personal care
 7.C The same amount of soap
 7.D Less soap
 8.Q Which product is a cosmetic?
-8.A Petroleum spirit
+8.A Petroleum ether
 8.B Washing-up liquid
 8.C Sunscreen
 8.D All-purpose cleaner
