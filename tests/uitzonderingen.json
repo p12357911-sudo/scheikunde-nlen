@@ -39,7 +39,14 @@
   "sk4t-begrippen-KB/questions/203/q",
   "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
   "sk4t-zouten-KB/questions/29/q",
-  "redox1KB/questions/1/q"
+  "redox1KB/questions/1/q",
+  "sk4h-begrippen-MP/questions/187/question",
+  "sk4h-begrippen-MP/questions/188/question",
+  "sk4h-begrippen-MP/questions/189/question",
+  "sk4h-begrippen-MP/questions/228/question",
+  "sk3t-begrippen-MP/questions/64/question",
+  "sk3t-begrippen-MP/questions/65/question",
+  "sk3t-begrippen-MP/questions/102/question"
  ],
  "nederlands": [],
  "binas": [
@@ -55,14 +62,28 @@
   "sk4t-begrippen-KB/questions/203/q",
   "sk4t-stoffen-uit-de-aarde-KB/questions/40/q",
   "sk4t-zouten-KB/questions/29/q",
-  "redox1KB/questions/1/q"
+  "redox1KB/questions/1/q",
+  "sk4h-begrippen-MP/questions/187/question",
+  "sk4h-begrippen-MP/questions/188/question",
+  "sk4h-begrippen-MP/questions/189/question",
+  "sk4h-begrippen-MP/questions/228/question",
+  "sk3t-begrippen-MP/questions/102/question",
+  "sk3t-begrippen-MP/questions/64/question",
+  "sk3t-begrippen-MP/questions/65/question"
  ],
  "en_gelijk": [
   "sk3h-atomen-moleculen-KB/questions/11/a",
   "sk3h-atomen-moleculen-KB/questions/12/a",
   "sk4h-chemische-binding-KB/questions/32/a",
   "sk4h-chemische-binding-KB/questions/33/a",
-  "MolBouw1KB/questions/11/a"
+  "MolBouw1KB/questions/11/a",
+  "sk4h-begrippen-MP/questions/190/answers/a",
+  "sk4h-begrippen-MP/questions/190/answers/c",
+  "sk4h-begrippen-MP/questions/190/answers/d",
+  "sk3t-begrippen-MP/questions/66/answers/a",
+  "sk3t-begrippen-MP/questions/66/answers/b",
+  "sk3t-begrippen-MP/questions/66/answers/c",
+  "sk3t-begrippen-MP/questions/66/answers/d"
  ],
  "tags": [
   "acidbase1KB/questions/34/a",

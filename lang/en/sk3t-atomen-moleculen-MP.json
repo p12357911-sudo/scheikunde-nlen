@@ -1,0 +1,349 @@
+{
+ "title": "Atoms and molecules - 123 school",
+ "heading": "Atoms and molecules",
+ "intro": [
+  "Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is an atom?",
+   "answers": {
+    "a": "A mixture of two kinds of molecules",
+    "b": "A group of molecules that clump together",
+    "c": "A building block from which molecules are made",
+    "d": "A substance that cannot react"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a molecule?",
+   "answers": {
+    "a": "A particle made up of two or more atoms",
+    "b": "The smallest particle of a mixture",
+    "c": "A substance that consists of one kind of atom and cannot react",
+    "d": "A particle that consists of one proton"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you call a substance in which all atoms are of the same kind?",
+   "answers": {
+    "a": "A solution",
+    "b": "A compound",
+    "c": "A mixture",
+    "d": "An element"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you call a substance in which the molecules consist of different kinds of atoms?",
+   "answers": {
+    "a": "A compound",
+    "b": "A suspension",
+    "c": "An alloy",
+    "d": "An element"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is water an element or a compound?",
+   "answers": {
+    "a": "An element, because water is a pure substance",
+    "b": "An element, because water contains only oxygen atoms",
+    "c": "A mixture, because water contains two kinds of atoms",
+    "d": "A compound, because a water molecule contains hydrogen and oxygen atoms"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is oxygen gas (O<sub>2</sub>) an element or a compound?",
+   "answers": {
+    "a": "A compound, because oxygen gas is in the air",
+    "b": "An element, because the molecule consists of one kind of atom",
+    "c": "A mixture of oxygen and nitrogen",
+    "d": "A compound, because the molecule consists of two atoms"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of carbon?",
+   "answers": {
+    "a": "C",
+    "b": "Cl",
+    "c": "K",
+    "d": "Ko"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of hydrogen?",
+   "answers": {
+    "a": "He",
+    "b": "H",
+    "c": "Ho",
+    "d": "W"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of calcium?",
+   "answers": {
+    "a": "C",
+    "b": "Ca",
+    "c": "Cu",
+    "d": "Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of aluminium?",
+   "answers": {
+    "a": "Au",
+    "b": "Am",
+    "c": "A",
+    "d": "Al"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which element has the symbol Br?",
+   "answers": {
+    "a": "Bromine",
+    "b": "Barium",
+    "c": "Bronze",
+    "d": "Boron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of gold? (use BINAS table 34, the periodic table)",
+   "answers": {
+    "a": "Au",
+    "b": "Ag",
+    "c": "G",
+    "d": "Go"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which gas belongs to the noble gases?",
+   "answers": {
+    "a": "Chlorine",
+    "b": "Hydrogen",
+    "c": "Oxygen",
+    "d": "Helium, neon or argon (He, Ne, Ar)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular formula of oxygen gas?",
+   "answers": {
+    "a": "2O",
+    "b": "OO",
+    "c": "O<sub>2</sub>",
+    "d": "O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of methane?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>",
+    "b": "CH<sub>2</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "C<sub>4</sub>H"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular formula of ammonia?",
+   "answers": {
+    "a": "NH",
+    "b": "NH<sub>3</sub>",
+    "c": "N<sub>3</sub>H",
+    "d": "NH<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does the 2 in H<sub>2</sub>O mean?",
+   "answers": {
+    "a": "There are 2 oxygen atoms in the molecule",
+    "b": "There are 2 water molecules",
+    "c": "There are 2 hydrogen atoms in the molecule",
+    "d": "Water is twice as heavy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the 3 in 3 CO<sub>2</sub> mean?",
+   "answers": {
+    "a": "There are 3 kinds of atoms",
+    "b": "There are 3 oxygen atoms in the molecule",
+    "c": "There are 3 molecules of carbon dioxide",
+    "d": "There are 3 carbon atoms in the molecule"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many atoms are there in one molecule of H<sub>2</sub>O?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many atoms are there in one molecule of CO<sub>2</sub>?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many oxygen atoms are there in 3 CO<sub>2</sub>?",
+   "answers": {
+    "a": "2",
+    "b": "6",
+    "c": "9",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "9",
+    "b": "2",
+    "c": "3",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many atoms are there in a molecule of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "answers": {
+    "a": "12",
+    "b": "6",
+    "c": "18",
+    "d": "24"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A molecule consists of 1 carbon atom and 2 oxygen atoms. What is the molecular formula?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "CO",
+    "c": "C<sub>2</sub>O",
+    "d": "C<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A molecule consists of 2 hydrogen atoms and 1 oxygen atom. What is the molecular formula?",
+   "answers": {
+    "a": "H<sub>2</sub>O<sub>3</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "HO<sub>2</sub>",
+    "d": "H<sub>2</sub>O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of CO? Pay attention to the prefixes.",
+   "answers": {
+    "a": "Carbon oxide-1",
+    "b": "Monocarbon",
+    "c": "Carbon monoxide",
+    "d": "Carbon dioxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of SO<sub>2</sub>?",
+   "answers": {
+    "a": "Sulfur monoxide",
+    "b": "Oxygen sulfur",
+    "c": "Sulfur trioxide",
+    "d": "Sulfur dioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of dinitrogen tetroxide?",
+   "answers": {
+    "a": "NO<sub>4</sub>",
+    "b": "N<sub>4</sub>O<sub>2</sub>",
+    "c": "N<sub>2</sub>O<sub>2</sub>",
+    "d": "N<sub>2</sub>O<sub>4</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular mass of H<sub>2</sub>O? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "answers": {
+    "a": "18.0 u",
+    "b": "17.0 u",
+    "c": "34.0 u",
+    "d": "16.0 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular mass of CO<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "answers": {
+    "a": "40.0 u",
+    "b": "56.0 u",
+    "c": "28.0 u",
+    "d": "44.0 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular mass of NH<sub>3</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "answers": {
+    "a": "18.0 u",
+    "b": "17.0 u",
+    "c": "15.0 u",
+    "d": "16.0 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular mass of H<sub>2</sub>SO<sub>4</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "answers": {
+    "a": "98.1 u",
+    "b": "66.1 u",
+    "c": "82.1 u",
+    "d": "50.1 u"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular mass of Cl<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.",
+   "answers": {
+    "a": "70.0 u",
+    "b": "71.0 u",
+    "c": "36.5 u",
+    "d": "35.5 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the atomic mass of carbon? (use BINAS table 34, the periodic table)",
+   "answers": {
+    "a": "About 6 u",
+    "b": "About 14 u",
+    "c": "About 12 u (12.0 u)",
+    "d": "About 1 u"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

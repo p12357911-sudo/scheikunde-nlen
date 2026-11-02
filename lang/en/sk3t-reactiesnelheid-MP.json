@@ -1,0 +1,349 @@
+{
+ "title": "Reaction rate - 123 school",
+ "heading": "Reaction rate",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is the reaction rate?",
+   "answers": {
+    "a": "How fast the reactants disappear and the new substances are formed",
+    "b": "How much heat is released in the reaction",
+    "c": "At what temperature the reaction takes place",
+    "d": "How long the reaction lasts"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the reaction time?",
+   "answers": {
+    "a": "How fast the reactants disappear",
+    "b": "How long the reaction lasts",
+    "c": "How much heat is released in the reaction",
+    "d": "How much substance is left at the end"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A reaction goes faster. What happens to the reaction time?",
+   "answers": {
+    "a": "The reaction time becomes shorter",
+    "b": "The reaction time stays the same",
+    "c": "That depends on the substance",
+    "d": "The reaction time becomes longer"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to the reaction rate if you raise the temperature?",
+   "answers": {
+    "a": "The reaction rate decreases",
+    "b": "The reaction rate stays the same",
+    "c": "The reaction rate increases",
+    "d": "The reaction stops"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens to the reaction rate if you lower the temperature?",
+   "answers": {
+    "a": "The reaction rate decreases",
+    "b": "The reaction stops immediately",
+    "c": "The reaction rate stays the same",
+    "d": "The reaction rate increases"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to the reaction rate if you increase the concentration of a reactant?",
+   "answers": {
+    "a": "The reaction rate decreases",
+    "b": "The reaction rate stays the same",
+    "c": "The reaction stops",
+    "d": "The reaction rate increases"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You make a solid finer, for example powder instead of a lump (greater degree of division). What happens to the reaction rate?",
+   "answers": {
+    "a": "The reaction rate stays the same",
+    "b": "The reaction rate decreases",
+    "c": "The reaction rate increases",
+    "d": "The reaction stops"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In a reaction between gases you increase the pressure. What happens to the reaction rate?",
+   "answers": {
+    "a": "The reaction rate decreases",
+    "b": "The reaction rate stays the same",
+    "c": "The reaction stops",
+    "d": "The reaction rate increases"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does a catalyst do?",
+   "answers": {
+    "a": "It speeds up the reaction and is used up at the end",
+    "b": "It slows down the reaction",
+    "c": "It has no effect on the reaction",
+    "d": "It speeds up the reaction and is not used up at the end"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You raise the temperature. What happens to the reaction time?",
+   "answers": {
+    "a": "The reaction time becomes zero",
+    "b": "The reaction time stays the same",
+    "c": "The reaction time becomes longer",
+    "d": "The reaction time becomes shorter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You add a catalyst. What happens to the reaction time?",
+   "answers": {
+    "a": "The reaction time stays the same",
+    "b": "The reaction time becomes zero",
+    "c": "The reaction time becomes longer",
+    "d": "The reaction time becomes shorter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You increase the concentration of a reactant. What happens to the reaction time?",
+   "answers": {
+    "a": "The reaction time becomes shorter",
+    "b": "The reaction time becomes zero",
+    "c": "The reaction time becomes longer",
+    "d": "The reaction time stays the same"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Does the type of substance affect the reaction rate?",
+   "answers": {
+    "a": "Yes, but only at a high temperature",
+    "b": "No, all reactions go equally fast",
+    "c": "No, only the temperature matters",
+    "d": "Yes, some substances naturally react faster than others"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of these things affects the reaction rate?",
+   "answers": {
+    "a": "The make of the balance",
+    "b": "The time on the clock",
+    "c": "The temperature",
+    "d": "The colour of the beaker"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You see a graph of the amount of reactant against time. The line slopes steeply downwards. What does that mean?",
+   "answers": {
+    "a": "The reaction is slow",
+    "b": "The reaction is fast",
+    "c": "The reaction has not started yet",
+    "d": "No new product is formed"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Name three factors that affect the reaction rate.",
+   "answers": {
+    "a": "The colour, smell and taste of the substances",
+    "b": "The name of the substance, the make and the price",
+    "c": "The mass of the beaker, the time of day and the place",
+    "d": "For example the temperature, the concentration and the degree of division"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An effervescent tablet dissolves faster in warm water than in cold water. Which factor is responsible?",
+   "answers": {
+    "a": "The degree of division",
+    "b": "The temperature",
+    "c": "The concentration",
+    "d": "The catalyst"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why does a powder react faster than a lump of the same substance?",
+   "answers": {
+    "a": "A powder contains a catalyst",
+    "b": "A powder has a much larger surface area, so more particles can react at the same time",
+    "c": "A powder has a higher temperature",
+    "d": "A powder is a different substance"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Small wood shavings catch fire faster than a large log. Which factor is responsible?",
+   "answers": {
+    "a": "The type of substance",
+    "b": "The degree of division",
+    "c": "The catalyst",
+    "d": "The pressure"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why do you store food in the fridge?",
+   "answers": {
+    "a": "A catalyst works in the fridge",
+    "b": "In the fridge the concentration of the food is higher",
+    "c": "At a low temperature every reaction stops for good",
+    "d": "At a low temperature the spoilage reactions are slower"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is flour dust dangerous in a flour mill?",
+   "answers": {
+    "a": "The dust has an enormous degree of division and can then react explosively with oxygen",
+    "b": "Flour is a catalyst",
+    "c": "Flour only reacts at a low temperature",
+    "d": "Flour is a very heavy substance"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A wood splinter burns much faster in pure oxygen than in air. Which factor is responsible?",
+   "answers": {
+    "a": "There is less pressure",
+    "b": "The concentration of oxygen is higher",
+    "c": "The temperature of the wood is lower",
+    "d": "The degree of division of the wood is smaller"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A catalytic converter in a car makes sure that poisonous carbon monoxide is converted quickly. Which factor is used here?",
+   "answers": {
+    "a": "The degree of division of the petrol",
+    "b": "A catalyst",
+    "c": "The temperature of the air",
+    "d": "The pressure of the air"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You add a catalyst. How much product is formed in the end?",
+   "answers": {
+    "a": "The same amount as without a catalyst, but faster",
+    "b": "More than without a catalyst",
+    "c": "Less than without a catalyst",
+    "d": "No product is formed any more"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an enzyme?",
+   "answers": {
+    "a": "A gas in the air",
+    "b": "A catalyst in living organisms",
+    "c": "A fuel in living organisms",
+    "d": "A substance that stops a reaction"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You let 5.0 g of zinc react with an excess of hydrochloric acid, first at 20 °C and then at 40 °C. What is different at 40 °C?",
+   "answers": {
+    "a": "The reaction proceeds more slowly",
+    "b": "Less hydrogen is formed",
+    "c": "More hydrogen is formed",
+    "d": "The reaction is finished sooner, the same amount of hydrogen is formed"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Magnesium reacts with 2 mol/L hydrochloric acid and with 0.5 mol/L hydrochloric acid. In which solution does the reaction go fastest?",
+   "answers": {
+    "a": "It makes no difference",
+    "b": "In the 2 mol/L hydrochloric acid",
+    "c": "In neither, the reaction stops",
+    "d": "In the 0.5 mol/L hydrochloric acid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In a reaction 60 mL of gas is formed in 30 seconds. What is the average reaction rate?",
+   "answers": {
+    "a": "30 mL/s",
+    "b": "2.0 mL/s",
+    "c": "0.50 mL/s",
+    "d": "1800 mL/s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which two ways are useful for measuring the reaction rate when a gas is formed?",
+   "answers": {
+    "a": "Write down the density of the solution from memory",
+    "b": "Look at the colour of the beaker",
+    "c": "Measure the gas volume per time, or measure the decrease in mass per time",
+    "d": "Look up the name of the gas"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does the reaction rate usually become smaller over time?",
+   "answers": {
+    "a": "The temperature keeps rising",
+    "b": "The degree of division increases",
+    "c": "The catalyst is used up",
+    "d": "The reactants are being used up, so the concentration becomes smaller"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In a graph of the amount of product against time, the line becomes horizontal after a while. What does that mean?",
+   "answers": {
+    "a": "A catalyst has been added",
+    "b": "The reaction has not started yet",
+    "c": "The reaction has finished, a reactant is used up",
+    "d": "The reaction keeps going faster"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You measure the reaction twice with the same amount of reactant. Line B rises more steeply than line A. Which statement is correct?",
+   "answers": {
+    "a": "The reaction of B is slower",
+    "b": "More product is eventually formed in B",
+    "c": "The reaction of B is faster, but B ends at the same height as A",
+    "d": "Less product is eventually formed in B"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Name two ways to make a reaction go more slowly.",
+   "answers": {
+    "a": "Add more reactant and stir",
+    "b": "Lower the temperature and reduce the concentration",
+    "c": "Make the substance finer and increase the pressure",
+    "d": "Raise the temperature and add a catalyst"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the reaction equation of magnesium with hydrochloric acid?",
+   "answers": {
+    "a": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H (g)",
+    "b": "Mg (s) + HCl (aq) → MgCl (aq) + H<sub>2</sub> (g)",
+    "c": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "d": "Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

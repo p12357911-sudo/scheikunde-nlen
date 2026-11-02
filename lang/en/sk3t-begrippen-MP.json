@@ -1,0 +1,1039 @@
+{
+ "title": "Chemistry terms - 123 school",
+ "heading": "Chemistry terms",
+ "intro": [
+  "You learn these terms by heart. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is the name of the element with the symbol Na?",
+   "answers": {
+    "a": "nitrogen",
+    "b": "sulfur",
+    "c": "sodium",
+    "d": "magnesium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of sodium?",
+   "answers": {
+    "a": "S",
+    "b": "Cl",
+    "c": "Fe",
+    "d": "Na"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol Cl?",
+   "answers": {
+    "a": "sodium",
+    "b": "oxygen",
+    "c": "carbon",
+    "d": "chlorine"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of chlorine?",
+   "answers": {
+    "a": "Cl",
+    "b": "Cu",
+    "c": "N",
+    "d": "H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol Mg?",
+   "answers": {
+    "a": "chlorine",
+    "b": "sodium",
+    "c": "iron",
+    "d": "magnesium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of magnesium?",
+   "answers": {
+    "a": "O",
+    "b": "Mg",
+    "c": "C",
+    "d": "N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Fe?",
+   "answers": {
+    "a": "sodium",
+    "b": "nitrogen",
+    "c": "chlorine",
+    "d": "iron"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of iron?",
+   "answers": {
+    "a": "Fe",
+    "b": "S",
+    "c": "O",
+    "d": "H"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol Cu?",
+   "answers": {
+    "a": "oxygen",
+    "b": "iron",
+    "c": "copper",
+    "d": "sodium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of copper?",
+   "answers": {
+    "a": "Mg",
+    "b": "O",
+    "c": "Cu",
+    "d": "H"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the element with the symbol O?",
+   "answers": {
+    "a": "chlorine",
+    "b": "hydrogen",
+    "c": "oxygen",
+    "d": "nitrogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of oxygen?",
+   "answers": {
+    "a": "H",
+    "b": "Cl",
+    "c": "Fe",
+    "d": "O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol N?",
+   "answers": {
+    "a": "chlorine",
+    "b": "magnesium",
+    "c": "iron",
+    "d": "nitrogen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of nitrogen?",
+   "answers": {
+    "a": "Fe",
+    "b": "C",
+    "c": "S",
+    "d": "N"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol S?",
+   "answers": {
+    "a": "sulfur",
+    "b": "hydrogen",
+    "c": "sodium",
+    "d": "chlorine"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of sulfur?",
+   "answers": {
+    "a": "S",
+    "b": "N",
+    "c": "C",
+    "d": "Na"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol C?",
+   "answers": {
+    "a": "carbon",
+    "b": "oxygen",
+    "c": "chlorine",
+    "d": "nitrogen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of carbon?",
+   "answers": {
+    "a": "C",
+    "b": "Mg",
+    "c": "O",
+    "d": "Fe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol H?",
+   "answers": {
+    "a": "iron",
+    "b": "hydrogen",
+    "c": "sodium",
+    "d": "chlorine"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of hydrogen?",
+   "answers": {
+    "a": "Fe",
+    "b": "Cl",
+    "c": "H",
+    "d": "N"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula O<sub>2</sub>?",
+   "answers": {
+    "a": "hydrogen gas",
+    "b": "carbon dioxide",
+    "c": "nitrogen gas",
+    "d": "oxygen gas"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of oxygen gas?",
+   "answers": {
+    "a": "NaCl",
+    "b": "N<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula N<sub>2</sub>?",
+   "answers": {
+    "a": "hydrogen gas",
+    "b": "methane",
+    "c": "water",
+    "d": "nitrogen gas"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of nitrogen gas?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "HCl",
+    "c": "H<sub>2</sub>",
+    "d": "N<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the formula CO<sub>2</sub>?",
+   "answers": {
+    "a": "nitrogen gas",
+    "b": "hydrogen gas",
+    "c": "water",
+    "d": "carbon dioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of carbon dioxide?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "HCl",
+    "c": "NaCl",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has the formula H<sub>2</sub>O?",
+   "answers": {
+    "a": "oxygen gas",
+    "b": "water",
+    "c": "hydrochloric acid",
+    "d": "table salt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of water?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "H<sub>2</sub>",
+    "c": "HCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has the formula H<sub>2</sub>?",
+   "answers": {
+    "a": "nitrogen gas",
+    "b": "hydrochloric acid",
+    "c": "hydrogen gas",
+    "d": "water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of hydrogen gas?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "NaCl",
+    "c": "O<sub>2</sub>",
+    "d": "CH<sub>4</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has the formula HCl?",
+   "answers": {
+    "a": "hydrochloric acid",
+    "b": "hydrogen gas",
+    "c": "nitrogen gas",
+    "d": "oxygen gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of hydrochloric acid?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "HCl",
+    "c": "NaCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula CH<sub>4</sub>?",
+   "answers": {
+    "a": "methane",
+    "b": "oxygen gas",
+    "c": "carbon dioxide",
+    "d": "nitrogen gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of methane?",
+   "answers": {
+    "a": "NaCl",
+    "b": "N<sub>2</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula NaCl?",
+   "answers": {
+    "a": "hydrochloric acid",
+    "b": "table salt",
+    "c": "water",
+    "d": "methane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of table salt?",
+   "answers": {
+    "a": "HCl",
+    "b": "NaCl",
+    "c": "H<sub>2</sub>O",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to the gas that we breathe in with the air and that consists of 2 oxygen atoms?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "CO<sub>2</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula belongs to the gas from the air that we breathe in, but that our body does nothing with?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "N<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "O<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to the greenhouse gas with 1 carbon atom and 2 oxygen atoms?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "O<sub>2</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "CH<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which formula belongs to the substance that consists of 2 hydrogen atoms and 1 oxygen atom?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "CO<sub>2</sub>",
+    "c": "H<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula belongs to hydrogen gas, with 2 hydrogen atoms?",
+   "answers": {
+    "a": "H<sub>2</sub>O",
+    "b": "CH<sub>4</sub>",
+    "c": "O<sub>2</sub>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula belongs to the molecule with 4 hydrogen atoms and 1 carbon atom?",
+   "answers": {
+    "a": "HCl",
+    "b": "CH<sub>4</sub>",
+    "c": "CO<sub>2</sub>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are hydrocarbons?",
+   "answers": {
+    "a": "molecules that mainly contain C atoms and O atoms",
+    "b": "molecules that mainly contain H atoms and O atoms",
+    "c": "molecules that mainly contain C atoms and H atoms",
+    "d": "molecules that mainly contain N atoms and H atoms"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which two types of atom do hydrocarbons mainly consist of?",
+   "answers": {
+    "a": "hydrogen (H) and oxygen (O)",
+    "b": "carbon (C) and hydrogen (H)",
+    "c": "nitrogen (N) and hydrogen (H)",
+    "d": "carbon (C) and oxygen (O)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance is an example of a hydrocarbon?",
+   "answers": {
+    "a": "petrol",
+    "b": "hydrochloric acid",
+    "c": "table salt",
+    "d": "water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which fuel is also a hydrocarbon?",
+   "answers": {
+    "a": "oxygen gas",
+    "b": "carbon dioxide",
+    "c": "nitrogen gas",
+    "d": "diesel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is natural gas?",
+   "answers": {
+    "a": "methane",
+    "b": "table salt",
+    "c": "water",
+    "d": "carbon dioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these energy sources is a fossil fuel?",
+   "answers": {
+    "a": "coal",
+    "b": "wind energy",
+    "c": "hydroelectric power",
+    "d": "solar energy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these is also a fossil fuel?",
+   "answers": {
+    "a": "solar energy",
+    "b": "hydroelectric power",
+    "c": "crude oil",
+    "d": "wind energy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Natural gas is an example of a…",
+   "answers": {
+    "a": "metal",
+    "b": "acidic",
+    "c": "salt",
+    "d": "fossil fuel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does (s) after the name of a substance stand for?",
+   "answers": {
+    "a": "dissolved in water (aqua)",
+    "b": "solid",
+    "c": "liquid",
+    "d": "gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which state symbol belongs to: solid?",
+   "answers": {
+    "a": "(l)",
+    "b": "(g)",
+    "c": "(s)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does (l) after the name of a substance stand for?",
+   "answers": {
+    "a": "gas",
+    "b": "liquid",
+    "c": "solid",
+    "d": "dissolved in water (aqua)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which state symbol belongs to: liquid?",
+   "answers": {
+    "a": "(g)",
+    "b": "(s)",
+    "c": "(l)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does (g) after the name of a substance stand for?",
+   "answers": {
+    "a": "solid",
+    "b": "liquid",
+    "c": "gas",
+    "d": "dissolved in water (aqua)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which state symbol belongs to: gas?",
+   "answers": {
+    "a": "(l)",
+    "b": "(aq)",
+    "c": "(s)",
+    "d": "(g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does (aq) after the name of a substance stand for?",
+   "answers": {
+    "a": "liquid",
+    "b": "gas",
+    "c": "dissolved in water (aqua)",
+    "d": "solid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which state symbol belongs to: dissolved in water (aqua)?",
+   "answers": {
+    "a": "(s)",
+    "b": "(aq)",
+    "c": "(l)",
+    "d": "(g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many changes of state are there?",
+   "answers": {
+    "a": "4",
+    "b": "8",
+    "c": "5",
+    "d": "6"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of these is a change of state?",
+   "answers": {
+    "a": "settling",
+    "b": "filtration",
+    "c": "dissolving",
+    "d": "freezing"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of these is also a change of state?",
+   "answers": {
+    "a": "filtration",
+    "b": "evaporation",
+    "c": "dissolving",
+    "d": "deposition"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of these is NOT a change of state?",
+   "answers": {
+    "a": "dissolving",
+    "b": "melting",
+    "c": "vaporisation",
+    "d": "sublimation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these is also NOT a change of state?",
+   "answers": {
+    "a": "deposition",
+    "b": "freezing",
+    "c": "filtration",
+    "d": "condensation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the everyday name of a substance, such as table salt, called?",
+   "answers": {
+    "a": "formula",
+    "b": "trivial name",
+    "c": "atomic symbol",
+    "d": "state symbol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the trivial names and the chemical names of substances?",
+   "answers": {
+    "a": "table 9",
+    "b": "table 52",
+    "c": "table 2",
+    "d": "table 42"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the periodic table?",
+   "answers": {
+    "a": "table 39",
+    "b": "table 52",
+    "c": "table 34",
+    "d": "table 9"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which sentence is the (Dutch) mnemonic for the separation methods?",
+   "answers": {
+    "a": "Bart &amp; Anne Eten Dikke Friet In Amsterdam",
+    "b": "Bart &amp; Anne Eten Dikke Friet In Rotterdam",
+    "c": "Anne &amp; Bart Eten Dikke Friet In Amsterdam",
+    "d": "Bart &amp; Anne Eten Dunne Friet In Amsterdam"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many separation methods are there in the mnemonic?",
+   "answers": {
+    "a": "6",
+    "b": "8",
+    "c": "5",
+    "d": "7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which separation method goes with the letter D in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Evaporation (Indampen)",
+    "c": "Extraction (Extraheren)",
+    "d": "Distillation"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which separation method goes with the letter F in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Extraction (Extraheren)",
+    "c": "Distillation",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method goes with the letter I in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Distillation",
+    "c": "Evaporation (Indampen)",
+    "d": "Filtration"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method goes with the letter E in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Evaporation (Indampen)",
+    "c": "Distillation",
+    "d": "Filtration"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method goes with the letter B in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?",
+   "answers": {
+    "a": "Distillation",
+    "b": "Settling (Bezinken)",
+    "c": "Adsorption",
+    "d": "Filtration"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are settling and decanting as separation methods based on?",
+   "answers": {
+    "a": "boiling point",
+    "b": "particle size",
+    "c": "density",
+    "d": "ability to attach to a surface"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is filtration as a separation method based on?",
+   "answers": {
+    "a": "ability to attach to a surface",
+    "b": "boiling point",
+    "c": "density",
+    "d": "particle size"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is evaporation as a separation method based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "boiling point",
+    "c": "density",
+    "d": "ability to attach to a surface"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is distillation as a separation method based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "ability to attach to a surface",
+    "c": "difference in boiling point between liquids",
+    "d": "density"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is adsorption as a separation method based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "density",
+    "c": "boiling point",
+    "d": "ability to attach to a surface"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is extraction as a separation method based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "boiling point",
+    "c": "a solid dissolves better in a liquid",
+    "d": "density"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method separates on the basis of density?",
+   "answers": {
+    "a": "Settling and decanting",
+    "b": "Adsorption",
+    "c": "Filtration",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method separates on the basis of particle size?",
+   "answers": {
+    "a": "Adsorption",
+    "b": "Filtration",
+    "c": "Distillation",
+    "d": "Settling and decanting"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which separation method separates on the basis of the difference in boiling point between liquids?",
+   "answers": {
+    "a": "Distillation",
+    "b": "Adsorption",
+    "c": "Filtration",
+    "d": "Settling and decanting"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method separates on the basis of the ability to attach to a surface?",
+   "answers": {
+    "a": "Settling and decanting",
+    "b": "Distillation",
+    "c": "Adsorption",
+    "d": "Filtration"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method do you use to obtain salt from salt water?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Settling and decanting",
+    "c": "Filtration",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Making tea is an example of which separation method?",
+   "answers": {
+    "a": "Adsorption",
+    "b": "Evaporation (Indampen)",
+    "c": "Distillation",
+    "d": "Extraction (Extraheren)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Removing alcohol from wine is an example of which separation method?",
+   "answers": {
+    "a": "Adsorption",
+    "b": "Distillation",
+    "c": "Filtration",
+    "d": "Settling and decanting"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Removing colour from methylated spirits with activated carbon is an example of which separation method?",
+   "answers": {
+    "a": "Settling and decanting",
+    "b": "Distillation",
+    "c": "Evaporation (Indampen)",
+    "d": "Adsorption"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Removing poisonous substances from the air with a gas mask is an example of which separation method?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Extraction (Extraheren)",
+    "c": "Adsorption",
+    "d": "Distillation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula for density?",
+   "answers": {
+    "a": "density = volume / mass",
+    "b": "density = mass − volume",
+    "c": "density = mass × volume",
+    "d": "density = mass / volume"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which unit do you give the density in your list?",
+   "answers": {
+    "a": "cm<sup>3</sup>/g",
+    "b": "kg × m<sup>3</sup>",
+    "c": "g/cm<sup>3</sup>",
+    "d": "g × cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the prefix milli mean?",
+   "answers": {
+    "a": "1/100",
+    "b": "times 1000",
+    "c": "1/10",
+    "d": "1/1000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does the prefix kilo mean?",
+   "answers": {
+    "a": "1/1000",
+    "b": "times 100",
+    "c": "times 10",
+    "d": "times 1000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many litres is 4000 mL?",
+   "answers": {
+    "a": "400 L",
+    "b": "0.4 L",
+    "c": "4 L",
+    "d": "40 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many litres is 1000 mL?",
+   "answers": {
+    "a": "100 L",
+    "b": "10 L",
+    "c": "1 L",
+    "d": "0.1 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many grams is 3 kg?",
+   "answers": {
+    "a": "3000 g",
+    "b": "30 g",
+    "c": "0.3 g",
+    "d": "300 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many kg is 2000 g?",
+   "answers": {
+    "a": "200 kg",
+    "b": "0.2 kg",
+    "c": "20 kg",
+    "d": "2 kg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula do you use to convert degrees Celsius to kelvin?",
+   "answers": {
+    "a": "°C = K + 273",
+    "b": "K = °C × 273",
+    "c": "K = °C − 273",
+    "d": "K = °C + 273"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many K is 0 °C?",
+   "answers": {
+    "a": "−273 K",
+    "b": "100 K",
+    "c": "273 K",
+    "d": "0 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many K is 20 °C?",
+   "answers": {
+    "a": "273 K",
+    "b": "20 K",
+    "c": "253 K",
+    "d": "293 K"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many °C is 273 K?",
+   "answers": {
+    "a": "0 °C",
+    "b": "−273 °C",
+    "c": "100 °C",
+    "d": "273 °C"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many °C is 293 K?",
+   "answers": {
+    "a": "−20 °C",
+    "b": "20 °C",
+    "c": "293 °C",
+    "d": "566 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many °C is 0 K?",
+   "answers": {
+    "a": "−100 °C",
+    "b": "273 °C",
+    "c": "0 °C",
+    "d": "−273 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS tables do you find the prefixes and the conversion rules?",
+   "answers": {
+    "a": "tables 2 and 3",
+    "b": "tables 4, 5 and 6",
+    "c": "tables 7, 8 and 9",
+    "d": "tables 10, 11 and 12"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

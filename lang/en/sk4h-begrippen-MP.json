@@ -1,0 +1,2299 @@
+{
+ "title": "Chemistry terms - 123 school",
+ "heading": "Chemistry terms",
+ "intro": [
+  "You learn these terms by heart. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is the name of the element with the symbol Na?",
+   "answers": {
+    "a": "aluminium",
+    "b": "sodium",
+    "c": "tin",
+    "d": "copper"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of sodium?",
+   "answers": {
+    "a": "Ag",
+    "b": "Fe",
+    "c": "Mg",
+    "d": "Na"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol K?",
+   "answers": {
+    "a": "carbon",
+    "b": "lead",
+    "c": "iodine",
+    "d": "potassium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of potassium?",
+   "answers": {
+    "a": "F",
+    "b": "K",
+    "c": "Cu",
+    "d": "Ag"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Li?",
+   "answers": {
+    "a": "lithium",
+    "b": "zinc",
+    "c": "aluminium",
+    "d": "iron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of lithium?",
+   "answers": {
+    "a": "P",
+    "b": "Li",
+    "c": "Sn",
+    "d": "N"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Ca?",
+   "answers": {
+    "a": "calcium",
+    "b": "magnesium",
+    "c": "iodine",
+    "d": "carbon"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of calcium?",
+   "answers": {
+    "a": "I",
+    "b": "Ca",
+    "c": "Na",
+    "d": "C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Mg?",
+   "answers": {
+    "a": "chlorine",
+    "b": "silver",
+    "c": "magnesium",
+    "d": "lithium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of magnesium?",
+   "answers": {
+    "a": "Ca",
+    "b": "Mg",
+    "c": "C",
+    "d": "Cu"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Al?",
+   "answers": {
+    "a": "chlorine",
+    "b": "aluminium",
+    "c": "potassium",
+    "d": "copper"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of aluminium?",
+   "answers": {
+    "a": "Mg",
+    "b": "Al",
+    "c": "K",
+    "d": "Pb"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol Fe?",
+   "answers": {
+    "a": "lead",
+    "b": "hydrogen",
+    "c": "iron",
+    "d": "iodine"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of iron?",
+   "answers": {
+    "a": "Cl",
+    "b": "Mg",
+    "c": "Fe",
+    "d": "Sn"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the element with the symbol Cu?",
+   "answers": {
+    "a": "tin",
+    "b": "zinc",
+    "c": "calcium",
+    "d": "copper"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of copper?",
+   "answers": {
+    "a": "I",
+    "b": "P",
+    "c": "Na",
+    "d": "Cu"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol Pb?",
+   "answers": {
+    "a": "oxygen",
+    "b": "lead",
+    "c": "magnesium",
+    "d": "phosphorus"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of lead?",
+   "answers": {
+    "a": "Li",
+    "b": "Zn",
+    "c": "C",
+    "d": "Pb"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol Ag?",
+   "answers": {
+    "a": "zinc",
+    "b": "aluminium",
+    "c": "fluorine",
+    "d": "silver"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of silver?",
+   "answers": {
+    "a": "Ag",
+    "b": "Br",
+    "c": "Fe",
+    "d": "K"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol Sn?",
+   "answers": {
+    "a": "lithium",
+    "b": "bromine",
+    "c": "tin",
+    "d": "fluorine"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of tin?",
+   "answers": {
+    "a": "Pb",
+    "b": "Zn",
+    "c": "H",
+    "d": "Sn"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol Zn?",
+   "answers": {
+    "a": "oxygen",
+    "b": "zinc",
+    "c": "silver",
+    "d": "lithium"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of zinc?",
+   "answers": {
+    "a": "Zn",
+    "b": "Sn",
+    "c": "Cl",
+    "d": "Fe"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the element with the symbol F?",
+   "answers": {
+    "a": "phosphorus",
+    "b": "iodine",
+    "c": "fluorine",
+    "d": "tin"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of fluorine?",
+   "answers": {
+    "a": "Cu",
+    "b": "Na",
+    "c": "F",
+    "d": "Al"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the element with the symbol Cl?",
+   "answers": {
+    "a": "lithium",
+    "b": "bromine",
+    "c": "zinc",
+    "d": "chlorine"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of chlorine?",
+   "answers": {
+    "a": "Ag",
+    "b": "C",
+    "c": "Cl",
+    "d": "Mg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the element with the symbol Br?",
+   "answers": {
+    "a": "nitrogen",
+    "b": "carbon",
+    "c": "calcium",
+    "d": "bromine"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the symbol of bromine?",
+   "answers": {
+    "a": "Ag",
+    "b": "Mg",
+    "c": "N",
+    "d": "Br"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol I?",
+   "answers": {
+    "a": "iodine",
+    "b": "carbon",
+    "c": "silver",
+    "d": "sodium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of iodine?",
+   "answers": {
+    "a": "Cl",
+    "b": "I",
+    "c": "F",
+    "d": "Fe"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol N?",
+   "answers": {
+    "a": "nitrogen",
+    "b": "chlorine",
+    "c": "iron",
+    "d": "lead"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of nitrogen?",
+   "answers": {
+    "a": "Ca",
+    "b": "N",
+    "c": "C",
+    "d": "F"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol O?",
+   "answers": {
+    "a": "magnesium",
+    "b": "fluorine",
+    "c": "oxygen",
+    "d": "nitrogen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of oxygen?",
+   "answers": {
+    "a": "Cu",
+    "b": "I",
+    "c": "C",
+    "d": "O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol P?",
+   "answers": {
+    "a": "bromine",
+    "b": "iron",
+    "c": "phosphorus",
+    "d": "aluminium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of phosphorus?",
+   "answers": {
+    "a": "Pb",
+    "b": "N",
+    "c": "Cl",
+    "d": "P"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the element with the symbol C?",
+   "answers": {
+    "a": "iodine",
+    "b": "phosphorus",
+    "c": "carbon",
+    "d": "bromine"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of carbon?",
+   "answers": {
+    "a": "P",
+    "b": "C",
+    "c": "Br",
+    "d": "Zn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the element with the symbol H?",
+   "answers": {
+    "a": "phosphorus",
+    "b": "copper",
+    "c": "hydrogen",
+    "d": "oxygen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the symbol of hydrogen?",
+   "answers": {
+    "a": "H",
+    "b": "Li",
+    "c": "Na",
+    "d": "Zn"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of sodium (Na) have?",
+   "answers": {
+    "a": "1−",
+    "b": "3−",
+    "c": "2−",
+    "d": "1+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to sodium?",
+   "answers": {
+    "a": "Na<sup>−</sup>",
+    "b": "Na<sup>3+</sup>",
+    "c": "Na<sup>3−</sup>",
+    "d": "Na<sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What charge does the ion of potassium (K) have?",
+   "answers": {
+    "a": "3+",
+    "b": "1+",
+    "c": "3−",
+    "d": "1−"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ion belongs to potassium?",
+   "answers": {
+    "a": "K<sup>+</sup>",
+    "b": "K<sup>3−</sup>",
+    "c": "K<sup>2−</sup>",
+    "d": "K<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of lithium (Li) have?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "3+",
+    "d": "1−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion belongs to lithium?",
+   "answers": {
+    "a": "Li<sup>2+</sup>",
+    "b": "Li<sup>+</sup>",
+    "c": "Li<sup>2−</sup>",
+    "d": "Li<sup>3−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What charge does the ion of calcium (Ca) have?",
+   "answers": {
+    "a": "3−",
+    "b": "2−",
+    "c": "1+",
+    "d": "2+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to calcium?",
+   "answers": {
+    "a": "Ca<sup>−</sup>",
+    "b": "Ca<sup>3+</sup>",
+    "c": "Ca<sup>3−</sup>",
+    "d": "Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What charge does the ion of magnesium (Mg) have?",
+   "answers": {
+    "a": "2+",
+    "b": "1−",
+    "c": "1+",
+    "d": "2−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion belongs to magnesium?",
+   "answers": {
+    "a": "Mg<sup>3−</sup>",
+    "b": "Mg<sup>3+</sup>",
+    "c": "Mg<sup>2+</sup>",
+    "d": "Mg<sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What charge does the ion of aluminium (Al) have?",
+   "answers": {
+    "a": "3+",
+    "b": "1−",
+    "c": "2+",
+    "d": "3−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion belongs to aluminium?",
+   "answers": {
+    "a": "Al<sup>3+</sup>",
+    "b": "Al<sup>+</sup>",
+    "c": "Al<sup>3−</sup>",
+    "d": "Al<sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of copper (Cu) have?",
+   "answers": {
+    "a": "2+",
+    "b": "1−",
+    "c": "3+",
+    "d": "2−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion belongs to copper?",
+   "answers": {
+    "a": "Cu<sup>−</sup>",
+    "b": "Cu<sup>2−</sup>",
+    "c": "Cu<sup>2+</sup>",
+    "d": "Cu<sup>3+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What charge does the ion of lead (Pb) have?",
+   "answers": {
+    "a": "1−",
+    "b": "3−",
+    "c": "2+",
+    "d": "3+"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which ion belongs to lead?",
+   "answers": {
+    "a": "Pb<sup>2+</sup>",
+    "b": "Pb<sup>+</sup>",
+    "c": "Pb<sup>3+</sup>",
+    "d": "Pb<sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of silver (Ag) have?",
+   "answers": {
+    "a": "1+",
+    "b": "3+",
+    "c": "2+",
+    "d": "1−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion belongs to silver?",
+   "answers": {
+    "a": "Ag<sup>−</sup>",
+    "b": "Ag<sup>3−</sup>",
+    "c": "Ag<sup>3+</sup>",
+    "d": "Ag<sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What charge does the ion of tin (Sn) have?",
+   "answers": {
+    "a": "3−",
+    "b": "3+",
+    "c": "1+",
+    "d": "2+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to tin?",
+   "answers": {
+    "a": "Sn<sup>+</sup>",
+    "b": "Sn<sup>2−</sup>",
+    "c": "Sn<sup>−</sup>",
+    "d": "Sn<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What charge does the ion of zinc (Zn) have?",
+   "answers": {
+    "a": "2−",
+    "b": "1−",
+    "c": "3+",
+    "d": "2+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to zinc?",
+   "answers": {
+    "a": "Zn<sup>−</sup>",
+    "b": "Zn<sup>2+</sup>",
+    "c": "Zn<sup>+</sup>",
+    "d": "Zn<sup>3+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What charge does the ion of fluorine (F) have?",
+   "answers": {
+    "a": "3−",
+    "b": "1−",
+    "c": "2−",
+    "d": "1+"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ion belongs to fluorine?",
+   "answers": {
+    "a": "F<sup>−</sup>",
+    "b": "F<sup>3−</sup>",
+    "c": "F<sup>2+</sup>",
+    "d": "F<sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of chlorine (Cl) have?",
+   "answers": {
+    "a": "3−",
+    "b": "1−",
+    "c": "2+",
+    "d": "3+"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ion belongs to chlorine?",
+   "answers": {
+    "a": "Cl<sup>3−</sup>",
+    "b": "Cl<sup>+</sup>",
+    "c": "Cl<sup>−</sup>",
+    "d": "Cl<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What charge does the ion of bromine (Br) have?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "3+",
+    "d": "1−"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to bromine?",
+   "answers": {
+    "a": "Br<sup>−</sup>",
+    "b": "Br<sup>+</sup>",
+    "c": "Br<sup>2−</sup>",
+    "d": "Br<sup>2+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What charge does the ion of iodine (I) have?",
+   "answers": {
+    "a": "3−",
+    "b": "2+",
+    "c": "2−",
+    "d": "1−"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ion belongs to iodine?",
+   "answers": {
+    "a": "I<sup>3−</sup>",
+    "b": "I<sup>−</sup>",
+    "c": "I<sup>2−</sup>",
+    "d": "I<sup>+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What charge does the ion of iron have?",
+   "answers": {
+    "a": "2+ of 3+",
+    "b": "2−",
+    "c": "1+",
+    "d": "1−"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What colour does copper(II) (Cu<sup>2+</sup>) have in your list?",
+   "answers": {
+    "a": "blue",
+    "b": "yellow",
+    "c": "purple",
+    "d": "colourless"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which colours does your list give for iron(II) and iron(III)?",
+   "answers": {
+    "a": "red and purple",
+    "b": "green and brown",
+    "c": "blue and yellow",
+    "d": "blue and green"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the ion S<sup>2−</sup>?",
+   "answers": {
+    "a": "sulfide",
+    "b": "chloride",
+    "c": "nitride",
+    "d": "oxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of the ion O<sup>2−</sup>?",
+   "answers": {
+    "a": "chloride",
+    "b": "sulfide",
+    "c": "oxide",
+    "d": "hydroxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the ion F<sup>−</sup>?",
+   "answers": {
+    "a": "oxide",
+    "b": "iodide",
+    "c": "fluoride",
+    "d": "bromide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the ion Cl<sup>−</sup>?",
+   "answers": {
+    "a": "sulfide",
+    "b": "chloride",
+    "c": "fluoride",
+    "d": "iodide"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the ion Br<sup>−</sup>?",
+   "answers": {
+    "a": "iodide",
+    "b": "bromide",
+    "c": "fluoride",
+    "d": "chloride"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the ion I<sup>−</sup>?",
+   "answers": {
+    "a": "iodide",
+    "b": "chloride",
+    "c": "fluoride",
+    "d": "bromide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is Fe(II)S?",
+   "answers": {
+    "a": "iron(II) sulfide",
+    "b": "iron oxide",
+    "c": "iron chloride",
+    "d": "copper sulfide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is CuO?",
+   "answers": {
+    "a": "copper carbonate",
+    "b": "copper sulfide",
+    "c": "iron oxide",
+    "d": "copper(II) oxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "nitrite ion",
+    "b": "carbonate ion",
+    "c": "sulfite ion",
+    "d": "nitrate ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of the carbonate ion?",
+   "answers": {
+    "a": "PO<sub>4</sub><sup>3−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>",
+    "c": "SO<sub>4</sub><sup>2−</sup>",
+    "d": "SO<sub>3</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?",
+   "answers": {
+    "a": "carbonate ion",
+    "b": "ammonium ion",
+    "c": "nitrate ion",
+    "d": "sulfate ion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of the nitrate ion?",
+   "answers": {
+    "a": "NO<sub>2</sub><sup>−</sup>",
+    "b": "SO<sub>4</sub><sup>2−</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "NO<sub>3</sub><sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?",
+   "answers": {
+    "a": "nitrate ion",
+    "b": "ammonium ion",
+    "c": "phosphate ion",
+    "d": "nitrite ion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of the nitrite ion?",
+   "answers": {
+    "a": "NO<sub>3</sub><sup>−</sup>",
+    "b": "SO<sub>4</sub><sup>2−</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "NO<sub>2</sub><sup>−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?",
+   "answers": {
+    "a": "carbonate ion",
+    "b": "sulfite ion",
+    "c": "nitrite ion",
+    "d": "phosphate ion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of the phosphate ion?",
+   "answers": {
+    "a": "SO<sub>3</sub><sup>2−</sup>",
+    "b": "NH<sub>4</sub><sup>+</sup>",
+    "c": "PO<sub>4</sub><sup>3−</sup>",
+    "d": "NO<sub>2</sub><sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?",
+   "answers": {
+    "a": "nitrate ion",
+    "b": "ammonium ion",
+    "c": "phosphate ion",
+    "d": "sulfite ion"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of the ammonium ion?",
+   "answers": {
+    "a": "NO<sub>3</sub><sup>−</sup>",
+    "b": "SO<sub>4</sub><sup>2−</sup>",
+    "c": "NH<sub>4</sub><sup>+</sup>",
+    "d": "NO<sub>2</sub><sup>−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "phosphate ion",
+    "b": "nitrite ion",
+    "c": "sulfate ion",
+    "d": "sulfite ion"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of the sulfite ion?",
+   "answers": {
+    "a": "SO<sub>4</sub><sup>2−</sup>",
+    "b": "SO<sub>3</sub><sup>2−</sup>",
+    "c": "PO<sub>4</sub><sup>3−</sup>",
+    "d": "NO<sub>2</sub><sup>−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?",
+   "answers": {
+    "a": "ammonium ion",
+    "b": "sulfite ion",
+    "c": "sulfate ion",
+    "d": "nitrite ion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of the sulfate ion?",
+   "answers": {
+    "a": "NO<sub>2</sub><sup>−</sup>",
+    "b": "NO<sub>3</sub><sup>−</sup>",
+    "c": "CO<sub>3</sub><sup>2−</sup>",
+    "d": "SO<sub>4</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are the elements in group 1 of the periodic table called?",
+   "answers": {
+    "a": "alkali metals",
+    "b": "alkaline earth metals",
+    "c": "halogens",
+    "d": "noble gases"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which group of the periodic table is called alkalimetalen?",
+   "answers": {
+    "a": "group 17",
+    "b": "group 18",
+    "c": "group 2",
+    "d": "group 1"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are the elements in group 2 of the periodic table called?",
+   "answers": {
+    "a": "alkali metals",
+    "b": "alkaline earth metals",
+    "c": "halogens",
+    "d": "noble gases"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which group of the periodic table is called aardalkalimetalen?",
+   "answers": {
+    "a": "group 17",
+    "b": "group 18",
+    "c": "group 2",
+    "d": "group 1"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are the elements in group 17 of the periodic table called?",
+   "answers": {
+    "a": "alkaline earth metals",
+    "b": "alkali metals",
+    "c": "noble gases",
+    "d": "halogens"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which group of the periodic table is called halogenen?",
+   "answers": {
+    "a": "group 1",
+    "b": "group 18",
+    "c": "group 17",
+    "d": "group 2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Of which ion do all salts dissolve well?",
+   "answers": {
+    "a": "Pb<sup>2+</sup>",
+    "b": "Ca<sup>2+</sup>",
+    "c": "Na<sup>+</sup>",
+    "d": "Ag<sup>+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "The salts of which ion all dissolve well in water?",
+   "answers": {
+    "a": "Ca<sup>2+</sup>",
+    "b": "Ag<sup>+</sup>",
+    "c": "K<sup>+</sup>",
+    "d": "Pb<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Of which polyatomic ion do all salts dissolve well?",
+   "answers": {
+    "a": "CO<sub>3</sub><sup>2−</sup>",
+    "b": "S<sup>2−</sup>",
+    "c": "NO<sub>3</sub><sup>−</sup>",
+    "d": "PO<sub>4</sub><sup>3−</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many bonds does an element from group 16 (almost) always form?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many bonds does an element from group 17 (almost) always form?",
+   "answers": {
+    "a": "4",
+    "b": "1",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many bonds does an element from group 15 (almost) always form?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "1",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many bonds does an element from group 14 (almost) always form?",
+   "answers": {
+    "a": "3",
+    "b": "1",
+    "c": "4",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which gas is poisonous?",
+   "answers": {
+    "a": "carbon monoxide (CO)",
+    "b": "oxygen gas (O<sub>2</sub>)",
+    "c": "nitrogen gas (N<sub>2</sub>)",
+    "d": "hydrogen gas (H<sub>2</sub>)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of carbon monoxide?",
+   "answers": {
+    "a": "C<sub>2</sub>O",
+    "b": "CO",
+    "c": "CH",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to the gas oxygen that we breathe in with the air?",
+   "answers": {
+    "a": "O<sub>2</sub>",
+    "b": "CO",
+    "c": "CO<sub>2</sub>",
+    "d": "N<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which formula belongs to the gas nitrogen that we breathe in with the air?",
+   "answers": {
+    "a": "CO<sub>2</sub>",
+    "b": "O<sub>2</sub>",
+    "c": "N<sub>2</sub>",
+    "d": "CO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are hydrocarbons?",
+   "answers": {
+    "a": "molecules that mainly contain N atoms and H atoms",
+    "b": "molecules that mainly contain H atoms and O atoms",
+    "c": "molecules that mainly contain C atoms and H atoms",
+    "d": "molecules that mainly contain C atoms and O atoms"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which two types of atom do hydrocarbons mainly consist of?",
+   "answers": {
+    "a": "nitrogen (N) and hydrogen (H)",
+    "b": "carbon (C) and hydrogen (H)",
+    "c": "hydrogen (H) and oxygen (O)",
+    "d": "carbon (C) and oxygen (O)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula CH<sub>4</sub>?",
+   "answers": {
+    "a": "propene",
+    "b": "propane",
+    "c": "butene",
+    "d": "methane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of methane?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "C<sub>2</sub>H<sub>5</sub>OH",
+    "c": "C<sub>2</sub>H<sub>4</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has the formula C<sub>2</sub>H<sub>6</sub>?",
+   "answers": {
+    "a": "ethane",
+    "b": "butene",
+    "c": "hexane",
+    "d": "ethanol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of ethane?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>8</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "C<sub>2</sub>H<sub>4</sub>",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula C<sub>3</sub>H<sub>8</sub>?",
+   "answers": {
+    "a": "hexane",
+    "b": "propane",
+    "c": "butene",
+    "d": "ethanol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of propane?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>",
+    "b": "CH<sub>4</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>4</sub>H<sub>10</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula C<sub>4</sub>H<sub>10</sub>?",
+   "answers": {
+    "a": "propane",
+    "b": "butane",
+    "c": "pentane",
+    "d": "hexane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of butane?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>6</sub>",
+    "b": "C<sub>3</sub>H<sub>8</sub>",
+    "c": "C<sub>2</sub>H<sub>6</sub>",
+    "d": "C<sub>4</sub>H<sub>10</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the formula C<sub>5</sub>H<sub>12</sub>?",
+   "answers": {
+    "a": "ethene",
+    "b": "ethane",
+    "c": "pentane",
+    "d": "propane"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of pentane?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>4</sub>",
+    "b": "C<sub>3</sub>H<sub>6</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>5</sub>H<sub>12</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the formula C<sub>6</sub>H<sub>14</sub>?",
+   "answers": {
+    "a": "butene",
+    "b": "ethane",
+    "c": "propane",
+    "d": "hexane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of hexane?",
+   "answers": {
+    "a": "C<sub>5</sub>H<sub>12</sub>",
+    "b": "C<sub>6</sub>H<sub>14</sub>",
+    "c": "CH<sub>4</sub>",
+    "d": "C<sub>4</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula C<sub>2</sub>H<sub>4</sub>?",
+   "answers": {
+    "a": "ethene",
+    "b": "butene",
+    "c": "pentane",
+    "d": "methane"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of ethene?",
+   "answers": {
+    "a": "C<sub>3</sub>H<sub>8</sub>",
+    "b": "C<sub>4</sub>H<sub>10</sub>",
+    "c": "C<sub>2</sub>H<sub>4</sub>",
+    "d": "C<sub>2</sub>H<sub>5</sub>OH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula C<sub>3</sub>H<sub>6</sub>?",
+   "answers": {
+    "a": "butene",
+    "b": "hexane",
+    "c": "propane",
+    "d": "propene"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of propene?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "C<sub>2</sub>H<sub>4</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>3</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the formula C<sub>4</sub>H<sub>8</sub>?",
+   "answers": {
+    "a": "propane",
+    "b": "butene",
+    "c": "pentane",
+    "d": "ethanol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of butene?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "C<sub>4</sub>H<sub>8</sub>",
+    "c": "C<sub>4</sub>H<sub>10</sub>",
+    "d": "C<sub>5</sub>H<sub>12</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula C<sub>2</sub>H<sub>5</sub>OH?",
+   "answers": {
+    "a": "ethene",
+    "b": "butene",
+    "c": "propene",
+    "d": "ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of ethanol?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>10</sub>",
+    "b": "CH<sub>4</sub>",
+    "c": "C<sub>2</sub>H<sub>5</sub>OH",
+    "d": "C<sub>3</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has the formula H<sub>2</sub>O?",
+   "answers": {
+    "a": "water",
+    "b": "carbon dioxide",
+    "c": "table salt",
+    "d": "hydrochloric acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of water?",
+   "answers": {
+    "a": "NaCl",
+    "b": "H<sub>2</sub>O",
+    "c": "HCl",
+    "d": "CH<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the formula CO<sub>2</sub>?",
+   "answers": {
+    "a": "hydrochloric acid",
+    "b": "carbon dioxide",
+    "c": "table salt",
+    "d": "methane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of carbon dioxide?",
+   "answers": {
+    "a": "NaCl",
+    "b": "H<sub>2</sub>O",
+    "c": "HCl",
+    "d": "CO<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "nitric acid",
+    "b": "hydrochloric acid",
+    "c": "sulfuric acid",
+    "d": "acetic acid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of sulfuric acid?",
+   "answers": {
+    "a": "HNO<sub>3</sub>",
+    "b": "H<sub>2</sub>SO<sub>4</sub>",
+    "c": "HAc",
+    "d": "HCl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the acid with the formula HNO<sub>3</sub>?",
+   "answers": {
+    "a": "sulfuric acid",
+    "b": "acetic acid",
+    "c": "hydrochloric acid",
+    "d": "nitric acid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of nitric acid?",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub>",
+    "b": "HNO<sub>3</sub>",
+    "c": "HAc",
+    "d": "HCl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the acid with the formula HCl?",
+   "answers": {
+    "a": "hydrochloric acid",
+    "b": "sulfuric acid",
+    "c": "nitric acid",
+    "d": "acetic acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of hydrochloric acid?",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub>",
+    "b": "HCl",
+    "c": "HNO<sub>3</sub>",
+    "d": "HAc"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the acid with the formula HAc?",
+   "answers": {
+    "a": "acetic acid",
+    "b": "hydrochloric acid",
+    "c": "nitric acid",
+    "d": "sulfuric acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of acetic acid?",
+   "answers": {
+    "a": "HCl",
+    "b": "HAc",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the substance with the formula NH<sub>3</sub>?",
+   "answers": {
+    "a": "potassium hydroxide solution",
+    "b": "calcium hydroxide",
+    "c": "sodium hydroxide solution",
+    "d": "ammonia"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of ammonia?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub>",
+    "b": "KOH",
+    "c": "NH<sub>3</sub>",
+    "d": "NaOH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of the substance with the formula KOH?",
+   "answers": {
+    "a": "sodium hydroxide solution",
+    "b": "potassium hydroxide solution",
+    "c": "calcium hydroxide",
+    "d": "ammonia"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of potassium hydroxide solution?",
+   "answers": {
+    "a": "NaOH",
+    "b": "KOH",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the substance with the formula NaOH?",
+   "answers": {
+    "a": "sodium hydroxide solution",
+    "b": "calcium hydroxide",
+    "c": "potassium hydroxide solution",
+    "d": "ammonia"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of sodium hydroxide solution?",
+   "answers": {
+    "a": "KOH",
+    "b": "NaOH",
+    "c": "NH<sub>3</sub>",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of the substance with the formula Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "ammonia",
+    "b": "calcium hydroxide",
+    "c": "potassium hydroxide solution",
+    "d": "sodium hydroxide solution"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of calcium hydroxide?",
+   "answers": {
+    "a": "NH<sub>3</sub>",
+    "b": "KOH",
+    "c": "NaOH",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula belongs to limestone and marble?",
+   "answers": {
+    "a": "CaCO<sub>3</sub>",
+    "b": "KOH",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of a solution of Ca(OH)<sub>2</sub> in water?",
+   "answers": {
+    "a": "sodium hydroxide solution",
+    "b": "hydrochloric acid",
+    "c": "limewater",
+    "d": "potassium hydroxide solution"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you write that HCl dissolves in water?",
+   "answers": {
+    "a": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "b": "HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)",
+    "d": "HCl (s) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you write that NaOH dissolves in water?",
+   "answers": {
+    "a": "NaOH (s) → Na<sup>+</sup> (aq) + O<sup>2−</sup> (aq)",
+    "b": "NaOH (g) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "c": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "d": "NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which particles are in table salt dissolved in water?",
+   "answers": {
+    "a": "Na (aq) + Cl<sub>2</sub> (aq)",
+    "b": "Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)",
+    "c": "NaCl (s)",
+    "d": "Na<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the substance NaCl called in everyday life?",
+   "answers": {
+    "a": "table salt",
+    "b": "limewater",
+    "c": "sodium hydroxide solution",
+    "d": "hydrochloric acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is HCl an acid, a base or a salt?",
+   "answers": {
+    "a": "a base",
+    "b": "a metal",
+    "c": "an acid",
+    "d": "a salt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is NaOH an acid, a base or a salt?",
+   "answers": {
+    "a": "an acid",
+    "b": "a salt",
+    "c": "a metal",
+    "d": "a base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is KOH an acid, a base or a salt?",
+   "answers": {
+    "a": "a metal",
+    "b": "a salt",
+    "c": "a base",
+    "d": "an acid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is NaCl an acid, a base or a salt?",
+   "answers": {
+    "a": "a salt",
+    "b": "a metal",
+    "c": "a base",
+    "d": "an acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is CaCO<sub>3</sub> an acid, a base or a salt?",
+   "answers": {
+    "a": "an acid",
+    "b": "a salt",
+    "c": "a metal",
+    "d": "a base"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the pH of a neutral solution?",
+   "answers": {
+    "a": "7",
+    "b": "10",
+    "c": "1",
+    "d": "14"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a pH of 14?",
+   "answers": {
+    "a": "acidic",
+    "b": "basic (alkaline)",
+    "c": "weak acid",
+    "d": "neutral"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a pH of 1?",
+   "answers": {
+    "a": "neutral",
+    "b": "weakly basic",
+    "c": "acidic",
+    "d": "basic (alkaline)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Between which numbers does the pH scale run in your list?",
+   "answers": {
+    "a": "0 en 7",
+    "b": "7 en 14",
+    "c": "1 en 7",
+    "d": "1 en 14"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has the formula CH<sub>3</sub>COOH?",
+   "answers": {
+    "a": "ethanoic acid (acetic acid)",
+    "b": "sulfuric acid",
+    "c": "nitric acid",
+    "d": "hydrochloric acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of ethanoic acid (acetic acid)?",
+   "answers": {
+    "a": "HNO<sub>3</sub>",
+    "b": "H<sub>2</sub>SO<sub>4</sub>",
+    "c": "HCl",
+    "d": "CH<sub>3</sub>COOH"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does (s) after the name of a substance stand for?",
+   "answers": {
+    "a": "solid",
+    "b": "gas",
+    "c": "liquid",
+    "d": "dissolved in water (aqua)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which state symbol belongs to: solid?",
+   "answers": {
+    "a": "(g)",
+    "b": "(s)",
+    "c": "(aq)",
+    "d": "(l)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does (l) after the name of a substance stand for?",
+   "answers": {
+    "a": "liquid",
+    "b": "gas",
+    "c": "solid",
+    "d": "dissolved in water (aqua)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which state symbol belongs to: liquid?",
+   "answers": {
+    "a": "(s)",
+    "b": "(l)",
+    "c": "(g)",
+    "d": "(aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does (g) after the name of a substance stand for?",
+   "answers": {
+    "a": "gas",
+    "b": "dissolved in water (aqua)",
+    "c": "liquid",
+    "d": "solid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which state symbol belongs to: gas?",
+   "answers": {
+    "a": "(l)",
+    "b": "(g)",
+    "c": "(aq)",
+    "d": "(s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does (aq) after the name of a substance stand for?",
+   "answers": {
+    "a": "solid",
+    "b": "liquid",
+    "c": "dissolved in water (aqua)",
+    "d": "gas"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which state symbol belongs to: dissolved in water (aqua)?",
+   "answers": {
+    "a": "(l)",
+    "b": "(aq)",
+    "c": "(g)",
+    "d": "(s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many changes of state are there?",
+   "answers": {
+    "a": "6",
+    "b": "8",
+    "c": "4",
+    "d": "5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these is a change of state?",
+   "answers": {
+    "a": "settling",
+    "b": "dissolving",
+    "c": "filtration",
+    "d": "freezing"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which of these is also a change of state?",
+   "answers": {
+    "a": "evaporation",
+    "b": "filtration",
+    "c": "deposition",
+    "d": "dissolving"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which of these is NOT a change of state?",
+   "answers": {
+    "a": "melting",
+    "b": "vaporisation",
+    "c": "dissolving",
+    "d": "sublimation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which of these is also NOT a change of state?",
+   "answers": {
+    "a": "condensation",
+    "b": "filtration",
+    "c": "deposition",
+    "d": "freezing"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the everyday name of a substance, such as table salt, called?",
+   "answers": {
+    "a": "formula",
+    "b": "state symbol",
+    "c": "trivial name",
+    "d": "atomic symbol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the trivial names and the chemical names of substances?",
+   "answers": {
+    "a": "table 66",
+    "b": "table 2",
+    "c": "table 9",
+    "d": "table 52"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the periodic table?",
+   "answers": {
+    "a": "table 99",
+    "b": "table 98",
+    "c": "table 66",
+    "d": "table 9"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the mass of common substances?",
+   "answers": {
+    "a": "table 98",
+    "b": "table 99",
+    "c": "table 9",
+    "d": "table 66"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which sentence is the (Dutch) mnemonic for the separation methods?",
+   "answers": {
+    "a": "Anne, Bart en Claire Eten Dunne Friet In Amsterdam Centraal",
+    "b": "Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal (the first letters of the Dutch names: Afgieten, Bezinken, Centrifugeren, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen, Chromatografie)",
+    "c": "Anne, Bart en Claire Eten Dikke Friet In Amsterdam Zuid",
+    "d": "Bart, Anne en Claire Eten Dikke Friet In Amsterdam Centraal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many separation methods are there in the mnemonic?",
+   "answers": {
+    "a": "9",
+    "b": "10",
+    "c": "7",
+    "d": "8"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method goes with the letter D in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Evaporation (Indampen)",
+    "c": "Distillation",
+    "d": "Filtration"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method goes with the letter F in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Extraction (Extraheren)",
+    "c": "Evaporation (Indampen)",
+    "d": "Distillation"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method goes with the letter I in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "answers": {
+    "a": "Distillation",
+    "b": "Evaporation (Indampen)",
+    "c": "Extraction (Extraheren)",
+    "d": "Filtration"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which separation method goes with the letter E in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Evaporation (Indampen)",
+    "c": "Extraction (Extraheren)",
+    "d": "Distillation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method goes with the letter B in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?",
+   "answers": {
+    "a": "Settling (Bezinken)",
+    "b": "Distillation",
+    "c": "Adsorption",
+    "d": "Filtration"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What are settling, decanting and centrifuging as separation methods based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "ability to attach to a surface",
+    "c": "density",
+    "d": "boiling point"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is filtration as a separation method based on?",
+   "answers": {
+    "a": "boiling point",
+    "b": "density",
+    "c": "ability to attach to a surface",
+    "d": "particle size"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is evaporation as a separation method based on?",
+   "answers": {
+    "a": "particle size",
+    "b": "ability to attach to a surface",
+    "c": "boiling point",
+    "d": "density"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is distillation as a separation method based on?",
+   "answers": {
+    "a": "ability to attach to a surface",
+    "b": "particle size",
+    "c": "density",
+    "d": "difference in boiling point between liquids"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is adsorption as a separation method based on?",
+   "answers": {
+    "a": "boiling point",
+    "b": "particle size",
+    "c": "density",
+    "d": "ability to attach to a surface"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is extraction as a separation method based on?",
+   "answers": {
+    "a": "boiling point",
+    "b": "particle size",
+    "c": "a solid dissolves better in a liquid",
+    "d": "density"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method separates on the basis of density?",
+   "answers": {
+    "a": "Settling, decanting and centrifuging",
+    "b": "Evaporation (Indampen)",
+    "c": "Adsorption",
+    "d": "Filtration"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method separates on the basis of particle size?",
+   "answers": {
+    "a": "Distillation",
+    "b": "Adsorption",
+    "c": "Filtration",
+    "d": "Settling, decanting and centrifuging"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method separates on the basis of the difference in boiling point between liquids?",
+   "answers": {
+    "a": "Settling, decanting and centrifuging",
+    "b": "Filtration",
+    "c": "Distillation",
+    "d": "Adsorption"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method separates on the basis of the ability to attach to a surface?",
+   "answers": {
+    "a": "Settling, decanting and centrifuging",
+    "b": "Filtration",
+    "c": "Distillation",
+    "d": "Adsorption"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which separation method do you use to obtain salt from salt water?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Evaporation (Indampen)",
+    "c": "Filtration",
+    "d": "Settling, decanting and centrifuging"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Making tea is an example of which separation method?",
+   "answers": {
+    "a": "Distillation",
+    "b": "Adsorption",
+    "c": "Extraction (Extraheren)",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Removing alcohol from wine is an example of which separation method?",
+   "answers": {
+    "a": "Filtration",
+    "b": "Distillation",
+    "c": "Adsorption",
+    "d": "Settling, decanting and centrifuging"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Removing colour from methylated spirits with activated carbon is an example of which separation method?",
+   "answers": {
+    "a": "Settling, decanting and centrifuging",
+    "b": "Evaporation (Indampen)",
+    "c": "Adsorption",
+    "d": "Distillation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Removing poisonous substances from the air with a gas mask is an example of which separation method?",
+   "answers": {
+    "a": "Adsorption",
+    "b": "Extraction (Extraheren)",
+    "c": "Distillation",
+    "d": "Evaporation (Indampen)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method separates on the basis of solubility in the mobile phase (the solvent that moves) and the ability to attach to the surface (the stationary phase)?",
+   "answers": {
+    "a": "Extraction (Extraheren)",
+    "b": "Distillation",
+    "c": "Filtration",
+    "d": "Chromatography"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Paper chromatography is an example of which separation method?",
+   "answers": {
+    "a": "Evaporation (Indampen)",
+    "b": "Filtration",
+    "c": "Chromatography",
+    "d": "Distillation"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula for density?",
+   "answers": {
+    "a": "density = mass − volume",
+    "b": "density = mass × volume",
+    "c": "density = volume / mass",
+    "d": "density = mass / volume"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which unit do you give the density in your list?",
+   "answers": {
+    "a": "kg × m<sup>3</sup>",
+    "b": "cm<sup>3</sup>/g",
+    "c": "g/cm<sup>3</sup>",
+    "d": "g × cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the prefix milli mean?",
+   "answers": {
+    "a": "1/1000",
+    "b": "1/100",
+    "c": "times 1000",
+    "d": "1/10"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does the prefix kilo mean?",
+   "answers": {
+    "a": "times 1000",
+    "b": "times 100",
+    "c": "times 10",
+    "d": "1/1000"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many litres is 4000 mL?",
+   "answers": {
+    "a": "400 L",
+    "b": "4 L",
+    "c": "0.4 L",
+    "d": "40 L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many litres is 1000 mL?",
+   "answers": {
+    "a": "10 L",
+    "b": "0.1 L",
+    "c": "1 L",
+    "d": "100 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many grams is 3 kg?",
+   "answers": {
+    "a": "3000 g",
+    "b": "0.3 g",
+    "c": "30 g",
+    "d": "300 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many kg is 2000 g?",
+   "answers": {
+    "a": "0.2 kg",
+    "b": "200 kg",
+    "c": "20 kg",
+    "d": "2 kg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which formula do you use to convert degrees Celsius to kelvin?",
+   "answers": {
+    "a": "K = °C × 273",
+    "b": "°C = K + 273",
+    "c": "K = °C − 273",
+    "d": "K = °C + 273"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many K is 0 °C?",
+   "answers": {
+    "a": "0 K",
+    "b": "273 K",
+    "c": "−273 K",
+    "d": "100 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many K is 20 °C?",
+   "answers": {
+    "a": "293 K",
+    "b": "253 K",
+    "c": "273 K",
+    "d": "20 K"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many °C is 273 K?",
+   "answers": {
+    "a": "100 °C",
+    "b": "273 °C",
+    "c": "0 °C",
+    "d": "−273 °C"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many °C is 293 K?",
+   "answers": {
+    "a": "20 °C",
+    "b": "293 °C",
+    "c": "−20 °C",
+    "d": "566 °C"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many °C is 0 K?",
+   "answers": {
+    "a": "273 °C",
+    "b": "0 °C",
+    "c": "−100 °C",
+    "d": "−273 °C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the prefixes?",
+   "answers": {
+    "a": "table 2",
+    "b": "table 66",
+    "c": "table 9",
+    "d": "table 98"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

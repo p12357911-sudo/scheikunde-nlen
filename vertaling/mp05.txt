@@ -1,0 +1,2697 @@
+### sk4h-begrippen-MP
+0.Q What is the name of the element with the symbol Na?
+0.B sodium
+0.C tin
+0.D copper
+1.Q What is the symbol of sodium?
+1.A Ag
+1.B Fe
+1.C Mg
+1.D Na
+2.Q What is the name of the element with the symbol K?
+2.A carbon
+2.B lead
+2.C iodine
+2.D potassium
+3.Q What is the symbol of potassium?
+3.A F
+3.B K
+3.C Cu
+3.D Ag
+4.Q What is the name of the element with the symbol Li?
+4.B zinc
+4.D iron
+5.Q What is the symbol of lithium?
+5.A P
+5.B Li
+5.C Sn
+5.D N
+6.Q What is the name of the element with the symbol Ca?
+6.C iodine
+6.D carbon
+7.Q What is the symbol of calcium?
+7.A I
+7.B Ca
+7.C Na
+7.D C
+8.Q What is the name of the element with the symbol Mg?
+8.A chlorine
+8.B silver
+9.Q What is the symbol of magnesium?
+9.A Ca
+9.B Mg
+9.C C
+9.D Cu
+10.Q What is the name of the element with the symbol Al?
+10.A chlorine
+10.C potassium
+10.D copper
+11.Q What is the symbol of aluminium?
+11.A Mg
+11.B Al
+11.C K
+11.D Pb
+12.Q What is the name of the element with the symbol Fe?
+12.A lead
+12.B hydrogen
+12.C iron
+12.D iodine
+13.Q What is the symbol of iron?
+13.A Cl
+13.B Mg
+13.C Fe
+13.D Sn
+14.Q What is the name of the element with the symbol Cu?
+14.A tin
+14.B zinc
+14.D copper
+15.Q What is the symbol of copper?
+15.A I
+15.B P
+15.C Na
+15.D Cu
+16.Q What is the name of the element with the symbol Pb?
+16.A oxygen
+16.B lead
+16.D phosphorus
+17.Q What is the symbol of lead?
+17.A Li
+17.B Zn
+17.C C
+17.D Pb
+18.Q What is the name of the element with the symbol Ag?
+18.A zinc
+18.C fluorine
+18.D silver
+19.Q What is the symbol of silver?
+19.A Ag
+19.B Br
+19.C Fe
+19.D K
+20.Q What is the name of the element with the symbol Sn?
+20.B bromine
+20.C tin
+20.D fluorine
+21.Q What is the symbol of tin?
+21.A Pb
+21.B Zn
+21.C H
+21.D Sn
+22.Q What is the name of the element with the symbol Zn?
+22.A oxygen
+22.B zinc
+22.C silver
+23.Q What is the symbol of zinc?
+23.A Zn
+23.B Sn
+23.C Cl
+23.D Fe
+24.Q What is the name of the element with the symbol F?
+24.A phosphorus
+24.B iodine
+24.C fluorine
+24.D tin
+25.Q What is the symbol of fluorine?
+25.A Cu
+25.B Na
+25.C F
+25.D Al
+26.Q What is the name of the element with the symbol Cl?
+26.B bromine
+26.C zinc
+26.D chlorine
+27.Q What is the symbol of chlorine?
+27.A Ag
+27.B C
+27.C Cl
+27.D Mg
+28.Q What is the name of the element with the symbol Br?
+28.A nitrogen
+28.B carbon
+28.D bromine
+29.Q What is the symbol of bromine?
+29.A Ag
+29.B Mg
+29.C N
+29.D Br
+30.Q What is the name of the element with the symbol I?
+30.A iodine
+30.B carbon
+30.C silver
+30.D sodium
+31.Q What is the symbol of iodine?
+31.A Cl
+31.B I
+31.C F
+31.D Fe
+32.Q What is the name of the element with the symbol N?
+32.A nitrogen
+32.B chlorine
+32.C iron
+32.D lead
+33.Q What is the symbol of nitrogen?
+33.A Ca
+33.B N
+33.C C
+33.D F
+34.Q What is the name of the element with the symbol O?
+34.B fluorine
+34.C oxygen
+34.D nitrogen
+35.Q What is the symbol of oxygen?
+35.A Cu
+35.B I
+35.C C
+35.D O
+36.Q What is the name of the element with the symbol P?
+36.A bromine
+36.B iron
+36.C phosphorus
+37.Q What is the symbol of phosphorus?
+37.A Pb
+37.B N
+37.C Cl
+37.D P
+38.Q What is the name of the element with the symbol C?
+38.A iodine
+38.B phosphorus
+38.C carbon
+38.D bromine
+39.Q What is the symbol of carbon?
+39.A P
+39.B C
+39.C Br
+39.D Zn
+40.Q What is the name of the element with the symbol H?
+40.A phosphorus
+40.B copper
+40.C hydrogen
+40.D oxygen
+41.Q What is the symbol of hydrogen?
+41.A H
+41.B Li
+41.C Na
+41.D Zn
+42.Q What charge does the ion of sodium (Na) have?
+42.A 1−
+42.B 3−
+42.C 2−
+42.D 1+
+43.Q Which ion belongs to sodium?
+43.A Na<sup>−</sup>
+43.B Na<sup>3+</sup>
+43.C Na<sup>3−</sup>
+43.D Na<sup>+</sup>
+44.Q What charge does the ion of potassium (K) have?
+44.A 3+
+44.B 1+
+44.C 3−
+44.D 1−
+45.Q Which ion belongs to potassium?
+45.A K<sup>+</sup>
+45.B K<sup>3−</sup>
+45.C K<sup>2−</sup>
+45.D K<sup>−</sup>
+46.Q What charge does the ion of lithium (Li) have?
+46.A 1+
+46.B 2+
+46.C 3+
+46.D 1−
+47.Q Which ion belongs to lithium?
+47.A Li<sup>2+</sup>
+47.B Li<sup>+</sup>
+47.C Li<sup>2−</sup>
+47.D Li<sup>3−</sup>
+48.Q What charge does the ion of calcium (Ca) have?
+48.A 3−
+48.B 2−
+48.C 1+
+48.D 2+
+49.Q Which ion belongs to calcium?
+49.A Ca<sup>−</sup>
+49.B Ca<sup>3+</sup>
+49.C Ca<sup>3−</sup>
+49.D Ca<sup>2+</sup>
+50.Q What charge does the ion of magnesium (Mg) have?
+50.A 2+
+50.B 1−
+50.C 1+
+50.D 2−
+51.Q Which ion belongs to magnesium?
+51.A Mg<sup>3−</sup>
+51.B Mg<sup>3+</sup>
+51.C Mg<sup>2+</sup>
+51.D Mg<sup>−</sup>
+52.Q What charge does the ion of aluminium (Al) have?
+52.A 3+
+52.B 1−
+52.C 2+
+52.D 3−
+53.Q Which ion belongs to aluminium?
+53.A Al<sup>3+</sup>
+53.B Al<sup>+</sup>
+53.C Al<sup>3−</sup>
+53.D Al<sup>2−</sup>
+54.Q What charge does the ion of copper (Cu) have?
+54.A 2+
+54.B 1−
+54.C 3+
+54.D 2−
+55.Q Which ion belongs to copper?
+55.A Cu<sup>−</sup>
+55.B Cu<sup>2−</sup>
+55.C Cu<sup>2+</sup>
+55.D Cu<sup>3+</sup>
+56.Q What charge does the ion of lead (Pb) have?
+56.A 1−
+56.B 3−
+56.C 2+
+56.D 3+
+57.Q Which ion belongs to lead?
+57.A Pb<sup>2+</sup>
+57.B Pb<sup>+</sup>
+57.C Pb<sup>3+</sup>
+57.D Pb<sup>2−</sup>
+58.Q What charge does the ion of silver (Ag) have?
+58.A 1+
+58.B 3+
+58.C 2+
+58.D 1−
+59.Q Which ion belongs to silver?
+59.A Ag<sup>−</sup>
+59.B Ag<sup>3−</sup>
+59.C Ag<sup>3+</sup>
+59.D Ag<sup>+</sup>
+60.Q What charge does the ion of tin (Sn) have?
+60.A 3−
+60.B 3+
+60.C 1+
+60.D 2+
+61.Q Which ion belongs to tin?
+61.A Sn<sup>+</sup>
+61.B Sn<sup>2−</sup>
+61.C Sn<sup>−</sup>
+61.D Sn<sup>2+</sup>
+62.Q What charge does the ion of zinc (Zn) have?
+62.A 2−
+62.B 1−
+62.C 3+
+62.D 2+
+63.Q Which ion belongs to zinc?
+63.A Zn<sup>−</sup>
+63.B Zn<sup>2+</sup>
+63.C Zn<sup>+</sup>
+63.D Zn<sup>3+</sup>
+64.Q What charge does the ion of fluorine (F) have?
+64.A 3−
+64.B 1−
+64.C 2−
+64.D 1+
+65.Q Which ion belongs to fluorine?
+65.A F<sup>−</sup>
+65.B F<sup>3−</sup>
+65.C F<sup>2+</sup>
+65.D F<sup>2−</sup>
+66.Q What charge does the ion of chlorine (Cl) have?
+66.A 3−
+66.B 1−
+66.C 2+
+66.D 3+
+67.Q Which ion belongs to chlorine?
+67.A Cl<sup>3−</sup>
+67.B Cl<sup>+</sup>
+67.C Cl<sup>−</sup>
+67.D Cl<sup>2+</sup>
+68.Q What charge does the ion of bromine (Br) have?
+68.A 1+
+68.B 2+
+68.C 3+
+68.D 1−
+69.Q Which ion belongs to bromine?
+69.A Br<sup>−</sup>
+69.B Br<sup>+</sup>
+69.C Br<sup>2−</sup>
+69.D Br<sup>2+</sup>
+70.Q What charge does the ion of iodine (I) have?
+70.A 3−
+70.B 2+
+70.C 2−
+70.D 1−
+71.Q Which ion belongs to iodine?
+71.A I<sup>3−</sup>
+71.B I<sup>−</sup>
+71.C I<sup>2−</sup>
+71.D I<sup>+</sup>
+72.Q What charge does the ion of iron have?
+72.A 2+ of 3+
+72.B 2−
+72.C 1+
+72.D 1−
+73.Q What colour does copper(II) (Cu<sup>2+</sup>) have in your list?
+73.A blue
+75.Q What is the name of the ion S<sup>2−</sup>?
+75.D oxide
+76.Q What is the name of the ion O<sup>2−</sup>?
+76.C oxide
+77.Q What is the name of the ion F<sup>−</sup>?
+77.A oxide
+78.Q What is the name of the ion Cl<sup>−</sup>?
+79.Q What is the name of the ion Br<sup>−</sup>?
+80.Q What is the name of the ion I<sup>−</sup>?
+81.Q Which substance is Fe(II)S?
+81.A iron(II) sulfide
+82.Q Which substance is CuO?
+82.D copper(II) oxide
+83.Q What is the name of the polyatomic ion CO<sub>3</sub><sup>2−</sup>?
+83.A nitrite ion
+83.B carbonate ion
+83.C sulfite ion
+83.D nitrate ion
+84.Q What is the formula of the carbonate ion?
+84.A PO<sub>4</sub><sup>3−</sup>
+84.B CO<sub>3</sub><sup>2−</sup>
+84.C SO<sub>4</sub><sup>2−</sup>
+84.D SO<sub>3</sub><sup>2−</sup>
+85.Q What is the name of the polyatomic ion NO<sub>3</sub><sup>−</sup>?
+85.A carbonate ion
+85.B ammonium ion
+85.C nitrate ion
+85.D sulfate ion
+86.Q What is the formula of the nitrate ion?
+86.A NO<sub>2</sub><sup>−</sup>
+86.B SO<sub>4</sub><sup>2−</sup>
+86.C NH<sub>4</sub><sup>+</sup>
+86.D NO<sub>3</sub><sup>−</sup>
+87.Q What is the name of the polyatomic ion NO<sub>2</sub><sup>−</sup>?
+87.A nitrate ion
+87.B ammonium ion
+87.C phosphate ion
+87.D nitrite ion
+88.Q What is the formula of the nitrite ion?
+88.A NO<sub>3</sub><sup>−</sup>
+88.B SO<sub>4</sub><sup>2−</sup>
+88.C NH<sub>4</sub><sup>+</sup>
+88.D NO<sub>2</sub><sup>−</sup>
+89.Q What is the name of the polyatomic ion PO<sub>4</sub><sup>3−</sup>?
+89.A carbonate ion
+89.B sulfite ion
+89.C nitrite ion
+89.D phosphate ion
+90.Q What is the formula of the phosphate ion?
+90.A SO<sub>3</sub><sup>2−</sup>
+90.B NH<sub>4</sub><sup>+</sup>
+90.C PO<sub>4</sub><sup>3−</sup>
+90.D NO<sub>2</sub><sup>−</sup>
+91.Q What is the name of the polyatomic ion NH<sub>4</sub><sup>+</sup>?
+91.A nitrate ion
+91.B ammonium ion
+91.C phosphate ion
+91.D sulfite ion
+92.Q What is the formula of the ammonium ion?
+92.A NO<sub>3</sub><sup>−</sup>
+92.B SO<sub>4</sub><sup>2−</sup>
+92.C NH<sub>4</sub><sup>+</sup>
+92.D NO<sub>2</sub><sup>−</sup>
+93.Q What is the name of the polyatomic ion SO<sub>3</sub><sup>2−</sup>?
+93.A phosphate ion
+93.B nitrite ion
+93.C sulfate ion
+93.D sulfite ion
+94.Q What is the formula of the sulfite ion?
+94.A SO<sub>4</sub><sup>2−</sup>
+94.B SO<sub>3</sub><sup>2−</sup>
+94.C PO<sub>4</sub><sup>3−</sup>
+94.D NO<sub>2</sub><sup>−</sup>
+95.Q What is the name of the polyatomic ion SO<sub>4</sub><sup>2−</sup>?
+95.A ammonium ion
+95.B sulfite ion
+95.C sulfate ion
+95.D nitrite ion
+96.Q What is the formula of the sulfate ion?
+96.A NO<sub>2</sub><sup>−</sup>
+96.B NO<sub>3</sub><sup>−</sup>
+96.C CO<sub>3</sub><sup>2−</sup>
+96.D SO<sub>4</sub><sup>2−</sup>
+97.Q What are the elements in group 1 of the periodic table called?
+97.A alkali metals
+97.B alkaline earth metals
+97.C halogens
+98.Q Which group of the periodic table is called alkalimetalen?
+98.A group 17
+98.C group 2
+98.D group 1
+99.Q What are the elements in group 2 of the periodic table called?
+99.A alkali metals
+99.B alkaline earth metals
+99.C halogens
+100.Q Which group of the periodic table is called aardalkalimetalen?
+100.A group 17
+100.C group 2
+100.D group 1
+101.Q What are the elements in group 17 of the periodic table called?
+101.A alkaline earth metals
+101.B alkali metals
+101.D halogens
+102.Q Which group of the periodic table is called halogenen?
+102.A group 1
+102.C group 17
+102.D group 2
+103.Q Of which ion do all salts dissolve well?
+103.A Pb<sup>2+</sup>
+103.B Ca<sup>2+</sup>
+103.C Na<sup>+</sup>
+103.D Ag<sup>+</sup>
+104.A Ca<sup>2+</sup>
+104.B Ag<sup>+</sup>
+104.C K<sup>+</sup>
+104.D Pb<sup>2+</sup>
+105.Q Of which polyatomic ion do all salts dissolve well?
+105.A CO<sub>3</sub><sup>2−</sup>
+105.B S<sup>2−</sup>
+105.C NO<sub>3</sub><sup>−</sup>
+105.D PO<sub>4</sub><sup>3−</sup>
+106.Q How many bonds does an element from group 16 (almost) always form?
+106.A 2
+106.B 4
+106.C 3
+106.D 1
+107.Q How many bonds does an element from group 17 (almost) always form?
+107.A 4
+107.B 1
+107.C 2
+107.D 3
+108.Q How many bonds does an element from group 15 (almost) always form?
+108.A 4
+108.B 3
+108.C 1
+108.D 2
+109.Q How many bonds does an element from group 14 (almost) always form?
+109.A 3
+109.B 1
+109.C 4
+109.D 2
+110.Q Which gas is poisonous?
+110.A carbon monoxide (CO)
+111.Q What is the formula of carbon monoxide?
+111.A C<sub>2</sub>O
+111.B CO
+111.C CH
+111.D CO<sub>2</sub>
+112.Q Which formula belongs to the gas oxygen that we breathe in with the air?
+112.A O<sub>2</sub>
+112.B CO
+112.C CO<sub>2</sub>
+112.D N<sub>2</sub>
+113.Q Which formula belongs to the gas nitrogen that we breathe in with the air?
+113.A CO<sub>2</sub>
+113.B O<sub>2</sub>
+113.C N<sub>2</sub>
+113.D CO
+114.Q What are hydrocarbons?
+114.C molecules that mainly contain C atoms and H atoms
+115.Q Which two types of atom do hydrocarbons mainly consist of?
+115.B carbon (C) and hydrogen (H)
+116.Q Which substance has the formula CH<sub>4</sub>?
+116.A propene
+116.B propane
+116.C butene
+116.D methane
+117.Q What is the formula of methane?
+117.A CH<sub>4</sub>
+117.B C<sub>2</sub>H<sub>5</sub>OH
+117.C C<sub>2</sub>H<sub>4</sub>
+117.D C<sub>3</sub>H<sub>8</sub>
+118.Q Which substance has the formula C<sub>2</sub>H<sub>6</sub>?
+118.A ethane
+118.B butene
+118.C hexane
+119.Q What is the formula of ethane?
+119.A C<sub>4</sub>H<sub>8</sub>
+119.B C<sub>2</sub>H<sub>6</sub>
+119.C C<sub>2</sub>H<sub>4</sub>
+119.D C<sub>3</sub>H<sub>8</sub>
+120.Q Which substance has the formula C<sub>3</sub>H<sub>8</sub>?
+120.A hexane
+120.B propane
+120.C butene
+121.Q What is the formula of propane?
+121.A C<sub>2</sub>H<sub>4</sub>
+121.B CH<sub>4</sub>
+121.C C<sub>3</sub>H<sub>8</sub>
+121.D C<sub>4</sub>H<sub>10</sub>
+122.Q Which substance has the formula C<sub>4</sub>H<sub>10</sub>?
+122.A propane
+122.B butane
+122.C pentane
+122.D hexane
+123.Q What is the formula of butane?
+123.A C<sub>3</sub>H<sub>6</sub>
+123.B C<sub>3</sub>H<sub>8</sub>
+123.C C<sub>2</sub>H<sub>6</sub>
+123.D C<sub>4</sub>H<sub>10</sub>
+124.Q Which substance has the formula C<sub>5</sub>H<sub>12</sub>?
+124.A ethene
+124.B ethane
+124.C pentane
+124.D propane
+125.Q What is the formula of pentane?
+125.A C<sub>2</sub>H<sub>4</sub>
+125.B C<sub>3</sub>H<sub>6</sub>
+125.C C<sub>3</sub>H<sub>8</sub>
+125.D C<sub>5</sub>H<sub>12</sub>
+126.Q Which substance has the formula C<sub>6</sub>H<sub>14</sub>?
+126.A butene
+126.B ethane
+126.C propane
+126.D hexane
+127.Q What is the formula of hexane?
+127.A C<sub>5</sub>H<sub>12</sub>
+127.B C<sub>6</sub>H<sub>14</sub>
+127.C CH<sub>4</sub>
+127.D C<sub>4</sub>H<sub>8</sub>
+128.Q Which substance has the formula C<sub>2</sub>H<sub>4</sub>?
+128.A ethene
+128.B butene
+128.C pentane
+128.D methane
+129.Q What is the formula of ethene?
+129.A C<sub>3</sub>H<sub>8</sub>
+129.B C<sub>4</sub>H<sub>10</sub>
+129.C C<sub>2</sub>H<sub>4</sub>
+129.D C<sub>2</sub>H<sub>5</sub>OH
+130.Q Which substance has the formula C<sub>3</sub>H<sub>6</sub>?
+130.A butene
+130.B hexane
+130.C propane
+130.D propene
+131.Q What is the formula of propene?
+131.A CH<sub>4</sub>
+131.B C<sub>2</sub>H<sub>4</sub>
+131.C C<sub>3</sub>H<sub>8</sub>
+131.D C<sub>3</sub>H<sub>6</sub>
+132.Q Which substance has the formula C<sub>4</sub>H<sub>8</sub>?
+132.A propane
+132.B butene
+132.C pentane
+133.Q What is the formula of butene?
+133.A CH<sub>4</sub>
+133.B C<sub>4</sub>H<sub>8</sub>
+133.C C<sub>4</sub>H<sub>10</sub>
+133.D C<sub>5</sub>H<sub>12</sub>
+134.Q Which substance has the formula C<sub>2</sub>H<sub>5</sub>OH?
+134.A ethene
+134.B butene
+134.C propene
+135.Q What is the formula of ethanol?
+135.A C<sub>4</sub>H<sub>10</sub>
+135.B CH<sub>4</sub>
+135.C C<sub>2</sub>H<sub>5</sub>OH
+135.D C<sub>3</sub>H<sub>8</sub>
+136.Q Which substance has the formula H<sub>2</sub>O?
+136.A water
+136.B carbon dioxide
+136.D hydrochloric acid
+137.Q What is the formula of water?
+137.A NaCl
+137.B H<sub>2</sub>O
+137.C HCl
+137.D CH<sub>4</sub>
+138.Q Which substance has the formula CO<sub>2</sub>?
+138.A hydrochloric acid
+138.B carbon dioxide
+138.D methane
+139.Q What is the formula of carbon dioxide?
+139.A NaCl
+139.B H<sub>2</sub>O
+139.C HCl
+139.D CO<sub>2</sub>
+140.Q What is the name of the acid with the formula H<sub>2</sub>SO<sub>4</sub>?
+140.A nitric acid
+140.B hydrochloric acid
+140.C sulfuric acid
+140.D acetic acid
+141.Q What is the formula of sulfuric acid?
+141.A HNO<sub>3</sub>
+141.B H<sub>2</sub>SO<sub>4</sub>
+141.C HAc
+141.D HCl
+142.Q What is the name of the acid with the formula HNO<sub>3</sub>?
+142.A sulfuric acid
+142.B acetic acid
+142.C hydrochloric acid
+142.D nitric acid
+143.Q What is the formula of nitric acid?
+143.A H<sub>2</sub>SO<sub>4</sub>
+143.B HNO<sub>3</sub>
+143.C HAc
+143.D HCl
+144.Q What is the name of the acid with the formula HCl?
+144.A hydrochloric acid
+144.B sulfuric acid
+144.C nitric acid
+144.D acetic acid
+145.Q What is the formula of hydrochloric acid?
+145.A H<sub>2</sub>SO<sub>4</sub>
+145.B HCl
+145.C HNO<sub>3</sub>
+145.D HAc
+146.Q What is the name of the acid with the formula HAc?
+146.A acetic acid
+146.B hydrochloric acid
+146.C nitric acid
+146.D sulfuric acid
+147.Q What is the formula of acetic acid?
+147.A HCl
+147.B HAc
+147.C HNO<sub>3</sub>
+147.D H<sub>2</sub>SO<sub>4</sub>
+148.Q What is the name of the substance with the formula NH<sub>3</sub>?
+148.A potassium hydroxide solution
+148.B calcium hydroxide
+148.C sodium hydroxide solution
+148.D ammonia
+149.Q What is the formula of ammonia?
+149.A Ca(OH)<sub>2</sub>
+149.B KOH
+149.C NH<sub>3</sub>
+149.D NaOH
+150.Q What is the name of the substance with the formula KOH?
+150.A sodium hydroxide solution
+150.B potassium hydroxide solution
+150.C calcium hydroxide
+150.D ammonia
+151.Q What is the formula of potassium hydroxide solution?
+151.A NaOH
+151.B KOH
+151.C Ca(OH)<sub>2</sub>
+151.D NH<sub>3</sub>
+152.Q What is the name of the substance with the formula NaOH?
+152.A sodium hydroxide solution
+152.B calcium hydroxide
+152.C potassium hydroxide solution
+152.D ammonia
+153.Q What is the formula of sodium hydroxide solution?
+153.A KOH
+153.B NaOH
+153.C NH<sub>3</sub>
+153.D Ca(OH)<sub>2</sub>
+154.Q What is the name of the substance with the formula Ca(OH)<sub>2</sub>?
+154.A ammonia
+154.B calcium hydroxide
+154.C potassium hydroxide solution
+154.D sodium hydroxide solution
+155.Q What is the formula of calcium hydroxide?
+155.A NH<sub>3</sub>
+155.B KOH
+155.C NaOH
+155.D Ca(OH)<sub>2</sub>
+156.Q Which formula belongs to limestone and marble?
+156.B KOH
+156.C Ca(OH)<sub>2</sub>
+156.D NaCl
+157.Q What is the name of a solution of Ca(OH)<sub>2</sub> in water?
+157.A sodium hydroxide solution
+157.B hydrochloric acid
+157.C limewater
+157.D potassium hydroxide solution
+158.Q How do you write that HCl dissolves in water?
+158.A HCl (g) → H<sup>+</sup> (aq) + Cl<sup>+</sup> (aq)
+158.B HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+158.C HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+158.D HCl (s) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+159.Q How do you write that NaOH dissolves in water?
+160.Q Which particles are in table salt dissolved in water?
+160.A Na (aq) + Cl<sub>2</sub> (aq)
+160.B Na<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+160.D Na<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+161.Q What is the substance NaCl called in everyday life?
+161.B limewater
+161.C sodium hydroxide solution
+161.D hydrochloric acid
+162.Q Is HCl an acid, a base or a salt?
+162.A a base
+162.C an acid
+162.D a salt
+163.Q Is NaOH an acid, a base or a salt?
+163.A an acid
+163.B a salt
+163.D a base
+164.Q Is KOH an acid, a base or a salt?
+164.B a salt
+164.C a base
+164.D an acid
+165.Q Is NaCl an acid, a base or a salt?
+165.A a salt
+165.C a base
+165.D an acid
+166.Q Is CaCO<sub>3</sub> an acid, a base or a salt?
+166.A an acid
+166.B a salt
+166.D a base
+167.Q What is the pH of a neutral solution?
+167.A 7
+167.B 10
+167.C 1
+167.D 14
+168.Q What is a pH of 14?
+168.A acidic
+168.B basic (alkaline)
+169.Q What is a pH of 1?
+169.C acidic
+169.D basic (alkaline)
+170.Q Between which numbers does the pH scale run in your list?
+170.A 0 en 7
+170.B 7 en 14
+170.C 1 en 7
+170.D 1 en 14
+171.Q Which substance has the formula CH<sub>3</sub>COOH?
+171.A ethanoic acid (acetic acid)
+171.B sulfuric acid
+171.C nitric acid
+171.D hydrochloric acid
+172.Q What is the formula of ethanoic acid (acetic acid)?
+172.A HNO<sub>3</sub>
+172.B H<sub>2</sub>SO<sub>4</sub>
+172.C HCl
+173.Q What does (s) after the name of a substance stand for?
+173.A solid
+173.B gas
+173.C liquid
+173.D dissolved in water (aqua)
+174.Q Which state symbol belongs to: solid?
+174.A (g)
+174.B (s)
+174.C (aq)
+174.D (l)
+175.Q What does (l) after the name of a substance stand for?
+175.A liquid
+175.B gas
+175.C solid
+175.D dissolved in water (aqua)
+176.Q Which state symbol belongs to: liquid?
+176.A (s)
+176.B (l)
+176.C (g)
+176.D (aq)
+177.Q What does (g) after the name of a substance stand for?
+177.A gas
+177.B dissolved in water (aqua)
+177.C liquid
+177.D solid
+178.Q Which state symbol belongs to: gas?
+178.A (l)
+178.B (g)
+178.C (aq)
+178.D (s)
+179.Q What does (aq) after the name of a substance stand for?
+179.A solid
+179.B liquid
+179.C dissolved in water (aqua)
+179.D gas
+180.Q Which state symbol belongs to: dissolved in water (aqua)?
+180.A (l)
+180.B (aq)
+180.C (g)
+180.D (s)
+181.Q How many changes of state are there?
+181.A 6
+181.B 8
+181.C 4
+181.D 5
+186.Q What is the everyday name of a substance, such as table salt, called?
+186.C trivial name
+187.Q In which BINAS table do you find the trivial names and the chemical names of substances?
+188.Q In which BINAS table do you find the periodic table?
+189.Q In which BINAS table do you find the mass of common substances?
+190.B Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal (the first letters of the Dutch names: Afgieten, Bezinken, Centrifugeren, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen, Chromatografie)
+191.Q How many separation methods are there in the mnemonic?
+191.A 9
+191.B 10
+191.C 7
+191.D 8
+192.Q Which separation method goes with the letter D in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+192.A Extraction (Extraheren)
+192.B Evaporation (Indampen)
+192.C Distillation
+192.D Filtration
+193.Q Which separation method goes with the letter F in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+193.A Filtration
+193.B Extraction (Extraheren)
+193.C Evaporation (Indampen)
+193.D Distillation
+194.Q Which separation method goes with the letter I in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+194.A Distillation
+194.B Evaporation (Indampen)
+194.C Extraction (Extraheren)
+194.D Filtration
+195.Q Which separation method goes with the letter E in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+195.A Filtration
+195.B Evaporation (Indampen)
+195.C Extraction (Extraheren)
+195.D Distillation
+196.Q Which separation method goes with the letter B in the Dutch mnemonic 'Anne, Bart en Claire Eten Dikke Friet In Amsterdam Centraal'?
+196.A Settling (Bezinken)
+196.B Distillation
+196.C Adsorption
+196.D Filtration
+197.Q What are settling, decanting and centrifuging as separation methods based on?
+197.A particle size
+197.C density
+197.D boiling point
+198.Q What is filtration as a separation method based on?
+198.A boiling point
+198.B density
+198.D particle size
+199.Q What is evaporation as a separation method based on?
+199.A particle size
+199.C boiling point
+199.D density
+200.Q What is distillation as a separation method based on?
+200.B particle size
+200.C density
+200.D difference in boiling point between liquids
+201.Q What is adsorption as a separation method based on?
+201.A boiling point
+201.B particle size
+201.C density
+202.Q What is extraction as a separation method based on?
+202.A boiling point
+202.B particle size
+202.C a solid dissolves better in a liquid
+202.D density
+203.Q Which separation method separates on the basis of density?
+203.A Settling, decanting and centrifuging
+203.B Evaporation (Indampen)
+203.C Adsorption
+203.D Filtration
+204.Q Which separation method separates on the basis of particle size?
+204.A Distillation
+204.B Adsorption
+204.C Filtration
+204.D Settling, decanting and centrifuging
+205.Q Which separation method separates on the basis of the difference in boiling point between liquids?
+205.A Settling, decanting and centrifuging
+205.B Filtration
+205.C Distillation
+205.D Adsorption
+206.Q Which separation method separates on the basis of the ability to attach to a surface?
+206.A Settling, decanting and centrifuging
+206.B Filtration
+206.C Distillation
+206.D Adsorption
+207.Q Which separation method do you use to obtain salt from salt water?
+207.A Extraction (Extraheren)
+207.B Evaporation (Indampen)
+207.C Filtration
+207.D Settling, decanting and centrifuging
+208.Q Making tea is an example of which separation method?
+208.A Distillation
+208.B Adsorption
+208.C Extraction (Extraheren)
+208.D Evaporation (Indampen)
+209.Q Removing alcohol from wine is an example of which separation method?
+209.A Filtration
+209.B Distillation
+209.C Adsorption
+209.D Settling, decanting and centrifuging
+210.Q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+210.A Settling, decanting and centrifuging
+210.B Evaporation (Indampen)
+210.C Adsorption
+210.D Distillation
+211.Q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+211.A Adsorption
+211.B Extraction (Extraheren)
+211.C Distillation
+211.D Evaporation (Indampen)
+212.Q Which separation method separates on the basis of solubility in the mobile phase (the solvent that moves) and the ability to attach to the surface (the stationary phase)?
+212.A Extraction (Extraheren)
+212.B Distillation
+212.C Filtration
+212.D Chromatography
+213.Q Paper chromatography is an example of which separation method?
+213.A Evaporation (Indampen)
+213.B Filtration
+213.C Chromatography
+213.D Distillation
+214.Q What is the formula for density?
+214.A density = mass − volume
+214.B density = mass × volume
+214.D density = mass / volume
+215.Q In which unit do you give the density in your list?
+215.A kg × m<sup>3</sup>
+215.B cm<sup>3</sup>/g
+215.C g/cm<sup>3</sup>
+215.D g × cm<sup>3</sup>
+216.Q What does the prefix milli mean?
+216.A 1/1000
+216.B 1/100
+216.C times 1000
+216.D 1/10
+217.Q What does the prefix kilo mean?
+217.A times 1000
+217.D 1/1000
+218.Q How many litres is 4000 mL?
+218.A 400 L
+218.B 4 L
+218.C 0.4 L
+218.D 40 L
+219.Q How many litres is 1000 mL?
+219.A 10 L
+219.B 0.1 L
+219.C 1 L
+219.D 100 L
+220.Q How many grams is 3 kg?
+220.A 3000 g
+220.B 0.3 g
+220.C 30 g
+220.D 300 g
+221.Q How many kg is 2000 g?
+221.A 0.2 kg
+221.B 200 kg
+221.C 20 kg
+221.D 2 kg
+222.Q Which formula do you use to convert degrees Celsius to kelvin?
+222.A K = °C × 273
+222.B °C = K + 273
+222.C K = °C − 273
+222.D K = °C + 273
+223.Q How many K is 0 °C?
+223.A 0 K
+223.B 273 K
+223.C −273 K
+223.D 100 K
+224.Q How many K is 20 °C?
+224.A 293 K
+224.B 253 K
+224.C 273 K
+224.D 20 K
+225.Q How many °C is 273 K?
+225.A 100 °C
+225.B 273 °C
+225.C 0 °C
+225.D −273 °C
+226.Q How many °C is 293 K?
+226.A 20 °C
+226.B 293 °C
+226.C −20 °C
+226.D 566 °C
+227.Q How many °C is 0 K?
+227.A 273 °C
+227.B 0 °C
+227.C −100 °C
+227.D −273 °C
+228.Q In which BINAS table do you find the prefixes?
+### sk3t-atomen-moleculen-MP
+0.Q What is an atom?
+0.C A building block from which molecules are made
+1.Q What is a molecule?
+2.Q What do you call a substance in which all atoms are of the same kind?
+2.A A solution
+2.B A compound
+2.C A mixture
+2.D An element
+3.Q What do you call a substance in which the molecules consist of different kinds of atoms?
+3.A A compound
+3.B A suspension
+3.D An element
+4.Q Is water an element or a compound?
+5.Q Is oxygen gas (O<sub>2</sub>) an element or a compound?
+6.Q What is the symbol of carbon?
+6.A C
+6.B Cl
+6.C K
+6.D Ko
+7.Q What is the symbol of hydrogen?
+7.A He
+7.B H
+7.C Ho
+7.D W
+8.Q What is the symbol of calcium?
+8.A C
+8.B Ca
+8.C Cu
+8.D Cl
+9.Q What is the symbol of aluminium?
+9.A Au
+9.B Am
+9.C A
+9.D Al
+10.Q Which element has the symbol Br?
+10.A Bromine
+11.Q What is the symbol of gold? (use BINAS table 34, the periodic table)
+11.A Au
+11.B Ag
+11.C G
+11.D Go
+12.Q Which gas belongs to the noble gases?
+12.A Chlorine
+12.B Hydrogen
+12.C Oxygen
+13.Q What is the molecular formula of oxygen gas?
+13.A 2O
+13.B OO
+13.C O<sub>2</sub>
+13.D O
+14.Q What is the molecular formula of methane?
+14.A C<sub>2</sub>H<sub>4</sub>
+14.B CH<sub>2</sub>
+14.C CH<sub>4</sub>
+14.D C<sub>4</sub>H
+15.Q What is the molecular formula of ammonia?
+15.A NH
+15.B NH<sub>3</sub>
+15.C N<sub>3</sub>H
+15.D NH<sub>4</sub>
+16.Q What does the 2 in H<sub>2</sub>O mean?
+17.Q What does the 3 in 3 CO<sub>2</sub> mean?
+18.Q How many atoms are there in one molecule of H<sub>2</sub>O?
+18.A 2
+18.B 1
+18.C 4
+18.D 3
+19.Q How many atoms are there in one molecule of CO<sub>2</sub>?
+19.A 4
+19.B 2
+19.C 1
+19.D 3
+20.Q How many oxygen atoms are there in 3 CO<sub>2</sub>?
+20.A 2
+20.B 6
+20.C 9
+20.D 3
+21.Q How many kinds of atoms are there in C<sub>2</sub>H<sub>6</sub>O?
+21.A 9
+21.B 2
+21.C 3
+21.D 6
+22.Q How many atoms are there in a molecule of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?
+22.A 12
+22.B 6
+22.C 18
+22.D 24
+23.Q A molecule consists of 1 carbon atom and 2 oxygen atoms. What is the molecular formula?
+23.A CO<sub>2</sub>
+23.B CO
+23.C C<sub>2</sub>O
+23.D C<sub>2</sub>O<sub>2</sub>
+24.Q A molecule consists of 2 hydrogen atoms and 1 oxygen atom. What is the molecular formula?
+24.A H<sub>2</sub>O<sub>3</sub>
+24.B H<sub>2</sub>O
+24.C HO<sub>2</sub>
+24.D H<sub>2</sub>O<sub>2</sub>
+25.Q What is the name of CO? Pay attention to the prefixes.
+25.C Carbon monoxide
+25.D Carbon dioxide
+26.Q What is the name of SO<sub>2</sub>?
+26.C Sulfur trioxide
+26.D Sulfur dioxide
+27.Q What is the formula of dinitrogen tetroxide?
+27.A NO<sub>4</sub>
+27.B N<sub>4</sub>O<sub>2</sub>
+27.C N<sub>2</sub>O<sub>2</sub>
+27.D N<sub>2</sub>O<sub>4</sub>
+28.Q What is the molecular mass of H<sub>2</sub>O? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+28.A 18.0 u
+28.B 17.0 u
+28.C 34.0 u
+28.D 16.0 u
+29.Q What is the molecular mass of CO<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+29.A 40.0 u
+29.B 56.0 u
+29.C 28.0 u
+29.D 44.0 u
+30.Q What is the molecular mass of NH<sub>3</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+30.A 18.0 u
+30.B 17.0 u
+30.C 15.0 u
+30.D 16.0 u
+31.Q What is the molecular mass of H<sub>2</sub>SO<sub>4</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+31.A 98.1 u
+31.B 66.1 u
+31.C 82.1 u
+31.D 50.1 u
+32.Q What is the molecular mass of Cl<sub>2</sub>? Atomic masses: H = 1.0 u; C = 12.0 u; N = 14.0 u; O = 16.0 u; Cl = 35.5 u; S = 32.1 u.
+32.A 70.0 u
+32.B 71.0 u
+32.C 36.5 u
+32.D 35.5 u
+33.Q What is the atomic mass of carbon? (use BINAS table 34, the periodic table)
+33.C About 12 u (12.0 u)
+### sk3t-basiskennis-MP
+0.Q What is the symbol of sodium?
+0.A N
+0.B Na
+0.C Nt
+0.D Ni
+1.Q What is the symbol of chlorine?
+1.A Ch
+1.B Cl
+1.C C
+1.D Co
+2.Q What is the symbol of iron?
+2.A Ir
+2.B I
+2.C Fe
+2.D Ij
+3.Q What is the symbol of copper?
+3.A Co
+3.B Cu
+3.C Cp
+3.D Ko
+4.Q What is the symbol of sulfur?
+4.A Zw
+4.B Sw
+4.C S
+4.D Z
+5.Q Which element has the symbol Mg?
+5.A Mercury
+6.Q Which element has the symbol Ag? (use BINAS table 34, the periodic table)
+6.B Argon
+6.D Silver
+7.Q What is the formula of water?
+7.A OH
+7.B H<sub>2</sub>O
+7.C H<sub>2</sub>O<sub>2</sub>
+7.D HO<sub>2</sub>
+8.Q What is the formula of carbon dioxide?
+8.A C<sub>2</sub>O<sub>2</sub>
+8.B CO
+8.C C<sub>2</sub>O
+8.D CO<sub>2</sub>
+9.Q What is the formula of table salt (sodium chloride)?
+9.A Na<sub>2</sub>Cl
+9.C NaCl
+9.D NCl
+10.Q What is the formula of oxygen gas?
+10.A O
+10.B 2O
+10.C O<sub>2</sub>
+10.D OO
+11.Q What is the formula of hydrogen chloride (hydrochloric acid is a solution of this in water)?
+11.A NaOH
+11.B HCl
+11.C HCl<sub>2</sub>
+11.D H<sub>2</sub>Cl
+12.Q Convert to kelvin: 27 °C
+12.A 300 K
+12.B 200 K
+12.C 27 K
+12.D 400 K
+13.Q Convert to kelvin: 100 °C
+13.A 473 K
+13.B 373 K
+13.C 100 K
+13.D 273 K
+14.Q Convert to degrees Celsius: 300 K
+14.A -73 °C
+14.B 27 °C
+14.C 573 °C
+14.D 127 °C
+15.Q Convert to degrees Celsius: 250 K
+15.A -123 °C
+15.B 77 °C
+15.C 523 °C
+15.D -23 °C
+16.Q A block has a mass of 120 g and a volume of 40 cm³. What is the density?
+16.A 0.33 g/cm³
+16.B 3.0 g/cm³
+16.C 80 g/cm³
+16.D 160 g/cm³
+17.Q A liquid has a density of 0.80 g/mL. What is the mass of 250 mL?
+17.A 312 g
+17.B 0.0032 g
+17.C 200 g
+17.D 250 g
+18.Q A substance has a density of 2.5 g/cm³ and a mass of 75 g. What is the volume?
+18.A 30 cm³
+18.B 187.5 cm³
+18.C 0.033 cm³
+18.D 77.5 cm³
+19.Q A substance has a density of 0.90 g/mL. Does the substance sink or float in water (1.0 g/mL)?
+19.A It floats, because its density is smaller than that of water
+20.Q There is 10 g of salt in 500 g of bread. What is the mass percentage of salt?
+20.A 0.020%
+20.B 20%
+20.C 5.0%
+20.D 2.0%
+21.Q A solution of 40 g of sugar in 160 g of water has a total mass of 200 g. What is the mass percentage of sugar?
+21.A 80%
+21.B 40%
+21.C 25%
+21.D 20%
+22.Q How many grams of salt are there in 800 g of bread containing 1.5 mass% of salt?
+22.A 53 g
+22.B 12 g
+22.C 120 g
+22.D 1.2 g
+23.Q There is 140 mL of alcohol in 200 mL of disinfectant. What is the volume percentage of alcohol?
+23.A 14%
+23.B 30%
+23.C 70%
+23.D 143%
+24.Q A drink of 250 mL contains 5.0 volume% of alcohol. How many mL of alcohol does it contain?
+24.A 245 mL
+24.B 1.25 mL
+24.C 12.5 mL
+24.D 50 mL
+25.Q Air contains about 21 volume% of oxygen. How many mL of oxygen are there in 1000 mL of air?
+25.A 210 mL
+25.B 21 mL
+25.C 2100 mL
+25.D 790 mL
+26.Q Which method do you use to separate sand and water?
+26.A Adsorption
+26.B Filtration (or settling and decanting)
+26.C Distillation
+26.D Evaporation (Indampen)
+27.Q Which method do you use to get dissolved salt back from salt water, without keeping the water?
+27.A Evaporation (Indampen)
+27.B Settling and decanting
+27.C Extraction (Extraheren)
+27.D Filtration
+28.Q Which method do you use to make drinking water from seawater and keep the water?
+28.A Filtration
+28.B Evaporation (Indampen)
+28.C Distillation
+28.D Adsorption
+29.Q On which difference between substances is distillation based?
+29.C The difference in boiling point
+30.Q What do we call a pure substance that consists of one kind of atom, such as iron?
+30.A A mixture
+30.B A compound
+30.C An element
+30.D A solution
+31.Q What is the molecular mass of CO<sub>2</sub>? (C = 12.0 u; O = 16.0 u)
+31.A 56.0 u
+31.B 60.0 u
+31.C 44.0 u
+31.D 28.0 u
+32.Q How many atoms are there in H<sub>2</sub>SO<sub>4</sub>?
+32.A 3
+32.B 7
+32.C 4
+32.D 6
+33.Q What is the change from gas to liquid called?
+33.A Evaporating
+33.B Sublimation
+33.D Condensation
+### sk3t-begrippen-MP
+0.Q What is the name of the element with the symbol Na?
+0.A nitrogen
+0.B sulfur
+0.C sodium
+1.Q What is the symbol of sodium?
+1.A S
+1.B Cl
+1.C Fe
+1.D Na
+2.Q What is the name of the element with the symbol Cl?
+2.A sodium
+2.B oxygen
+2.C carbon
+2.D chlorine
+3.Q What is the symbol of chlorine?
+3.A Cl
+3.B Cu
+3.C N
+3.D H
+4.Q What is the name of the element with the symbol Mg?
+4.A chlorine
+4.B sodium
+4.C iron
+5.Q What is the symbol of magnesium?
+5.A O
+5.B Mg
+5.C C
+5.D N
+6.Q What is the name of the element with the symbol Fe?
+6.A sodium
+6.B nitrogen
+6.C chlorine
+6.D iron
+7.Q What is the symbol of iron?
+7.A Fe
+7.B S
+7.C O
+7.D H
+8.Q What is the name of the element with the symbol Cu?
+8.A oxygen
+8.B iron
+8.C copper
+8.D sodium
+9.Q What is the symbol of copper?
+9.A Mg
+9.B O
+9.C Cu
+9.D H
+10.Q What is the name of the element with the symbol O?
+10.A chlorine
+10.B hydrogen
+10.C oxygen
+10.D nitrogen
+11.Q What is the symbol of oxygen?
+11.A H
+11.B Cl
+11.C Fe
+11.D O
+12.Q What is the name of the element with the symbol N?
+12.A chlorine
+12.C iron
+12.D nitrogen
+13.Q What is the symbol of nitrogen?
+13.A Fe
+13.B C
+13.C S
+13.D N
+14.Q What is the name of the element with the symbol S?
+14.A sulfur
+14.B hydrogen
+14.C sodium
+14.D chlorine
+15.Q What is the symbol of sulfur?
+15.A S
+15.B N
+15.C C
+15.D Na
+16.Q What is the name of the element with the symbol C?
+16.A carbon
+16.B oxygen
+16.C chlorine
+16.D nitrogen
+17.Q What is the symbol of carbon?
+17.A C
+17.B Mg
+17.C O
+17.D Fe
+18.Q What is the name of the element with the symbol H?
+18.A iron
+18.B hydrogen
+18.C sodium
+18.D chlorine
+19.Q What is the symbol of hydrogen?
+19.A Fe
+19.B Cl
+19.C H
+19.D N
+20.Q Which substance has the formula O<sub>2</sub>?
+20.A hydrogen gas
+20.B carbon dioxide
+20.C nitrogen gas
+20.D oxygen gas
+21.Q What is the formula of oxygen gas?
+21.A NaCl
+21.B N<sub>2</sub>
+21.C O<sub>2</sub>
+21.D H<sub>2</sub>
+22.Q Which substance has the formula N<sub>2</sub>?
+22.A hydrogen gas
+22.B methane
+22.C water
+22.D nitrogen gas
+23.Q What is the formula of nitrogen gas?
+23.A O<sub>2</sub>
+23.B HCl
+23.C H<sub>2</sub>
+23.D N<sub>2</sub>
+24.Q Which substance has the formula CO<sub>2</sub>?
+24.A nitrogen gas
+24.B hydrogen gas
+24.C water
+24.D carbon dioxide
+25.Q What is the formula of carbon dioxide?
+25.A CO<sub>2</sub>
+25.B HCl
+25.C NaCl
+25.D O<sub>2</sub>
+26.Q Which substance has the formula H<sub>2</sub>O?
+26.A oxygen gas
+26.B water
+26.C hydrochloric acid
+27.Q What is the formula of water?
+27.A H<sub>2</sub>O
+27.B H<sub>2</sub>
+27.C HCl
+27.D CO<sub>2</sub>
+28.Q Which substance has the formula H<sub>2</sub>?
+28.A nitrogen gas
+28.B hydrochloric acid
+28.C hydrogen gas
+28.D water
+29.Q What is the formula of hydrogen gas?
+29.A H<sub>2</sub>
+29.B NaCl
+29.C O<sub>2</sub>
+29.D CH<sub>4</sub>
+30.Q Which substance has the formula HCl?
+30.A hydrochloric acid
+30.B hydrogen gas
+30.C nitrogen gas
+30.D oxygen gas
+31.Q What is the formula of hydrochloric acid?
+31.A CH<sub>4</sub>
+31.B HCl
+31.C NaCl
+31.D CO<sub>2</sub>
+32.Q Which substance has the formula CH<sub>4</sub>?
+32.A methane
+32.B oxygen gas
+32.C carbon dioxide
+32.D nitrogen gas
+33.Q What is the formula of methane?
+33.A NaCl
+33.B N<sub>2</sub>
+33.C CH<sub>4</sub>
+33.D H<sub>2</sub>
+34.Q Which substance has the formula NaCl?
+34.A hydrochloric acid
+34.C water
+34.D methane
+35.Q What is the formula of table salt?
+35.A HCl
+35.B NaCl
+35.C H<sub>2</sub>O
+35.D CO<sub>2</sub>
+36.Q Which formula belongs to the gas that we breathe in with the air and that consists of 2 oxygen atoms?
+36.A N<sub>2</sub>
+36.B CO<sub>2</sub>
+36.C O<sub>2</sub>
+36.D H<sub>2</sub>O
+37.Q Which formula belongs to the gas from the air that we breathe in, but that our body does nothing with?
+37.A H<sub>2</sub>
+37.B N<sub>2</sub>
+37.C CO<sub>2</sub>
+37.D O<sub>2</sub>
+38.Q Which formula belongs to the greenhouse gas with 1 carbon atom and 2 oxygen atoms?
+38.A H<sub>2</sub>O
+38.B O<sub>2</sub>
+38.C CO<sub>2</sub>
+38.D CH<sub>4</sub>
+39.Q Which formula belongs to the substance that consists of 2 hydrogen atoms and 1 oxygen atom?
+39.A O<sub>2</sub>
+39.B CO<sub>2</sub>
+39.C H<sub>2</sub>
+39.D H<sub>2</sub>O
+40.Q Which formula belongs to hydrogen gas, with 2 hydrogen atoms?
+40.A H<sub>2</sub>O
+40.B CH<sub>4</sub>
+40.C O<sub>2</sub>
+40.D H<sub>2</sub>
+41.Q Which formula belongs to the molecule with 4 hydrogen atoms and 1 carbon atom?
+41.A HCl
+41.B CH<sub>4</sub>
+41.C CO<sub>2</sub>
+41.D H<sub>2</sub>O
+42.Q What are hydrocarbons?
+42.C molecules that mainly contain C atoms and H atoms
+43.Q Which two types of atom do hydrocarbons mainly consist of?
+43.B carbon (C) and hydrogen (H)
+44.Q Which substance is an example of a hydrocarbon?
+44.B hydrochloric acid
+44.D water
+45.A oxygen gas
+45.B carbon dioxide
+45.C nitrogen gas
+46.Q What is natural gas?
+46.A methane
+46.C water
+46.D carbon dioxide
+47.Q Which of these energy sources is a fossil fuel?
+49.B acidic
+50.Q What does (s) after the name of a substance stand for?
+50.A dissolved in water (aqua)
+50.B solid
+50.C liquid
+50.D gas
+51.Q Which state symbol belongs to: solid?
+51.A (l)
+51.B (g)
+51.C (s)
+51.D (aq)
+52.Q What does (l) after the name of a substance stand for?
+52.A gas
+52.B liquid
+52.C solid
+52.D dissolved in water (aqua)
+53.Q Which state symbol belongs to: liquid?
+53.A (g)
+53.B (s)
+53.C (l)
+53.D (aq)
+54.Q What does (g) after the name of a substance stand for?
+54.A solid
+54.B liquid
+54.C gas
+54.D dissolved in water (aqua)
+55.Q Which state symbol belongs to: gas?
+55.A (l)
+55.B (aq)
+55.C (s)
+55.D (g)
+56.Q What does (aq) after the name of a substance stand for?
+56.A liquid
+56.B gas
+56.C dissolved in water (aqua)
+56.D solid
+57.Q Which state symbol belongs to: dissolved in water (aqua)?
+57.A (s)
+57.B (aq)
+57.C (l)
+57.D (g)
+58.Q How many changes of state are there?
+58.A 4
+58.B 8
+58.C 5
+58.D 6
+63.Q What is the everyday name of a substance, such as table salt, called?
+63.B trivial name
+64.Q In which BINAS table do you find the trivial names and the chemical names of substances?
+65.Q In which BINAS table do you find the periodic table?
+67.Q How many separation methods are there in the mnemonic?
+67.A 6
+67.B 8
+67.C 5
+67.D 7
+68.A Filtration
+68.B Evaporation (Indampen)
+68.C Extraction (Extraheren)
+68.D Distillation
+69.A Filtration
+69.B Extraction (Extraheren)
+69.C Distillation
+69.D Evaporation (Indampen)
+70.A Extraction (Extraheren)
+70.B Distillation
+70.C Evaporation (Indampen)
+70.D Filtration
+71.A Extraction (Extraheren)
+71.B Evaporation (Indampen)
+71.C Distillation
+71.D Filtration
+72.A Distillation
+72.B Settling (Bezinken)
+72.C Adsorption
+72.D Filtration
+73.Q What are settling and decanting as separation methods based on?
+73.A boiling point
+73.B particle size
+73.C density
+74.Q What is filtration as a separation method based on?
+74.B boiling point
+74.C density
+74.D particle size
+75.Q What is evaporation as a separation method based on?
+75.A particle size
+75.B boiling point
+75.C density
+76.Q What is distillation as a separation method based on?
+76.A particle size
+76.C difference in boiling point between liquids
+76.D density
+77.Q What is adsorption as a separation method based on?
+77.A particle size
+77.B density
+77.C boiling point
+78.Q What is extraction as a separation method based on?
+78.A particle size
+78.B boiling point
+78.C a solid dissolves better in a liquid
+78.D density
+79.Q Which separation method separates on the basis of density?
+79.A Settling and decanting
+79.B Adsorption
+79.C Filtration
+79.D Evaporation (Indampen)
+80.Q Which separation method separates on the basis of particle size?
+80.A Adsorption
+80.B Filtration
+80.C Distillation
+80.D Settling and decanting
+81.Q Which separation method separates on the basis of the difference in boiling point between liquids?
+81.A Distillation
+81.B Adsorption
+81.C Filtration
+81.D Settling and decanting
+82.Q Which separation method separates on the basis of the ability to attach to a surface?
+82.A Settling and decanting
+82.B Distillation
+82.C Adsorption
+82.D Filtration
+83.Q Which separation method do you use to obtain salt from salt water?
+83.A Extraction (Extraheren)
+83.B Settling and decanting
+83.C Filtration
+83.D Evaporation (Indampen)
+84.Q Making tea is an example of which separation method?
+84.A Adsorption
+84.B Evaporation (Indampen)
+84.C Distillation
+84.D Extraction (Extraheren)
+85.Q Removing alcohol from wine is an example of which separation method?
+85.A Adsorption
+85.B Distillation
+85.C Filtration
+85.D Settling and decanting
+86.Q Removing colour from methylated spirits with activated carbon is an example of which separation method?
+86.A Settling and decanting
+86.B Distillation
+86.C Evaporation (Indampen)
+86.D Adsorption
+87.Q Removing poisonous substances from the air with a gas mask is an example of which separation method?
+87.A Evaporation (Indampen)
+87.B Extraction (Extraheren)
+87.C Adsorption
+87.D Distillation
+88.Q What is the formula for density?
+88.B density = mass − volume
+88.C density = mass × volume
+88.D density = mass / volume
+89.Q In which unit do you give the density in your list?
+89.A cm<sup>3</sup>/g
+89.B kg × m<sup>3</sup>
+89.C g/cm<sup>3</sup>
+89.D g × cm<sup>3</sup>
+90.Q What does the prefix milli mean?
+90.A 1/100
+90.B times 1000
+90.C 1/10
+90.D 1/1000
+91.Q What does the prefix kilo mean?
+91.A 1/1000
+91.D times 1000
+92.Q How many litres is 4000 mL?
+92.A 400 L
+92.B 0.4 L
+92.C 4 L
+92.D 40 L
+93.Q How many litres is 1000 mL?
+93.A 100 L
+93.B 10 L
+93.C 1 L
+93.D 0.1 L
+94.Q How many grams is 3 kg?
+94.A 3000 g
+94.B 30 g
+94.C 0.3 g
+94.D 300 g
+95.Q How many kg is 2000 g?
+95.A 200 kg
+95.B 0.2 kg
+95.C 20 kg
+95.D 2 kg
+96.Q Which formula do you use to convert degrees Celsius to kelvin?
+96.A °C = K + 273
+96.B K = °C × 273
+96.C K = °C − 273
+96.D K = °C + 273
+97.Q How many K is 0 °C?
+97.A −273 K
+97.B 100 K
+97.C 273 K
+97.D 0 K
+98.Q How many K is 20 °C?
+98.A 273 K
+98.B 20 K
+98.C 253 K
+98.D 293 K
+99.Q How many °C is 273 K?
+99.A 0 °C
+99.B −273 °C
+99.C 100 °C
+99.D 273 °C
+100.Q How many °C is 293 K?
+100.A −20 °C
+100.B 20 °C
+100.C 293 °C
+100.D 566 °C
+101.Q How many °C is 0 K?
+101.A −100 °C
+101.B 273 °C
+101.C 0 °C
+101.D −273 °C
+102.Q In which BINAS tables do you find the prefixes and the conversion rules?
+### sk3t-reacties-MP
+0.Q What happens in a chemical reaction?
+0.B A mixture of the same substances is formed
+0.C The reactants disappear and new substances with different properties are formed
+1.Q Is the melting of ice a chemical reaction?
+1.B No, it is a change of state. They remain water molecules
+2.Q What happens to the atoms during a chemical reaction?
+2.D They are arranged differently. No atoms are added and no atoms are lost
+3.Q What is on the left of the arrow in a reaction scheme?
+3.A The products
+3.C The reactants
+3.D The temperature
+4.Q What is on the right of the arrow in a reaction scheme?
+4.A The products
+4.D The reactants
+5.Q You see a gas escaping during a reaction. Is that an observation or a conclusion?
+6.Q Give the word equation for the decomposition of water, with state symbols
+6.D water (l) → hydrogen (g) + oxygen (g)
+7.Q Give the word equation for sodium reacting with water (sodium hydroxide solution and hydrogen are formed)
+7.B sodium (s) + water (l) → sodium hydroxide solution (aq) + hydrogen (g)
+8.Q What is a decomposition reaction?
+8.C A reaction in which one reactant is split into several products
+9.Q What is a synthesis reaction?
+9.A A reaction in which one new substance is made from two or more substances
+10.Q What is decomposition using electric current called?
+10.A Electrolysis
+10.B Thermolysis
+10.C Distillation
+10.D Photolysis
+11.Q What is decomposition using heat called?
+11.A Electrolysis
+11.C Photolysis
+11.D Thermolysis
+12.Q What is decomposition using light called?
+12.A Electrolysis
+12.C Photolysis
+12.D Thermolysis
+13.Q Which of these substances can you not decompose: oxygen, water, carbon dioxide or glucose?
+13.C Carbon dioxide
+13.D Water
+14.Q How do you test for hydrogen gas?
+14.A With limewater: it turns cloudy
+14.C With a burning splint: you hear a pop (a popping sound)
+14.D With a glowing splint: it bursts into flame
+15.Q How do you test for oxygen gas?
+15.B With a glowing splint: it bursts into flame
+15.C With a burning splint: you hear a pop
+15.D With limewater: it turns cloudy
+16.Q How do you test for carbon dioxide?
+16.A With a burning splint: you hear a pop
+16.B With a burning splint: the flame goes out, or with limewater: it turns cloudy (white)
+16.D With a glowing splint: it bursts into flame
+17.Q Two gases are formed in the electrolysis of water. Which ones?
+17.A Hydrogen and oxygen
+18.Q What is this an example of: CaCO<sub>3</sub> is heated and decomposes into CaO and CO<sub>2</sub>?
+18.A Photolysis
+18.B Thermolysis
+18.C Synthesis
+18.D Electrolysis
+19.Q What is step 1 of the step-by-step method for a reaction equation?
+19.A Write down the reaction scheme in words
+19.C Write down the reaction scheme in molecular formulae
+20.Q What do you do in step 3 of the step-by-step method?
+20.A Write down the reaction scheme in words
+20.B Simplify the reaction equation
+20.C Write down the reaction scheme in molecular formulae
+20.D Set up the atom balance: balance the equation with coefficients
+21.Q What do you do in step 4 of the step-by-step method?
+21.A Simplify the reaction equation
+21.C Write down the reaction scheme in words
+22.Q What do you put in front of a molecular formula to balance the atoms: a subscript or a coefficient?
+22.B A coefficient. You must never change the subscript (the small number)
+23.Q Balance: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+23.A 2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O
+23.B 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+23.C H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+23.D H<sub>2</sub> + 2 O<sub>2</sub> → H<sub>2</sub>O
+24.Q Balance: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>
+24.A N<sub>2</sub> + H<sub>2</sub> → 2 NH<sub>3</sub>
+24.B N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>
+24.C 2 N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>
+24.D N<sub>2</sub> + 3 H<sub>2</sub> → NH<sub>3</sub>
+25.Q Balance: Mg + O<sub>2</sub> → MgO
+25.A 2 Mg + O<sub>2</sub> → 2 MgO
+25.B Mg + O<sub>2</sub> → MgO
+25.C 2 Mg + 2 O<sub>2</sub> → 2 MgO
+25.D Mg + O<sub>2</sub> → 2 MgO
+26.Q Balance: Na + Cl<sub>2</sub> → NaCl
+27.Q Balance: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+27.A 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+27.B H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+27.C 2 H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+27.D H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>
+28.Q Balance: C + O<sub>2</sub> → CO
+28.A 2 C + 2 O<sub>2</sub> → 2 CO
+28.B C + 2 O<sub>2</sub> → CO
+28.C 2 C + O<sub>2</sub> → 2 CO
+28.D C + O<sub>2</sub> → CO
+29.Q Is this equation balanced? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O
+29.D Yes: on the left and the right there are 4 N, 12 H and 10 O
+30.Q Is this equation balanced? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+30.A No: on the left there are 2 O atoms and on the right 1 O atom
+31.Q Simplify: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O
+31.A H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O
+31.B 2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O
+31.D 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+32.Q In a closed container, 50 g of reactants react completely to form products. How many g of products are formed?
+32.A 50 g, because the mass stays the same (law of conservation of mass)
+32.C 25 g
+33.Q Which of these reactions is a decomposition reaction?
+33.A C + O<sub>2</sub> → CO<sub>2</sub>
+33.B 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O
+33.C 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>
+33.D 2 Mg + O<sub>2</sub> → 2 MgO
+### sk3t-reactiesnelheid-MP
+0.Q What is the reaction rate?
+1.Q What is the reaction time?
+2.Q A reaction goes faster. What happens to the reaction time?
+2.A The reaction time becomes shorter
+3.Q What happens to the reaction rate if you raise the temperature?
+3.D The reaction stops
+4.Q What happens to the reaction rate if you lower the temperature?
+5.Q What happens to the reaction rate if you increase the concentration of a reactant?
+5.C The reaction stops
+6.Q You make a solid finer, for example powder instead of a lump (greater degree of division). What happens to the reaction rate?
+6.D The reaction stops
+7.Q In a reaction between gases you increase the pressure. What happens to the reaction rate?
+7.C The reaction stops
+8.Q What does a catalyst do?
+9.Q You raise the temperature. What happens to the reaction time?
+9.D The reaction time becomes shorter
+10.Q You add a catalyst. What happens to the reaction time?
+10.D The reaction time becomes shorter
+11.Q You increase the concentration of a reactant. What happens to the reaction time?
+11.A The reaction time becomes shorter
+12.Q Does the type of substance affect the reaction rate?
+13.Q Which of these things affects the reaction rate?
+13.C The temperature
+14.Q You see a graph of the amount of reactant against time. The line slopes steeply downwards. What does that mean?
+15.Q Name three factors that affect the reaction rate.
+16.Q An effervescent tablet dissolves faster in warm water than in cold water. Which factor is responsible?
+16.A The degree of division
+16.B The temperature
+17.Q Why does a powder react faster than a lump of the same substance?
+17.B A powder has a much larger surface area, so more particles can react at the same time
+18.Q Small wood shavings catch fire faster than a large log. Which factor is responsible?
+18.B The degree of division
+19.Q Why do you store food in the fridge?
+19.D At a low temperature the spoilage reactions are slower
+20.Q Why is flour dust dangerous in a flour mill?
+21.Q A wood splinter burns much faster in pure oxygen than in air. Which factor is responsible?
+22.Q A catalytic converter in a car makes sure that poisonous carbon monoxide is converted quickly. Which factor is used here?
+22.B A catalyst
+23.Q You add a catalyst. How much product is formed in the end?
+24.Q What is an enzyme?
+24.B A catalyst in living organisms
+25.Q You let 5.0 g of zinc react with an excess of hydrochloric acid, first at 20 °C and then at 40 °C. What is different at 40 °C?
+25.D The reaction is finished sooner, the same amount of hydrogen is formed
+26.Q Magnesium reacts with 2 mol/L hydrochloric acid and with 0.5 mol/L hydrochloric acid. In which solution does the reaction go fastest?
+27.Q In a reaction 60 mL of gas is formed in 30 seconds. What is the average reaction rate?
+27.A 30 mL/s
+27.B 2.0 mL/s
+27.C 0.50 mL/s
+27.D 1800 mL/s
+28.Q Which two ways are useful for measuring the reaction rate when a gas is formed?
+28.C Measure the gas volume per time, or measure the decrease in mass per time
+29.Q Why does the reaction rate usually become smaller over time?
+29.D The reactants are being used up, so the concentration becomes smaller
+30.Q In a graph of the amount of product against time, the line becomes horizontal after a while. What does that mean?
+30.C The reaction has finished, a reactant is used up
+31.Q You measure the reaction twice with the same amount of reactant. Line B rises more steeply than line A. Which statement is correct?
+31.C The reaction of B is faster, but B ends at the same height as A
+32.Q Name two ways to make a reaction go more slowly.
+33.Q What is the reaction equation of magnesium with hydrochloric acid?
+### sk3t-rekenen-aan-reacties-MP
+6.Q Calculate the molecular mass of H<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; O = 16.0 u; S = 32.1 u.
+6.A 82.1 u
+6.B 130.2 u
+6.C 97.1 u
+6.D 98.1 u
+7.Q What is the mass ratio hydrogen : oxygen : water for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O? Atomic masses: H = 1.0 u; O = 16.0 u.
+7.A 4.0 : 16.0 : 20.0
+7.B 2.0 : 16.0 : 18.0
+7.C 4.0 : 32.0 : 36.0
+7.D 2.0 : 32.0 : 34.0
+8.Q In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon. How many g of oxygen are needed at least? Atomic masses: C = 12.0 u; O = 16.0 u.
+8.A 12.0 g
+8.B 16.0 g
+8.C 32.0 g
+8.D 8.0 g
+9.Q In C + O<sub>2</sub> → CO<sub>2</sub> you burn 6.0 g of carbon completely. How many g of carbon dioxide are formed? Atomic masses: C = 12.0 u; O = 16.0 u.
+9.A 44.0 g
+9.B 22.0 g
+9.C 12.0 g
+9.D 16.0 g
+10.Q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO: how many g of magnesium oxide are formed from 24.3 g of magnesium? Atomic masses: O = 16.0 u; Mg = 24.3 u.
+10.A 48.6 g
+10.B 40.3 g
+10.C 20.1 g
+10.D 56.3 g
+11.Q In 2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>, 36 g of water is decomposed. How many g of hydrogen and oxygen are formed together?
+11.A 4 g
+11.B 18 g
+11.C 36 g
+11.D 72 g
+12.Q Heating CaCO<sub>3</sub> forms CaO and CO<sub>2</sub>: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>. You heat 10.0 g of limestone. 4.4 g of CO<sub>2</sub> is formed. How many g of CaO remain?
+12.A 10.0 g
+12.B 5.6 g
+12.C 14.4 g
+12.D 4.4 g
+13.Q In water (H<sub>2</sub>O), hydrogen and oxygen are present in the mass ratio 1 : 8. How many g of oxygen are there in 45 g of water?
+13.A 40.0 g
+13.B 36.0 g
+13.C 45.0 g
+13.D 5.0 g
+14.Q In the combustion of methane (CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O), 16.0 g of methane reacts with 64.0 g of oxygen. How many g of carbon dioxide and water are formed together?
+14.A 48.0 g
+14.B 64.0 g
+14.C 80.0 g
+14.D 16.0 g
+15.Q Calculate the mass percentage of hydrogen in water (H<sub>2</sub>O). Atomic masses: H = 1.0 u; O = 16.0 u.
+15.A 11.1%
+15.B 88.9%
+15.C 5.6%
+15.D 12.5%
+16.Q Calculate the mass percentage of iron in Fe<sub>2</sub>O<sub>3</sub>. Atomic masses: O = 16.0 u; Fe = 55.8 u.
+16.A 69.9%
+16.B 23.2%
+16.C 30.1%
+16.D 35.0%
+17.Q You let 24.3 g of magnesium react with 32.0 g of oxygen (2 Mg + O<sub>2</sub> → 2 MgO). 24.3 g of Mg needs 16.0 g of O<sub>2</sub>. Which substance is in excess and how many g remain?
+18.Q There is 40 mL of alcohol in 250 mL of an alcoholic drink. What is the volume percentage of alcohol?
+18.A 6.3%
+18.B 40%
+18.C 84%
+18.D 16%
+19.Q What are the five steps in chemical calculations, in the correct order?
+20.A C<sub>4</sub>H<sub>10</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g)
+20.B 2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO (g) + 10 H<sub>2</sub>O (g)
+20.C 2 C<sub>4</sub>H<sub>10</sub> (g) + 9 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)
+20.D 2 C<sub>4</sub>H<sub>10</sub> (g) + 13 O<sub>2</sub> (g) → 8 CO<sub>2</sub> (g) + 10 H<sub>2</sub>O (g)
+21.A 116.0 u en 32.0 u
+21.B 116.0 u en 416.0 u
+21.C 58.0 u en 416.0 u
+21.D 58.0 u en 32.0 u
+23.A x = 416.0 × 29 : 58.0 = 208 g
+23.B x = 32.0 × 29 : 58.0 = 16 g
+23.C x = 116.0 × 29 : 416.0 = 8 g
+23.D x = 416.0 × 29 : 116.0 = 104 g
+25.A N (g) + H (g) → NH<sub>3</sub> (g)
+25.B N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → NH<sub>3</sub> (g)
+25.C N<sub>2</sub> (g) + H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)
+25.D N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) → 2 NH<sub>3</sub> (g)
+26.A 28.0 u en 34.0 u
+26.B 28.0 u en 17.0 u
+26.C 45.0 u en 34.0 u
+26.D 34.0 u en 28.0 u
+28.A x = 17.0 × 14 : 28.0 = 9 g
+28.B x = 34.0 × 14 : 28.0 = 17 g
+28.C x = 28.0 × 14 : 17.0 = 23 g
+28.D x = 28.0 × 14 : 34.0 = 12 g
+33.Q Copper(II) oxide contains copper and oxygen in the mass ratio 4 : 1. How many g of copper are there in 30 g of copper(II) oxide? Use a ratio table.
+33.A 7.5 g
+33.B 120 g
+33.C 24 g
+33.D 6 g
+### sk3t-scheidingsmethoden-MP
+0.Q What is a mixture?
+0.A A substance that consists of one type of molecule
+1.Q What is a pure substance?
+1.D A substance that consists of one type of molecule
+3.D Bezinken, Afgieten, Extraheren, Destilleren, Filtreren, Indampen, Adsorberen (Dutch: settling, decanting, extraction, distillation, filtration, evaporation, adsorption)
+4.A Evaporation (Indampen)
+4.B Distillation
+4.C Filtration
+4.D Extraction (Extraheren)
+5.A The difference in boiling point
+6.A The residue
+6.B The filtrate
+6.D The distillate
+7.A The filtrate
+7.B The distillate
+7.C The residue
+8.B A suspension
+8.C A solution
+8.D An emulsion
+9.A A solution
+9.B An emulsion
+9.C A suspension
+12.C The difference in boiling point
+13.A Evaporation (Indampen)
+13.B Filtration
+13.C Adsorption
+13.D Settling and decanting
+14.A Evaporation (Indampen)
+14.B Distillation
+14.C Filtration
+14.D Extraction (Extraheren)
+15.Q On which difference between substances is distillation based?
+15.D The difference in boiling point
+16.A The distillate
+16.B The residue
+16.C The filtrate
+21.A Evaporation (Indampen)
+21.B Filtration
+21.C Adsorption
+21.D Extraction (Extraheren)
+23.B The difference in boiling point
+24.A Adsorption
+24.B Extraction (Extraheren)
+24.C Evaporation (Indampen)
+24.D Settling (Bezinken)
+27.A Settling (Bezinken)
+27.B Adsorption
+27.C Evaporation (Indampen)
+27.D Filtration
+30.A Chromatography
+30.B Distillation
+30.C Evaporation (Indampen)
+### sk3t-verbranding-MP
+0.Q What is a fuel?
+0.B A substance that you burn to get heat (energy)
+1.Q Name the three things needed to make something burn (fire triangle)
+1.D Fuel, oxygen and a temperature above the ignition temperature
+2.Q What is the ignition temperature?
+2.B The temperature at which a substance starts to burn
+2.C The temperature at which a substance boils
+2.D The temperature at which a substance melts
+3.Q Which gas from the air is needed for combustion?
+3.A Hydrogen
+3.B Nitrogen
+3.C Oxygen
+3.D Carbon dioxide
+4.Q What is a combustion called in which enough oxygen is present?
+4.B Synthesis
+4.C Incomplete combustion
+4.D Complete combustion
+5.Q What is a combustion called in which too little oxygen is present?
+5.A Complete combustion
+5.B Incomplete combustion
+5.C Electrolysis
+6.Q Which two substances are formed in the complete combustion of a hydrocarbon?
+6.A Carbon monoxide and soot
+6.B Carbon dioxide and water
+7.Q Which substances can be formed in the incomplete combustion of a hydrocarbon?
+7.B Carbon monoxide, soot (carbon) and water
+7.D Only carbon dioxide
+8.Q What colour is the flame in the incomplete combustion of natural gas?
+8.A Green
+8.B Colourless
+8.C Blue
+8.D Yellow
+9.Q What colour is the flame in complete combustion in a burner?
+9.B Yellow
+9.C Blue
+9.D Red
+10.Q Why is carbon monoxide (CO) dangerous?
+10.A It is poisonous and you cannot smell it
+11.Q What is soot?
+11.C Fine black particles of carbon (C) that are formed in incomplete combustion
+12.Q Which two elements are in a hydrocarbon?
+12.A Carbon and hydrogen (C and H)
+12.D Hydrogen and oxygen
+13.Q Which three fuels are fossil fuels?
+13.A Coal, crude oil and natural gas
+14.Q What is the molecular formula of methane, the main component of natural gas?
+14.A CH<sub>4</sub>
+14.B C<sub>2</sub>H<sub>6</sub>
+14.C CO<sub>2</sub>
+14.D CH
+15.Q How do you show that water is formed in a combustion?
+15.A A burning splint goes out
+15.B Limewater turns cloudy
+15.C White copper(II) sulfate turns blue
+16.Q How do you show that carbon dioxide is formed in a combustion?
+16.A White copper(II) sulfate turns blue
+16.B Limewater turns cloudy (white)
+17.Q Balance: CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.A CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+17.B CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+17.C 2 CH<sub>4</sub> + O<sub>2</sub> → 2 CO<sub>2</sub> + H<sub>2</sub>O
+17.D CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+18.Q Balance: C + O<sub>2</sub> → CO<sub>2</sub>
+18.A 2 C + O<sub>2</sub> → CO<sub>2</sub>
+18.B C + 2 O<sub>2</sub> → CO<sub>2</sub>
+18.D 2 C + 2 O<sub>2</sub> → CO<sub>2</sub>
+19.Q Balance: 2 CH<sub>4</sub> + 3 O<sub>2</sub> → … CO + … H<sub>2</sub>O (incomplete combustion)
+19.A 2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 2 H<sub>2</sub>O
+19.B 2 CH<sub>4</sub> + 3 O<sub>2</sub> → CO + 4 H<sub>2</sub>O
+19.C 2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 4 H<sub>2</sub>O
+19.D 2 CH<sub>4</sub> + 3 O<sub>2</sub> → 2 CO + 3 H<sub>2</sub>O
+20.Q Balance: CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O (incomplete combustion with soot)
+20.A CH<sub>4</sub> + O<sub>2</sub> → C + 2 H<sub>2</sub>O
+20.B CH<sub>4</sub> + 2 O<sub>2</sub> → C + 2 H<sub>2</sub>O
+20.C 2 CH<sub>4</sub> + O<sub>2</sub> → 2 C + 2 H<sub>2</sub>O
+20.D CH<sub>4</sub> + O<sub>2</sub> → C + H<sub>2</sub>O
+21.Q Balance: C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (butane, complete combustion)
+21.A 2 C<sub>4</sub>H<sub>10</sub> + 10 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O
+21.B C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O
+21.C 2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 8 CO<sub>2</sub> + 10 H<sub>2</sub>O
+21.D C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> → 4 CO<sub>2</sub> + 5 H<sub>2</sub>O
+22.Q Balance: Mg + O<sub>2</sub> → MgO (burning of magnesium)
+22.A 2 Mg + O<sub>2</sub> → 2 MgO
+22.B Mg + O<sub>2</sub> → MgO
+22.C Mg + O<sub>2</sub> → 2 MgO
+22.D 2 Mg + 2 O<sub>2</sub> → 2 MgO
+23.Q When 16 g of methane burns with 64 g of oxygen, 44 g of carbon dioxide and some water are formed. How many g of water are formed?
+23.A 20 g
+23.B 80 g
+23.C 44 g
+23.D 36 g
+24.Q At high temperature in a car engine, nitrogen and oxygen react. Which substances are formed?
+24.A Carbon dioxide and water
+24.B Sulfur dioxide
+24.C Nitrogen oxides (NO and NO<sub>2</sub>)
+25.Q Which gas causes acid rain (together with nitrogen oxides)?
+25.A Sulfur dioxide (SO<sub>2</sub>)
+25.D Carbon dioxide (CO<sub>2</sub>)
+26.Q What happens to a burning candle under an upturned glass?
+26.D The candle goes out, because the oxygen is used up
+27.Q Which extinguisher do you never use on a fat fire?
+27.B Water
+28.Q Why does a fire blanket put out a fire?
+28.C The oxygen can no longer reach the fuel
+29.Q Why does water cool a fire?
+29.A The temperature falls below the ignition temperature
+30.Q With which process do you make petrol and diesel from crude oil?
+30.A Fractional distillation
+30.C Settling and decanting
+31.Q Which substance in the air is mainly responsible for the enhanced greenhouse effect?
+31.A Argon
+31.D Carbon dioxide (CO<sub>2</sub>)
+32.Q Why is there more and more CO<sub>2</sub> in the air because of humans?
+32.C Because we burn large amounts of fossil fuels
+33.Q How can you make sure there is less CO<sub>2</sub> emission?
+### sk3t-water-MP
+0.A Rinsing agent
+0.B Help in food preparation
+0.C Solvent
+1.A Help in food preparation
+1.C Solvent
+1.D Rinsing agent
+2.Q What is surface water?
+3.Q What is groundwater?
+4.C Groundwater
+5.C Sea water
+5.D Groundwater
+6.Q Which water contains the highest concentration of salts?
+6.A Groundwater
+6.D Sea water
+7.Q What is the density of seawater? (use BINAS table 16)
+7.A 1.02 g/cm<sup>3</sup>
+7.B 0.92 g/cm<sup>3</sup>
+7.C 1.00 g/cm<sup>3</sup>
+7.D 1.84 g/cm<sup>3</sup>
+8.Q Seawater contains a lot of table salt (sodium chloride, Na<sup>+</sup> and Cl<sup>-</sup>). Is table salt very soluble, slightly soluble or insoluble in water? (use BINAS table 35)
+8.A Poorly soluble
+8.D Very soluble
+9.B It stays the same
+9.C It becomes higher
+9.D It becomes lower
+10.Q What does disinfecting mean?
+10.A Making pathogens harmless
+12.Q What function does water have when it keeps an engine or a factory cool?
+12.A Solvent
+12.B Rinsing agent
+12.D Coolant
+13.Q What is a coolant?
+13.C A substance that absorbs heat and carries it away
+14.Q Why is water so suitable as a coolant?
+14.D Water can absorb a lot of heat and is cheap and widely available
+15.Q What is industrial water?
+16.Q What function does water have when you cook pasta?
+16.A Coolant
+16.B Help in food preparation
+16.D Rinsing agent
+17.Q What function does water have when you rinse dirty pans?
+17.A Coolant
+17.C Rinsing agent
+17.D Help in food preparation
+18.Q What is a solvent?
+18.D A substance in which you can dissolve another substance
+19.Q What is a solution?
+19.C A clear mixture of a dissolved substance in a solvent
+20.Q You dissolve salt in water. What is the solute and what is the solvent?
+20.D Salt is the solute, water is the solvent
+21.Q From which two kinds of water does a drinking-water company in the Netherlands mainly make drinking water?
+21.D Groundwater and surface water
+22.Q Why does surface water have to be purified before you can drink it?
+22.C It contains dirt, bacteria and dissolved substances
+23.Q What is the first step in purifying surface water?
+23.A Removing coarse dirt with grids and sieves
+24.Q What does a drinking-water company use a sand filter for?
+24.C To filter small solid particles out of the water
+25.Q What is the filtrate when you let water run through a sand filter?
+26.Q What is activated carbon used for in the purification of water?
+26.C Odour and flavour substances stay attached to the carbon (adsorption)
+27.Q On which property is adsorption with activated carbon based?
+27.D Boiling point
+28.Q Why is drinking water disinfected?
+28.D To make bacteria and other pathogens harmless
+29.Q How can you make drinking water from seawater?
+29.D By distilling: the water evaporates and the salt stays behind
+30.Q What is the distillate when you distil seawater?
+30.B Salt
+30.C Pure water
+31.Q How can you get salt out of seawater?
+32.Q Why is seawater not suitable for drinking?
+32.C It contains too many dissolved salts
+33.Q Why is a factory not allowed to simply discharge waste water into a river?
+33.B The waste water pollutes the surface water
+34.Q What happens to waste water in a sewage treatment plant?
+34.B It is purified before it goes back into the surface water
+### sk4h-begrippen-MP
+heading Chemistry terms
+0.A aluminium
+4.A lithium
+4.C aluminium
+6.A calcium
+6.B magnesium
+8.C magnesium
+8.D lithium
+10.B aluminium
+14.C calcium
+16.C magnesium
+18.B aluminium
+20.A lithium
+22.D lithium
+26.A lithium
+28.C calcium
+34.A magnesium
+36.D aluminium
+73.B yellow
+73.C purple
+73.D colourless
+74.Q Which colours does your list give for iron(II) and iron(III)?
+74.A red and purple
+74.B green and brown
+74.C blue and yellow
+74.D blue and green
+75.A sulfide
+75.B chloride
+75.C nitride
+76.A chloride
+76.B sulfide
+76.D hydroxide
+77.B iodide
+77.C fluoride
+77.D bromide
+78.A sulfide
+78.B chloride
+78.C fluoride
+78.D iodide
+79.A iodide
+79.B bromide
+79.C fluoride
+79.D chloride
+80.A iodide
+80.B chloride
+80.C fluoride
+80.D bromide
+81.B iron oxide
+81.C iron chloride
+81.D copper sulfide
+82.A copper carbonate
+82.B copper sulfide
+82.C iron oxide
+97.D noble gases
+98.B group 18
+99.D noble gases
+100.B group 18
+101.C noble gases
+102.B group 18
+104.Q The salts of which ion all dissolve well in water?
+110.B oxygen gas (O<sub>2</sub>)
+110.C nitrogen gas (N<sub>2</sub>)
+110.D hydrogen gas (H<sub>2</sub>)
+114.A molecules that mainly contain N atoms and H atoms
+114.B molecules that mainly contain H atoms and O atoms
+114.D molecules that mainly contain C atoms and O atoms
+115.A nitrogen (N) and hydrogen (H)
+115.C hydrogen (H) and oxygen (O)
+115.D carbon (C) and oxygen (O)
+118.D ethanol
+120.D ethanol
+132.D ethanol
+134.D ethanol
+136.C table salt
+138.C table salt
+156.A CaCO<sub>3</sub>
+159.A NaOH (s) → Na<sup>+</sup> (aq) + O<sup>2−</sup> (aq)
+159.B NaOH (g) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+159.C NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+159.D NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)
+160.C NaCl (s)
+161.A table salt
+162.B a metal
+163.C a metal
+164.A a metal
+165.B a metal
+166.C a metal
+168.C weak acid
+168.D neutral
+169.A neutral
+169.B weakly basic
+172.D CH<sub>3</sub>COOH
+182.Q Which of these is a change of state?
+182.A settling
+182.B dissolving
+182.C filtration
+182.D freezing
+183.Q Which of these is also a change of state?
+183.A evaporation
+183.B filtration
+183.C deposition
+183.D dissolving
+184.Q Which of these is NOT a change of state?
+184.A melting
+184.B vaporisation
+184.C dissolving
+184.D sublimation
+185.Q Which of these is also NOT a change of state?
+185.A condensation
+185.B filtration
+185.C deposition
+185.D freezing
+186.A formula
+186.B state symbol
+186.D atomic symbol
+187.A table 66
+187.B table 2
+187.C table 9
+187.D table 52
+188.A table 99
+188.B table 98
+188.C table 66
+188.D table 9
+189.A table 98
+189.B table 99
+189.C table 9
+189.D table 66
+190.Q Which sentence is the (Dutch) mnemonic for the separation methods?
+190.A Anne, Bart en Claire Eten Dunne Friet In Amsterdam Centraal
+190.C Anne, Bart en Claire Eten Dikke Friet In Amsterdam Zuid
+190.D Bart, Anne en Claire Eten Dikke Friet In Amsterdam Centraal
+197.B ability to attach to a surface
+198.C ability to attach to a surface
+199.B ability to attach to a surface
+200.A ability to attach to a surface
+201.D ability to attach to a surface
+214.C density = volume / mass
+217.B times 100
+217.C times 10
+228.A table 2
+228.B table 66
+228.C table 9
+228.D table 98
+### sk3t-atomen-moleculen-MP
+heading Atoms and molecules
+0.A A mixture of two kinds of molecules
+0.B A group of molecules that clump together
+0.D A substance that cannot react
+1.A A particle made up of two or more atoms
+1.B The smallest particle of a mixture
+1.C A substance that consists of one kind of atom and cannot react
+1.D A particle that consists of one proton
+3.C An alloy
+4.A An element, because water is a pure substance
+4.B An element, because water contains only oxygen atoms
+4.C A mixture, because water contains two kinds of atoms
+4.D A compound, because a water molecule contains hydrogen and oxygen atoms
+5.A A compound, because oxygen gas is in the air
+5.B An element, because the molecule consists of one kind of atom
+5.C A mixture of oxygen and nitrogen
+5.D A compound, because the molecule consists of two atoms
+10.B Barium
+10.C Bronze
+10.D Boron
+12.D Helium, neon or argon (He, Ne, Ar)
+16.A There are 2 oxygen atoms in the molecule
+16.B There are 2 water molecules
+16.C There are 2 hydrogen atoms in the molecule
+16.D Water is twice as heavy
+17.A There are 3 kinds of atoms
+17.B There are 3 oxygen atoms in the molecule
+17.C There are 3 molecules of carbon dioxide
+17.D There are 3 carbon atoms in the molecule
+25.A Carbon oxide-1
+25.B Monocarbon
+26.A Sulfur monoxide
+26.B Oxygen sulfur
+33.A About 6 u
+33.B About 14 u
+33.D About 1 u
+### sk3t-basiskennis-MP
+heading Basic chemistry
+5.B Molybdenum
+5.C Manganese
+5.D Magnesium
+6.A Aluminium
+6.C Gold
+9.B NaCl<sub>2</sub>
+19.B It sinks, because 0.90 is almost 1
+19.C It dissolves in water
+19.D It sinks, because the density is lower than that of water
+29.A The difference in density
+29.B The difference in solubility
+29.D The difference in particle size
+33.C Freezing
+### sk3t-begrippen-MP
+heading Chemistry terms
+0.D magnesium
+4.D magnesium
+12.B magnesium
+26.D table salt
+34.B table salt
+42.A molecules that mainly contain C atoms and O atoms
+42.B molecules that mainly contain H atoms and O atoms
+42.D molecules that mainly contain N atoms and H atoms
+43.A hydrogen (H) and oxygen (O)
+43.C nitrogen (N) and hydrogen (H)
+43.D carbon (C) and oxygen (O)
+44.A petrol
+44.C table salt
+45.Q Which fuel is also a hydrocarbon?
+45.D diesel
+46.B table salt
+47.A coal
+47.B wind energy
+47.C hydroelectric power
+47.D solar energy
+48.Q Which of these is also a fossil fuel?
+48.A solar energy
+48.B hydroelectric power
+48.C crude oil
+48.D wind energy
+49.Q Natural gas is an example of a…
+49.A metal
+49.C salt
+49.D fossil fuel
+59.Q Which of these is a change of state?
+59.A settling
+59.B filtration
+59.C dissolving
+59.D freezing
+60.Q Which of these is also a change of state?
+60.A filtration
+60.B evaporation
+60.C dissolving
+60.D deposition
+61.Q Which of these is NOT a change of state?
+61.A dissolving
+61.B melting
+61.C vaporisation
+61.D sublimation
+62.Q Which of these is also NOT a change of state?
+62.A deposition
+62.B freezing
+62.C filtration
+62.D condensation
+63.A formula
+63.C atomic symbol
+63.D state symbol
+64.A table 9
+64.B table 52
+64.C table 2
+64.D table 42
+65.A table 39
+65.B table 52
+65.C table 34
+65.D table 9
+66.Q Which sentence is the (Dutch) mnemonic for the separation methods?
+66.A Bart &amp; Anne Eten Dikke Friet In Amsterdam
+66.B Bart &amp; Anne Eten Dikke Friet In Rotterdam
+66.C Anne &amp; Bart Eten Dikke Friet In Amsterdam
+66.D Bart &amp; Anne Eten Dunne Friet In Amsterdam
+68.Q Which separation method goes with the letter D in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+69.Q Which separation method goes with the letter F in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+70.Q Which separation method goes with the letter I in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+71.Q Which separation method goes with the letter E in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+72.Q Which separation method goes with the letter B in the Dutch mnemonic 'Bart &amp; Anne Eten Dikke Friet In Amsterdam'?
+73.D ability to attach to a surface
+74.A ability to attach to a surface
+75.D ability to attach to a surface
+76.B ability to attach to a surface
+77.D ability to attach to a surface
+88.A density = volume / mass
+91.B times 100
+91.C times 10
+102.A tables 2 and 3
+102.B tables 4, 5 and 6
+102.C tables 7, 8 and 9
+102.D tables 10, 11 and 12
+### sk3t-reacties-MP
+heading Reactions
+0.A The atoms disappear and new atoms are formed
+0.D A substance only changes state
+1.A No, because ice is a mixture
+1.C Yes, because it becomes liquid
+1.D Yes, because a new substance is formed
+2.A The atoms change into another kind of atom
+2.B New atoms are formed
+2.C Some of the atoms disappear
+3.B The catalyst
+4.B The coefficients
+4.C The atomic masses
+5.A An observation
+5.B A reaction product
+5.C A reactant
+5.D A conclusion
+6.A water (l) → hydrogen (l) + oxygen (l)
+6.B water (g) + oxygen (g) → hydrogen (g)
+6.C hydrogen (g) + oxygen (g) → water (l)
+7.A sodium (s) → water (l) + hydrogen (g)
+7.C sodium hydroxide solution (aq) + hydrogen (g) → sodium (s) + water (l)
+7.D sodium (s) + water (l) → sodium hydroxide solution (aq)
+8.A A reaction in which a mixture is separated
+8.B A reaction in which a substance only changes state
+8.D A reaction in which two substances combine to form one new substance
+9.B A reaction in which one substance is split up
+9.C A reaction in which nothing changes
+9.D A reaction in which only heat is released
+11.B Filtration
+12.B Extraction
+13.A Glucose
+13.B Oxygen, because it is an element
+14.B With a burning splint: the flame goes out
+15.A With a burning splint: the flame goes out
+16.C With white copper(II) sulfate: it turns blue
+17.B Hydrogen and chlorine
+17.C Hydrogen and nitrogen
+17.D Oxygen and carbon dioxide
+19.B Simplify the coefficients
+19.D Balance the atoms
+21.B Balance the atoms
+21.D Look up the atomic masses
+22.A Both are allowed
+22.C A subscript, because it is written at the bottom
+22.D A new arrow
+26.A Na + Cl<sub>2</sub> → 2 NaCl
+26.B Na + Cl<sub>2</sub> → NaCl
+26.C 2 Na + 2 Cl<sub>2</sub> → 2 NaCl
+26.D 2 Na + Cl<sub>2</sub> → 2 NaCl
+29.A No: there are more N atoms on the left than on the right
+29.B No: there are more H atoms on the left than on the right
+29.C No: there are more O atoms on the right than on the left
+30.B No: there are 2 H atoms on the left and 1 H atom on the right
+30.C No: there are more H atoms on the right than on the left
+30.D Yes: there are equal numbers of H atoms and O atoms on the left and right
+31.C 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O (this one is already as simple as possible)
+32.B Less than 50 g
+32.D More than 50 g
+### sk3t-reactiesnelheid-MP
+heading Reaction rate
+0.A How fast the reactants disappear and the new substances are formed
+0.B How much heat is released in the reaction
+0.C At what temperature the reaction takes place
+0.D How long the reaction lasts
+1.A How fast the reactants disappear
+1.B How long the reaction lasts
+1.C How much heat is released in the reaction
+1.D How much substance is left at the end
+2.B The reaction time stays the same
+2.C That depends on the substance
+2.D The reaction time becomes longer
+3.A The reaction rate decreases
+3.B The reaction rate stays the same
+3.C The reaction rate increases
+4.A The reaction rate decreases
+4.B The reaction stops immediately
+4.C The reaction rate stays the same
+4.D The reaction rate increases
+5.A The reaction rate decreases
+5.B The reaction rate stays the same
+5.D The reaction rate increases
+6.A The reaction rate stays the same
+6.B The reaction rate decreases
+6.C The reaction rate increases
+7.A The reaction rate decreases
+7.B The reaction rate stays the same
+7.D The reaction rate increases
+8.A It speeds up the reaction and is used up at the end
+8.B It slows down the reaction
+8.C It has no effect on the reaction
+8.D It speeds up the reaction and is not used up at the end
+9.A The reaction time becomes zero
+9.B The reaction time stays the same
+9.C The reaction time becomes longer
+10.A The reaction time stays the same
+10.B The reaction time becomes zero
+10.C The reaction time becomes longer
+11.B The reaction time becomes zero
+11.C The reaction time becomes longer
+11.D The reaction time stays the same
+12.A Yes, but only at a high temperature
+12.B No, all reactions go equally fast
+12.C No, only the temperature matters
+12.D Yes, some substances naturally react faster than others
+13.A The make of the balance
+13.B The time on the clock
+13.D The colour of the beaker
+14.A The reaction is slow
+14.B The reaction is fast
+14.C The reaction has not started yet
+14.D No new product is formed
+15.A The colour, smell and taste of the substances
+15.B The name of the substance, the make and the price
+15.C The mass of the beaker, the time of day and the place
+15.D For example the temperature, the concentration and the degree of division
+16.C The concentration
+16.D The catalyst
+17.A A powder contains a catalyst
+17.C A powder has a higher temperature
+17.D A powder is a different substance
+18.A The type of substance
+18.C The catalyst
+18.D The pressure
+19.A A catalyst works in the fridge
+19.B In the fridge the concentration of the food is higher
+19.C At a low temperature every reaction stops for good
+20.A The dust has an enormous degree of division and can then react explosively with oxygen
+20.B Flour is a catalyst
+20.C Flour only reacts at a low temperature
+20.D Flour is a very heavy substance
+21.A There is less pressure
+21.B The concentration of oxygen is higher
+21.C The temperature of the wood is lower
+21.D The degree of division of the wood is smaller
+22.A The degree of division of the petrol
+22.C The temperature of the air
+22.D The pressure of the air
+23.A The same amount as without a catalyst, but faster
+23.B More than without a catalyst
+23.C Less than without a catalyst
+23.D No product is formed any more
+24.A A gas in the air
+24.C A fuel in living organisms
+24.D A substance that stops a reaction
+25.A The reaction proceeds more slowly
+25.B Less hydrogen is formed
+25.C More hydrogen is formed
+26.A It makes no difference
+26.B In the 2 mol/L hydrochloric acid
+26.C In neither, the reaction stops
+26.D In the 0.5 mol/L hydrochloric acid
+28.A Write down the density of the solution from memory
+28.B Look at the colour of the beaker
+28.D Look up the name of the gas
+29.A The temperature keeps rising
+29.B The degree of division increases
+29.C The catalyst is used up
+30.A A catalyst has been added
+30.B The reaction has not started yet
+30.D The reaction keeps going faster
+31.A The reaction of B is slower
+31.B More product is eventually formed in B
+31.D Less product is eventually formed in B
+32.A Add more reactant and stir
+32.B Lower the temperature and reduce the concentration
+32.C Make the substance finer and increase the pressure
+32.D Raise the temperature and add a catalyst
+33.A Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H (g)
+33.B Mg (s) + HCl (aq) → MgCl (aq) + H<sub>2</sub> (g)
+33.C Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
+33.D Mg (s) + 2 HCl (aq) → MgCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)

@@ -1,0 +1,347 @@
+{
+ "title": "Reactions - 123 school",
+ "heading": "Reactions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What happens in a chemical reaction?",
+   "answers": {
+    "a": "The atoms disappear and new atoms are formed",
+    "b": "A mixture of the same substances is formed",
+    "c": "The reactants disappear and new substances with different properties are formed",
+    "d": "A substance only changes state"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is the melting of ice a chemical reaction?",
+   "answers": {
+    "a": "No, because ice is a mixture",
+    "b": "No, it is a change of state. They remain water molecules",
+    "c": "Yes, because it becomes liquid",
+    "d": "Yes, because a new substance is formed"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What happens to the atoms during a chemical reaction?",
+   "answers": {
+    "a": "The atoms change into another kind of atom",
+    "b": "New atoms are formed",
+    "c": "Some of the atoms disappear",
+    "d": "They are arranged differently. No atoms are added and no atoms are lost"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is on the left of the arrow in a reaction scheme?",
+   "answers": {
+    "a": "The products",
+    "b": "The catalyst",
+    "c": "The reactants",
+    "d": "The temperature"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is on the right of the arrow in a reaction scheme?",
+   "answers": {
+    "a": "The products",
+    "b": "The coefficients",
+    "c": "The atomic masses",
+    "d": "The reactants"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You see a gas escaping during a reaction. Is that an observation or a conclusion?",
+   "answers": {
+    "a": "An observation",
+    "b": "A reaction product",
+    "c": "A reactant",
+    "d": "A conclusion"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Give the word equation for the decomposition of water, with state symbols",
+   "answers": {
+    "a": "water (l) → hydrogen (l) + oxygen (l)",
+    "b": "water (g) + oxygen (g) → hydrogen (g)",
+    "c": "hydrogen (g) + oxygen (g) → water (l)",
+    "d": "water (l) → hydrogen (g) + oxygen (g)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Give the word equation for sodium reacting with water (sodium hydroxide solution and hydrogen are formed)",
+   "answers": {
+    "a": "sodium (s) → water (l) + hydrogen (g)",
+    "b": "sodium (s) + water (l) → sodium hydroxide solution (aq) + hydrogen (g)",
+    "c": "sodium hydroxide solution (aq) + hydrogen (g) → sodium (s) + water (l)",
+    "d": "sodium (s) + water (l) → sodium hydroxide solution (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a decomposition reaction?",
+   "answers": {
+    "a": "A reaction in which a mixture is separated",
+    "b": "A reaction in which a substance only changes state",
+    "c": "A reaction in which one reactant is split into several products",
+    "d": "A reaction in which two substances combine to form one new substance"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a synthesis reaction?",
+   "answers": {
+    "a": "A reaction in which one new substance is made from two or more substances",
+    "b": "A reaction in which one substance is split up",
+    "c": "A reaction in which nothing changes",
+    "d": "A reaction in which only heat is released"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is decomposition using electric current called?",
+   "answers": {
+    "a": "Electrolysis",
+    "b": "Thermolysis",
+    "c": "Distillation",
+    "d": "Photolysis"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is decomposition using heat called?",
+   "answers": {
+    "a": "Electrolysis",
+    "b": "Filtration",
+    "c": "Photolysis",
+    "d": "Thermolysis"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is decomposition using light called?",
+   "answers": {
+    "a": "Electrolysis",
+    "b": "Extraction",
+    "c": "Photolysis",
+    "d": "Thermolysis"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which of these substances can you not decompose: oxygen, water, carbon dioxide or glucose?",
+   "answers": {
+    "a": "Glucose",
+    "b": "Oxygen, because it is an element",
+    "c": "Carbon dioxide",
+    "d": "Water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you test for hydrogen gas?",
+   "answers": {
+    "a": "With limewater: it turns cloudy",
+    "b": "With a burning splint: the flame goes out",
+    "c": "With a burning splint: you hear a pop (a popping sound)",
+    "d": "With a glowing splint: it bursts into flame"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you test for oxygen gas?",
+   "answers": {
+    "a": "With a burning splint: the flame goes out",
+    "b": "With a glowing splint: it bursts into flame",
+    "c": "With a burning splint: you hear a pop",
+    "d": "With limewater: it turns cloudy"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you test for carbon dioxide?",
+   "answers": {
+    "a": "With a burning splint: you hear a pop",
+    "b": "With a burning splint: the flame goes out, or with limewater: it turns cloudy (white)",
+    "c": "With white copper(II) sulfate: it turns blue",
+    "d": "With a glowing splint: it bursts into flame"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Two gases are formed in the electrolysis of water. Which ones?",
+   "answers": {
+    "a": "Hydrogen and oxygen",
+    "b": "Hydrogen and chlorine",
+    "c": "Hydrogen and nitrogen",
+    "d": "Oxygen and carbon dioxide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is this an example of: CaCO<sub>3</sub> is heated and decomposes into CaO and CO<sub>2</sub>?",
+   "answers": {
+    "a": "Photolysis",
+    "b": "Thermolysis",
+    "c": "Synthesis",
+    "d": "Electrolysis"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is step 1 of the step-by-step method for a reaction equation?",
+   "answers": {
+    "a": "Write down the reaction scheme in words",
+    "b": "Simplify the coefficients",
+    "c": "Write down the reaction scheme in molecular formulae",
+    "d": "Balance the atoms"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you do in step 3 of the step-by-step method?",
+   "answers": {
+    "a": "Write down the reaction scheme in words",
+    "b": "Simplify the reaction equation",
+    "c": "Write down the reaction scheme in molecular formulae",
+    "d": "Set up the atom balance: balance the equation with coefficients"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you do in step 4 of the step-by-step method?",
+   "answers": {
+    "a": "Simplify the reaction equation",
+    "b": "Balance the atoms",
+    "c": "Write down the reaction scheme in words",
+    "d": "Look up the atomic masses"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you put in front of a molecular formula to balance the atoms: a subscript or a coefficient?",
+   "answers": {
+    "a": "Both are allowed",
+    "b": "A coefficient. You must never change the subscript (the small number)",
+    "c": "A subscript, because it is written at the bottom",
+    "d": "A new arrow"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "answers": {
+    "a": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "d": "H<sub>2</sub> + 2 O<sub>2</sub> → H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: N<sub>2</sub> + H<sub>2</sub> → NH<sub>3</sub>",
+   "answers": {
+    "a": "N<sub>2</sub> + H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "b": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "c": "2 N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>",
+    "d": "N<sub>2</sub> + 3 H<sub>2</sub> → NH<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: Mg + O<sub>2</sub> → MgO",
+   "answers": {
+    "a": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "b": "Mg + O<sub>2</sub> → MgO",
+    "c": "2 Mg + 2 O<sub>2</sub> → 2 MgO",
+    "d": "Mg + O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Balance: Na + Cl<sub>2</sub> → NaCl",
+   "answers": {
+    "a": "Na + Cl<sub>2</sub> → 2 NaCl",
+    "b": "Na + Cl<sub>2</sub> → NaCl",
+    "c": "2 Na + 2 Cl<sub>2</sub> → 2 NaCl",
+    "d": "2 Na + Cl<sub>2</sub> → 2 NaCl"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Balance: H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+   "answers": {
+    "a": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "b": "H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "c": "2 H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>",
+    "d": "H<sub>2</sub>O → H<sub>2</sub> + O<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Balance: C + O<sub>2</sub> → CO",
+   "answers": {
+    "a": "2 C + 2 O<sub>2</sub> → 2 CO",
+    "b": "C + 2 O<sub>2</sub> → CO",
+    "c": "2 C + O<sub>2</sub> → 2 CO",
+    "d": "C + O<sub>2</sub> → CO"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is this equation balanced? 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O",
+   "answers": {
+    "a": "No: there are more N atoms on the left than on the right",
+    "b": "No: there are more H atoms on the left than on the right",
+    "c": "No: there are more O atoms on the right than on the left",
+    "d": "Yes: on the left and the right there are 4 N, 12 H and 10 O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is this equation balanced? H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+   "answers": {
+    "a": "No: on the left there are 2 O atoms and on the right 1 O atom",
+    "b": "No: there are 2 H atoms on the left and 1 H atom on the right",
+    "c": "No: there are more H atoms on the right than on the left",
+    "d": "Yes: there are equal numbers of H atoms and O atoms on the left and right"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Simplify: 4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O",
+   "answers": {
+    "a": "H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O",
+    "b": "2 H<sub>2</sub> + 2 O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "4 H<sub>2</sub> + 2 O<sub>2</sub> → 4 H<sub>2</sub>O (this one is already as simple as possible)",
+    "d": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In a closed container, 50 g of reactants react completely to form products. How many g of products are formed?",
+   "answers": {
+    "a": "50 g, because the mass stays the same (law of conservation of mass)",
+    "b": "Less than 50 g",
+    "c": "25 g",
+    "d": "More than 50 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these reactions is a decomposition reaction?",
+   "answers": {
+    "a": "C + O<sub>2</sub> → CO<sub>2</sub>",
+    "b": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O",
+    "c": "2 H<sub>2</sub>O → 2 H<sub>2</sub> + O<sub>2</sub>",
+    "d": "2 Mg + O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}
