@@ -72,7 +72,7 @@ for c in list(body.children): verwerk(c)
 car = s.find(id='myCarousel'); car['data-i18n-attr'] = 'aria-label:' + sleutel(car['aria-label']); car['aria-label'] = ''
 keys['index.tips_aria'] = keys.pop(car['data-i18n-attr'].split(':')[1])
 car['data-i18n-attr'] = 'aria-label:index.tips_aria'; tekst2sleutel['Tips voor leerlingen'] = 'index.tips_aria'
-tit = s.title; tit.string = 'betermetpeter'
+tit = s.title; tit.string = 'Scheikunde en natuurkunde oefenen'
 for b in s.find_all(['body']):
     b['data-pagina'] = 'index'
 out = str(s)

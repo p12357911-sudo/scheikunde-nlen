@@ -64,7 +64,7 @@ def pas_correcties_toe(a, pg):
     return a
 
 TOEGESTAAN_INDEX_SEC = {'contact'}   # contactsectie wijkt bewust af (zie hieronder)
-CONTACT_VERWACHT = 'Contact Momenteel alleen verkrijgbaar in Nederland Stuur ons een berichtje met je vragen en tips en tops! En waar gehakt wordt vallen spaanders dus zie je een foutje laat dat dan ook even weten. Stuur een bericht Betermetpeter wil nog beter worden om op een vrije manier alle scholieren te helpen. Dat komt niet vanzelf en daar zijn donaties voor nodig. Doneer daarom en zorg dat deze website vrij te bezoeken blijft.'
+CONTACT_VERWACHT = 'Contact Momenteel alleen verkrijgbaar in Nederland Stuur ons een berichtje met je vragen en tips en tops! En waar gehakt wordt vallen spaanders dus zie je een foutje laat dat dan ook even weten. Stuur een bericht Deze trainingssite is gratis te gebruiken. Om dat zo te houden is geld nodig, vooral om de AI te betalen die je antwoorden nakijkt, en daarnaast om de site te onderhouden en te verbeteren. Help je mee met een kleine donatie?'
 
 def laad(b, base, pg, taal):
     ctx, page, errs = nieuwe_pagina(b, taal)
@@ -103,6 +103,9 @@ def main():
             a, c = res
             a = pas_correcties_toe(a, pg)
             if soort == 'index':
+                assert c['title'] == 'Scheikunde en natuurkunde oefenen', c['title']; a['title'] = c['title']   # bewust: naam 'betermetpeter' is overal weg
+                # bewust: menu-item 'Stoffen KBAI' is verwijderd (stap 2)
+                a['links'] = [l for l in a['links'] if 'KBAI' not in l]; a['sec'] = {k: v.replace(' Stoffen KBAI', '') for k, v in a['sec'].items()}
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]
