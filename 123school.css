@@ -557,3 +557,74 @@ table { max-width: 100%; }
 .niet-vertaald { margin: 12px 24px; padding: 10px 16px; border: 1.3pt solid #003A5C; border-radius: 6px; background: #F2F7FA; color: #111111; font-family: Arial, Helvetica, sans-serif; font-size: 12pt; }
 
 /* Ingebed contactformulier (Google Form) */
+
+/* ==========================================================================
+   COMPACT (laptop) - rustiger en korter, zonder inhoud te veranderen
+   Alles is een override, dus terugdraaien = dit blok weghalen.
+   Kleuren, lettertype en kaders blijven volgens de opmaakstandaard (Arial, #111111, kop #003A5C, kader 1,3 pt).
+   ========================================================================== */
+
+/* -- Alle schermen: minder lege ruimte onder en boven blokken -- */
+.w3-padding-64 { padding-top: 32px !important; padding-bottom: 32px !important; }
+footer.w3-padding-32 { padding-top: 14px !important; padding-bottom: 14px !important; position: relative; }
+footer.w3-container p { margin: 0; }
+/* de "naar boven"-knop hing 100 px boven de voet en maakte hem onnodig hoog: nu rechtsonder in de voet zelf */
+footer .w3-tooltip { position: absolute !important; bottom: 8px !important; right: 12px !important; }
+footer .w3-tooltip .w3-button { padding: 4px 10px; }
+.kb-controle { margin: 14px 0; }
+.meer-vragen { margin: 14px 0; }
+#results { margin-top: 12px; }
+
+/* -- Laptop en groter (>= 1200 px) -- */
+@media (min-width: 1200px) {
+  /* menu: een regel in plaats van twee (de balk liep over twee regels en bedekte de kop van de pagina) */
+  body:not(.home) .w3-bar .w3-bar-item.w3-button { font-size: 15px; padding: 8px 14px; line-height: 1.5; }
+  .taal-wissel { height: 40px; }
+  .taal-knop { min-height: 30px; min-width: 44px; font-size: 15px; }
+  .oefen-wissel { margin-top: 56px; max-width: 520px; }
+  .oefen-wissel a { min-height: 38px; padding: 7px 12px; font-size: 16px; }
+}
+
+/* -- Laptop en groter (>= 1100 px): lezen en typen in een rustige kolom -- */
+@media (min-width: 1100px) {
+  /* kolom van 900 px in het midden; de blauwe controleknop rechts blijft vrij van de tekst */
+  body[data-pagina="kb"] #inhoud, body[data-pagina="mp"] #scheikunde { max-width: 900px; margin-left: auto; margin-right: auto; }
+  body[data-pagina="mp"] #scheikunde { padding-top: 16px !important; padding-bottom: 8px !important; }
+  body[data-pagina="kb"] > br { display: none; }
+  body[data-pagina="kb"] > .w3-padding-64, body[data-pagina="puzzel"] > .w3-padding-32 { padding-top: 8px !important; padding-bottom: 24px !important; }
+
+  /* KB: kop en uitleg kleiner, vragen dichter bij elkaar maar nog steeds elk in een eigen kader */
+  .kb-intro { margin: 14px 0 18px 0; padding: 12px 20px 8px 20px; }
+  .kb-intro h2 { font-size: 18pt; margin-bottom: 8px; }
+  .kb-intro p { margin-bottom: 8px; }
+  .kb-intro p.kb-privacy { margin-top: 8px; padding-top: 8px; }
+  .kb-item { margin-bottom: 24px; padding-bottom: 12px; }
+  .vraag-knop { padding: 8px 16px; }
+  .kb-item > input[type="text"] { margin-top: 12px; }
+
+  /* MP: de vier antwoorden in twee kolommen (a b / c d), elke vraag blijft duidelijk een blok */
+  #mp-kop { display: block; margin-bottom: 4px; }
+  body[data-pagina="mp"] #scheikunde > p { margin: 0 0 14px 0; }
+  .vraag-blok { margin-bottom: 16px; }
+  .question { margin-bottom: 6px; }
+  .answers { display: grid; grid-template-columns: 1fr 1fr; column-gap: 24px; margin-bottom: 0; }
+  .answers label { margin-left: 8px; padding: 3px 6px; }
+  .answers > :not(label) { grid-column: 1 / -1; }
+}
+
+/* -- Beginpagina op laptop -- */
+@media (min-width: 1000px) {
+  body.home .jumbotron { padding: 66px 25px 28px 25px; margin-bottom: 0; }
+  body.home .jumbotron h1 { font-size: 46px; margin: 10px 0 4px 0; }
+  body.home .jumbotron p { font-size: 18px; margin: 0; }
+  body.home .item h4 { margin: 28px 0 18px 0; }
+  body.home .carousel-indicators { bottom: 0; }
+  body.home h2 { margin-bottom: 12px; margin-top: 0; }
+  body.home .w3-row { margin-top: 0; }
+  body.home .w3-row h2 { margin-top: 0; }
+  body.home .w3-row > br:first-child { display: none; }
+  body.home #contact { padding-top: 24px !important; padding-bottom: 24px !important; }
+  body.home #contact .w3-col.m5 { width: 100%; max-width: 760px; }
+  /* pictogrammen boven de secties en kolommen: groter (40 px), dezelfde donkerblauwe kleur als de koppen, nauwelijks extra hoogte */
+  body.home i.fa-solid { display: block; font-size: 40px; line-height: 1; color: #003A5C; margin: 4px auto 8px auto; }
+}
