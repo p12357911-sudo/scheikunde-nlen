@@ -84,6 +84,13 @@ if _kb is not None:
 # Thema 'Klimaatcrisis': dode shorturl-link vervangen door Peters Google Form 'Klimaatverandering'
 for _a in s.find_all('a', href='http://www.shorturl.at/motR0'):
     _a['href'] = 'https://docs.google.com/forms/d/12YEx8MHUTqOTbZEvsObVQpNl28HzhuNZCfRNuEa0fiM/viewform'; _a['rel'] = 'noopener'
+# Rustiger voorpagina (Peter): geen kleine iconen boven de leerjaar-kaarten; de grote sectie-iconen blijven
+for _i in s.find_all('i', class_='fa-solid'):
+    _par = _i.parent
+    _kaart = _par.name == 'div' and any(c in (_par.get('class') or []) for c in ('w3-third', 'w3-half', 'w3-quarter'))
+    _themakaart = _par.name == 'div' and 'w3-row' in (_par.get('class') or []) and 'fa-folder-open' in (_i.get('class') or [])
+    if not _i.get('style') and (_kaart or _themakaart):
+        _i.decompose()
 out = str(s)
 out = out.replace(' aria-label=""', '')
 open('index.html', 'w', encoding='utf-8').write(out)
