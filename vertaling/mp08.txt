@@ -1,0 +1,346 @@
+### sk4t-zoutreacties-MP
+0.Q What is a precipitation reaction?
+0.A Two solutions react with each other and a solid forms
+1.Q What is a precipitate?
+1.A A gas that escapes from a solution
+1.C A solid that forms in a solution and sinks to the bottom
+2.Q How can you predict whether a precipitate forms when you mix two salt solutions?
+3.Q Is AgCl very soluble or poorly soluble in water? (use BINAS table 35)
+3.B Poorly soluble
+3.D Very soluble
+4.Q Is BaSO<sub>4</sub> very soluble or poorly soluble in water? (use BINAS table 35)
+4.A It is a gas
+4.C Poorly soluble
+4.D Very soluble
+5.Q Is NaCl very soluble or poorly soluble in water? (use BINAS table 35)
+5.C Poorly soluble
+5.D Very soluble
+6.Q Which ions always make a salt dissolve well?
+6.A Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> en NO<sub>3</sub><sup>−</sup>
+6.B CO<sub>3</sub><sup>2−</sup>, PO<sub>4</sub><sup>3−</sup> en OH<sup>−</sup>
+6.C Ag<sup>+</sup>, Pb<sup>2+</sup> en Ba<sup>2+</sup>
+6.D Cl<sup>−</sup>, Br<sup>−</sup> en I<sup>−</sup>
+7.Q What are spectator ions?
+7.C Ions that do not take part in the reaction and stay dissolved
+8.Q You mix solutions of lead(II) nitrate (Pb(NO<sub>3</sub>)<sub>2</sub>) and potassium iodide (KI). A precipitate of PbI<sub>2</sub> forms. Which ions are the spectator ions?
+8.A K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>
+8.B Pb<sup>2+</sup> en NO<sub>3</sub><sup>−</sup>
+8.C K<sup>+</sup> en I<sup>−</sup>
+8.D Pb<sup>2+</sup> en I<sup>−</sup>
+9.Q Write the reaction equation for the formation of the precipitate lead(II) iodide from ions.
+9.A Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → Pb (s) + I<sub>2</sub> (g)
+9.B Pb<sup>2+</sup> (aq) + I<sup>−</sup> (aq) → PbI (s)
+9.C Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (aq)
+9.D Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (s)
+10.Q You mix silver nitrate and sodium chloride. What is the reaction equation of the precipitate that forms?
+11.Q You mix barium chloride (BaCl<sub>2</sub>) and sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>). Which precipitate forms?
+11.A Barium chloride
+11.B Sodium chloride
+11.C Sodium sulfide
+11.D Barium sulfate
+12.Q Write the full reaction equation for mixing BaCl<sub>2</sub> (aq) and Na<sub>2</sub>SO<sub>4</sub> (aq).
+13.Q Write the reaction equation for the formation of the precipitate calcium carbonate from ions.
+13.A Ca<sup>2+</sup> (aq) + 2 CO<sub>3</sub><sup>2−</sup> (aq) → Ca(CO<sub>3</sub>)<sub>2</sub> (s)
+14.Q Which ions make water hard?
+14.A Ca<sup>2+</sup> and Mg<sup>2+</sup> ions
+15.Q What does limescale in a kettle consist of?
+15.B NaCl
+15.C Ca(OH)<sub>2</sub>
+16.Q You add soda (Na<sub>2</sub>CO<sub>3</sub>) to hard water. What happens to the Ca<sup>2+</sup> ions?
+16.B They form a precipitate of CaCO<sub>3</sub> with CO<sub>3</sub><sup>2−</sup> and are removed from the water
+17.Q How can you remove Pb<sup>2+</sup> ions from waste water?
+18.Q Which reaction equation describes the removal of Fe<sup>3+</sup> ions with limewater (OH<sup>−</sup> ions)?
+18.B Fe<sup>3+</sup> (aq) + 3 H<sup>+</sup> (aq) → FeH<sub>3</sub> (s)
+18.C Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (s)
+18.D Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (aq)
+19.Q Why can you not remove nitrate ions (NO<sub>3</sub><sup>−</sup>) from water as a precipitate?
+19.D Nitrates are very soluble, so a precipitate never forms
+20.Q How do you detect chloride ions in a solution?
+20.D You add silver nitrate; a white precipitate of AgCl forms
+21.Q How do you detect sulfate ions in a solution?
+21.D You add barium chloride; a white precipitate of BaSO<sub>4</sub> forms
+22.Q How do you detect carbon dioxide, and which reaction takes place?
+22.B Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → Ca(CO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l)
+23.Q Which two solutions do you mix to make the poorly soluble salt silver chloride?
+23.D Silver nitrate and sodium chloride
+24.Q How do you separate the precipitate from the solution?
+24.A By filtering; the precipitate stays behind as the residue
+25.Q How do you get the dissolved salt (with the spectator ions) back from the filtrate?
+25.B By evaporating the filtrate
+26.Q You mix solutions of sodium sulfate and potassium nitrate. Does a precipitate form?
+26.D No, all possible salts dissolve well
+27.Q Write the full reaction equation for mixing Pb(NO<sub>3</sub>)<sub>2</sub> (aq) and KI (aq).
+27.A Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (s) + 2 KNO<sub>3</sub> (aq)
+27.B Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbK<sub>2</sub> (s) + 2 NO<sub>3</sub>I (aq)
+27.C Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (aq) + 2 KNO<sub>3</sub> (s)
+27.D Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + KI (aq) → PbI (s) + KNO<sub>3</sub> (aq)
+28.Q What is the formula of the salt that consists of Ca<sup>2+</sup> and PO<sub>4</sub><sup>3−</sup> ions?
+28.A Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>
+28.C Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+28.D Ca<sub>3</sub>PO<sub>4</sub>
+29.Q Write the reaction equation for dissolving calcium chloride in water.
+30.Q Write the reaction equation for dissolving aluminium sulfate (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) in water.
+30.A Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2−</sup> (aq)
+30.B Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 3 Al<sup>2+</sup> (aq) + 2 SO<sub>4</sub><sup>3−</sup> (aq)
+30.C Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2+</sup> (aq)
+30.D Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → Al<sup>3+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)
+31.Q Write the reaction equation for dissolving sodium carbonate in water.
+31.A Na<sub>2</sub>CO<sub>3</sub> (s) → Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)
+31.B Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + C<sup>2+</sup> (aq) + 3 O<sup>2−</sup> (aq)
+31.C Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)
+31.D Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>+</sup> (aq)
+32.Q How many ions form when one formula unit of CaCl<sub>2</sub> dissolves?
+32.C 3 ions: 1 Ca<sup>2+</sup> and 2 Cl<sup>−</sup>
+33.Q How can you see in a reaction equation that a precipitate forms?
+33.A The formula of the substance is followed by (s), for example AgCl (s)
+### sk4t-zuren-basen-MP
+0.Q What pH does an acidic solution have?
+0.A Higher than 7
+0.B Exactly 7
+0.C Exactly 14
+0.D Lower than 7
+1.Q What pH does a neutral solution have?
+1.A 7
+1.B 14
+1.C 1
+1.D 0
+2.Q What pH does a basic solution have?
+2.A Higher than 7
+2.B Lower than 7
+2.C Exactly 7
+2.D Exactly 0
+3.Q Which ion makes a solution acidic?
+3.A Na<sup>+</sup> (aq)
+3.B H<sup>+</sup> (aq)
+3.C OH<sup>−</sup> (aq)
+3.D Cl<sup>−</sup> (aq)
+4.Q Which ion makes a solution basic?
+4.A NO<sub>3</sub><sup>−</sup> (aq)
+4.B H<sup>+</sup> (aq)
+4.C OH<sup>−</sup> (aq)
+4.D Cl<sup>−</sup> (aq)
+5.Q What do you know about the number of H<sup>+</sup> and OH<sup>−</sup> ions in a neutral solution?
+5.A There are no ions
+5.D There are as many H<sup>+</sup> ions as OH<sup>−</sup> ions
+6.Q Which pH is the most acidic: 2, 5, 7 or 9?
+6.A 2
+6.B 9
+6.C 5
+6.D 7
+7.Q What is the formula of hydrochloric acid?
+7.A HCl
+7.B NaCl
+7.C HNO<sub>3</sub>
+7.D H<sub>2</sub>SO<sub>4</sub>
+8.Q What is the formula of sulfuric acid?
+8.A HNO<sub>3</sub>
+8.B HCl
+8.C H<sub>2</sub>SO<sub>4</sub>
+8.D H<sub>2</sub>SO<sub>3</sub>
+9.Q What is the formula of nitric acid?
+9.A NH<sub>3</sub>
+9.B HCl
+9.C HNO<sub>3</sub>
+9.D H<sub>2</sub>SO<sub>4</sub>
+10.Q What is the formula of acetic acid?
+10.A NaOH
+10.B CH<sub>4</sub>
+10.D CH<sub>3</sub>OH
+11.Q What is the formula of sodium hydroxide solution?
+11.A NaCl
+11.B KOH
+11.C Ca(OH)<sub>2</sub>
+11.D NaOH
+12.Q What is the formula of potassium hydroxide solution?
+12.A KCl
+12.B KOH
+12.C NaOH
+12.D Ca(OH)<sub>2</sub>
+13.Q What is the formula of limewater?
+13.A Ca(OH)<sub>2</sub>
+13.B CaO
+13.D NaOH
+14.Q What is the formula of ammonia, a base?
+14.A N<sub>2</sub>
+14.B NO<sub>3</sub>
+14.C NH<sub>4</sub>Cl
+14.D NH<sub>3</sub>
+15.Q Which ions form when HCl dissolves in water? Write the reaction equation.
+15.A HCl (g) → H (aq) + Cl (aq)
+15.B HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+15.C HCl (g) → OH<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)
+15.D HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)
+16.Q Write the reaction equation for dissolving sodium hydroxide in water.
+17.Q Write the reaction equation for dissolving sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) in water.
+17.A H<sub>2</sub>SO<sub>4</sub> (l) → H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)
+17.B H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>−</sup> (aq) + SO<sub>4</sub><sup>2+</sup> (aq)
+17.C H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>+</sup> (aq)
+17.D H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)
+18.Q What is neutralisation?
+18.A An acid reacts with a base to form a salt and water, and the pH becomes 7
+19.Q What is the reaction equation, in ions, for the neutralisation of an acid with a base?
+19.A H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub> (g) + O<sub>2</sub> (g)
+19.B H<sub>2</sub>O (l) → H<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+19.C H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>3</sub>O (l)
+19.D H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)
+20.Q Hydrochloric acid reacts with sodium hydroxide solution. Write the reaction equation.
+21.Q Sulfuric acid reacts with sodium hydroxide solution. Write the reaction equation.
+22.Q Which salt forms when nitric acid (HNO<sub>3</sub>) reacts with potassium hydroxide solution (KOH)?
+22.A Potassium chloride
+22.B Potassium nitrite
+22.C Sodium nitrate
+22.D Potassium nitrate
+23.Q Zinc reacts with hydrochloric acid. Write the reaction equation.
+24.Q Which gas forms when an acid reacts with a base metal, and how do you detect it?
+24.D Hydrogen; a burning splint makes a pop
+25.Q Limestone (CaCO<sub>3</sub>) reacts with hydrochloric acid. Write the reaction equation.
+26.Q What colour does litmus have in an acidic solution? (use BINAS table 36)
+26.A Colourless
+26.B Red
+26.C Yellow
+26.D Blue
+27.Q What colour does bromothymol blue have in a basic solution? (use BINAS table 36)
+27.A Yellow
+27.B Red
+27.C Colourless
+27.D Blue
+28.Q What colour does phenolphthalein have in a strongly basic solution? (use BINAS table 36)
+28.A Yellow
+28.C Green
+28.D Colourless
+29.Q Universal indicator paper turns green in a solution. What kind of solution is this?
+29.B A neutral solution
+30.Q You dilute an acidic solution with a lot of water. What happens to the pH?
+30.A The pH decreases
+30.B The pH becomes higher, towards 7
+31.Q You add sodium hydroxide solution drop by drop to hydrochloric acid. What happens to the pH?
+31.D The pH rises to 7 at neutralisation and then rises further
+32.Q Which hazard symbol is on a bottle of concentrated hydrochloric acid?
+32.C The symbol for corrosive
+33.Q Why do you not get a strong acid or a strong base on your skin?
+33.B They are corrosive and damage your skin
+### sk4t-zoutreacties-MP
+heading Salt reactions
+0.B A metal is heated until it melts
+0.C A solid dissolves in water
+0.D A liquid evaporates to a gas
+1.B A liquid that floats on the water
+1.D A substance that dissolves completely
+2.A You check whether the formulas are the same length
+2.B You check whether the solutions have the same colour
+2.C You look in BINAS table 35 to see whether a combination of the ions is poorly soluble
+2.D You check whether the solutions weigh the same
+3.A Always a gas
+3.C It is not a salt
+4.B It only dissolves in alcohol
+5.A It does not dissolve
+5.B It is a liquid
+7.A Ions with a large mass
+7.B Ions that form a precipitate
+7.D Ions that disappear into the air
+10.A Ag<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq) → AgCl<sub>2</sub> (s)
+10.B Na<sup>+</sup> (aq) + NO<sub>3</sub><sup>−</sup> (aq) → NaNO<sub>3</sub> (s)
+10.C Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (s)
+10.D Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (aq)
+12.A BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + NaCl (aq)
+12.B BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (aq) + 2 NaCl (s)
+12.C BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + 2 NaCl (aq)
+12.D BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaNa (s) + Cl<sub>2</sub>SO<sub>4</sub> (aq)
+13.B Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (s)
+13.C Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (aq)
+13.D Ca<sup>+</sup> (aq) + CO<sub>3</sub><sup>−</sup> (aq) → CaCO<sub>3</sub> (s)
+14.B H<sup>+</sup> and OH<sup>−</sup> ions
+14.C Na<sup>+</sup> and Cl<sup>−</sup> ions
+14.D K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions
+15.A CaCO<sub>3</sub>
+15.D CaCl<sub>2</sub>
+16.A They are converted into Na<sup>+</sup> ions and gas
+16.C They stay dissolved unchanged
+16.D They evaporate with the water
+17.A Dilute the waste water with a lot of water
+17.B Boil the water until the salt evaporates
+17.C Discharge the waste water into the river
+17.D Add a solution that forms a poorly soluble lead salt, and then filter
+18.A Fe<sup>3+</sup> (aq) + OH<sup>−</sup> (aq) → FeOH (s)
+19.A Nitrate never dissolves
+19.B Nitrate is a metal
+19.C Nitrate is a gas
+20.A You boil the solution; salt is formed
+20.B You add sodium hydroxide solution; the solution turns blue
+20.C You add hydrochloric acid; a gas is formed
+21.A You measure the pH; it is 7
+21.B You add silver nitrate; a yellow gas is formed
+21.C You add limewater; it turns cloudy
+22.A Ca(OH)<sub>2</sub> (aq) + 2 CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)
+22.C Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)
+22.D Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (aq) + H<sub>2</sub> (g)
+23.A Silver nitrate and potassium nitrate
+23.B Sodium chloride and potassium chloride
+23.C Silver and chlorine
+24.B By decanting without a filter
+24.C By distilling; the precipitate is the distillate
+24.D By evaporating; the precipitate evaporates
+25.A That is not possible
+25.C By cooling the filtrate to a gas
+25.D By filtering the filtrate once more
+26.A Yes, sodium potassium
+26.B Yes, potassium sulfate
+26.C Yes, sodium nitrate
+28.B CaPO<sub>4</sub>
+29.A CaCl<sub>2</sub> (s) → Ca<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq)
+29.B CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)
+29.C CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + Cl<sub>2</sub><sup>−</sup> (aq)
+29.D CaCl<sub>2</sub> (s) → Ca (aq) + Cl<sub>2</sub> (aq)
+32.A 2 ions: 1 Ca<sup>2+</sup> and 1 Cl<sup>−</sup>
+32.B 4 ions: 2 Ca<sup>2+</sup> and 2 Cl<sup>−</sup>
+32.D 1 ion: CaCl<sub>2</sub>
+33.B The formula of the substance is followed by (g)
+33.C The formula of the substance is followed by (aq)
+33.D There is an upward arrow
+### sk4t-zuren-basen-MP
+heading Acids and bases
+5.B There are only OH<sup>−</sup> ions
+5.C There are only H<sup>+</sup> ions
+10.C CH<sub>3</sub>COOH
+13.C CaCO<sub>3</sub>
+16.A NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)
+16.B NaOH (s) → Na<sup>+</sup> (aq) + H<sup>+</sup> (aq) + O<sup>2−</sup> (aq)
+16.C NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)
+16.D NaOH (s) → Na (aq) + OH (aq)
+18.B An acid is heated to a gas
+18.C A base reacts with a metal to form a salt
+18.D An acid reacts with an acid to form a base
+20.A HCl (aq) + NaOH (aq) → Na (s) + Cl<sub>2</sub> (g) + H<sub>2</sub>O (l)
+20.B HCl (aq) + NaOH (aq) → NaOH (aq) + HCl (aq)
+20.C HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)
+20.D 2 HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)
+21.A H<sub>2</sub>SO<sub>4</sub> (aq) + NaOH (aq) → NaSO<sub>4</sub> (aq) + H<sub>2</sub>O (l)
+21.B H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → 2 NaSO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)
+21.C H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)
+21.D H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + H<sub>2</sub>O (l)
+23.A Zn (s) + HCl (aq) → ZnCl (aq) + H<sub>2</sub> (g)
+23.B Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H (g)
+23.C Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
+23.D Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)
+24.A Chlorine; the gas is yellow-green and bleaches
+24.B Carbon dioxide; limewater turns cloudy
+24.C Oxygen; a glowing splint bursts into flame
+25.A CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g) + CO<sub>2</sub> (g)
+25.B CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)
+25.C CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)
+25.D CaCO<sub>3</sub> (s) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)
+28.B Purple
+29.A A strongly acidic solution
+29.C A solution without water
+29.D A strongly basic solution
+30.C The pH becomes 14
+30.D The pH stays exactly the same
+31.A The pH immediately becomes 14
+31.B The pH keeps falling
+31.C The pH always stays below 7
+32.A The flammable pictogram
+32.B The explosive pictogram
+32.D The environmental hazard pictogram
+33.A They colour your skin permanently
+33.C They are explosive
+33.D They are too cold

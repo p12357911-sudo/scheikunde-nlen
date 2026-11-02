@@ -1,0 +1,349 @@
+{
+ "title": "Salt reactions - 123 school",
+ "heading": "Salt reactions",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is a precipitation reaction?",
+   "answers": {
+    "a": "Two solutions react with each other and a solid forms",
+    "b": "A metal is heated until it melts",
+    "c": "A solid dissolves in water",
+    "d": "A liquid evaporates to a gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a precipitate?",
+   "answers": {
+    "a": "A gas that escapes from a solution",
+    "b": "A liquid that floats on the water",
+    "c": "A solid that forms in a solution and sinks to the bottom",
+    "d": "A substance that dissolves completely"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How can you predict whether a precipitate forms when you mix two salt solutions?",
+   "answers": {
+    "a": "You check whether the formulas are the same length",
+    "b": "You check whether the solutions have the same colour",
+    "c": "You look in BINAS table 35 to see whether a combination of the ions is poorly soluble",
+    "d": "You check whether the solutions weigh the same"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is AgCl very soluble or poorly soluble in water? (use BINAS table 35)",
+   "answers": {
+    "a": "Always a gas",
+    "b": "Poorly soluble",
+    "c": "It is not a salt",
+    "d": "Very soluble"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is BaSO<sub>4</sub> very soluble or poorly soluble in water? (use BINAS table 35)",
+   "answers": {
+    "a": "It is a gas",
+    "b": "It only dissolves in alcohol",
+    "c": "Poorly soluble",
+    "d": "Very soluble"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Is NaCl very soluble or poorly soluble in water? (use BINAS table 35)",
+   "answers": {
+    "a": "It does not dissolve",
+    "b": "It is a liquid",
+    "c": "Poorly soluble",
+    "d": "Very soluble"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ions always make a salt dissolve well?",
+   "answers": {
+    "a": "Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "b": "CO<sub>3</sub><sup>2−</sup>, PO<sub>4</sub><sup>3−</sup> en OH<sup>−</sup>",
+    "c": "Ag<sup>+</sup>, Pb<sup>2+</sup> en Ba<sup>2+</sup>",
+    "d": "Cl<sup>−</sup>, Br<sup>−</sup> en I<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What are spectator ions?",
+   "answers": {
+    "a": "Ions with a large mass",
+    "b": "Ions that form a precipitate",
+    "c": "Ions that do not take part in the reaction and stay dissolved",
+    "d": "Ions that disappear into the air"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You mix solutions of lead(II) nitrate (Pb(NO<sub>3</sub>)<sub>2</sub>) and potassium iodide (KI). A precipitate of PbI<sub>2</sub> forms. Which ions are the spectator ions?",
+   "answers": {
+    "a": "K<sup>+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "b": "Pb<sup>2+</sup> en NO<sub>3</sub><sup>−</sup>",
+    "c": "K<sup>+</sup> en I<sup>−</sup>",
+    "d": "Pb<sup>2+</sup> en I<sup>−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write the reaction equation for the formation of the precipitate lead(II) iodide from ions.",
+   "answers": {
+    "a": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → Pb (s) + I<sub>2</sub> (g)",
+    "b": "Pb<sup>2+</sup> (aq) + I<sup>−</sup> (aq) → PbI (s)",
+    "c": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (aq)",
+    "d": "Pb<sup>2+</sup> (aq) + 2 I<sup>−</sup> (aq) → PbI<sub>2</sub> (s)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You mix silver nitrate and sodium chloride. What is the reaction equation of the precipitate that forms?",
+   "answers": {
+    "a": "Ag<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq) → AgCl<sub>2</sub> (s)",
+    "b": "Na<sup>+</sup> (aq) + NO<sub>3</sub><sup>−</sup> (aq) → NaNO<sub>3</sub> (s)",
+    "c": "Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (s)",
+    "d": "Ag<sup>+</sup> (aq) + Cl<sup>−</sup> (aq) → AgCl (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You mix barium chloride (BaCl<sub>2</sub>) and sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>). Which precipitate forms?",
+   "answers": {
+    "a": "Barium chloride",
+    "b": "Sodium chloride",
+    "c": "Sodium sulfide",
+    "d": "Barium sulfate"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Write the full reaction equation for mixing BaCl<sub>2</sub> (aq) and Na<sub>2</sub>SO<sub>4</sub> (aq).",
+   "answers": {
+    "a": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + NaCl (aq)",
+    "b": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (aq) + 2 NaCl (s)",
+    "c": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaSO<sub>4</sub> (s) + 2 NaCl (aq)",
+    "d": "BaCl<sub>2</sub> (aq) + Na<sub>2</sub>SO<sub>4</sub> (aq) → BaNa (s) + Cl<sub>2</sub>SO<sub>4</sub> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Write the reaction equation for the formation of the precipitate calcium carbonate from ions.",
+   "answers": {
+    "a": "Ca<sup>2+</sup> (aq) + 2 CO<sub>3</sub><sup>2−</sup> (aq) → Ca(CO<sub>3</sub>)<sub>2</sub> (s)",
+    "b": "Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (s)",
+    "c": "Ca<sup>2+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq) → CaCO<sub>3</sub> (aq)",
+    "d": "Ca<sup>+</sup> (aq) + CO<sub>3</sub><sup>−</sup> (aq) → CaCO<sub>3</sub> (s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ions make water hard?",
+   "answers": {
+    "a": "Ca<sup>2+</sup> and Mg<sup>2+</sup> ions",
+    "b": "H<sup>+</sup> and OH<sup>−</sup> ions",
+    "c": "Na<sup>+</sup> and Cl<sup>−</sup> ions",
+    "d": "K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does limescale in a kettle consist of?",
+   "answers": {
+    "a": "CaCO<sub>3</sub>",
+    "b": "NaCl",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "CaCl<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You add soda (Na<sub>2</sub>CO<sub>3</sub>) to hard water. What happens to the Ca<sup>2+</sup> ions?",
+   "answers": {
+    "a": "They are converted into Na<sup>+</sup> ions and gas",
+    "b": "They form a precipitate of CaCO<sub>3</sub> with CO<sub>3</sub><sup>2−</sup> and are removed from the water",
+    "c": "They stay dissolved unchanged",
+    "d": "They evaporate with the water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How can you remove Pb<sup>2+</sup> ions from waste water?",
+   "answers": {
+    "a": "Dilute the waste water with a lot of water",
+    "b": "Boil the water until the salt evaporates",
+    "c": "Discharge the waste water into the river",
+    "d": "Add a solution that forms a poorly soluble lead salt, and then filter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which reaction equation describes the removal of Fe<sup>3+</sup> ions with limewater (OH<sup>−</sup> ions)?",
+   "answers": {
+    "a": "Fe<sup>3+</sup> (aq) + OH<sup>−</sup> (aq) → FeOH (s)",
+    "b": "Fe<sup>3+</sup> (aq) + 3 H<sup>+</sup> (aq) → FeH<sub>3</sub> (s)",
+    "c": "Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (s)",
+    "d": "Fe<sup>3+</sup> (aq) + 3 OH<sup>−</sup> (aq) → Fe(OH)<sub>3</sub> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why can you not remove nitrate ions (NO<sub>3</sub><sup>−</sup>) from water as a precipitate?",
+   "answers": {
+    "a": "Nitrate never dissolves",
+    "b": "Nitrate is a metal",
+    "c": "Nitrate is a gas",
+    "d": "Nitrates are very soluble, so a precipitate never forms"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you detect chloride ions in a solution?",
+   "answers": {
+    "a": "You boil the solution; salt is formed",
+    "b": "You add sodium hydroxide solution; the solution turns blue",
+    "c": "You add hydrochloric acid; a gas is formed",
+    "d": "You add silver nitrate; a white precipitate of AgCl forms"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you detect sulfate ions in a solution?",
+   "answers": {
+    "a": "You measure the pH; it is 7",
+    "b": "You add silver nitrate; a yellow gas is formed",
+    "c": "You add limewater; it turns cloudy",
+    "d": "You add barium chloride; a white precipitate of BaSO<sub>4</sub> forms"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you detect carbon dioxide, and which reaction takes place?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub> (aq) + 2 CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)",
+    "b": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → Ca(CO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l)",
+    "c": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (s) + H<sub>2</sub>O (l)",
+    "d": "Ca(OH)<sub>2</sub> (aq) + CO<sub>2</sub> (g) → CaCO<sub>3</sub> (aq) + H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which two solutions do you mix to make the poorly soluble salt silver chloride?",
+   "answers": {
+    "a": "Silver nitrate and potassium nitrate",
+    "b": "Sodium chloride and potassium chloride",
+    "c": "Silver and chlorine",
+    "d": "Silver nitrate and sodium chloride"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you separate the precipitate from the solution?",
+   "answers": {
+    "a": "By filtering; the precipitate stays behind as the residue",
+    "b": "By decanting without a filter",
+    "c": "By distilling; the precipitate is the distillate",
+    "d": "By evaporating; the precipitate evaporates"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you get the dissolved salt (with the spectator ions) back from the filtrate?",
+   "answers": {
+    "a": "That is not possible",
+    "b": "By evaporating the filtrate",
+    "c": "By cooling the filtrate to a gas",
+    "d": "By filtering the filtrate once more"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You mix solutions of sodium sulfate and potassium nitrate. Does a precipitate form?",
+   "answers": {
+    "a": "Yes, sodium potassium",
+    "b": "Yes, potassium sulfate",
+    "c": "Yes, sodium nitrate",
+    "d": "No, all possible salts dissolve well"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Write the full reaction equation for mixing Pb(NO<sub>3</sub>)<sub>2</sub> (aq) and KI (aq).",
+   "answers": {
+    "a": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (s) + 2 KNO<sub>3</sub> (aq)",
+    "b": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbK<sub>2</sub> (s) + 2 NO<sub>3</sub>I (aq)",
+    "c": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + 2 KI (aq) → PbI<sub>2</sub> (aq) + 2 KNO<sub>3</sub> (s)",
+    "d": "Pb(NO<sub>3</sub>)<sub>2</sub> (aq) + KI (aq) → PbI (s) + KNO<sub>3</sub> (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of the salt that consists of Ca<sup>2+</sup> and PO<sub>4</sub><sup>3−</sup> ions?",
+   "answers": {
+    "a": "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+    "b": "CaPO<sub>4</sub>",
+    "c": "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+    "d": "Ca<sub>3</sub>PO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Write the reaction equation for dissolving calcium chloride in water.",
+   "answers": {
+    "a": "CaCl<sub>2</sub> (s) → Ca<sup>+</sup> (aq) + 2 Cl<sup>−</sup> (aq)",
+    "b": "CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + 2 Cl<sup>−</sup> (aq)",
+    "c": "CaCl<sub>2</sub> (s) → Ca<sup>2+</sup> (aq) + Cl<sub>2</sub><sup>−</sup> (aq)",
+    "d": "CaCl<sub>2</sub> (s) → Ca (aq) + Cl<sub>2</sub> (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Write the reaction equation for dissolving aluminium sulfate (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>) in water.",
+   "answers": {
+    "a": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2−</sup> (aq)",
+    "b": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 3 Al<sup>2+</sup> (aq) + 2 SO<sub>4</sub><sup>3−</sup> (aq)",
+    "c": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → 2 Al<sup>3+</sup> (aq) + 3 SO<sub>4</sub><sup>2+</sup> (aq)",
+    "d": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (s) → Al<sup>3+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write the reaction equation for dissolving sodium carbonate in water.",
+   "answers": {
+    "a": "Na<sub>2</sub>CO<sub>3</sub> (s) → Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)",
+    "b": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + C<sup>2+</sup> (aq) + 3 O<sup>2−</sup> (aq)",
+    "c": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>2−</sup> (aq)",
+    "d": "Na<sub>2</sub>CO<sub>3</sub> (s) → 2 Na<sup>+</sup> (aq) + CO<sub>3</sub><sup>+</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many ions form when one formula unit of CaCl<sub>2</sub> dissolves?",
+   "answers": {
+    "a": "2 ions: 1 Ca<sup>2+</sup> and 1 Cl<sup>−</sup>",
+    "b": "4 ions: 2 Ca<sup>2+</sup> and 2 Cl<sup>−</sup>",
+    "c": "3 ions: 1 Ca<sup>2+</sup> and 2 Cl<sup>−</sup>",
+    "d": "1 ion: CaCl<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How can you see in a reaction equation that a precipitate forms?",
+   "answers": {
+    "a": "The formula of the substance is followed by (s), for example AgCl (s)",
+    "b": "The formula of the substance is followed by (g)",
+    "c": "The formula of the substance is followed by (aq)",
+    "d": "There is an upward arrow"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

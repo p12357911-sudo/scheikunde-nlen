@@ -1,0 +1,349 @@
+{
+ "title": "Cleaning and personal care - 123 school",
+ "heading": "Cleaning and personal care",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is natural soap made from?",
+   "answers": {
+    "a": "Petroleum products",
+    "b": "Metals",
+    "c": "Sand and clay",
+    "d": "Vegetable and animal oils and fats"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which part of a soap molecule dissolves well in water?",
+   "answers": {
+    "a": "The whole molecule",
+    "b": "No part",
+    "c": "The tail",
+    "d": "De kop"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which part of a soap molecule dissolves well in fat?",
+   "answers": {
+    "a": "No part",
+    "b": "The tail",
+    "c": "The whole molecule",
+    "d": "De kop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Soap is an…",
+   "answers": {
+    "a": "Solvent",
+    "b": "Suspension",
+    "c": "Emulsifier",
+    "d": "Pure substance"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You have grease on your hands. What do you use to get your hands clean?",
+   "answers": {
+    "a": "Only cold water",
+    "b": "Only sand",
+    "c": "Water and soap",
+    "d": "Only warm water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is hard water?",
+   "answers": {
+    "a": "Water with a lot of dissolved soap",
+    "b": "Water without dissolved substances",
+    "c": "Water with little dissolved limescale",
+    "d": "Water with a lot of dissolved limescale"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is formed when soap reacts with limescale?",
+   "answers": {
+    "a": "Table salt",
+    "b": "Distilled water",
+    "c": "Soap scum",
+    "d": "An emulsion"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You have hard water. How much soap do you need to clean something, compared with soft water?",
+   "answers": {
+    "a": "More soap",
+    "b": "No soap",
+    "c": "The same amount of soap",
+    "d": "Less soap"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which product is a cosmetic?",
+   "answers": {
+    "a": "Petroleum spirit",
+    "b": "Washing-up liquid",
+    "c": "Sunscreen",
+    "d": "All-purpose cleaner"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a cream?",
+   "answers": {
+    "a": "A pure substance that you rub onto your skin",
+    "b": "A suspension that you rub onto your skin",
+    "c": "An emulsion that you rub onto your skin",
+    "d": "A solution that you rub onto your skin"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What are the main ingredients of a cream?",
+   "answers": {
+    "a": "Water, abrasive and soap",
+    "b": "Water, soap and table salt",
+    "c": "Only water and alcohol",
+    "d": "Water, oil or fat and an emulsifier"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are the main ingredients of shampoo?",
+   "answers": {
+    "a": "Water, abrasive and soap",
+    "b": "Only water and alcohol",
+    "c": "Water, soap and table salt",
+    "d": "Water, oil or fat and an emulsifier"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which ingredient is always in toothpaste, besides soap?",
+   "answers": {
+    "a": "Oil",
+    "b": "Table salt",
+    "c": "An abrasive",
+    "d": "Alcohol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which ingredient in toothpaste speeds up the repair of your tooth enamel?",
+   "answers": {
+    "a": "The abrasive",
+    "b": "Fluoride",
+    "c": "Soap",
+    "d": "Table salt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is sebum?",
+   "answers": {
+    "a": "A kind of toothpaste",
+    "b": "An emulsifier",
+    "c": "The layer of fat on your skin",
+    "d": "A kind of soap"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why can you not remove sebum with water alone?",
+   "answers": {
+    "a": "Sebum is too warm",
+    "b": "Sebum dissolves in water but very slowly",
+    "c": "Sebum is fat and fat does not dissolve in water",
+    "d": "Sebum is a pure substance"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bacteria in dental plaque convert sugar into…",
+   "answers": {
+    "a": "Soap",
+    "b": "Acid",
+    "c": "Salt",
+    "d": "Fluoride"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why do you need more soap with hard water?",
+   "answers": {
+    "a": "Part of the soap reacts with limescale to form soap scum",
+    "b": "Hard water contains no soap",
+    "c": "Hard water is warmer",
+    "d": "Soap does not dissolve in hard water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens to your skin if you wash away all the sebum?",
+   "answers": {
+    "a": "Your skin becomes greasier",
+    "b": "Your skin becomes harder",
+    "c": "Nothing happens",
+    "d": "Your skin dries out"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does hydrophilic mean?",
+   "answers": {
+    "a": "Water-loving: the substance or the part of the molecule dissolves well in water",
+    "b": "Flammable and explosive",
+    "c": "Fat-loving and not water-loving",
+    "d": "Water-hating: does not dissolve in water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does hydrophobic mean?",
+   "answers": {
+    "a": "Water-fearing: the substance or the part of the molecule does not dissolve in water",
+    "b": "Water-loving: dissolves well in water",
+    "c": "Liquid at room temperature",
+    "d": "Acidic and corrosive"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which part of a soap molecule is hydrophilic and which part is hydrophobic?",
+   "answers": {
+    "a": "Both hydrophilic",
+    "b": "The head is hydrophobic, the tail is hydrophilic",
+    "c": "Both hydrophobic",
+    "d": "The head is hydrophilic, the tail is hydrophobic"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does fat not dissolve in water?",
+   "answers": {
+    "a": "Fat is heavier than water",
+    "b": "Fat is a salt",
+    "c": "Fat is hydrophobic",
+    "d": "Fat is hydrophilic"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do soap molecules make it possible for a drop of fat to be rinsed away?",
+   "answers": {
+    "a": "The soap turns the fat into water",
+    "b": "The tails are in the fat and the heads stick out into the water",
+    "c": "The heads are in the fat and the tails stick out into the water",
+    "d": "The soap dissolves the fat into a gas"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What function does water have when washing clothes?",
+   "answers": {
+    "a": "Coolant",
+    "b": "Solvent and rinsing agent",
+    "c": "Catalyst",
+    "d": "Fuel"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What pH does an all-purpose cleaner for grease usually have?",
+   "answers": {
+    "a": "Exactly 0",
+    "b": "Higher than 7 (basic)",
+    "c": "Exactly 7",
+    "d": "Lower than 7 (acidic)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What pH does a descaler usually have?",
+   "answers": {
+    "a": "Higher than 7 (basic)",
+    "b": "Lower than 7 (acidic)",
+    "c": "Exactly 7",
+    "d": "Exactly 14"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why does an acid such as vinegar help against limescale?",
+   "answers": {
+    "a": "The acid makes the limescale evaporate",
+    "b": "The acid makes the limescale harder",
+    "c": "The acid turns limescale into soap",
+    "d": "The acid reacts with lime to form a soluble salt, water and carbon dioxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You pour descaler onto limescale and it starts to fizz. Which gas forms?",
+   "answers": {
+    "a": "Carbon dioxide",
+    "b": "Nitrogen",
+    "c": "Hydrogen",
+    "d": "Oxygen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What type of substance is a drain cleaner containing sodium hydroxide solution?",
+   "answers": {
+    "a": "An acid",
+    "b": "A strong base",
+    "c": "A salt",
+    "d": "A neutral substance"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why are soft drinks bad for your teeth?",
+   "answers": {
+    "a": "Soft drinks are too cold",
+    "b": "Soft drinks are basic and make teeth soft",
+    "c": "Soft drinks contain soap",
+    "d": "Soft drinks are acidic and attack the tooth enamel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Sal ammoniac (NH<sub>4</sub>Cl) decomposes when heated. What is the reaction equation?",
+   "answers": {
+    "a": "NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (g)",
+    "b": "NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (s)",
+    "c": "NH<sub>4</sub>Cl (s) → N (g) + H (g) + Cl (g)",
+    "d": "NH<sub>4</sub>Cl (s) → NH<sub>4</sub> (g) + Cl (g)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an emulsion?",
+   "answers": {
+    "a": "A solid with a gas in it",
+    "b": "A mixture in which small droplets of one liquid are spread through another liquid",
+    "c": "A clear mixture of two gases",
+    "d": "A solution of a salt in water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is an emulsifier?",
+   "answers": {
+    "a": "A substance that speeds up a reaction",
+    "b": "A substance that neutralises acid",
+    "c": "A substance that makes water evaporate",
+    "d": "A substance that makes water and oil or fat mix"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

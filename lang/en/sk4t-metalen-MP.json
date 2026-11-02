@@ -1,0 +1,347 @@
+{
+ "title": "Metals - 123 school",
+ "heading": "Metals",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Which metal is liquid at room temperature?",
+   "answers": {
+    "a": "Lead (Pb)",
+    "b": "Mercury (Hg)",
+    "c": "Tin (Sn)",
+    "d": "Aluminium (Al)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why are copper wires used in electricity cables?",
+   "answers": {
+    "a": "Copper is an insulator and protects against shocks",
+    "b": "Copper conducts electricity very well and is easy to shape",
+    "c": "Copper does not rust and that is the only requirement",
+    "d": "Copper is lighter than all other metals"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is an alloy?",
+   "answers": {
+    "a": "A solution of a metal in water",
+    "b": "A pure metal with a high melting point",
+    "c": "A mixture of a metal with one or more other substances (usually other metals as well)",
+    "d": "A compound of a metal with oxygen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is bronze made of?",
+   "answers": {
+    "a": "Copper and tin",
+    "b": "Copper and zinc",
+    "c": "Iron and carbon",
+    "d": "Tin and lead"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is brass made of?",
+   "answers": {
+    "a": "Iron and chromium",
+    "b": "Copper and tin",
+    "c": "Copper and zinc",
+    "d": "Zinc and aluminium"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is steel made of?",
+   "answers": {
+    "a": "Only pure iron",
+    "b": "Iron with a small amount of carbon",
+    "c": "Iron and silver",
+    "d": "Copper and tin"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why do people sometimes make an alloy instead of using a pure metal?",
+   "answers": {
+    "a": "The alloy is always cheaper than a pure metal",
+    "b": "The alloy has better properties, for example it is harder or rusts less quickly",
+    "c": "A pure metal does not exist",
+    "d": "The alloy conducts better than any pure metal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the metal in stainless steel that prevents rusting?",
+   "answers": {
+    "a": "Silver",
+    "b": "Mercury",
+    "c": "Gold",
+    "d": "Chromium"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What forms when magnesium burns?",
+   "answers": {
+    "a": "Magnesium dioxide",
+    "b": "Magnesium water",
+    "c": "Magnesium chloride (MgCl<sub>2</sub>)",
+    "d": "Magnesium oxide (MgO)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Balance: Mg + O<sub>2</sub> → MgO",
+   "answers": {
+    "a": "Mg + O<sub>2</sub> → MgO",
+    "b": "2 Mg + O<sub>2</sub> → 2 MgO",
+    "c": "Mg + O<sub>2</sub> → 2 MgO",
+    "d": "2 Mg + 2 O<sub>2</sub> → 2 MgO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+   "answers": {
+    "a": "Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+    "b": "4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>",
+    "c": "4 Fe + 3 O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>",
+    "d": "2 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+   "answers": {
+    "a": "4 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+    "b": "4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>",
+    "c": "2 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>",
+    "d": "2 Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Balance: Cu + O<sub>2</sub> → CuO",
+   "answers": {
+    "a": "2 Cu + O<sub>2</sub> → 2 CuO",
+    "b": "Cu + O<sub>2</sub> → CuO",
+    "c": "2 Cu + 2 O<sub>2</sub> → 2 CuO",
+    "d": "Cu + O<sub>2</sub> → 2 CuO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Balance: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+   "answers": {
+    "a": "2 Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+    "b": "Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>",
+    "c": "Zn + 2 HCl → ZnCl<sub>2</sub> + 2 H<sub>2</sub>",
+    "d": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Balance: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+   "answers": {
+    "a": "2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>",
+    "b": "Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>",
+    "c": "2 Na + H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>",
+    "d": "Na + 2 H<sub>2</sub>O → NaOH + H<sub>2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which gas forms when sodium reacts with water?",
+   "answers": {
+    "a": "Carbon dioxide",
+    "b": "Oxygen",
+    "c": "Nitrogen",
+    "d": "Hydrogen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is rust?",
+   "answers": {
+    "a": "Iron oxide, which forms when iron reacts with oxygen and water",
+    "b": "An alloy of iron and copper",
+    "c": "Pure iron that has been damaged by light",
+    "d": "Iron that has melted"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is needed for iron to rust?",
+   "answers": {
+    "a": "Carbon dioxide and heat",
+    "b": "Only water",
+    "c": "Oxygen and water",
+    "d": "Only oxygen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is galvanising?",
+   "answers": {
+    "a": "Covering an iron object with a layer of zinc",
+    "b": "Making an object out of zinc",
+    "c": "Dissolving zinc in water",
+    "d": "Letting zinc rust"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does aluminium not rust through?",
+   "answers": {
+    "a": "Aluminium is heavier than iron",
+    "b": "Aluminium does not react with oxygen",
+    "c": "A thin, dense layer of aluminium oxide forms on the surface and protects the metal",
+    "d": "Aluminium is a noble metal that never reacts"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is an ore?",
+   "answers": {
+    "a": "An alloy of two metals",
+    "b": "A pure metal in the ground",
+    "c": "A gas that comes out of the earth",
+    "d": "A rock from which you can extract a metal"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which metal is made from iron ore in the blast furnace?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Zinc",
+    "c": "Copper",
+    "d": "Iron"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is carbon (coke) used for in the blast furnace?",
+   "answers": {
+    "a": "To make the iron rust",
+    "b": "To make the iron pure by filtering",
+    "c": "To make the ore dissolve",
+    "d": "To remove the oxygen from the iron ore (and as a fuel)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the iron that comes out of the blast furnace called?",
+   "answers": {
+    "a": "Bronze",
+    "b": "Stainless steel",
+    "c": "Pig iron",
+    "d": "Iron oxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why is recycling metals important?",
+   "answers": {
+    "a": "Pure metal only exists as recycled metal",
+    "b": "Metal becomes heavier when it is recycled",
+    "c": "It saves raw materials and energy, and there is less waste",
+    "d": "You always get more metal out than you put in"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which metals are attracted by a magnet?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Copper",
+    "c": "Iron (and nickel and cobalt)",
+    "d": "Zinc"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A piece of copper has a mass of 89.6 g and a volume of 10.0 cm³. What is the density of copper?",
+   "answers": {
+    "a": "8.96 g/cm³",
+    "b": "896 g/cm³",
+    "c": "0.112 g/cm³",
+    "d": "89.6 g/cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A block of aluminium has a volume of 40 cm³. The density of aluminium is 2.7 g/cm³. What is the mass?",
+   "answers": {
+    "a": "1.08 g",
+    "b": "14.8 g",
+    "c": "108 g",
+    "d": "42.7 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A piece of iron of 156 g has a density of 7.8 g/cm³. What is the volume?",
+   "answers": {
+    "a": "148 cm³",
+    "b": "20 cm³",
+    "c": "1217 cm³",
+    "d": "0.05 cm³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which metal has the greatest density: aluminium (2.7 g/cm³), iron (7.9 g/cm³), lead (11.3 g/cm³) or zinc (7.1 g/cm³)?",
+   "answers": {
+    "a": "Aluminium",
+    "b": "Lead",
+    "c": "Zinc",
+    "d": "Iron"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "An ore of 200 g contains 140 g of iron oxide (Fe<sub>2</sub>O<sub>3</sub>). What is the mass percentage of iron oxide in the ore?",
+   "answers": {
+    "a": "70%",
+    "b": "143%",
+    "c": "30%",
+    "d": "140%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "500 g of ore contains 8.0 mass% of copper. How many grams of copper are there in the ore?",
+   "answers": {
+    "a": "400 g",
+    "b": "40 g",
+    "c": "4.0 g",
+    "d": "62.5 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of lead?",
+   "answers": {
+    "a": "Pb",
+    "b": "Lo",
+    "c": "L",
+    "d": "Pl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these metals occurs in nature mainly as an ore and not in pure form: gold or iron?",
+   "answers": {
+    "a": "Iron, because iron reacts easily with oxygen; gold occurs in pure form",
+    "b": "Both only occur as ore",
+    "c": "Gold, because gold reacts easily with oxygen",
+    "d": "Both only occur in pure form"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

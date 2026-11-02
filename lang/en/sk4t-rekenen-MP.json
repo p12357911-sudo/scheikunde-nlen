@@ -1,0 +1,359 @@
+{
+ "title": "Calculating with substances and reactions - 123 school",
+ "heading": "Calculating with substances and reactions",
+ "intro": [
+  "All the data you need is in the question. Round to the correct number of digits."
+ ],
+ "questions": [
+  {
+   "question": "What is the formula for the concentration of a solution?",
+   "answers": {
+    "a": "concentration = mass of dissolved substance : volume of solution",
+    "b": "concentration = volume of solution : mass of dissolved substance",
+    "c": "concentration = mass − volume",
+    "d": "concentration = mass × volume"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "20 g of salt is dissolved in 2 L of solution. What is the concentration?",
+   "answers": {
+    "a": "10 g/L",
+    "b": "22 g/L",
+    "c": "0.1 g/L",
+    "d": "40 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A solution has a concentration of 4 g/L. How many grams of dissolved substance are in 3 L?",
+   "answers": {
+    "a": "7 g",
+    "b": "1.3 g",
+    "c": "12 g",
+    "d": "0.75 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many grams of NaCl are there in 0.50 L of a solution with a concentration of 12 g/L?",
+   "answers": {
+    "a": "6.0 g",
+    "b": "12.5 g",
+    "c": "24 g",
+    "d": "0.042 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "45 g of sugar is dissolved in 0.250 L of solution. What is the concentration?",
+   "answers": {
+    "a": "45 g/L",
+    "b": "0.0056 g/L",
+    "c": "180 g/L",
+    "d": "11 g/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A solution has a concentration of 5.0 g/L. In what volume is 2.0 g of dissolved substance?",
+   "answers": {
+    "a": "10 L",
+    "b": "0.25 L",
+    "c": "0.40 L",
+    "d": "2.5 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 250 mL to litres.",
+   "answers": {
+    "a": "250 L",
+    "b": "25.0 L",
+    "c": "0.250 L",
+    "d": "2.50 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 1.5 g to mg.",
+   "answers": {
+    "a": "1.5 mg",
+    "b": "1500 mg",
+    "c": "0.0015 mg",
+    "d": "150 mg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 300 mg to g.",
+   "answers": {
+    "a": "3.00 g",
+    "b": "30.0 g",
+    "c": "300 g",
+    "d": "0.300 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "15 mg of a substance is dissolved in 3.0 L of water. What is the concentration in mg/L?",
+   "answers": {
+    "a": "45 mg/L",
+    "b": "12 mg/L",
+    "c": "5.0 mg/L",
+    "d": "0.20 mg/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the mass percentage of sodium in NaCl. Atomic masses: Na = 23.0 u; Cl = 35.5 u.",
+   "answers": {
+    "a": "23.0%",
+    "b": "60.7%",
+    "c": "39.3%",
+    "d": "50.0%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the mass percentage of calcium in CaCO<sub>3</sub>. Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u.",
+   "answers": {
+    "a": "12.0%",
+    "b": "59.9%",
+    "c": "40.1%",
+    "d": "48.0%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the mass percentage of chlorine in CaCl<sub>2</sub>. Atomic masses: Cl = 35.5 u; Ca = 40.1 u.",
+   "answers": {
+    "a": "88.6%",
+    "b": "36.1%",
+    "c": "63.9%",
+    "d": "31.9%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the mass percentage of aluminium in AlPO<sub>4</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.",
+   "answers": {
+    "a": "25.4%",
+    "b": "50.8%",
+    "c": "77.9%",
+    "d": "22.1%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many mg of aluminium are there in 1.5 mg of AlPO<sub>4</sub>? Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.",
+   "answers": {
+    "a": "6.8 mg",
+    "b": "1.2 mg",
+    "c": "0.22 mg",
+    "d": "0.33 mg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the maximum mass of calcium in g that you can obtain from 250 g of CaCl<sub>2</sub>? Atomic masses: Cl = 35.5 u; Ca = 40.1 u.",
+   "answers": {
+    "a": "63.9 g",
+    "b": "90.2 g",
+    "c": "159.8 g",
+    "d": "45.1 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the maximum mass of copper in g that you can obtain from 100 g of CuO? Atomic masses: O = 16.0 u; Cu = 63.5 u.",
+   "answers": {
+    "a": "79.9 g",
+    "b": "79.5 g",
+    "c": "63.5 g",
+    "d": "20.1 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the formula mass of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; S = 32.1 u.",
+   "answers": {
+    "a": "246.3 u",
+    "b": "150.1 u",
+    "c": "315.3 u",
+    "d": "342.3 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Atomic masses: O = 16.0 u; P = 31.0 u; Ca = 40.1 u.",
+   "answers": {
+    "a": "215.3 u",
+    "b": "310.3 u",
+    "c": "215.1 u",
+    "d": "246.1 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the formula mass of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; N = 14.0 u; O = 16.0 u; S = 32.1 u.",
+   "answers": {
+    "a": "66.1 u",
+    "b": "132.1 u",
+    "c": "114.1 u",
+    "d": "100.1 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A liquid has a density of 0.79 g/mL. What is the mass of 50 mL?",
+   "answers": {
+    "a": "39.5 g",
+    "b": "50.79 g",
+    "c": "63 g",
+    "d": "0.016 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What are the five steps in chemical calculations, in the correct order?",
+   "answers": {
+    "a": "Write the reaction equation → put the masses under the equation → ratio table → calculation → answer with unit",
+    "b": "Ratio table → calculation → write the reaction equation → answer with unit → put the masses under the equation",
+    "c": "Calculation → write the reaction equation → ratio table → put the masses under the equation → answer with unit",
+    "d": "Put the masses under the equation → write the reaction equation → calculation → ratio table → answer with unit"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO (g)",
+    "b": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO<sub>2</sub> (g)",
+    "c": "Fe<sub>2</sub>O<sub>3</sub> (s) + C (s) → Fe (s) + CO<sub>2</sub> (g)",
+    "d": "2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 2 Fe (s) + 3 CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 2: which masses (u) of iron oxide and iron do you put under the reaction equation?",
+   "answers": {
+    "a": "159.6 u en 223.2 u",
+    "b": "319.2 u en 223.2 u",
+    "c": "319.2 u en 55.8 u",
+    "d": "159.6 u en 55.8 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 3: which ratio table fits the question? You are looking for the mass of iron from 80 g of iron oxide.",
+   "answers": {
+    "a": "iron oxide: 319.2 u → 80 g; iron: 55.8 u → x g",
+    "b": "iron oxide: 319.2 u → 80 g; iron: 223.2 u → x g",
+    "c": "iron oxide: 159.6 u → 80 g; iron: 55.8 u → x g",
+    "d": "iron oxide: 159.6 u → 80 g; iron: 223.2 u → x g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 4: which calculation fits the ratio table?",
+   "answers": {
+    "a": "x = 223.2 × 80 : 319.2 = 55.9 g",
+    "b": "x = 319.2 × 80 : 223.2 = 114.4 g",
+    "c": "x = 55.8 × 80 : 159.6 = 28.0 g",
+    "d": "x = 223.2 × 80 : 159.6 = 111.9 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 5: your calculation gives x = 55.9. What is the correct answer?",
+   "answers": {
+    "a": "55.9 iron",
+    "b": "55.9 g iron",
+    "c": "55.9 u iron",
+    "d": "55.9 kg iron"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "b": "Ca(OH)<sub>2</sub> (aq) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l)",
+    "c": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl (aq) + 2 H<sub>2</sub>O (l)",
+    "d": "Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 2: which masses (u) of calcium hydroxide and hydrochloric acid (HCl) do you put under the reaction equation?",
+   "answers": {
+    "a": "73.0 u en 74.1 u",
+    "b": "110.6 u en 73.0 u",
+    "c": "74.1 u en 73.0 u",
+    "d": "74.1 u en 36.5 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 3: which ratio table fits the question? You are looking for the mass of hydrochloric acid (HCl) from 3.7 g of calcium hydroxide.",
+   "answers": {
+    "a": "calcium hydroxide: 74.1 u → 3.7 g; hydrochloric acid (HCl): 36.5 u → x g",
+    "b": "calcium hydroxide: 74.1 u → x g; hydrochloric acid (HCl): 73.0 u → 3.7 g",
+    "c": "calcium hydroxide: 74.1 u → 3.7 g; hydrochloric acid (HCl): 73.0 u → x g",
+    "d": "calcium hydroxide: 110.6 u → 3.7 g; hydrochloric acid (HCl): 73.0 u → x g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 4: which calculation fits the ratio table?",
+   "answers": {
+    "a": "x = 73.0 × 3.7 : 74.1 = 3.65 g",
+    "b": "x = 36.5 × 3.7 : 74.1 = 1.82 g",
+    "c": "x = 74.1 × 3.7 : 36.5 = 7.51 g",
+    "d": "x = 74.1 × 3.7 : 73.0 = 3.76 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 5: your calculation gives x = 3.65. What is the correct answer?",
+   "answers": {
+    "a": "3.65 g hydrochloric acid (HCl)",
+    "b": "3.65 hydrochloric acid (HCl)",
+    "c": "3.65 u hydrochloric acid (HCl)",
+    "d": "3.65 kg hydrochloric acid (HCl)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 1: what is the balanced reaction equation, with state symbols?",
+   "answers": {
+    "a": "NaOH (aq) + HCl (aq) → Na (s) + HClO (aq)",
+    "b": "2 NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "c": "NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 3: which ratio table fits the question? You are looking for the mass of hydrochloric acid (HCl) from 8.0 g of sodium hydroxide.",
+   "answers": {
+    "a": "sodium hydroxide: 40.0 u → 8.0 g; hydrochloric acid (HCl): 36.5 u → x g",
+    "b": "sodium hydroxide: 76.5 u → 8.0 g; hydrochloric acid (HCl): 36.5 u → x g",
+    "c": "sodium hydroxide: 40.0 u → 8.0 g; hydrochloric acid (HCl): 76.5 u → x g",
+    "d": "sodium hydroxide: 40.0 u → x g; hydrochloric acid (HCl): 36.5 u → 8.0 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 5: your calculation gives x = 7.3. What is the correct answer?",
+   "answers": {
+    "a": "7.3 kg hydrochloric acid (HCl)",
+    "b": "7.3 u hydrochloric acid (HCl)",
+    "c": "7.3 g hydrochloric acid (HCl)",
+    "d": "7.3 hydrochloric acid (HCl)"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

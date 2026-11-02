@@ -1,0 +1,524 @@
+### sk4t-metalen-MP
+0.Q Which metal is liquid at room temperature?
+0.B Mercury (Hg)
+0.C Tin (Sn)
+1.Q Why are copper wires used in electricity cables?
+1.B Copper conducts electricity very well and is easy to shape
+2.Q What is an alloy?
+2.C A mixture of a metal with one or more other substances (usually other metals as well)
+3.Q What is bronze made of?
+3.A Copper and tin
+3.B Copper and zinc
+4.Q What is brass made of?
+4.B Copper and tin
+4.C Copper and zinc
+5.Q What is steel made of?
+5.D Copper and tin
+6.Q Why do people sometimes make an alloy instead of using a pure metal?
+6.B The alloy has better properties, for example it is harder or rusts less quickly
+7.Q What is the metal in stainless steel that prevents rusting?
+7.A Silver
+7.B Mercury
+7.C Gold
+7.D Chromium
+8.Q What forms when magnesium burns?
+8.D Magnesium oxide (MgO)
+9.Q Balance: Mg + O<sub>2</sub> → MgO
+9.A Mg + O<sub>2</sub> → MgO
+9.B 2 Mg + O<sub>2</sub> → 2 MgO
+9.C Mg + O<sub>2</sub> → 2 MgO
+9.D 2 Mg + 2 O<sub>2</sub> → 2 MgO
+10.Q Balance: Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>
+10.A Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>
+10.B 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>
+10.C 4 Fe + 3 O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>
+10.D 2 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>
+11.Q Balance: Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+11.A 4 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+11.B 4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>
+11.C 2 Al + 3 O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+11.D 2 Al + O<sub>2</sub> → Al<sub>2</sub>O<sub>3</sub>
+12.Q Balance: Cu + O<sub>2</sub> → CuO
+12.A 2 Cu + O<sub>2</sub> → 2 CuO
+12.B Cu + O<sub>2</sub> → CuO
+12.C 2 Cu + 2 O<sub>2</sub> → 2 CuO
+12.D Cu + O<sub>2</sub> → 2 CuO
+13.Q Balance: Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+14.Q Balance: Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>
+15.Q Which gas forms when sodium reacts with water?
+15.A Carbon dioxide
+15.B Oxygen
+15.C Nitrogen
+15.D Hydrogen
+16.Q What is rust?
+16.A Iron oxide, which forms when iron reacts with oxygen and water
+17.Q What is needed for iron to rust?
+17.B Only water
+17.C Oxygen and water
+18.Q What is galvanising?
+18.A Covering an iron object with a layer of zinc
+19.Q Why does aluminium not rust through?
+19.C A thin, dense layer of aluminium oxide forms on the surface and protects the metal
+20.Q What is an ore?
+20.D A rock from which you can extract a metal
+21.Q Which metal is made from iron ore in the blast furnace?
+21.C Copper
+21.D Iron
+22.Q What is carbon (coke) used for in the blast furnace?
+23.Q What is the iron that comes out of the blast furnace called?
+23.A Bronze
+23.C Pig iron
+24.Q Why is recycling metals important?
+24.C It saves raw materials and energy, and there is less waste
+25.Q Which metals are attracted by a magnet?
+25.B Copper
+26.Q A piece of copper has a mass of 89.6 g and a volume of 10.0 cm³. What is the density of copper?
+26.A 8.96 g/cm³
+26.B 896 g/cm³
+26.C 0.112 g/cm³
+26.D 89.6 g/cm³
+27.Q A block of aluminium has a volume of 40 cm³. The density of aluminium is 2.7 g/cm³. What is the mass?
+27.A 1.08 g
+27.B 14.8 g
+27.C 108 g
+27.D 42.7 g
+28.Q A piece of iron of 156 g has a density of 7.8 g/cm³. What is the volume?
+28.A 148 cm³
+28.B 20 cm³
+28.C 1217 cm³
+28.D 0.05 cm³
+29.Q Which metal has the greatest density: aluminium (2.7 g/cm³), iron (7.9 g/cm³), lead (11.3 g/cm³) or zinc (7.1 g/cm³)?
+29.B Lead
+29.D Iron
+30.Q An ore of 200 g contains 140 g of iron oxide (Fe<sub>2</sub>O<sub>3</sub>). What is the mass percentage of iron oxide in the ore?
+30.A 70%
+30.B 143%
+30.C 30%
+30.D 140%
+31.Q 500 g of ore contains 8.0 mass% of copper. How many grams of copper are there in the ore?
+31.A 400 g
+31.B 40 g
+31.C 4.0 g
+31.D 62.5 g
+32.Q What is the symbol of lead?
+32.A Pb
+32.B Lo
+32.C L
+32.D Pl
+33.Q Which of these metals occurs in nature mainly as an ore and not in pure form: gold or iron?
+33.A Iron, because iron reacts easily with oxygen; gold occurs in pure form
+### sk4t-rekenen-MP
+0.A concentration = mass of dissolved substance : volume of solution
+1.A 10 g/L
+1.B 22 g/L
+1.C 0.1 g/L
+1.D 40 g/L
+2.A 7 g
+2.B 1.3 g
+2.C 12 g
+2.D 0.75 g
+3.Q How many grams of NaCl are there in 0.50 L of a solution with a concentration of 12 g/L?
+3.A 6.0 g
+3.B 12.5 g
+3.C 24 g
+3.D 0.042 g
+4.Q 45 g of sugar is dissolved in 0.250 L of solution. What is the concentration?
+4.A 45 g/L
+4.B 0.0056 g/L
+4.C 180 g/L
+4.D 11 g/L
+5.Q A solution has a concentration of 5.0 g/L. In what volume is 2.0 g of dissolved substance?
+5.A 10 L
+5.B 0.25 L
+5.C 0.40 L
+5.D 2.5 L
+6.Q Convert 250 mL to litres.
+6.A 250 L
+6.B 25.0 L
+6.C 0.250 L
+6.D 2.50 L
+7.Q Convert 1.5 g to mg.
+7.A 1.5 mg
+7.B 1500 mg
+7.C 0.0015 mg
+7.D 150 mg
+8.Q Convert 300 mg to g.
+8.A 3.00 g
+8.B 30.0 g
+8.C 300 g
+8.D 0.300 g
+9.Q 15 mg of a substance is dissolved in 3.0 L of water. What is the concentration in mg/L?
+9.A 45 mg/L
+9.B 12 mg/L
+9.C 5.0 mg/L
+9.D 0.20 mg/L
+10.Q Calculate the mass percentage of sodium in NaCl. Atomic masses: Na = 23.0 u; Cl = 35.5 u.
+10.A 23.0%
+10.B 60.7%
+10.C 39.3%
+10.D 50.0%
+11.Q Calculate the mass percentage of calcium in CaCO<sub>3</sub>. Atomic masses: C = 12.0 u; O = 16.0 u; Ca = 40.1 u.
+11.A 12.0%
+11.B 59.9%
+11.C 40.1%
+11.D 48.0%
+12.Q Calculate the mass percentage of chlorine in CaCl<sub>2</sub>. Atomic masses: Cl = 35.5 u; Ca = 40.1 u.
+12.A 88.6%
+12.B 36.1%
+12.C 63.9%
+12.D 31.9%
+13.Q Calculate the mass percentage of aluminium in AlPO<sub>4</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.
+13.A 25.4%
+13.B 50.8%
+13.C 77.9%
+13.D 22.1%
+14.Q How many mg of aluminium are there in 1.5 mg of AlPO<sub>4</sub>? Atomic masses: O = 16.0 u; Al = 27.0 u; P = 31.0 u.
+14.A 6.8 mg
+14.B 1.2 mg
+14.C 0.22 mg
+14.D 0.33 mg
+15.Q What is the maximum mass of calcium in g that you can obtain from 250 g of CaCl<sub>2</sub>? Atomic masses: Cl = 35.5 u; Ca = 40.1 u.
+15.A 63.9 g
+15.B 90.2 g
+15.C 159.8 g
+15.D 45.1 g
+16.Q What is the maximum mass of copper in g that you can obtain from 100 g of CuO? Atomic masses: O = 16.0 u; Cu = 63.5 u.
+16.A 79.9 g
+16.B 79.5 g
+16.C 63.5 g
+16.D 20.1 g
+17.Q Calculate the formula mass of Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. Atomic masses: O = 16.0 u; Al = 27.0 u; S = 32.1 u.
+17.A 246.3 u
+17.B 150.1 u
+17.C 315.3 u
+17.D 342.3 u
+18.Q Calculate the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Atomic masses: O = 16.0 u; P = 31.0 u; Ca = 40.1 u.
+18.A 215.3 u
+18.B 310.3 u
+18.C 215.1 u
+18.D 246.1 u
+19.Q Calculate the formula mass of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Atomic masses: H = 1.0 u; N = 14.0 u; O = 16.0 u; S = 32.1 u.
+19.A 66.1 u
+19.B 132.1 u
+19.C 114.1 u
+19.D 100.1 u
+20.Q A liquid has a density of 0.79 g/mL. What is the mass of 50 mL?
+20.A 39.5 g
+20.B 50.79 g
+20.C 63 g
+20.D 0.016 g
+21.Q What are the five steps in chemical calculations, in the correct order?
+21.A Write the reaction equation → put the masses under the equation → ratio table → calculation → answer with unit
+21.B Ratio table → calculation → write the reaction equation → answer with unit → put the masses under the equation
+21.C Calculation → write the reaction equation → ratio table → put the masses under the equation → answer with unit
+21.D Put the masses under the equation → write the reaction equation → calculation → ratio table → answer with unit
+22.A 2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO (g)
+22.B 2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 4 Fe (s) + 3 CO<sub>2</sub> (g)
+22.C Fe<sub>2</sub>O<sub>3</sub> (s) + C (s) → Fe (s) + CO<sub>2</sub> (g)
+22.D 2 Fe<sub>2</sub>O<sub>3</sub> (s) + 3 C (s) → 2 Fe (s) + 3 CO<sub>2</sub> (g)
+23.A 159.6 u en 223.2 u
+23.B 319.2 u en 223.2 u
+23.C 319.2 u en 55.8 u
+23.D 159.6 u en 55.8 u
+25.A x = 223.2 × 80 : 319.2 = 55.9 g
+25.B x = 319.2 × 80 : 223.2 = 114.4 g
+25.C x = 55.8 × 80 : 159.6 = 28.0 g
+25.D x = 223.2 × 80 : 159.6 = 111.9 g
+28.A 73.0 u en 74.1 u
+28.B 110.6 u en 73.0 u
+28.C 74.1 u en 73.0 u
+28.D 74.1 u en 36.5 u
+30.A x = 73.0 × 3.7 : 74.1 = 3.65 g
+30.B x = 36.5 × 3.7 : 74.1 = 1.82 g
+30.C x = 74.1 × 3.7 : 36.5 = 7.51 g
+30.D x = 74.1 × 3.7 : 73.0 = 3.76 g
+### sk4t-schoon-MP
+0.Q What is natural soap made from?
+0.B Metals
+1.C The tail
+1.D De kop
+2.B The tail
+2.D De kop
+3.A Solvent
+3.B Suspension
+3.D Pure substance
+5.Q What is hard water?
+6.A Table salt
+6.B Distilled water
+6.D An emulsion
+7.A More soap
+9.Q What is a cream?
+9.C An emulsion that you rub onto your skin
+10.Q What are the main ingredients of a cream?
+10.B Water, soap and table salt
+10.D Water, oil or fat and an emulsifier
+11.Q What are the main ingredients of shampoo?
+11.C Water, soap and table salt
+11.D Water, oil or fat and an emulsifier
+12.A Oil
+12.B Table salt
+13.Q Which ingredient in toothpaste speeds up the repair of your tooth enamel?
+13.D Table salt
+14.Q What is sebum?
+14.B An emulsifier
+15.Q Why can you not remove sebum with water alone?
+15.C Sebum is fat and fat does not dissolve in water
+16.C Salt
+17.Q Why do you need more soap with hard water?
+18.Q What happens to your skin if you wash away all the sebum?
+18.D Your skin dries out
+19.Q What does hydrophilic mean?
+19.A Water-loving: the substance or the part of the molecule dissolves well in water
+20.Q What does hydrophobic mean?
+20.A Water-fearing: the substance or the part of the molecule does not dissolve in water
+21.Q Which part of a soap molecule is hydrophilic and which part is hydrophobic?
+21.D The head is hydrophilic, the tail is hydrophobic
+22.Q Why does fat not dissolve in water?
+22.C Fat is hydrophobic
+23.Q How do soap molecules make it possible for a drop of fat to be rinsed away?
+23.B The tails are in the fat and the heads stick out into the water
+24.Q What function does water have when washing clothes?
+24.A Coolant
+24.B Solvent and rinsing agent
+24.D Fuel
+25.Q What pH does an all-purpose cleaner for grease usually have?
+25.B Higher than 7 (basic)
+25.C Exactly 7
+25.D Lower than 7 (acidic)
+26.Q What pH does a descaler usually have?
+26.A Higher than 7 (basic)
+26.B Lower than 7 (acidic)
+26.C Exactly 7
+26.D Exactly 14
+27.Q Why does an acid such as vinegar help against limescale?
+27.D The acid reacts with lime to form a soluble salt, water and carbon dioxide
+28.Q You pour descaler onto limescale and it starts to fizz. Which gas forms?
+28.A Carbon dioxide
+28.B Nitrogen
+28.C Hydrogen
+28.D Oxygen
+29.Q What type of substance is a drain cleaner containing sodium hydroxide solution?
+29.A An acid
+29.B A strong base
+30.Q Why are soft drinks bad for your teeth?
+30.D Soft drinks are acidic and attack the tooth enamel
+31.Q Sal ammoniac (NH<sub>4</sub>Cl) decomposes when heated. What is the reaction equation?
+31.A NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (g)
+31.B NH<sub>4</sub>Cl (s) → NH<sub>3</sub> (g) + HCl (s)
+31.C NH<sub>4</sub>Cl (s) → N (g) + H (g) + Cl (g)
+31.D NH<sub>4</sub>Cl (s) → NH<sub>4</sub> (g) + Cl (g)
+32.Q What is an emulsion?
+32.B A mixture in which small droplets of one liquid are spread through another liquid
+33.Q What is an emulsifier?
+33.A A substance that speeds up a reaction
+33.D A substance that makes water and oil or fat mix
+### sk4t-metalen-MP
+heading Metals
+0.A Lead (Pb)
+0.D Aluminium (Al)
+1.A Copper is an insulator and protects against shocks
+1.C Copper does not rust and that is the only requirement
+1.D Copper is lighter than all other metals
+2.A A solution of a metal in water
+2.B A pure metal with a high melting point
+2.D A compound of a metal with oxygen
+3.C Iron and carbon
+3.D Tin and lead
+4.A Iron and chromium
+4.D Zinc and aluminium
+5.A Only pure iron
+5.B Iron with a small amount of carbon
+5.C Iron and silver
+6.A The alloy is always cheaper than a pure metal
+6.C A pure metal does not exist
+6.D The alloy conducts better than any pure metal
+8.A Magnesium dioxide
+8.B Magnesium water
+8.C Magnesium chloride (MgCl<sub>2</sub>)
+13.A 2 Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+13.B Zn + HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+13.C Zn + 2 HCl → ZnCl<sub>2</sub> + 2 H<sub>2</sub>
+13.D Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>
+14.A 2 Na + 2 H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>
+14.B Na + H<sub>2</sub>O → NaOH + H<sub>2</sub>
+14.C 2 Na + H<sub>2</sub>O → 2 NaOH + H<sub>2</sub>
+14.D Na + 2 H<sub>2</sub>O → NaOH + H<sub>2</sub>
+16.B An alloy of iron and copper
+16.C Pure iron that has been damaged by light
+16.D Iron that has melted
+17.A Carbon dioxide and heat
+17.D Only oxygen
+18.B Making an object out of zinc
+18.C Dissolving zinc in water
+18.D Letting zinc rust
+19.A Aluminium is heavier than iron
+19.B Aluminium does not react with oxygen
+19.D Aluminium is a noble metal that never reacts
+20.A An alloy of two metals
+20.B A pure metal in the ground
+20.C A gas that comes out of the earth
+21.A Aluminium
+21.B Zinc
+22.A To make the iron rust
+22.B To make the iron pure by filtering
+22.C To make the ore dissolve
+22.D To remove the oxygen from the iron ore (and as a fuel)
+23.B Stainless steel
+23.D Iron oxide
+24.A Pure metal only exists as recycled metal
+24.B Metal becomes heavier when it is recycled
+24.D You always get more metal out than you put in
+25.A Aluminium
+25.C Iron (and nickel and cobalt)
+25.D Zinc
+29.A Aluminium
+29.C Zinc
+33.B Both only occur as ore
+33.C Gold, because gold reacts easily with oxygen
+33.D Both only occur in pure form
+### sk4t-rekenen-MP
+heading Calculating with substances and reactions
+0.Q What is the formula for the concentration of a solution?
+0.B concentration = volume of solution : mass of dissolved substance
+0.C concentration = mass − volume
+0.D concentration = mass × volume
+1.Q 20 g of salt is dissolved in 2 L of solution. What is the concentration?
+2.Q A solution has a concentration of 4 g/L. How many grams of dissolved substance are in 3 L?
+22.Q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 1: what is the balanced reaction equation, with state symbols?
+23.Q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 2: which masses (u) of iron oxide and iron do you put under the reaction equation?
+24.Q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 3: which ratio table fits the question? You are looking for the mass of iron from 80 g of iron oxide.
+24.A iron oxide: 319.2 u → 80 g; iron: 55.8 u → x g
+24.B iron oxide: 319.2 u → 80 g; iron: 223.2 u → x g
+24.C iron oxide: 159.6 u → 80 g; iron: 55.8 u → x g
+24.D iron oxide: 159.6 u → 80 g; iron: 223.2 u → x g
+25.Q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 4: which calculation fits the ratio table?
+26.Q Iron is made from iron oxide and carbon. You use 80 g of iron oxide. How many g of iron are formed? Atomic masses: C = 12.0 u; O = 16.0 u; Fe = 55.8 u. Step 5: your calculation gives x = 55.9. What is the correct answer?
+26.A 55.9 iron
+26.B 55.9 g iron
+26.C 55.9 u iron
+26.D 55.9 kg iron
+27.Q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 1: what is the balanced reaction equation, with state symbols?
+27.A Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g)
+27.B Ca(OH)<sub>2</sub> (aq) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l)
+27.C Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl (aq) + 2 H<sub>2</sub>O (l)
+27.D Ca(OH)<sub>2</sub> (aq) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)
+28.Q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 2: which masses (u) of calcium hydroxide and hydrochloric acid (HCl) do you put under the reaction equation?
+29.Q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 3: which ratio table fits the question? You are looking for the mass of hydrochloric acid (HCl) from 3.7 g of calcium hydroxide.
+29.A calcium hydroxide: 74.1 u → 3.7 g; hydrochloric acid (HCl): 36.5 u → x g
+29.B calcium hydroxide: 74.1 u → x g; hydrochloric acid (HCl): 73.0 u → 3.7 g
+29.C calcium hydroxide: 74.1 u → 3.7 g; hydrochloric acid (HCl): 73.0 u → x g
+29.D calcium hydroxide: 110.6 u → 3.7 g; hydrochloric acid (HCl): 73.0 u → x g
+30.Q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 4: which calculation fits the ratio table?
+31.Q Limewater (Ca(OH)<sub>2</sub>) is neutralised with hydrochloric acid (HCl). You have 3.7 g of Ca(OH)<sub>2</sub>. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Cl = 35.5 u; Ca = 40.1 u. Step 5: your calculation gives x = 3.65. What is the correct answer?
+31.A 3.65 g hydrochloric acid (HCl)
+31.B 3.65 hydrochloric acid (HCl)
+31.C 3.65 u hydrochloric acid (HCl)
+31.D 3.65 kg hydrochloric acid (HCl)
+32.Q Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 1: what is the balanced reaction equation, with state symbols?
+32.A NaOH (aq) + HCl (aq) → Na (s) + HClO (aq)
+32.B 2 NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)
+32.C NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub>O (l)
+32.D NaOH (aq) + HCl (aq) → NaCl (aq) + H<sub>2</sub> (g)
+33.Q Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 3: which ratio table fits the question? You are looking for the mass of hydrochloric acid (HCl) from 8.0 g of sodium hydroxide.
+33.A sodium hydroxide: 40.0 u → 8.0 g; hydrochloric acid (HCl): 36.5 u → x g
+33.B sodium hydroxide: 76.5 u → 8.0 g; hydrochloric acid (HCl): 36.5 u → x g
+33.C sodium hydroxide: 40.0 u → 8.0 g; hydrochloric acid (HCl): 76.5 u → x g
+33.D sodium hydroxide: 40.0 u → x g; hydrochloric acid (HCl): 36.5 u → 8.0 g
+34.Q Sodium hydroxide solution (NaOH) is neutralised with hydrochloric acid (HCl). You have 8.0 g of NaOH. How many g of HCl are needed exactly? Atomic masses: H = 1.0 u; O = 16.0 u; Na = 23.0 u; Cl = 35.5 u. Step 5: your calculation gives x = 7.3. What is the correct answer?
+34.A 7.3 kg hydrochloric acid (HCl)
+34.B 7.3 u hydrochloric acid (HCl)
+34.C 7.3 g hydrochloric acid (HCl)
+34.D 7.3 hydrochloric acid (HCl)
+### sk4t-schoon-MP
+heading Cleaning and personal care
+0.A Petroleum products
+0.C Sand and clay
+0.D Vegetable and animal oils and fats
+1.Q Which part of a soap molecule dissolves well in water?
+1.A The whole molecule
+1.B No part
+2.Q Which part of a soap molecule dissolves well in fat?
+2.A No part
+2.C The whole molecule
+3.Q Soap is an…
+3.C Emulsifier
+4.Q You have grease on your hands. What do you use to get your hands clean?
+4.A Only cold water
+4.B Only sand
+4.C Water and soap
+4.D Only warm water
+5.A Water with a lot of dissolved soap
+5.B Water without dissolved substances
+5.C Water with little dissolved limescale
+5.D Water with a lot of dissolved limescale
+6.Q What is formed when soap reacts with limescale?
+6.C Soap scum
+7.Q You have hard water. How much soap do you need to clean something, compared with soft water?
+7.B No soap
+7.C The same amount of soap
+7.D Less soap
+8.Q Which product is a cosmetic?
+8.A Petroleum spirit
+8.B Washing-up liquid
+8.C Sunscreen
+8.D All-purpose cleaner
+9.A A pure substance that you rub onto your skin
+9.B A suspension that you rub onto your skin
+9.D A solution that you rub onto your skin
+10.A Water, abrasive and soap
+10.C Only water and alcohol
+11.A Water, abrasive and soap
+11.B Only water and alcohol
+12.Q Which ingredient is always in toothpaste, besides soap?
+12.C An abrasive
+12.D Alcohol
+13.A The abrasive
+13.B Fluoride
+13.C Soap
+14.A A kind of toothpaste
+14.C The layer of fat on your skin
+14.D A kind of soap
+15.A Sebum is too warm
+15.B Sebum dissolves in water but very slowly
+15.D Sebum is a pure substance
+16.Q Bacteria in dental plaque convert sugar into…
+16.A Soap
+16.B Acid
+16.D Fluoride
+17.A Part of the soap reacts with limescale to form soap scum
+17.B Hard water contains no soap
+17.C Hard water is warmer
+17.D Soap does not dissolve in hard water
+18.A Your skin becomes greasier
+18.B Your skin becomes harder
+18.C Nothing happens
+19.B Flammable and explosive
+19.C Fat-loving and not water-loving
+19.D Water-hating: does not dissolve in water
+20.B Water-loving: dissolves well in water
+20.C Liquid at room temperature
+20.D Acidic and corrosive
+21.A Both hydrophilic
+21.B The head is hydrophobic, the tail is hydrophilic
+21.C Both hydrophobic
+22.A Fat is heavier than water
+22.B Fat is a salt
+22.D Fat is hydrophilic
+23.A The soap turns the fat into water
+23.C The heads are in the fat and the tails stick out into the water
+23.D The soap dissolves the fat into a gas
+24.C Catalyst
+25.A Exactly 0
+27.A The acid makes the limescale evaporate
+27.B The acid makes the limescale harder
+27.C The acid turns limescale into soap
+29.C A salt
+29.D A neutral substance
+30.A Soft drinks are too cold
+30.B Soft drinks are basic and make teeth soft
+30.C Soft drinks contain soap
+32.A A solid with a gas in it
+32.C A clear mixture of two gases
+32.D A solution of a salt in water
+33.B A substance that neutralises acid
+33.C A substance that makes water evaporate

@@ -1,0 +1,349 @@
+{
+ "title": "Acids and bases - 123 school",
+ "heading": "Acids and bases",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What pH does an acidic solution have?",
+   "answers": {
+    "a": "Higher than 7",
+    "b": "Exactly 7",
+    "c": "Exactly 14",
+    "d": "Lower than 7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What pH does a neutral solution have?",
+   "answers": {
+    "a": "7",
+    "b": "14",
+    "c": "1",
+    "d": "0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What pH does a basic solution have?",
+   "answers": {
+    "a": "Higher than 7",
+    "b": "Lower than 7",
+    "c": "Exactly 7",
+    "d": "Exactly 0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion makes a solution acidic?",
+   "answers": {
+    "a": "Na<sup>+</sup> (aq)",
+    "b": "H<sup>+</sup> (aq)",
+    "c": "OH<sup>−</sup> (aq)",
+    "d": "Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ion makes a solution basic?",
+   "answers": {
+    "a": "NO<sub>3</sub><sup>−</sup> (aq)",
+    "b": "H<sup>+</sup> (aq)",
+    "c": "OH<sup>−</sup> (aq)",
+    "d": "Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you know about the number of H<sup>+</sup> and OH<sup>−</sup> ions in a neutral solution?",
+   "answers": {
+    "a": "There are no ions",
+    "b": "There are only OH<sup>−</sup> ions",
+    "c": "There are only H<sup>+</sup> ions",
+    "d": "There are as many H<sup>+</sup> ions as OH<sup>−</sup> ions"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which pH is the most acidic: 2, 5, 7 or 9?",
+   "answers": {
+    "a": "2",
+    "b": "9",
+    "c": "5",
+    "d": "7"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of hydrochloric acid?",
+   "answers": {
+    "a": "HCl",
+    "b": "NaCl",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of sulfuric acid?",
+   "answers": {
+    "a": "HNO<sub>3</sub>",
+    "b": "HCl",
+    "c": "H<sub>2</sub>SO<sub>4</sub>",
+    "d": "H<sub>2</sub>SO<sub>3</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of nitric acid?",
+   "answers": {
+    "a": "NH<sub>3</sub>",
+    "b": "HCl",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of acetic acid?",
+   "answers": {
+    "a": "NaOH",
+    "b": "CH<sub>4</sub>",
+    "c": "CH<sub>3</sub>COOH",
+    "d": "CH<sub>3</sub>OH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the formula of sodium hydroxide solution?",
+   "answers": {
+    "a": "NaCl",
+    "b": "KOH",
+    "c": "Ca(OH)<sub>2</sub>",
+    "d": "NaOH"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of potassium hydroxide solution?",
+   "answers": {
+    "a": "KCl",
+    "b": "KOH",
+    "c": "NaOH",
+    "d": "Ca(OH)<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of limewater?",
+   "answers": {
+    "a": "Ca(OH)<sub>2</sub>",
+    "b": "CaO",
+    "c": "CaCO<sub>3</sub>",
+    "d": "NaOH"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of ammonia, a base?",
+   "answers": {
+    "a": "N<sub>2</sub>",
+    "b": "NO<sub>3</sub>",
+    "c": "NH<sub>4</sub>Cl",
+    "d": "NH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which ions form when HCl dissolves in water? Write the reaction equation.",
+   "answers": {
+    "a": "HCl (g) → H (aq) + Cl (aq)",
+    "b": "HCl (g) → H<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "HCl (g) → OH<sup>−</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "d": "HCl (g) → H<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Write the reaction equation for dissolving sodium hydroxide in water.",
+   "answers": {
+    "a": "NaOH (s) → Na<sup>−</sup> (aq) + OH<sup>+</sup> (aq)",
+    "b": "NaOH (s) → Na<sup>+</sup> (aq) + H<sup>+</sup> (aq) + O<sup>2−</sup> (aq)",
+    "c": "NaOH (s) → Na<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "d": "NaOH (s) → Na (aq) + OH (aq)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Write the reaction equation for dissolving sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) in water.",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub> (l) → H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)",
+    "b": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>−</sup> (aq) + SO<sub>4</sub><sup>2+</sup> (aq)",
+    "c": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>+</sup> (aq)",
+    "d": "H<sub>2</sub>SO<sub>4</sub> (l) → 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is neutralisation?",
+   "answers": {
+    "a": "An acid reacts with a base to form a salt and water, and the pH becomes 7",
+    "b": "An acid is heated to a gas",
+    "c": "A base reacts with a metal to form a salt",
+    "d": "An acid reacts with an acid to form a base"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the reaction equation, in ions, for the neutralisation of an acid with a base?",
+   "answers": {
+    "a": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub> (g) + O<sub>2</sub> (g)",
+    "b": "H<sub>2</sub>O (l) → H<sup>+</sup> (aq) + OH<sup>−</sup> (aq)",
+    "c": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>3</sub>O (l)",
+    "d": "H<sup>+</sup> (aq) + OH<sup>−</sup> (aq) → H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hydrochloric acid reacts with sodium hydroxide solution. Write the reaction equation.",
+   "answers": {
+    "a": "HCl (aq) + NaOH (aq) → Na (s) + Cl<sub>2</sub> (g) + H<sub>2</sub>O (l)",
+    "b": "HCl (aq) + NaOH (aq) → NaOH (aq) + HCl (aq)",
+    "c": "HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "2 HCl (aq) + NaOH (aq) → NaCl (aq) + H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Sulfuric acid reacts with sodium hydroxide solution. Write the reaction equation.",
+   "answers": {
+    "a": "H<sub>2</sub>SO<sub>4</sub> (aq) + NaOH (aq) → NaSO<sub>4</sub> (aq) + H<sub>2</sub>O (l)",
+    "b": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → 2 NaSO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "c": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "d": "H<sub>2</sub>SO<sub>4</sub> (aq) + 2 NaOH (aq) → Na<sub>2</sub>SO<sub>4</sub> (aq) + H<sub>2</sub>O (l)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which salt forms when nitric acid (HNO<sub>3</sub>) reacts with potassium hydroxide solution (KOH)?",
+   "answers": {
+    "a": "Potassium chloride",
+    "b": "Potassium nitrite",
+    "c": "Sodium nitrate",
+    "d": "Potassium nitrate"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Zinc reacts with hydrochloric acid. Write the reaction equation.",
+   "answers": {
+    "a": "Zn (s) + HCl (aq) → ZnCl (aq) + H<sub>2</sub> (g)",
+    "b": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H (g)",
+    "c": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + H<sub>2</sub> (g)",
+    "d": "Zn (s) + 2 HCl (aq) → ZnCl<sub>2</sub> (aq) + 2 H<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which gas forms when an acid reacts with a base metal, and how do you detect it?",
+   "answers": {
+    "a": "Chlorine; the gas is yellow-green and bleaches",
+    "b": "Carbon dioxide; limewater turns cloudy",
+    "c": "Oxygen; a glowing splint bursts into flame",
+    "d": "Hydrogen; a burning splint makes a pop"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Limestone (CaCO<sub>3</sub>) reacts with hydrochloric acid. Write the reaction equation.",
+   "answers": {
+    "a": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub> (g) + CO<sub>2</sub> (g)",
+    "b": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + 2 H<sub>2</sub>O (l)",
+    "c": "CaCO<sub>3</sub> (s) + 2 HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)",
+    "d": "CaCO<sub>3</sub> (s) + HCl (aq) → CaCl<sub>2</sub> (aq) + H<sub>2</sub>O (l) + CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does litmus have in an acidic solution? (use BINAS table 36)",
+   "answers": {
+    "a": "Colourless",
+    "b": "Red",
+    "c": "Yellow",
+    "d": "Blue"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What colour does bromothymol blue have in a basic solution? (use BINAS table 36)",
+   "answers": {
+    "a": "Yellow",
+    "b": "Red",
+    "c": "Colourless",
+    "d": "Blue"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What colour does phenolphthalein have in a strongly basic solution? (use BINAS table 36)",
+   "answers": {
+    "a": "Yellow",
+    "b": "Purple",
+    "c": "Green",
+    "d": "Colourless"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Universal indicator paper turns green in a solution. What kind of solution is this?",
+   "answers": {
+    "a": "A strongly acidic solution",
+    "b": "A neutral solution",
+    "c": "A solution without water",
+    "d": "A strongly basic solution"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You dilute an acidic solution with a lot of water. What happens to the pH?",
+   "answers": {
+    "a": "The pH decreases",
+    "b": "The pH becomes higher, towards 7",
+    "c": "The pH becomes 14",
+    "d": "The pH stays exactly the same"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You add sodium hydroxide solution drop by drop to hydrochloric acid. What happens to the pH?",
+   "answers": {
+    "a": "The pH immediately becomes 14",
+    "b": "The pH keeps falling",
+    "c": "The pH always stays below 7",
+    "d": "The pH rises to 7 at neutralisation and then rises further"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which hazard symbol is on a bottle of concentrated hydrochloric acid?",
+   "answers": {
+    "a": "The flammable pictogram",
+    "b": "The explosive pictogram",
+    "c": "The symbol for corrosive",
+    "d": "The environmental hazard pictogram"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why do you not get a strong acid or a strong base on your skin?",
+   "answers": {
+    "a": "They colour your skin permanently",
+    "b": "They are corrosive and damage your skin",
+    "c": "They are explosive",
+    "d": "They are too cold"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}
