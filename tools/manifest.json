@@ -237,7 +237,7 @@
     "rv3h-breuken-procenten-eenheden-KB",
     "rv3h-breuken-procenten-eenheden-MP"
    ],
-   "ai": false,
+   "ai": true,
    "opnieuw": true,
    "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
   },
@@ -261,7 +261,7 @@
     "rv3h-significante-cijfers-stappen-KB",
     "rv3h-significante-cijfers-stappen-MP"
    ],
-   "ai": false,
+   "ai": true,
    "opnieuw": true,
    "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
   },
@@ -309,7 +309,7 @@
     "rv3t-breuken-procenten-eenheden-KB",
     "rv3t-breuken-procenten-eenheden-MP"
    ],
-   "ai": false,
+   "ai": true,
    "opnieuw": true,
    "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
   },
@@ -333,7 +333,7 @@
     "rv4h-eenheden-gehaltes-KB",
     "rv4h-eenheden-gehaltes-MP"
    ],
-   "ai": false,
+   "ai": true,
    "opnieuw": true,
    "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
   },
@@ -357,7 +357,7 @@
     "rv4h-significante-cijfers-stappen-KB",
     "rv4h-significante-cijfers-stappen-MP"
    ],
-   "ai": false,
+   "ai": true,
    "opnieuw": true,
    "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
   },
