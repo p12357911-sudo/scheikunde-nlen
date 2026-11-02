@@ -1,0 +1,239 @@
+{
+ "title": "Significant figures and multi-step problems - 123 school",
+ "heading": "Significant figures and multi-step problems",
+ "intro": [
+  "All the data you need is in the question. Every question tells you how to round. For a multi-step problem, the tip tells you how many steps you need."
+ ],
+ "questions": [
+  {
+   "question": "How many significant figures does 0.0250 have?",
+   "answers": {
+    "a": "5",
+    "b": "3",
+    "c": "4",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many significant figures does 0.00450 have?",
+   "answers": {
+    "a": "3",
+    "b": "2",
+    "c": "4",
+    "d": "5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many significant figures does 0.100 have?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "5",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many significant figures does 80.0 have?",
+   "answers": {
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many significant figures does 1.0 × 10<sup>3</sup> have?",
+   "answers": {
+    "a": "1",
+    "b": "4",
+    "c": "3",
+    "d": "2"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Round 3.14159 to 3 significant figures.",
+   "answers": {
+    "a": "3.14",
+    "b": "3.15",
+    "c": "3.142",
+    "d": "3.1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Round 0.09996 to 2 significant figures.",
+   "answers": {
+    "a": "0.099",
+    "b": "0.10",
+    "c": "0.100",
+    "d": "0.1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Round 6.0221 to 3 significant figures.",
+   "answers": {
+    "a": "6.03",
+    "b": "6.02",
+    "c": "6.022",
+    "d": "6.0"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rearrange the formula ρ = m / V so that V is on the left.",
+   "answers": {
+    "a": "V = ρ − m",
+    "b": "V = m × ρ",
+    "c": "V = ρ / m",
+    "d": "V = m / ρ"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many kelvin is −10 °C?",
+   "answers": {
+    "a": "283 K",
+    "b": "−10 K",
+    "c": "263 K",
+    "d": "−283 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Solve: x / 8 = 2.5. What is x?",
+   "answers": {
+    "a": "20",
+    "b": "0.3",
+    "c": "3.2",
+    "d": "10.5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Solve: 12 / x = 0.5. What is x?",
+   "answers": {
+    "a": "6.5",
+    "b": "0.04",
+    "c": "24",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Solve: x / 5 + 2 = 6. What is x?",
+   "answers": {
+    "a": "40",
+    "b": "20",
+    "c": "0.8",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A solution has a concentration of 0.45 g/L. How many grams of dissolved substance are in 60 mL of this solution? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.027 g",
+    "b": "0.270 g",
+    "c": "0.028 g",
+    "d": "0.003 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A liquid has a density of 0.79 g/mL. What is the volume in L of 80 g of this liquid? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.010 L",
+    "b": "0.063 L",
+    "c": "1.013 L",
+    "d": "0.101 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You have 10 mL of ethanol with a density of 0.92 g/mL. The molar mass is 60.0 g/mol. How many moles of ethanol is that? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.153 mol",
+    "b": "0.181 mol",
+    "c": "9.200 mol",
+    "d": "0.167 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You have 40 mL of solution with a concentration of 0.15 mol/L. How many moles of dissolved substance does it contain? Round to 4 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.0061 mol",
+    "b": "0.0006 mol",
+    "c": "0.0600 mol",
+    "d": "0.0060 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A 250 g solution contains 12 percent salt by mass. How many grams of water are in the solution? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "30.0 g",
+    "b": "220.0 g",
+    "c": "230.0 g",
+    "d": "280.0 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 1500 W lamp is on for 2.5 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.38 kWh",
+    "b": "3.75 kWh",
+    "c": "37.50 kWh",
+    "d": "0.60 kWh"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You mix 200 mL of water (1.00 g/mL) with 80 mL of ethanol (0.79 g/mL). What is the total mass of the mixture in grams? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "501.2 g",
+    "b": "200.0 g",
+    "c": "280.0 g",
+    "d": "263.2 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "An 800 W lamp is on for 3.0 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "2.40 kWh",
+    "b": "0.27 kWh",
+    "c": "0.24 kWh",
+    "d": "24.00 kWh"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You dissolve 2.00 g of sodium hydroxide (molar mass 40.0 g/mol) in water to make 250 mL of solution. What is the concentration in mol/L? Round to 3 decimal places. Tip: this is a 3-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.050 mol/L",
+    "b": "12.500 mol/L",
+    "c": "0.200 mol/L",
+    "d": "2.000 mol/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 3.20 g of O<sub>2</sub> reacts. The molar mass of O<sub>2</sub> is 32.0 g/mol and of MgO is 40.3 g/mol. How many grams of MgO form? Round to 1 decimal place. Tip: this is a 3-step problem. Only round the final answer.",
+   "answers": {
+    "a": "2.0 g",
+    "b": "6.4 g",
+    "c": "8.1 g",
+    "d": "4.0 g"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

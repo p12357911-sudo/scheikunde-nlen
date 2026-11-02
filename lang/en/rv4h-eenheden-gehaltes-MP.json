@@ -1,0 +1,279 @@
+{
+ "title": "Units, concentrations and ratios - 123 school",
+ "heading": "Units, concentrations and ratios",
+ "intro": [
+  "All the data you need is in the question. Every question tells you how to round."
+ ],
+ "questions": [
+  {
+   "question": "What does a concentration of 0.25 mol/L mean?",
+   "answers": {
+    "a": "1 mol contains 0.25 L of solution",
+    "b": "1 L of solution contains 0.25 mol of dissolved substance",
+    "c": "0.25 L of solution contains 1 mol of dissolved substance",
+    "d": "0.25 mol contains 0.25 L of solution"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Write g/mol using a negative power.",
+   "answers": {
+    "a": "g·mol<sup>−1</sup>",
+    "b": "g<sup>−1</sup>·mol<sup>−1</sup>",
+    "c": "g<sup>−1</sup>·mol",
+    "d": "g·mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write m·s<sup>−2</sup> as a fraction.",
+   "answers": {
+    "a": "m/s",
+    "b": "m/s<sup>2</sup>",
+    "c": "m·s<sup>2</sup>",
+    "d": "s<sup>2</sup>/m"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You divide an amount in mol by a volume in L. What unit does the answer have?",
+   "answers": {
+    "a": "mol/L",
+    "b": "mol",
+    "c": "mol·L",
+    "d": "L/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You divide a volume in L by a molar volume in L/mol. What unit does the answer have?",
+   "answers": {
+    "a": "mol/L",
+    "b": "mol",
+    "c": "L",
+    "d": "L/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 125 mg to g. Keep the number of significant figures.",
+   "answers": {
+    "a": "0.0125 g",
+    "b": "1.25 g",
+    "c": "125 g",
+    "d": "0.125 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert 6.5 μg to mg. Keep the number of significant figures.",
+   "answers": {
+    "a": "6.5 mg",
+    "b": "0.065 mg",
+    "c": "0.0065 mg",
+    "d": "0.00065 mg"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 150 mm to m. Keep the number of significant figures.",
+   "answers": {
+    "a": "0.150 m",
+    "b": "0.0150 m",
+    "c": "1.50 m",
+    "d": "0.000150 m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which power of 10 belongs to the prefix micro (μ)?",
+   "answers": {
+    "a": "10<sup>−6</sup>",
+    "b": "10<sup>−9</sup>",
+    "c": "10<sup>−3</sup>",
+    "d": "10<sup>6</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which power of 10 belongs to the prefix nano (n)?",
+   "answers": {
+    "a": "10<sup>9</sup>",
+    "b": "10<sup>−6</sup>",
+    "c": "10<sup>−12</sup>",
+    "d": "10<sup>−9</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which power of 10 belongs to the prefix centi (c)?",
+   "answers": {
+    "a": "10<sup>2</sup>",
+    "b": "10<sup>−1</sup>",
+    "c": "10<sup>−2</sup>",
+    "d": "10<sup>−3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Write 6.2·10<sup>5</sup> as an ordinary number.",
+   "answers": {
+    "a": "6 200 000",
+    "b": "62 000",
+    "c": "0.000062",
+    "d": "620 000"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate 10<sup>8</sup> : 10<sup>3</sup>.",
+   "answers": {
+    "a": "10<sup>5</sup>",
+    "b": "10<sup>8/3</sup>",
+    "c": "10<sup>24</sup>",
+    "d": "10<sup>11</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate 10<sup>2</sup> : 10<sup>−3</sup>.",
+   "answers": {
+    "a": "10<sup>−5</sup>",
+    "b": "10<sup>5</sup>",
+    "c": "10<sup>−1</sup>",
+    "d": "10<sup>−6</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which number is the greatest?",
+   "answers": {
+    "a": "5.0·10<sup>−6</sup>",
+    "b": "9.9·10<sup>−5</sup>",
+    "c": "4.1·10<sup>−4</sup>",
+    "d": "3.2·10<sup>−3</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is 10<sup>0</sup>?",
+   "answers": {
+    "a": "10",
+    "b": "cannot be calculated",
+    "c": "1",
+    "d": "0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert 0.0025 % to ppm (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.",
+   "answers": {
+    "a": "0.25 ppm",
+    "b": "25 ppm",
+    "c": "2.5 ppm",
+    "d": "25.0 ppm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 4.5 ppm to percent (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.",
+   "answers": {
+    "a": "0.000045 %",
+    "b": "0.00045 %",
+    "c": "0.0000045 %",
+    "d": "0.0045 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 35 ‰ to percent (1 % = 10 ‰). Round to 2 significant figures.",
+   "answers": {
+    "a": "0.35 %",
+    "b": "3.5 %",
+    "c": "0.035 %",
+    "d": "35 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert 3.0·10<sup>3</sup> ppb to ppm (1 ppm = 10<sup>3</sup> ppb). Round to 2 significant figures.",
+   "answers": {
+    "a": "0.30 ppm",
+    "b": "0.030 ppm",
+    "c": "3.0 ppm",
+    "d": "3.00 ppm"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is 1 ppb, expressed as a mass?",
+   "answers": {
+    "a": "1 ng per g",
+    "b": "1 μg per kg",
+    "c": "1 mg per kg",
+    "d": "1 g per kg"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does 1 percent (1 %) mean?",
+   "answers": {
+    "a": "1 part in 100",
+    "b": "1 part in 10 000",
+    "c": "1 part in 1000",
+    "d": "1 part in 10"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the mole ratio N<sub>2</sub> : NH<sub>3</sub> in the reaction equation N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>?",
+   "answers": {
+    "a": "1 : 1",
+    "b": "1 : 2",
+    "c": "2 : 2",
+    "d": "2 : 1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the mole ratio Fe : O<sub>2</sub> in the reaction equation 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>?",
+   "answers": {
+    "a": "4 : 3",
+    "b": "5 : 3",
+    "c": "3 : 4",
+    "d": "1 : 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 3.0 mol of O<sub>2</sub> reacts. How many moles of H<sub>2</sub>O are needed or formed? Round to 2 significant figures.",
+   "answers": {
+    "a": "4.0 mol",
+    "b": "3.0 mol",
+    "c": "1.5 mol",
+    "d": "6.0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In the reaction N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>, 6.0 mol of H<sub>2</sub> reacts. How many moles of NH<sub>3</sub> are needed or formed? Round to 2 significant figures.",
+   "answers": {
+    "a": "4.0 mol",
+    "b": "12 mol",
+    "c": "9.0 mol",
+    "d": "18 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 0.30 mol of Mg reacts. How many moles of O<sub>2</sub> are needed or formed? Round to 2 significant figures.",
+   "answers": {
+    "a": "0.15 mol",
+    "b": "0.90 mol",
+    "c": "0.30 mol",
+    "d": "0.60 mol"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

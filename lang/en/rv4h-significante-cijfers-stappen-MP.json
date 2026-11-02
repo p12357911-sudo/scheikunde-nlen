@@ -1,0 +1,279 @@
+{
+ "title": "Significant figures and multi-step problems - 123 school",
+ "heading": "Significant figures and multi-step problems",
+ "intro": [
+  "All the data you need is in the question. Every question tells you how to round. For a multi-step problem, the tip tells you how many steps you need."
+ ],
+ "questions": [
+  {
+   "question": "How many significant figures does 0.0480 have?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "5",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many significant figures does 0.0070 have?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many significant figures does 0.300 have?",
+   "answers": {
+    "a": "5",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many significant figures does 6.0 have?",
+   "answers": {
+    "a": "2",
+    "b": "4",
+    "c": "3",
+    "d": "1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Round 1.0449 to 3 significant figures.",
+   "answers": {
+    "a": "1.05",
+    "b": "1.0",
+    "c": "1.04",
+    "d": "1.045"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Round 29.995 to 4 significant figures.",
+   "answers": {
+    "a": "29.995",
+    "b": "29.99",
+    "c": "30.0",
+    "d": "30.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate 12.5 + 3.25. Give the answer to the correct number of decimal places.",
+   "answers": {
+    "a": "15.7",
+    "b": "15.75",
+    "c": "16",
+    "d": "15.8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate 0.056 + 1.2. Give the answer to the correct number of decimal places.",
+   "answers": {
+    "a": "1.256",
+    "b": "1.26",
+    "c": "1",
+    "d": "1.3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate 45.67 − 0.2. Give the answer to the correct number of decimal places.",
+   "answers": {
+    "a": "45.4",
+    "b": "45",
+    "c": "45.5",
+    "d": "45.47"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate 7.0 + 0.25. Give the answer to the correct number of decimal places.",
+   "answers": {
+    "a": "7.25",
+    "b": "7.3",
+    "c": "7.2",
+    "d": "7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which rule applies when multiplying and dividing?",
+   "answers": {
+    "a": "The answer has as many significant figures as the sum of both numbers.",
+    "b": "The answer has as many decimal places as the number with the fewest decimal places.",
+    "c": "The answer has as many significant figures as the number with the fewest significant figures.",
+    "d": "The answer has as many significant figures as the number with the most significant figures."
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What must you do before you add 2.5 g and 125 mg?",
+   "answers": {
+    "a": "First put both in the same unit",
+    "b": "First round both to 1 significant figure",
+    "c": "First determine the number of significant figures of the answer",
+    "d": "Nothing, you can add them as they are"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rearrange the formula n = m / M so that M is on the left.",
+   "answers": {
+    "a": "M = m / n",
+    "b": "M = n / m",
+    "c": "M = m × n",
+    "d": "M = n − m"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rearrange the formula c = n / V so that n is on the left.",
+   "answers": {
+    "a": "n = c × V",
+    "b": "n = c − V",
+    "c": "n = V / c",
+    "d": "n = c / V"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many K is 25 °C?",
+   "answers": {
+    "a": "−248 K",
+    "b": "273 K",
+    "c": "298 K",
+    "d": "25 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Solve: x / 18.0 = 2.50. What is x?",
+   "answers": {
+    "a": "7.20",
+    "b": "20.5",
+    "c": "0.139",
+    "d": "45.0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Solve: 2x − 1.0 = 5.0. What is x?",
+   "answers": {
+    "a": "2.5",
+    "b": "2.0",
+    "c": "3.0",
+    "d": "6.0"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A solution has a concentration of 0.80 g/L. How many grams of dissolved substance are there in 250 mL of this solution? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "2.0 g",
+    "b": "3.2 g",
+    "c": "0.020 g",
+    "d": "0.20 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A liquid has a density of 0.92 g/mL. What is the volume in L of 150 g of this liquid? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.016 L",
+    "b": "0.14 L",
+    "c": "0.16 L",
+    "d": "1.6 L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You have 25.0 mL of ethanol with a density of 0.79 g/mL. The molar mass is 46.0 g/mol. How many moles of ethanol is that? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "4.3 mol",
+    "b": "0.69 mol",
+    "c": "0.54 mol",
+    "d": "0.43 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You have 250 mL of solution with a concentration of 0.200 mol/L. How many moles of dissolved substance does it contain? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.0050 mol",
+    "b": "0.050 mol",
+    "c": "0.80 mol",
+    "d": "0.50 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A 75 W lamp burns for 4.0 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "3.0 kWh",
+    "b": "0.019 kWh",
+    "c": "0.30 kWh",
+    "d": "0.030 kWh"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You mix 125 mL of water (1.00 g/mL) with 45.0 mL of ethanol (0.790 g/mL). What is the total mass of the mixture in grams? Round to 3 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "89.5 g",
+    "b": "125 g",
+    "c": "304 g",
+    "d": "161 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You have 150 mL of solution with a concentration of 0.240 mol/L. How many moles of dissolved substance does it contain? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.0036 mol",
+    "b": "0.36 mol",
+    "c": "1.6 mol",
+    "d": "0.036 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You mix 125 mL of water (1.00 g/mL) with 45.0 mL of ethanol (0.790 g/mL). Calculate the mass percentage of water in the mixture. Round to 3 significant figures. Tip: this is a 3-step problem. Only round the final answer.",
+   "answers": {
+    "a": "352 %",
+    "b": "77.9 %",
+    "c": "73.5 %",
+    "d": "0.779 %"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 3.20 g of O<sub>2</sub> reacts. The molar mass of O<sub>2</sub> is 32.0 g/mol and of MgO is 40.3 g/mol. How many grams of MgO are needed or formed? Round to 3 significant figures. Tip: this is a 3-step problem. Only round the final answer.",
+   "answers": {
+    "a": "4.03 g",
+    "b": "6.40 g",
+    "c": "2.02 g",
+    "d": "8.06 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You dilute 25.0 mL of a 2.00 mol/L solution with water to 250 mL. What is the concentration of the diluted solution in mol/L? Round to 2 significant figures. Tip: this is a 3-step problem. Only round the final answer.",
+   "answers": {
+    "a": "0.050 mol/L",
+    "b": "8.0 mol/L",
+    "c": "1.8 mol/L",
+    "d": "0.20 mol/L"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

@@ -1,0 +1,768 @@
+### rv3h-breuken-procenten-eenheden-MP
+0.Q Write 11/3 as a mixed number.
+0.A 3 2/3
+0.B 4 2/3
+0.C 3 2/4
+0.D 3 3/4
+1.Q Write 5/8 as a decimal.
+1.A 6.25
+1.B 0.625
+1.C 0.0625
+1.D 1.600
+2.Q Write 9/25 as a decimal.
+2.A 0.36
+2.B 2.778
+2.C 0.036
+2.D 3.6
+3.Q Write 0.6 as a simple fraction.
+3.A 3/50
+3.B 1/6
+3.C 3/5
+3.D 2/5
+4.Q Write 3/8 as a percentage.
+4.A 375%
+4.B 3.75%
+4.C 0.375%
+4.D 37.5%
+5.Q Simplify (6a)/(9a).
+5.A 2/3
+5.B 2a/3
+5.C 3/2
+5.D 2/(3a)
+6.Q Which fraction is greater: 5/7 or 7/10?
+6.A 7/10
+6.B 10/7
+6.C 5/7
+7.Q What is 0.79 g / 1 mL?
+7.A 1.27 g/mL
+7.B 0.79 mL/g
+7.C 0.79 g
+7.D 0.79 g/mL
+8.Q You multiply a density of 0.79 g/mL by a volume of 50 mL. What unit does the answer have?
+8.A g
+8.B mL
+8.C g/mL
+8.D g·mL
+9.Q What does a molar mass of 18 g/mol mean?
+9.C 1 mol has a mass of 18 g
+10.Q You divide a mass in g by a molar mass in g/mol. What unit does the answer have?
+10.A g
+10.B mol
+10.C g/mol
+10.D mol/g
+11.Q You divide an amount in mol by a concentration in mol/L. What unit does the answer have?
+11.A mol
+11.B L
+11.C L/mol
+11.D mol/L
+12.Q 0.4 L of solution contains 0.15 mol of dissolved substance. Calculate the concentration in mol/L. Round to 3 decimal places.
+12.A 0.375 mol/L
+12.B 2.67 mol/L
+12.C 0.06 mol/L
+12.D 0.375 L/mol
+13.Q Write 0.6% as a decimal.
+13.A 0.06
+13.B 0.0006
+13.C 0.6
+13.D 0.006
+14.Q Write 0.375 as a percentage.
+14.A 37.5%
+14.B 3.75%
+14.C 0.375%
+14.D 375%
+15.Q A quantity of 60 g increases by 35%. How many grams is it afterwards? You do not need to round.
+15.A 810 g
+15.B 81 g
+15.C 39 g
+15.D 21 g
+16.Q How much is 12.5% of 80 g?
+16.A 10 g
+16.B 100 g
+16.C 1.0 g
+16.D 12.5 g
+17.Q How much is 0.5% of 3000 mL?
+17.A 1500 mL
+17.B 15 mL
+17.C 1.5 mL
+17.D 150 mL
+18.Q A mixture consists of 28 g of iron and 16 g of sulfur. What is the mass ratio iron : sulfur?
+18.A 7 : 4
+18.B 5 : 3
+18.C 4 : 7
+18.D 28 : 16
+19.Q Convert 3750 mL to L. Round to 1 decimal place.
+19.A 37.5 L
+19.B 0.38 L
+19.C 3 750 000.0 L
+19.D 3.8 L
+20.Q Convert 480 L to m<sup>3</sup>. You do not need to round.
+20.A 4.8 m<sup>3</sup>
+20.B 0.048 m<sup>3</sup>
+20.C 480 000 m<sup>3</sup>
+20.D 0.48 m<sup>3</sup>
+21.Q Convert 0.25 h to s. You do not need to round.
+21.A 9000 s
+21.B 90 s
+21.C 900 s
+21.D 0.00 s
+22.Q How many grams is 1 mg?
+22.A 0.000001 g
+22.B 1000 g
+22.C 0.01 g
+22.D 0.001 g
+23.Q A speed of 36 km/h in m/s is equal to …
+23.A 10 m/s
+23.B 36 m/s
+23.C 129.6 m/s
+23.D 100 m/s
+24.Q Convert 100 km/h to m/s. Round to 1 decimal place.
+24.A 360.0 m/s
+24.B 27.8 m/s
+24.C 100 m/s
+24.D 36 m/s
+### rv3h-significante-cijfers-stappen-MP
+0.Q How many significant figures does 0.0250 have?
+0.A 5
+0.B 3
+0.C 4
+0.D 2
+1.Q How many significant figures does 0.00450 have?
+1.A 3
+1.B 2
+1.C 4
+1.D 5
+2.Q How many significant figures does 0.100 have?
+2.A 4
+2.B 2
+2.C 5
+2.D 3
+3.Q How many significant figures does 80.0 have?
+3.A 3
+3.B 4
+3.C 2
+3.D 5
+4.Q How many significant figures does 1.0 × 10<sup>3</sup> have?
+4.A 1
+4.B 4
+4.C 3
+4.D 2
+5.Q Round 3.14159 to 3 significant figures.
+5.A 3.14
+5.B 3.15
+5.C 3.142
+5.D 3.1
+6.Q Round 0.09996 to 2 significant figures.
+6.A 0.099
+6.B 0.10
+6.C 0.100
+6.D 0.1
+7.Q Round 6.0221 to 3 significant figures.
+7.A 6.03
+7.B 6.02
+7.C 6.022
+7.D 6.0
+8.Q Rearrange the formula ρ = m / V so that V is on the left.
+8.A V = ρ − m
+8.B V = m × ρ
+8.C V = ρ / m
+8.D V = m / ρ
+9.Q How many kelvin is −10 °C?
+9.A 283 K
+9.B −10 K
+9.C 263 K
+9.D −283 K
+10.Q Solve: x / 8 = 2.5. What is x?
+10.A 20
+10.B 0.3
+10.C 3.2
+10.D 10.5
+11.Q Solve: 12 / x = 0.5. What is x?
+11.A 6.5
+11.B 0.04
+11.C 24
+11.D 6
+12.Q Solve: x / 5 + 2 = 6. What is x?
+12.A 40
+12.B 20
+12.C 0.8
+12.D 4
+13.Q A solution has a concentration of 0.45 g/L. How many grams of dissolved substance are in 60 mL of this solution? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+13.A 0.027 g
+13.B 0.270 g
+13.C 0.028 g
+13.D 0.003 g
+14.Q A liquid has a density of 0.79 g/mL. What is the volume in L of 80 g of this liquid? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+14.A 0.010 L
+14.B 0.063 L
+14.C 1.013 L
+14.D 0.101 L
+15.Q You have 10 mL of ethanol with a density of 0.92 g/mL. The molar mass is 60.0 g/mol. How many moles of ethanol is that? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+15.A 0.153 mol
+15.B 0.181 mol
+15.C 9.200 mol
+15.D 0.167 mol
+16.Q You have 40 mL of solution with a concentration of 0.15 mol/L. How many moles of dissolved substance does it contain? Round to 4 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+16.A 0.0061 mol
+16.B 0.0006 mol
+16.C 0.0600 mol
+16.D 0.0060 mol
+17.Q A 250 g solution contains 12 percent salt by mass. How many grams of water are in the solution? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+17.A 30.0 g
+17.B 220.0 g
+17.C 230.0 g
+17.D 280.0 g
+18.Q A 1500 W lamp is on for 2.5 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+18.A 0.38 kWh
+18.B 3.75 kWh
+18.C 37.50 kWh
+18.D 0.60 kWh
+19.Q You mix 200 mL of water (1.00 g/mL) with 80 mL of ethanol (0.79 g/mL). What is the total mass of the mixture in grams? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+19.A 501.2 g
+19.B 200.0 g
+19.C 280.0 g
+19.D 263.2 g
+20.Q An 800 W lamp is on for 3.0 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+20.A 2.40 kWh
+20.B 0.27 kWh
+20.C 0.24 kWh
+20.D 24.00 kWh
+21.Q You dissolve 2.00 g of sodium hydroxide (molar mass 40.0 g/mol) in water to make 250 mL of solution. What is the concentration in mol/L? Round to 3 decimal places. Tip: this is a 3-step problem. Only round the final answer.
+21.A 0.050 mol/L
+21.B 12.500 mol/L
+21.C 0.200 mol/L
+21.D 2.000 mol/L
+22.Q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 3.20 g of O<sub>2</sub> reacts. The molar mass of O<sub>2</sub> is 32.0 g/mol and of MgO is 40.3 g/mol. How many grams of MgO form? Round to 1 decimal place. Tip: this is a 3-step problem. Only round the final answer.
+22.A 2.0 g
+22.B 6.4 g
+22.C 8.1 g
+22.D 4.0 g
+### rv3t-afronden-stappen-MP
+0.Q Round 2.675 to 2 decimal places.
+0.A 2.67
+0.B 2.675
+0.C 2.7
+0.D 2.68
+1.Q Round 7.449 to 1 decimal place.
+1.A 7.4
+1.B 7
+1.C 7.45
+1.D 7.5
+2.Q Round 0.995 to 2 decimal places.
+2.A 0.995
+2.B 1.0
+2.C 1.00
+2.D 0.99
+3.Q Round 0.0812 to 2 decimal places.
+3.A 0.09
+3.B 0.08
+3.C 0.081
+3.D 0.1
+4.Q Round 6.4999 to a whole number.
+4.A 6.5
+4.B 6
+4.C 65
+4.D 7
+5.Q Round 199.96 to 1 decimal place.
+5.A 200
+5.B 200.0
+5.C 199.96
+5.D 199.9
+6.Q Round 2.675 to 3 significant figures.
+6.A 2.7
+6.B 2.68
+6.C 2.675
+6.D 2.67
+7.Q Round 9.996 to 3 significant figures.
+7.A 1.0·10<sup>1</sup>
+7.B 9.99
+7.C 9.996
+7.D 10.0
+8.Q How many °C is 373 K?
+8.A 373 °C
+8.B 646 °C
+8.C −100 °C
+8.D 100 °C
+9.Q How many °C is 310 K?
+9.A 37 °C
+9.B 583 °C
+9.C 310 °C
+9.D −37 °C
+10.Q Los op: x + 5 = 9. Wat is x?
+10.A −4
+10.B 45
+10.C 14
+10.D 4
+11.Q Los op: 2x + 3 = 11. Wat is x?
+11.A 5.5
+11.B 4
+11.C 7
+11.D 8
+12.Q Los op: x − 7 = 8. Wat is x?
+12.A −1
+12.B 1
+12.C 56
+12.D 15
+13.Q A solution has a concentration of 0.80 g/L. How many grams of dissolved substance are there in 250 mL of this solution? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+13.A 0.02 g
+13.B 3.20 g
+13.C 0.20 g
+13.D 2.00 g
+14.Q A liquid has a density of 0.92 g/mL. What is the volume in L of 150 g of this liquid? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+14.A 0.016 L
+14.B 1.630 L
+14.C 0.138 L
+14.D 0.163 L
+15.Q You have 100 mL of water with a density of 1.00 g/mL. The molar mass is 18.0 g/mol. How many moles of water is that? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+15.A 0.6 mol
+15.B 55.6 mol
+15.C 100.0 mol
+15.D 5.6 mol
+16.Q You have 2.5 mol of a substance with a molar mass of 44.0 g/mol. How many kg is that? Round to 3 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+16.A 0.110 kg
+16.B 0.111 kg
+16.C 1.100 kg
+16.D 0.011 kg
+17.Q How many mL of solution are needed to dissolve 0.15 mol if the concentration must be 0.50 mol/L? Round to a whole number. Tip: this is a 2-step problem. Only round the final answer.
+17.A 75 mL
+17.B 300 mL
+17.C 3333 mL
+17.D 3000 mL
+18.Q A cyclist covers 18 km in 45 minutes. What is the average speed in km/h? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+18.A 810.0 km/h
+18.B 0.4 km/h
+18.C 24.0 km/h
+18.D 2.5 km/h
+19.Q A 60 W lamp is on for 5 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+19.A 0.30 kWh
+19.B 0.03 kWh
+19.C 0.01 kWh
+19.D 3.00 kWh
+20.Q You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). What is the total mass of the mixture in grams? Round to 1 decimal place. Tip: this is a 2-step problem. Only round the final answer.
+20.A 197.4 g
+20.B 210.0 g
+20.C 375.9 g
+20.D 150.0 g
+21.Q You have 40 mL of ethanol with a density of 0.79 g/mL. The molar mass is 46.0 g/mol. How many moles of ethanol is that? Round to 2 decimal places. Tip: this is a 2-step problem. Only round the final answer.
+21.A 0.87 mol
+21.B 0.69 mol
+21.C 31.60 mol
+21.D 1.10 mol
+22.Q You mix 150 mL of water (1.00 g/mL) with 60 mL of ethanol (0.79 g/mL). Calculate the mass percentage of water in the mixture. Round to 1 decimal place. Tip: this is a 3-step problem. Only round the final answer.
+22.A 0.8 %
+22.B 76.0 %
+22.C 71.4 %
+22.D 316.5 %
+### rv3t-breuken-procenten-eenheden-MP
+0.Q How much is 2/5 of 50 mL?
+0.A 20 mL
+0.B 100 mL
+0.C 10 mL
+0.D 30 mL
+1.Q How much is 5/8 of 64 mL?
+1.A 40 mL
+1.B 8 mL
+1.C 24 mL
+1.D 320 mL
+2.Q Write the fraction 10/15 as simply as possible.
+2.A 11/16
+2.B 3/3
+2.C 2/3
+2.D 15/10
+3.Q Write 3/4 as a decimal.
+3.A 0.75
+3.B 7.5
+3.C 0.075
+3.D 1.33
+4.Q Write 2/5 as a percentage.
+4.A 4%
+4.B 40%
+4.C 400%
+4.D 0.4%
+5.Q Write 35% as a simple fraction.
+5.A 1/35
+5.B 7/20
+5.C 35/1000
+5.D 35/10
+6.Q Wat is 5 g / 1 mL?
+6.A 5 g
+6.B 1/5 g/mL
+6.C 5 mL/g
+6.D 5 g/mL
+7.Q Which fraction is smaller: 5/8 or 3/4?
+7.A 3/4
+7.B 5/8
+7.D 8/5
+8.Q What does a concentration of 25 g/L mean?
+8.B 1 L of solution contains 25 g of dissolved substance
+9.Q You divide a mass in g by a volume in mL. What unit does the answer have?
+9.A g·mL
+9.B mL/g
+9.C g
+9.D g/mL
+10.Q You divide a distance in km by a time in h. What unit does the answer have?
+10.A h/km
+10.B km·h
+10.C km/h
+10.D km
+11.Q An object covers 100 m in 12 s. Calculate the speed in m/s. Round to 1 decimal place.
+11.A 8.3 m/s
+11.B 8.3 s/m
+11.C 1200.0 m/s
+11.D 0.12 m/s
+12.Q How much is 12 g / 1 g?
+12.A 1
+12.B 12 g
+12.C 1/12
+12.D 12
+13.Q A mixture contains 20% of a substance. How many grams of that substance are there in 100 g of the mixture?
+13.A 20 g
+13.B 2 g
+13.C 200 g
+13.D 0.2 g
+14.Q Write 4.5% as a decimal.
+14.A 0.0045
+14.B 0.045
+14.C 4.5
+14.D 0.45
+15.Q A quantity of 150 g increases by 20%. How many grams is it afterwards? You do not need to round.
+15.A 180 g
+15.B 30 g
+15.C 120 g
+15.D 1800 g
+16.Q How much is 10% of 350 g?
+16.A 3.5 g
+16.B 350 g
+16.C 3500 g
+16.D 35 g
+17.Q How much is 1% of 2400 g?
+17.A 2.4 g
+17.B 240 g
+17.C 24 g
+17.D 0.24 g
+18.Q A mixture consists of 15 g of sand and 6 g of salt. What is the mass ratio sand : salt?
+18.A 5 : 2
+18.B 3 : 1
+18.C 15 : 6
+18.D 2 : 5
+19.Q Convert 25 mg to g. You do not need to round.
+19.A 0.0025 g
+19.B 0.25 g
+19.C 25 000 g
+19.D 0.025 g
+20.Q Convert 1234 g to kg. Round to 1 decimal place.
+20.A 1.2 kg
+20.B 1 234 000.0 kg
+20.C 12.3 kg
+20.D 0.12 kg
+21.Q Convert 3 min to s. You do not need to round.
+21.A 18 s
+21.B 180 s
+21.C 1800 s
+21.D 0.05 s
+22.Q How many grams is 1 kg?
+22.A 1000 g
+22.B 10 g
+22.C 0.001 g
+22.D 100 g
+23.Q Which volume is equal to 1 dm<sup>3</sup>?
+23.A 0.1 L
+23.B 1 L
+23.C 10 L
+23.D 1 mL
+24.Q How many seconds are 2 minutes?
+24.A 200 s
+24.B 12 s
+24.C 120 s
+24.D 60 s
+### rv4h-eenheden-gehaltes-MP
+0.Q What does a concentration of 0.25 mol/L mean?
+0.B 1 L of solution contains 0.25 mol of dissolved substance
+1.Q Write g/mol using a negative power.
+1.A g·mol<sup>−1</sup>
+1.B g<sup>−1</sup>·mol<sup>−1</sup>
+1.C g<sup>−1</sup>·mol
+1.D g·mol
+2.Q Write m·s<sup>−2</sup> as a fraction.
+2.A m/s
+2.B m/s<sup>2</sup>
+2.C m·s<sup>2</sup>
+2.D s<sup>2</sup>/m
+3.Q You divide an amount in mol by a volume in L. What unit does the answer have?
+3.A mol/L
+3.B mol
+3.C mol·L
+3.D L/mol
+4.Q You divide a volume in L by a molar volume in L/mol. What unit does the answer have?
+4.A mol/L
+4.B mol
+4.C L
+4.D L/mol
+5.Q Convert 125 mg to g. Keep the number of significant figures.
+5.A 0.0125 g
+5.B 1.25 g
+5.C 125 g
+5.D 0.125 g
+6.Q Convert 6.5 μg to mg. Keep the number of significant figures.
+6.A 6.5 mg
+6.B 0.065 mg
+6.C 0.0065 mg
+6.D 0.00065 mg
+7.Q Convert 150 mm to m. Keep the number of significant figures.
+7.A 0.150 m
+7.B 0.0150 m
+7.C 1.50 m
+7.D 0.000150 m
+8.Q Which power of 10 belongs to the prefix micro (μ)?
+8.A 10<sup>−6</sup>
+8.B 10<sup>−9</sup>
+8.C 10<sup>−3</sup>
+8.D 10<sup>6</sup>
+9.Q Which power of 10 belongs to the prefix nano (n)?
+9.A 10<sup>9</sup>
+9.B 10<sup>−6</sup>
+9.C 10<sup>−12</sup>
+9.D 10<sup>−9</sup>
+10.Q Which power of 10 belongs to the prefix centi (c)?
+10.A 10<sup>2</sup>
+10.B 10<sup>−1</sup>
+10.C 10<sup>−2</sup>
+10.D 10<sup>−3</sup>
+11.Q Write 6.2·10<sup>5</sup> as an ordinary number.
+11.A 6 200 000
+11.B 62 000
+11.C 0.000062
+11.D 620 000
+12.Q Calculate 10<sup>8</sup> : 10<sup>3</sup>.
+12.A 10<sup>5</sup>
+12.B 10<sup>8/3</sup>
+12.C 10<sup>24</sup>
+12.D 10<sup>11</sup>
+13.Q Calculate 10<sup>2</sup> : 10<sup>−3</sup>.
+13.A 10<sup>−5</sup>
+13.B 10<sup>5</sup>
+13.C 10<sup>−1</sup>
+13.D 10<sup>−6</sup>
+14.Q Which number is the greatest?
+14.A 5.0·10<sup>−6</sup>
+14.B 9.9·10<sup>−5</sup>
+14.C 4.1·10<sup>−4</sup>
+14.D 3.2·10<sup>−3</sup>
+15.Q What is 10<sup>0</sup>?
+15.A 10
+15.C 1
+15.D 0
+16.Q Convert 0.0025 % to ppm (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.
+16.A 0.25 ppm
+16.B 25 ppm
+16.C 2.5 ppm
+16.D 25.0 ppm
+17.Q Convert 4.5 ppm to percent (1 % = 10<sup>4</sup> ppm). Round to 2 significant figures.
+17.A 0.000045 %
+17.B 0.00045 %
+17.C 0.0000045 %
+17.D 0.0045 %
+18.Q Convert 35 ‰ to percent (1 % = 10 ‰). Round to 2 significant figures.
+18.A 0.35 %
+18.B 3.5 %
+18.C 0.035 %
+18.D 35 %
+19.Q Convert 3.0·10<sup>3</sup> ppb to ppm (1 ppm = 10<sup>3</sup> ppb). Round to 2 significant figures.
+19.A 0.30 ppm
+19.B 0.030 ppm
+19.C 3.0 ppm
+19.D 3.00 ppm
+20.Q What is 1 ppb, expressed as a mass?
+20.A 1 ng per g
+20.B 1 μg per kg
+20.C 1 mg per kg
+20.D 1 g per kg
+21.Q What does 1 percent (1 %) mean?
+21.A 1 part in 100
+22.Q What is the mole ratio N<sub>2</sub> : NH<sub>3</sub> in the reaction equation N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>?
+22.A 1 : 1
+22.B 1 : 2
+22.C 2 : 2
+22.D 2 : 1
+23.Q What is the mole ratio Fe : O<sub>2</sub> in the reaction equation 4 Fe + 3 O<sub>2</sub> → 2 Fe<sub>2</sub>O<sub>3</sub>?
+23.A 4 : 3
+23.B 5 : 3
+23.C 3 : 4
+23.D 1 : 1
+24.Q In the reaction 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O, 3.0 mol of O<sub>2</sub> reacts. How many moles of H<sub>2</sub>O are needed or formed? Round to 2 significant figures.
+24.A 4.0 mol
+24.B 3.0 mol
+24.C 1.5 mol
+24.D 6.0 mol
+25.Q In the reaction N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>, 6.0 mol of H<sub>2</sub> reacts. How many moles of NH<sub>3</sub> are needed or formed? Round to 2 significant figures.
+25.A 4.0 mol
+25.B 12 mol
+25.C 9.0 mol
+25.D 18 mol
+26.Q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 0.30 mol of Mg reacts. How many moles of O<sub>2</sub> are needed or formed? Round to 2 significant figures.
+26.A 0.15 mol
+26.B 0.90 mol
+26.C 0.30 mol
+26.D 0.60 mol
+### rv4h-significante-cijfers-stappen-MP
+0.Q How many significant figures does 0.0480 have?
+0.A 4
+0.B 2
+0.C 5
+0.D 3
+1.Q How many significant figures does 0.0070 have?
+1.A 4
+1.B 3
+1.C 2
+1.D 1
+2.Q How many significant figures does 0.300 have?
+2.A 5
+2.B 2
+2.C 3
+2.D 4
+3.Q How many significant figures does 6.0 have?
+3.A 2
+3.B 4
+3.C 3
+3.D 1
+4.Q Round 1.0449 to 3 significant figures.
+4.A 1.05
+4.B 1.0
+4.C 1.04
+4.D 1.045
+5.Q Round 29.995 to 4 significant figures.
+5.A 29.995
+5.B 29.99
+5.C 30.0
+5.D 30.00
+6.Q Calculate 12.5 + 3.25. Give the answer to the correct number of decimal places.
+6.A 15.7
+6.B 15.75
+6.C 16
+6.D 15.8
+7.Q Calculate 0.056 + 1.2. Give the answer to the correct number of decimal places.
+7.A 1.256
+7.B 1.26
+7.C 1
+7.D 1.3
+8.Q Calculate 45.67 − 0.2. Give the answer to the correct number of decimal places.
+8.A 45.4
+8.B 45
+8.C 45.5
+8.D 45.47
+9.Q Calculate 7.0 + 0.25. Give the answer to the correct number of decimal places.
+9.A 7.25
+9.B 7.3
+9.C 7.2
+9.D 7
+10.Q Which rule applies when multiplying and dividing?
+10.C The answer has as many significant figures as the number with the fewest significant figures.
+11.Q What must you do before you add 2.5 g and 125 mg?
+11.A First put both in the same unit
+12.Q Rearrange the formula n = m / M so that M is on the left.
+12.A M = m / n
+12.B M = n / m
+12.C M = m × n
+12.D M = n − m
+13.Q Rearrange the formula c = n / V so that n is on the left.
+13.A n = c × V
+13.B n = c − V
+13.C n = V / c
+13.D n = c / V
+14.Q How many K is 25 °C?
+14.A −248 K
+14.B 273 K
+14.C 298 K
+14.D 25 K
+15.Q Solve: x / 18.0 = 2.50. What is x?
+15.A 7.20
+15.B 20.5
+15.C 0.139
+15.D 45.0
+16.Q Solve: 2x − 1.0 = 5.0. What is x?
+16.A 2.5
+16.B 2.0
+16.C 3.0
+16.D 6.0
+17.Q A solution has a concentration of 0.80 g/L. How many grams of dissolved substance are there in 250 mL of this solution? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+17.A 2.0 g
+17.B 3.2 g
+17.C 0.020 g
+17.D 0.20 g
+18.Q A liquid has a density of 0.92 g/mL. What is the volume in L of 150 g of this liquid? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+18.A 0.016 L
+18.B 0.14 L
+18.C 0.16 L
+18.D 1.6 L
+19.Q You have 25.0 mL of ethanol with a density of 0.79 g/mL. The molar mass is 46.0 g/mol. How many moles of ethanol is that? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+19.A 4.3 mol
+19.B 0.69 mol
+19.C 0.54 mol
+19.D 0.43 mol
+20.Q You have 250 mL of solution with a concentration of 0.200 mol/L. How many moles of dissolved substance does it contain? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+20.A 0.0050 mol
+20.B 0.050 mol
+20.C 0.80 mol
+20.D 0.50 mol
+21.Q A 75 W lamp burns for 4.0 hours. How many kWh of energy does the lamp use? (1 kW = 1000 W) Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+21.A 3.0 kWh
+21.B 0.019 kWh
+21.C 0.30 kWh
+21.D 0.030 kWh
+22.Q You mix 125 mL of water (1.00 g/mL) with 45.0 mL of ethanol (0.790 g/mL). What is the total mass of the mixture in grams? Round to 3 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+22.A 89.5 g
+22.B 125 g
+22.C 304 g
+22.D 161 g
+23.Q You have 150 mL of solution with a concentration of 0.240 mol/L. How many moles of dissolved substance does it contain? Round to 2 significant figures. Tip: this is a 2-step problem. Only round the final answer.
+23.A 0.0036 mol
+23.B 0.36 mol
+23.C 1.6 mol
+23.D 0.036 mol
+24.Q You mix 125 mL of water (1.00 g/mL) with 45.0 mL of ethanol (0.790 g/mL). Calculate the mass percentage of water in the mixture. Round to 3 significant figures. Tip: this is a 3-step problem. Only round the final answer.
+24.A 352 %
+24.B 77.9 %
+24.C 73.5 %
+24.D 0.779 %
+25.Q In the reaction 2 Mg + O<sub>2</sub> → 2 MgO, 3.20 g of O<sub>2</sub> reacts. The molar mass of O<sub>2</sub> is 32.0 g/mol and of MgO is 40.3 g/mol. How many grams of MgO are needed or formed? Round to 3 significant figures. Tip: this is a 3-step problem. Only round the final answer.
+25.A 4.03 g
+25.B 6.40 g
+25.C 2.02 g
+25.D 8.06 g
+26.Q You dilute 25.0 mL of a 2.00 mol/L solution with water to 250 mL. What is the concentration of the diluted solution in mol/L? Round to 2 significant figures. Tip: this is a 3-step problem. Only round the final answer.
+26.A 0.050 mol/L
+26.B 8.0 mol/L
+26.C 1.8 mol/L
+26.D 0.20 mol/L
+### rv3h-breuken-procenten-eenheden-MP
+heading Fractions, percentages and units
+6.D they are equal
+9.A 18 g contains 18 mol
+9.B 18 mol has a mass of 1 g
+9.D 1 g contains 18 mol
+### rv3h-significante-cijfers-stappen-MP
+heading Significant figures and multi-step problems
+### rv3t-afronden-stappen-MP
+heading Rounding and multi-step problems
+### rv3t-breuken-procenten-eenheden-MP
+heading Fractions, percentages and units
+7.C they are equal
+8.A 1 g of solution has a volume of 25 L
+8.C 25 L of solution contains 1 g of dissolved substance
+8.D 25 g of solution has a volume of 25 L
+### rv4h-eenheden-gehaltes-MP
+heading Units, concentrations and ratios
+0.A 1 mol contains 0.25 L of solution
+0.C 0.25 L of solution contains 1 mol of dissolved substance
+0.D 0.25 mol contains 0.25 L of solution
+15.B cannot be calculated
+21.B 1 part in 10 000
+21.C 1 part in 1000
+21.D 1 part in 10
+### rv4h-significante-cijfers-stappen-MP
+heading Significant figures and multi-step problems
+10.A The answer has as many significant figures as the sum of both numbers.
+10.B The answer has as many decimal places as the number with the fewest decimal places.
+10.D The answer has as many significant figures as the number with the most significant figures.
+11.B First round both to 1 significant figure
+11.C First determine the number of significant figures of the answer
+11.D Nothing, you can add them as they are

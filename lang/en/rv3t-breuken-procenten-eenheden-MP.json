@@ -1,0 +1,259 @@
+{
+ "title": "Fractions, percentages and units - 123 school",
+ "heading": "Fractions, percentages and units",
+ "intro": [
+  "All the data you need is in the question. Every question tells you how to round."
+ ],
+ "questions": [
+  {
+   "question": "How much is 2/5 of 50 mL?",
+   "answers": {
+    "a": "20 mL",
+    "b": "100 mL",
+    "c": "10 mL",
+    "d": "30 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How much is 5/8 of 64 mL?",
+   "answers": {
+    "a": "40 mL",
+    "b": "8 mL",
+    "c": "24 mL",
+    "d": "320 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write the fraction 10/15 as simply as possible.",
+   "answers": {
+    "a": "11/16",
+    "b": "3/3",
+    "c": "2/3",
+    "d": "15/10"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Write 3/4 as a decimal.",
+   "answers": {
+    "a": "0.75",
+    "b": "7.5",
+    "c": "0.075",
+    "d": "1.33"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write 2/5 as a percentage.",
+   "answers": {
+    "a": "4%",
+    "b": "40%",
+    "c": "400%",
+    "d": "0.4%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Write 35% as a simple fraction.",
+   "answers": {
+    "a": "1/35",
+    "b": "7/20",
+    "c": "35/1000",
+    "d": "35/10"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is 5 g / 1 mL?",
+   "answers": {
+    "a": "5 g",
+    "b": "1/5 g/mL",
+    "c": "5 mL/g",
+    "d": "5 g/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which fraction is smaller: 5/8 or 3/4?",
+   "answers": {
+    "a": "3/4",
+    "b": "5/8",
+    "c": "they are equal",
+    "d": "8/5"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a concentration of 25 g/L mean?",
+   "answers": {
+    "a": "1 g of solution has a volume of 25 L",
+    "b": "1 L of solution contains 25 g of dissolved substance",
+    "c": "25 L of solution contains 1 g of dissolved substance",
+    "d": "25 g of solution has a volume of 25 L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You divide a mass in g by a volume in mL. What unit does the answer have?",
+   "answers": {
+    "a": "g·mL",
+    "b": "mL/g",
+    "c": "g",
+    "d": "g/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You divide a distance in km by a time in h. What unit does the answer have?",
+   "answers": {
+    "a": "h/km",
+    "b": "km·h",
+    "c": "km/h",
+    "d": "km"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "An object covers 100 m in 12 s. Calculate the speed in m/s. Round to 1 decimal place.",
+   "answers": {
+    "a": "8.3 m/s",
+    "b": "8.3 s/m",
+    "c": "1200.0 m/s",
+    "d": "0.12 m/s"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How much is 12 g / 1 g?",
+   "answers": {
+    "a": "1",
+    "b": "12 g",
+    "c": "1/12",
+    "d": "12"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A mixture contains 20% of a substance. How many grams of that substance are there in 100 g of the mixture?",
+   "answers": {
+    "a": "20 g",
+    "b": "2 g",
+    "c": "200 g",
+    "d": "0.2 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Write 4.5% as a decimal.",
+   "answers": {
+    "a": "0.0045",
+    "b": "0.045",
+    "c": "4.5",
+    "d": "0.45"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A quantity of 150 g increases by 20%. How many grams is it afterwards? You do not need to round.",
+   "answers": {
+    "a": "180 g",
+    "b": "30 g",
+    "c": "120 g",
+    "d": "1800 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How much is 10% of 350 g?",
+   "answers": {
+    "a": "3.5 g",
+    "b": "350 g",
+    "c": "3500 g",
+    "d": "35 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How much is 1% of 2400 g?",
+   "answers": {
+    "a": "2.4 g",
+    "b": "240 g",
+    "c": "24 g",
+    "d": "0.24 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A mixture consists of 15 g of sand and 6 g of salt. What is the mass ratio sand : salt?",
+   "answers": {
+    "a": "5 : 2",
+    "b": "3 : 1",
+    "c": "15 : 6",
+    "d": "2 : 5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Convert 25 mg to g. You do not need to round.",
+   "answers": {
+    "a": "0.0025 g",
+    "b": "0.25 g",
+    "c": "25 000 g",
+    "d": "0.025 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert 1234 g to kg. Round to 1 decimal place.",
+   "answers": {
+    "a": "1.2 kg",
+    "b": "1 234 000.0 kg",
+    "c": "12.3 kg",
+    "d": "0.12 kg"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Convert 3 min to s. You do not need to round.",
+   "answers": {
+    "a": "18 s",
+    "b": "180 s",
+    "c": "1800 s",
+    "d": "0.05 s"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many grams is 1 kg?",
+   "answers": {
+    "a": "1000 g",
+    "b": "10 g",
+    "c": "0.001 g",
+    "d": "100 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which volume is equal to 1 dm<sup>3</sup>?",
+   "answers": {
+    "a": "0.1 L",
+    "b": "1 L",
+    "c": "10 L",
+    "d": "1 mL"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many seconds are 2 minutes?",
+   "answers": {
+    "a": "200 s",
+    "b": "12 s",
+    "c": "120 s",
+    "d": "60 s"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}
