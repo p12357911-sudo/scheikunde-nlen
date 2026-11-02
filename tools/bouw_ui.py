@@ -22,6 +22,7 @@ nl['voet.powered'] = 'Powered by'
 inl = json.load(open('tools/index-sleutels-nl.json'))
 assert set(inl) == set(ENI), (set(inl) ^ set(ENI))
 nl.update(inl); en.update(ENI)
+nl['index.klimaatcrisis_href'] = 'https://docs.google.com/forms/d/e/1FAIpQLSd4PXOavgX6V543qbkOmy8MxyS5pHjNA50CFyZFEqMx6oQZjw/viewform'; en['index.klimaatcrisis_href'] = 'https://docs.google.com/forms/d/e/1FAIpQLSema22eYE12utIBLOnGAvGdRWq0KnJ_9eayoWXE9sNvSfuJ2w/viewform'
 nl['index.proef'] = 'Proefversie – nog niet live'
 # leeftijdsregels: NL toont geen leeftijd, dus geen extra sleutels nodig
 json.dump(nl, open('lang/nl/ui.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

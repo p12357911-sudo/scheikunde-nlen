@@ -81,9 +81,9 @@ if _kb is not None:
     _rij = _kb.find_parent('div', class_='w3-row')
     _rij.replace_with(BeautifulSoup('''<br/>
 <p class="bouw-knoppen"><a class="w3-button knop-blauw w3-margin-right w3-margin-bottom" data-i18n="index.kennis_basis_vragen_kb" href="https://docs.google.com/forms/d/e/1FAIpQLScNvaeo7U68JrZL5Ah4McmxnhiRVwfwodPeCoIvTznsYVINww/viewform" rel="noopener" target="_blank"></a> <a class="w3-button knop-blauw w3-margin-bottom" data-i18n="index.multiple_choice_mp" href="https://docs.google.com/forms/d/e/1FAIpQLSeurJFsNKEny9DQ1jdjg5db8JRdYB63OIeMp3Et4gsC5FzlbQ/viewform" rel="noopener" target="_blank"></a></p>''', 'html.parser'))
-# Thema 'Klimaatcrisis': dode shorturl-link vervangen door Peters Google Form 'Klimaatverandering'
+# Thema 'Klimaatcrisis': dode shorturl-link vervangen door het Google Form 'Klimaatverandering' (NL) / 'Climate change' (EN, via ui.json-sleutel index.klimaatcrisis_href)
 for _a in s.find_all('a', href='http://www.shorturl.at/motR0'):
-    _a['href'] = 'https://docs.google.com/forms/d/12YEx8MHUTqOTbZEvsObVQpNl28HzhuNZCfRNuEa0fiM/viewform'; _a['rel'] = 'noopener'
+    _a['href'] = 'https://docs.google.com/forms/d/e/1FAIpQLSd4PXOavgX6V543qbkOmy8MxyS5pHjNA50CFyZFEqMx6oQZjw/viewform'; _a['rel'] = 'noopener'; _a['data-i18n-attr'] = 'href:index.klimaatcrisis_href'
 # Rustiger voorpagina (Peter): geen kleine iconen boven de leerjaar-kaarten; de grote sectie-iconen blijven
 for _i in s.find_all('i', class_='fa-solid'):
     _par = _i.parent
