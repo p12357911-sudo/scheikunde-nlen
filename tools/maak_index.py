@@ -81,6 +81,9 @@ if _kb is not None:
     _rij = _kb.find_parent('div', class_='w3-row')
     _rij.replace_with(BeautifulSoup('''<br/>
 <p class="bouw-knoppen"><a class="w3-button knop-blauw w3-margin-right w3-margin-bottom" data-i18n="index.kennis_basis_vragen_kb" href="https://docs.google.com/forms/d/e/1FAIpQLScNvaeo7U68JrZL5Ah4McmxnhiRVwfwodPeCoIvTznsYVINww/viewform" rel="noopener" target="_blank"></a> <a class="w3-button knop-blauw w3-margin-bottom" data-i18n="index.multiple_choice_mp" href="https://docs.google.com/forms/d/e/1FAIpQLSeurJFsNKEny9DQ1jdjg5db8JRdYB63OIeMp3Et4gsC5FzlbQ/viewform" rel="noopener" target="_blank"></a></p>''', 'html.parser'))
+# Thema 'Klimaatcrisis': dode shorturl-link vervangen door Peters Google Form 'Klimaatverandering'
+for _a in s.find_all('a', href='http://www.shorturl.at/motR0'):
+    _a['href'] = 'https://docs.google.com/forms/d/12YEx8MHUTqOTbZEvsObVQpNl28HzhuNZCfRNuEa0fiM/viewform'; _a['rel'] = 'noopener'
 out = str(s)
 out = out.replace(' aria-label=""', '')
 open('index.html', 'w', encoding='utf-8').write(out)

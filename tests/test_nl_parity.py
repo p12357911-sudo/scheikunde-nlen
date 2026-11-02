@@ -112,6 +112,7 @@ def main():
                 _MP = 'https://docs.google.com/forms/d/e/1FAIpQLSeurJFsNKEny9DQ1jdjg5db8JRdYB63OIeMp3Et4gsC5FzlbQ/viewform'
                 a['links'] = [l.replace('Kennis Basis vragen (KB)|http://www.shorturl.at/kCJK7', 'Vraag-antwoord (KB)|' + _KB).replace('Multiple choice (MP)|http://www.shorturl.at/sFNSX', 'Meerkeuze (MP)|' + _MP) for l in a['links']]
                 a['sec'] = {k: v.replace('Kies hier het type vraag Kennis Basis vragen (KB) Multiple choice (MP)', 'Vraag-antwoord (KB) Meerkeuze (MP)').replace('en volg de link', 'en klik op de knop').replace('vraag-antwoord en multiple choice', 'vraag-antwoord en meerkeuze') for k, v in a['sec'].items()}
+                a['links'] = [l.replace('http://www.shorturl.at/motR0', 'https://docs.google.com/forms/d/12YEx8MHUTqOTbZEvsObVQpNl28HzhuNZCfRNuEa0fiM/viewform') for l in a['links']]   # bewust: Klimaatcrisis-link naar Peters Google Form
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]
