@@ -137,7 +137,7 @@ with sync_playwright() as p:
                     check(f'{lab}: kader 1,3 pt (browser rondt af naar 1 px) #003A5C', d['border'] in ('1px', '1.75px') and d['kleur'] == 'rgb(0, 58, 92)', d)
                     check(f'{lab}: Arial, tekst #111111, kop #003A5C', d['font'] == 'Arial' and d['h2font'] == 'Arial' and d['h2'] == 'rgb(0, 58, 92)' and all(c == 'rgb(17, 17, 17)' for c in d['pcol']), d)
                     check(f'{lab}: tekst 12 pt (16 px)', all(abs(s - 16) < 0.1 for s in d['psize']), d['psize'])
-                    check(f'{lab}: privacyregel apart, in het kader, vet (alleen op AI-pagina's)', ((d['privacy'] and int(d['pvbold']) >= 700) if not pg.startswith('rv') else not d['privacy']), d)   # rv-pagina's hebben bewust geen AI meer, dus ook geen privacyregel
+                    check(f'{lab}: privacyregel apart, in het kader, vet (alleen op AI-pagina)', ((d['privacy'] and int(d['pvbold']) >= 700) if not pg.startswith('rv') else not d['privacy']), d)   # rv-pagina's hebben bewust geen AI meer, dus ook geen privacyregel
                     check(f'{lab}: kader staat boven de vragen en past in het scherm', d['voorVragen'] and d['rechts'] and d['links'] and d['breed'] <= 0, d)
                 if pg.startswith('rv3h') and taal == 'en':
                     page.screenshot(path=f'{SCREENS}/intro_kader_{taal}_{naam}.png')
