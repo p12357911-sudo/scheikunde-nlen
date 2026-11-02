@@ -102,7 +102,6 @@ def main():
                 res.append(r); foutjs += errs; ctx.close()
             a, c = res
             a = pas_correcties_toe(a, pg)
-            if pg == 'sk3h-stoffen-KBAI': a['intro'] = c['intro'] = ''   # bewust: AI-uitleg komt nu uit ui.json (zelfde tekst als de andere AI-pagina's)
             if soort == 'index':
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']

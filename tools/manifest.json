@@ -526,13 +526,6 @@
    "opnieuw": false,
    "opnieuw_wrap": ""
   },
-  "sk3h-stoffen-KBAI": {
-   "soort": "kb",
-   "ai": true,
-   "vrij": "alle",
-   "opnieuw": false,
-   "opnieuw_wrap": ""
-  },
   "sk3h-stoffen-MP": {
    "soort": "mp",
    "wissel": [
@@ -1181,6 +1174,7 @@
   "ChemCalcPeriodSys1KB",
   "ChemReactions1KB",
   "Matriaalenstof1KB",
+  "sk3h-stoffen-KBAI",
   "Matriaalenstof1KBAI",
   "NovaHavo3H1StoffenMP",
   "NovaHavo3H2Reacties2KB",

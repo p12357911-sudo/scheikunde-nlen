@@ -15,7 +15,6 @@ EN = {
  "index.leerjaar_3": J("Age 14–15", "Year 10 / Grade 9"),
  "index.onderwerpen": "Topics",
  "index.stoffen": "Substances",
- "index.stoffen_kbai": "Substances (AI marking trial)",
  "index.atomen_en_moleculen": "Atoms and molecules",
  "index.reacties": "Reactions",
  "index.bouw_van_stoffen": "Structure of substances",
