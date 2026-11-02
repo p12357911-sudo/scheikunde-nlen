@@ -2,6 +2,7 @@
 NL-pagina's (basislijn). Uitvoeren: /workspace/pwenv/bin/python tests/test_nl_parity.py [paginanaam ...]
 De uitzonderingen op de index (contactsectie: e-mailadres en 'Contactformulier volgt' vervallen, knop Google Form erbij)
 staan met naam in TOEGESTAAN_INDEX."""
+import re
 import sys, re, json, os, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
@@ -121,6 +122,8 @@ def main():
                 if 'Stuur een bericht|'+FORM not in c['links']: dd.append('  plaatshouder Google Form ontbreekt')
             else:
                 if soort == 'puzzel': a['voet'] = a['voet'] + 'NaarTop'   # de nieuwe pagina heeft ook de 'Naar boven'-knop
+                if pg.startswith('rv') and pg.endswith('-KB'):   # bewust: rekenvaardigheid-pagina's hebben geen AI-nakijken meer, dus ook geen AI-zinnen in de intro
+                    a['intro'] = re.sub(r'( Typ je antwoorden en klik op "Controleer antwoorden"\.)? Antwoorden in je eigen woorden.*?AI-dienst nagekeken\.', '', a['intro'])
                 dd = vergelijk(a, c)
             if foutjs: dd.append('  JS-fouten: ' + str(foutjs)[:300])
             if dd: bad += 1; print('VERSCHIL', pg); print('\n'.join(dd))
