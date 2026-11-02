@@ -75,6 +75,12 @@ car['data-i18n-attr'] = 'aria-label:index.tips_aria'; tekst2sleutel['Tips voor l
 tit = s.title; tit.string = 'Scheikunde en natuurkunde oefenen'
 for b in s.find_all(['body']):
     b['data-pagina'] = 'index'
+# 'Bouw mee': dode shorturl-links vervangen door twee zichtbare knoppen naar Google Forms (hover-menu werkt niet op telefoons)
+_kb = s.find('a', attrs={'data-i18n-html': 'index.kennis_basis_vragen_kb'})
+if _kb is not None:
+    _rij = _kb.find_parent('div', class_='w3-row')
+    _rij.replace_with(BeautifulSoup('''<br/>
+<p class="bouw-knoppen"><a class="w3-button knop-blauw w3-margin-right w3-margin-bottom" data-i18n="index.kennis_basis_vragen_kb" href="https://docs.google.com/forms/d/e/1FAIpQLScNvaeo7U68JrZL5Ah4McmxnhiRVwfwodPeCoIvTznsYVINww/viewform" rel="noopener" target="_blank"></a> <a class="w3-button knop-blauw w3-margin-bottom" data-i18n="index.multiple_choice_mp" href="https://docs.google.com/forms/d/e/1FAIpQLSeurJFsNKEny9DQ1jdjg5db8JRdYB63OIeMp3Et4gsC5FzlbQ/viewform" rel="noopener" target="_blank"></a></p>''', 'html.parser'))
 out = str(s)
 out = out.replace(' aria-label=""', '')
 open('index.html', 'w', encoding='utf-8').write(out)

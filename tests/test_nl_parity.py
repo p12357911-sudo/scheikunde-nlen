@@ -106,6 +106,11 @@ def main():
                 assert c['title'] == 'Scheikunde en natuurkunde oefenen', c['title']; a['title'] = c['title']   # bewust: naam 'betermetpeter' is overal weg
                 # bewust: menu-item 'Stoffen KBAI' is verwijderd (stap 2)
                 a['links'] = [l for l in a['links'] if 'KBAI' not in l]; a['sec'] = {k: v.replace(' Stoffen KBAI', '') for k, v in a['sec'].items()}
+                # bewust: 'Bouw mee' heeft twee zichtbare knoppen naar Google Forms i.p.v. een hover-menu met dode shorturl-links
+                _KB = 'https://docs.google.com/forms/d/e/1FAIpQLScNvaeo7U68JrZL5Ah4McmxnhiRVwfwodPeCoIvTznsYVINww/viewform'
+                _MP = 'https://docs.google.com/forms/d/e/1FAIpQLSeurJFsNKEny9DQ1jdjg5db8JRdYB63OIeMp3Et4gsC5FzlbQ/viewform'
+                a['links'] = [l.replace('Kennis Basis vragen (KB)|http://www.shorturl.at/kCJK7', 'Vraag-antwoord (KB)|' + _KB).replace('Multiple choice (MP)|http://www.shorturl.at/sFNSX', 'Meerkeuze (MP)|' + _MP) for l in a['links']]
+                a['sec'] = {k: v.replace('Kies hier het type vraag Kennis Basis vragen (KB) Multiple choice (MP)', 'Vraag-antwoord (KB) Meerkeuze (MP)').replace('en volg de link', 'en klik op de knop').replace('vraag-antwoord en multiple choice', 'vraag-antwoord en meerkeuze') for k, v in a['sec'].items()}
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]
