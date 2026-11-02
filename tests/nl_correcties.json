@@ -1,0 +1,87 @@
+{
+ "_uitleg": "Bewuste NL-correcties t.o.v. de originele NL-pagina's (Peter akkoord, nov 2026): [oud, nieuw]. test_nl_parity.py past dit toe op de basislijn voordat hij vergelijkt.",
+ "correcties": {
+  "sk4h-chemische-binding-KB": [
+   [
+    "Bromide,Sulfide, oxide, F",
+    "Bromide, sulfide, oxide"
+   ],
+   [
+    "Wordt het N atoom in een systematische naam als ‘- ide’ vervoegd of niet?",
+    "Wordt het N atoom in een systematische naam als ‘-ide’ vervoegd of niet?"
+   ],
+   [
+    "Moleculen hebben  geen kristalrooster maar",
+    "Moleculen vormen geen kristalrooster maar een molecuulrooster: een regelmatige rangschikking van moleculen"
+   ],
+   [
+    "Atooombinding waarbij de elektronen niet gelijkmatig verdeeld zijn",
+    "Atoombinding waarbij de elektronen niet gelijkmatig verdeeld zijn"
+   ],
+   [
+    "Atoombinding ander woord",
+    "Ander woord voor een binding tussen atomen waarbij elektronen gedeeld worden"
+   ],
+   [
+    "Wat is een atoombinding",
+    "Wat is een binding tussen atomen (atoombinding)"
+   ]
+  ],
+  "sk3h-stoffen-KB": [
+   [
+    "Dat het smelt- en kookpunt van een stof een specifieke maximale waarde hebben, waar bij de stof van de ene naar de andere fase overgaat",
+    "Dat het smelt- en kookpunt van een stof een specifieke waarde hebben, waarbij de stof van de ene naar de andere fase overgaat"
+   ]
+  ],
+  "sk4h-atoombouw-rekenen-KB": [
+   [
+    "Wat is de verhouding tussen p en elektronen, en verklaar waarom.",
+    "Wat is de verhouding tussen protonen en elektronen, en verklaar waarom."
+   ]
+  ],
+  "rv3t-breuken-procenten-eenheden-KB": [
+   [
+    "5/8 en 3/4 = 6/8, dus 5/8 is kleiner",
+    "3/4 = 6/8, dus 5/8 is kleiner"
+   ]
+  ],
+  "sk3t-scheidingsmethoden-KB": [
+   [
+    "Een drankje bevat 20 g suiker per 250 mL. Wat is het massa percentage suikers? Je mag er vanuit gaan dat 1 mL vloeistof 1.1 g weegt. Geeft het antwoord in 2 decimalen weer",
+    "Een drankje bevat 20 g suiker per 250 mL. Wat is het massapercentage suiker? Je mag ervan uitgaan dat 1 mL vloeistof 1,1 g weegt. Geef het antwoord in 2 decimalen"
+   ],
+   [
+    "massa % = massa suiker/volume drankje *100% = 20g/(250mL*1.1g/mL)*100% = 7,27%",
+    "massa % = massa suiker / massa drankje × 100% = 20 g / (250 mL × 1,1 g/mL) × 100% = 7,27%"
+   ]
+  ],
+  "redox1KB": [
+   [
+    "Dat is 0-(-0, 45) = 0,45 Volt",
+    "Dat is 0 − (−0,45) = 0,45 volt"
+   ]
+  ],
+  "acidbase1KB": [
+   [
+    "Sterke base dus [OH<sup>-</sup>] = 0.1 M en gegeven is pOH = -log [OH<sup>-</sup>] en pH = 14 - pOH dus pH = 14 + log [0,1] = 14 + (-1) = 13",
+    "Sterke base dus [OH<sup>−</sup>] = 0,1 M en gegeven is pOH = −log [OH<sup>−</sup>] en pH = 14 − pOH dus pH = 14 + log [0,1] = 14 + (−1) = 13"
+   ]
+  ],
+  "sk3t-atomen-moleculen-MP": [
+   [
+    "Borium",
+    "Boor"
+   ],
+   [
+    "Koolstofoxide-1",
+    "Monokoolstofoxide"
+   ]
+  ],
+  "sk4h-koolwaterstoffen-MP": [
+   [
+    "Stoffen met dezelfde structuurformule en verschillende molecuulformule",
+    "Stoffen met verschillende molecuulformules en verschillende structuurformules"
+   ]
+  ]
+ }
+}

@@ -121,7 +121,7 @@
     "a": "Substances with the same molecular formula but a different structural formula",
     "b": "Substances with the same name",
     "c": "Substances with the same boiling point",
-    "d": "Substances with the same structural formula and a different molecular formula"
+    "d": "Substances with different molecular formulas and different structural formulas"
    },
    "correctAnswer": "a"
   },

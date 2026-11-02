@@ -51,7 +51,7 @@
   },
   {
    "q": "Wat is de pH van een 0,1 M NaOH oplossing?",
-   "a": "Sterke base dus [OH<sup>-</sup>] = 0.1 M en gegeven is pOH = -log [OH<sup>-</sup>] en pH = 14 - pOH dus pH = 14 + log [0,1] = 14 + (-1) = 13"
+   "a": "Sterke base dus [OH<sup>−</sup>] = 0,1 M en gegeven is pOH = −log [OH<sup>−</sup>] en pH = 14 − pOH dus pH = 14 + log [0,1] = 14 + (−1) = 13"
   },
   {
    "q": "Wat is de base constante van ammoniak NH<sub>3</sub>? (gebruik BINAS tabel 49)",

@@ -111,7 +111,7 @@
     "a": "Broom",
     "b": "Barium",
     "c": "Brons",
-    "d": "Borium"
+    "d": "Boor"
    },
    "correctAnswer": "a"
   },
@@ -258,7 +258,7 @@
   {
    "question": "Wat is de naam van CO? Let op de voorvoegsels.",
    "answers": {
-    "a": "Koolstofoxide-1",
+    "a": "Monokoolstofoxide",
     "b": "Monokoolstof",
     "c": "Koolstofmono-oxide",
     "d": "Koolstofdioxide"

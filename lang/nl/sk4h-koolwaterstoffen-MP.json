@@ -121,7 +121,7 @@
     "a": "Stoffen met dezelfde molecuulformule maar een verschillende structuurformule",
     "b": "Stoffen met dezelfde naam",
     "c": "Stoffen met hetzelfde kookpunt",
-    "d": "Stoffen met dezelfde structuurformule en verschillende molecuulformule"
+    "d": "Stoffen met verschillende molecuulformules en verschillende structuurformules"
    },
    "correctAnswer": "a"
   },

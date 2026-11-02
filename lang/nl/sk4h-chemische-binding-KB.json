@@ -71,10 +71,10 @@
   },
   {
    "q": "Geef de ‘–ide’ vervoeging voor de volgende stoffen: Br, S, O",
-   "a": "Bromide,Sulfide, oxide, F"
+   "a": "Bromide, sulfide, oxide"
   },
   {
-   "q": "Wordt het N atoom in een systematische naam als ‘- ide’ vervoegd of niet?",
+   "q": "Wordt het N atoom in een systematische naam als ‘-ide’ vervoegd of niet?",
    "a": "Nee"
   },
   {
@@ -91,11 +91,11 @@
   },
   {
    "q": "Wat is een molecuulrooster",
-   "a": "Moleculen hebben  geen kristalrooster maar"
+   "a": "Moleculen vormen geen kristalrooster maar een molecuulrooster: een regelmatige rangschikking van moleculen"
   },
   {
    "q": "Wat is een polaire binding",
-   "a": "Atooombinding waarbij de elektronen niet gelijkmatig verdeeld zijn"
+   "a": "Atoombinding waarbij de elektronen niet gelijkmatig verdeeld zijn"
   },
   {
    "q": "Wat is een moleculaire stof",
@@ -103,10 +103,10 @@
   },
   {
    "q": "Wat is een covalente binding",
-   "a": "Atoombinding ander woord"
+   "a": "Ander woord voor een binding tussen atomen waarbij elektronen gedeeld worden"
   },
   {
-   "q": "Wat is een atoombinding",
+   "q": "Wat is een binding tussen atomen (atoombinding)",
    "a": "Binding tussen twee atomen"
   },
   {

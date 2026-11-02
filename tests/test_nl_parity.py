@@ -34,6 +34,34 @@ JS_INDEX = """() => { const sec = {}; for (const e of document.querySelectorAll(
 FORM = 'https://docs.google.com/forms/d/e/1FAIpQLScy7x5-wDjjU_n95WEmYg2VHq_fNlyu9uda95-GUQ4pCbNwgw/viewform'
 JS_PUZ = """() => ({title: document.title, fil: document.querySelector('.fil').textContent.replace(/\\s+/g,' ').trim(), n: document.querySelectorAll('.fil-vakje').length,
   menu:[...document.querySelectorAll('.w3-top .w3-bar a')].map(a=>a.textContent.trim()+'|'+a.getAttribute('href')), voet: (document.querySelector('footer')||{textContent:''}).textContent.replace(/\\s+/g,'')})"""
+CORR = json.load(open(os.path.join(ROOT, 'tests/nl_correcties.json')))['correcties']   # bewuste NL-correcties (oud -> nieuw) op de basislijn
+
+def pas_correcties_toe(a, pg):
+    """Past de bewuste NL-correcties toe op de basislijn (originele pagina) zodat de pariteitstest alleen onbedoelde verschillen meldt."""
+    import html as _h
+    for oud, nieuw in CORR.get(pg, []):
+        o = json.dumps(oud, ensure_ascii=False)[1:-1]; n = json.dumps(nieuw, ensure_ascii=False)[1:-1]
+        for k in list(a):
+            if isinstance(a[k], (dict, list)):
+                a[k] = json.loads(json.dumps(a[k], ensure_ascii=False).replace(o, n))
+            elif isinstance(a[k], str) and k == '_data':
+                a[k] = a[k].replace(o, n)
+            elif isinstance(a[k], str):
+                a[k] = a[k].replace(oud, nieuw)
+        if isinstance(a.get('q'), list) and a['q'] and isinstance(a['q'][0], dict) and len(re.sub(r'<[^>]+>', '', nieuw).strip()) > 60:
+            for x in a['q']:   # een nieuw antwoord van meer dan 60 tekens krijgt (net als alle lange antwoorden) niet de kader-opmaak 'eindantwoord'
+                if nieuw in x['box'] and x['box'].startswith('<p class="eindantwoord">'):
+                    x['box'] = x['box'].replace('<p class="eindantwoord">', '<p>', 1); x['eind'] = False
+        if isinstance(a.get('q'), list) and a['q'] and isinstance(a['q'][0], str):   # MP: antwoorden staan gesorteerd in de tekst
+            nq = []
+            for x in a['q']:
+                if ' || ' in x:
+                    v, ant = x.split(' || ', 1); p = ant.split(' / ')
+                    p = [nieuw if t == oud else t for t in p]; x = v + ' || ' + ' / '.join(sorted(p))
+                nq.append(x)
+            a['q'] = sorted(nq)
+    return a
+
 TOEGESTAAN_INDEX_SEC = {'contact'}   # contactsectie wijkt bewust af (zie hieronder)
 CONTACT_VERWACHT = 'Contact Momenteel alleen verkrijgbaar in Nederland Stuur ons een berichtje met je vragen en tips en tops! En waar gehakt wordt vallen spaanders dus zie je een foutje laat dat dan ook even weten. Stuur een bericht Betermetpeter wil nog beter worden om op een vrije manier alle scholieren te helpen. Dat komt niet vanzelf en daar zijn donaties voor nodig. Doneer daarom en zorg dat deze website vrij te bezoeken blijft.'
 
@@ -72,6 +100,7 @@ def main():
                 if soort == 'mp': r['_data'] = page.evaluate(JS_MPDATA)
                 res.append(r); foutjs += errs; ctx.close()
             a, c = res
+            a = pas_correcties_toe(a, pg)
             if pg == 'sk3h-stoffen-KBAI': a['intro'] = c['intro'] = ''   # bewust: AI-uitleg komt nu uit ui.json (zelfde tekst als de andere AI-pagina's)
             if soort == 'index':
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')

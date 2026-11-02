@@ -206,8 +206,8 @@
    "a": "massa % =  massa (g)/massa totaal (g) ∙ 100% = 160/250 ∙ 100% = 64,0%"
   },
   {
-   "q": "Een drankje bevat 20 g suiker per 250 mL. Wat is het massa percentage suikers? Je mag er vanuit gaan dat 1 mL vloeistof 1.1 g weegt. Geeft het antwoord in 2 decimalen weer",
-   "a": "massa % = massa suiker/volume drankje *100% = 20g/(250mL*1.1g/mL)*100% = 7,27%"
+   "q": "Een drankje bevat 20 g suiker per 250 mL. Wat is het massapercentage suiker? Je mag ervan uitgaan dat 1 mL vloeistof 1,1 g weegt. Geef het antwoord in 2 decimalen",
+   "a": "massa % = massa suiker / massa drankje × 100% = 20 g / (250 mL × 1,1 g/mL) × 100% = 7,27%"
   }
  ]
 }
