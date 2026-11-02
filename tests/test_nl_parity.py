@@ -40,6 +40,7 @@ def pas_correcties_toe(a, pg):
     """Past de bewuste NL-correcties toe op de basislijn (originele pagina) zodat de pariteitstest alleen onbedoelde verschillen meldt."""
     import html as _h
     for oud, nieuw in CORR.get(pg, []):
+        oud = re.sub(r'\s+', ' ', oud).strip()   # de basislijn heeft witruimte genormaliseerd
         o = json.dumps(oud, ensure_ascii=False)[1:-1]; n = json.dumps(nieuw, ensure_ascii=False)[1:-1]
         for k in list(a):
             if isinstance(a[k], (dict, list)):
