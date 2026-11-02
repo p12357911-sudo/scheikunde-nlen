@@ -1,0 +1,117 @@
+{
+ "title": "Polymers",
+ "heading": "Polymer questions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What is an initiator?",
+   "answers": {
+    "a": "A substance that stops the polymerisation",
+    "b": "A substance that starts the polymerisation: the double bond opens",
+    "c": "A substance that breaks down polymers",
+    "d": "A substance that adds water to the reaction"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You use UV light in a polymerisation. What does the UV light do to the initiator?",
+   "answers": {
+    "a": "The initiator reacts and so starts the polymerisation",
+    "b": "It only raises the temperature",
+    "c": "It has no effect on the initiator",
+    "d": "The initiator becomes less active"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What happens in a condensation reaction?",
+   "answers": {
+    "a": "Only a larger molecule is formed",
+    "b": "Only a small molecule is formed",
+    "c": "No new molecule is formed",
+    "d": "A larger molecule is formed and a small molecule is released (for example water)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Acid groups (-COOH) react with hydroxyl groups (-OH). What is formed?",
+   "answers": {
+    "a": "Ester bonds and a polyamide",
+    "b": "Amide bonds and a polyester",
+    "c": "Ester bonds and a polyester",
+    "d": "Amide bonds and a polyamide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Acid groups (-COOH) react with amino groups (-NH<sub>2</sub>). What is formed?",
+   "answers": {
+    "a": "Ester bonds and a polyamide",
+    "b": "Ester bonds and a polyester",
+    "c": "Amide bonds and a polyester",
+    "d": "Amide bonds and a polyamide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is hydrolysis?",
+   "answers": {
+    "a": "A polymer is burnt",
+    "b": "Monomers join together and water is released",
+    "c": "A polymer is broken down by water into smaller molecules",
+    "d": "Monomers with a double bond join together and nothing is released"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A polymer has an average chain length of 1000. What does that mean?",
+   "answers": {
+    "a": "There are 1000 polymers in one molecule",
+    "b": "A chain consists of 1000 monomer units on average",
+    "c": "The polymer consists of 1000 different molecules",
+    "d": "A molecule weighs 1000 u on average"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How is an addition polymer formed?",
+   "answers": {
+    "a": "Monomers with a double bond join together and nothing is released",
+    "b": "Monomers join together via ester bonds",
+    "c": "A polymer is broken down by water",
+    "d": "Monomers join together and water is released"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a polyamide?",
+   "answers": {
+    "a": "A polymer that consists of only carbon and hydrogen",
+    "b": "A polymer in which the monomers are linked by amide bonds",
+    "c": "A polymer that is formed only by addition",
+    "d": "A polymer in which the monomers are linked by ester bonds"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a polyester?",
+   "answers": {
+    "a": "A polymer in which the monomers are linked by ester bonds",
+    "b": "A polymer in which the monomers are linked by amide bonds",
+    "c": "A polymer that is formed only by addition",
+    "d": "A polymer that consists of only carbon and hydrogen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the chain length of a polymer?",
+   "answers": {
+    "a": "The number of atoms in one monomer",
+    "b": "The number of molecules in the polymer",
+    "c": "The number of monomer units in one chain",
+    "d": "The mass of the polymer"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

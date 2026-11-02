@@ -1,0 +1,137 @@
+{
+ "title": "Sustainability",
+ "heading": "Sustainability questions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Which process do you use to separate crude oil into fractions with different boiling ranges?",
+   "answers": {
+    "a": "Cracking",
+    "b": "Fractional distillation",
+    "c": "Polymerisation",
+    "d": "Reforming"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the boiling range of a fraction?",
+   "answers": {
+    "a": "The chemical composition of the fraction",
+    "b": "The number of steps in the distillation process",
+    "c": "The pressure at which you distil crude oil",
+    "d": "The temperatures between which the substances in that fraction boil"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does sustainability mean?",
+   "answers": {
+    "a": "You provide for what people need now, without it running short for people in the future",
+    "b": "You recycle all used materials",
+    "c": "You stop the economy from growing",
+    "d": "You use as little energy as possible"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How can you contribute to sustainability?",
+   "answers": {
+    "a": "Buy more things",
+    "b": "Use more fossil fuels",
+    "c": "Use sustainable raw materials or recycle",
+    "d": "Avoid technology"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the atom economy of a reaction tell you?",
+   "answers": {
+    "a": "What percentage of the atoms from the reactants ends up in the desired product",
+    "b": "How fast the reaction proceeds",
+    "c": "How much energy the reaction costs",
+    "d": "How much money the reaction costs"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What are biofuels made from?",
+   "answers": {
+    "a": "Metal waste",
+    "b": "Plastic",
+    "c": "Fossil fuels",
+    "d": "Biomass (plants and other substances from living organisms)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which three substances are biofuels?",
+   "answers": {
+    "a": "Ethanol, methanol and kerosene",
+    "b": "Bioethanol, biodiesel and biogas",
+    "c": "Diesel, petrol and natural gas",
+    "d": "Hydrogen, oxygen and nitrogen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are first-generation biofuels made from?",
+   "answers": {
+    "a": "Plants that are not suitable as food",
+    "b": "Plastic",
+    "c": "Plants that we also use as food, such as maize and sugar cane",
+    "d": "Agricultural waste"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do you use to represent a chemical production process?",
+   "answers": {
+    "a": "A structural formula",
+    "b": "A block diagram",
+    "c": "A table",
+    "d": "A graph"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What do the blocks in a block diagram mean?",
+   "answers": {
+    "a": "The direction in which substances flow",
+    "b": "The temperature of the process",
+    "c": "A device or step in which a reaction or separation takes place",
+    "d": "The amount of substance that is formed"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do the arrows in a block diagram mean?",
+   "answers": {
+    "a": "The amount of substance that is formed",
+    "b": "The temperature of the process",
+    "c": "A device or step in which a reaction or separation takes place",
+    "d": "The direction in which substances flow"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molar volume?",
+   "answers": {
+    "a": "The volume of 1.00 mol of gas at a certain temperature and pressure",
+    "b": "The mass of 1.00 mol of gas",
+    "c": "The number of molecules in 1.00 mol of gas",
+    "d": "The pressure of 1.00 mol of gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which quantity goes with the symbol V<sub>m</sub>?",
+   "answers": {
+    "a": "The density of a gas",
+    "b": "The molar volume",
+    "c": "The number of moles",
+    "d": "The molar mass"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

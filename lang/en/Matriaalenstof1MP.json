@@ -1,0 +1,182 @@
+{
+ "title": "Acid-base questions - 123 school",
+ "heading": "Acid-base questions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "A solution is acidic. What do you know about its pH?",
+   "answers": {
+    "a": "The pH is greater than 7",
+    "b": "The pH is exactly 7",
+    "c": "The pH is less than 7",
+    "d": "The pH is exactly 14"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does the pH indicate?",
+   "answers": {
+    "a": "The temperature of a solution",
+    "b": "The amount of water in a solution",
+    "c": "The mass of a solution",
+    "d": "The acidity of a solution"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is ethanoic acid?",
+   "answers": {
+    "a": "Hydrochloric acid",
+    "b": "Acetic acid",
+    "c": "Ammonia",
+    "d": "Alcohol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is an acid?",
+   "answers": {
+    "a": "A particle that can donate H<sup>+</sup>",
+    "b": "A particle that can accept H<sup>+</sup>",
+    "c": "A particle that can neutralise H<sup>+</sup>",
+    "d": "A solution with many OH<sup>-</sup> particles"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is true of an acidic solution?",
+   "answers": {
+    "a": "It contains no ions",
+    "b": "It turns blue with universal indicator paper",
+    "c": "Limescale dissolves poorly in it",
+    "d": "It contains ions"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you use universal indicator paper for?",
+   "answers": {
+    "a": "To measure the amount of water",
+    "b": "To detect ions",
+    "c": "To measure the acidity",
+    "d": "To measure the amount of table salt in a solution"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is hydrochloric acid?",
+   "answers": {
+    "a": "A weak acid",
+    "b": "A solution of HCl gas in water",
+    "c": "A solution of table salt and ethanoic acid",
+    "d": "The gas hydrogen chloride (HCl)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of ammonia?",
+   "answers": {
+    "a": "NH<sub>3</sub> (g)",
+    "b": "NH<sub>2</sub> (g)",
+    "c": "NH<sub>4</sub><sup>+</sup> (aq)",
+    "d": "HNO<sub>3</sub> (l)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is true of a neutral solution?",
+   "answers": {
+    "a": "De pH is 0",
+    "b": "You cannot dissolve a base in it",
+    "c": "De pH is 7",
+    "d": "It contains no H<sup>+</sup> and OH<sup>-</sup> particles"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "BINAS table 52A: what colour is phenol red at pH = 3?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "d",
+   "fixed": true
+  },
+  {
+   "question": "BINAS table 52A: what colour is phenol red at pH = 9?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "a",
+   "fixed": true
+  },
+  {
+   "question": "BINAS table 52A: what colour is thymol blue at pH = 1?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "a",
+   "fixed": true
+  },
+  {
+   "question": "BINAS table 52A: what colour is thymol blue at pH = 5?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "d",
+   "fixed": true
+  },
+  {
+   "question": "BINAS table 52A: what colour is thymol blue at pH = 11?",
+   "answers": {
+    "a": "Red",
+    "b": "Green",
+    "c": "Blue",
+    "d": "Yellow"
+   },
+   "correctAnswer": "c",
+   "fixed": true
+  },
+  {
+   "question": "What is the opposite of an acid?",
+   "answers": {
+    "a": "An oxidising agent",
+    "b": "A reducing agent",
+    "c": "An acid",
+    "d": "A base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a weak acid?",
+   "answers": {
+    "a": "An acid such as HCl",
+    "b": "An acid that donates all of its H<sup>+</sup>",
+    "c": "An acid that donates only some of its H<sup>+</sup>",
+    "d": "A dilute solution of a strong acid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is H<sub>2</sub>SO<sub>4</sub> (sulfuric acid)?",
+   "answers": {
+    "a": "A diprotic acid",
+    "b": "A strong base",
+    "c": "A tetraprotic acid",
+    "d": "A diprotic base"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

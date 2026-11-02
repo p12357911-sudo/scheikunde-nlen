@@ -1,0 +1,304 @@
+### acidbase1MP
+2.C Hydrochloric acid
+2.D Acetic acid
+3.Q What is an acid?
+7.Q What is the formula of ammonia?
+7.A NH<sub>4</sub><sup>+</sup> (aq)
+7.B HNO<sub>3</sub> (l)
+7.C NH<sub>3</sub> (g)
+7.D NH<sub>2</sub> (g)
+8.A De pH is 7
+8.D De pH is 0
+9.A Red
+9.B Green
+9.C Blue
+9.D Yellow
+10.A Red
+10.B Green
+10.C Blue
+10.D Yellow
+11.A Red
+11.B Green
+11.C Blue
+11.D Yellow
+12.A Red
+12.B Green
+12.C Blue
+12.D Yellow
+13.A Red
+13.B Green
+13.C Blue
+13.D Yellow
+16.A A strong base
+### kunststoffenMP
+### Matriaalenstof1MP
+2.A Hydrochloric acid
+2.B Acetic acid
+3.Q What is an acid?
+7.Q What is the formula of ammonia?
+7.A NH<sub>3</sub> (g)
+7.B NH<sub>2</sub> (g)
+7.C NH<sub>4</sub><sup>+</sup> (aq)
+7.D HNO<sub>3</sub> (l)
+8.A De pH is 0
+8.C De pH is 7
+9.A Red
+9.B Green
+9.C Blue
+9.D Yellow
+10.A Red
+10.B Green
+10.C Blue
+10.D Yellow
+11.A Red
+11.B Green
+11.C Blue
+11.D Yellow
+12.A Red
+12.B Green
+12.C Blue
+12.D Yellow
+13.A Red
+13.B Green
+13.C Blue
+13.D Yellow
+16.B A strong base
+### duurzaamheidMP
+5.B Plastic
+7.B Plastic
+### acidbase1MP
+heading Acid-base questions
+0.Q A solution is acidic. What do you know about its pH?
+0.A The pH is less than 7
+0.B The pH is exactly 14
+0.C The pH is greater than 7
+0.D The pH is exactly 7
+1.Q What does the pH indicate?
+1.A The temperature of a solution
+1.B The mass of a solution
+1.C The acidity of a solution
+1.D The amount of water in a solution
+2.Q What is ethanoic acid?
+2.A Alcohol
+2.B Ammonia
+3.A A particle that can accept H<sup>+</sup>
+3.B A particle that can donate H<sup>+</sup>
+3.C A solution with many OH<sup>-</sup> particles
+3.D A particle that can neutralise H<sup>+</sup>
+4.Q What is true of an acidic solution?
+4.A It turns blue with universal indicator paper
+4.B Limescale dissolves poorly in it
+4.C It contains no ions
+4.D It contains ions
+5.Q What do you use universal indicator paper for?
+5.A To measure the acidity
+5.B To detect ions
+5.C To measure the amount of water
+5.D To measure the amount of table salt in a solution
+6.Q What is hydrochloric acid?
+6.A A solution of table salt and ethanoic acid
+6.B A solution of HCl gas in water
+6.C A weak acid
+6.D The gas hydrogen chloride (HCl)
+8.Q What is true of a neutral solution?
+8.B You cannot dissolve a base in it
+8.C It contains no H<sup>+</sup> and OH<sup>-</sup> particles
+9.Q BINAS table 52A: what colour is phenol red at pH = 3?
+10.Q BINAS table 52A: what colour is phenol red at pH = 9?
+11.Q BINAS table 52A: what colour is thymol blue at pH = 1?
+12.Q BINAS table 52A: what colour is thymol blue at pH = 5?
+13.Q BINAS table 52A: what colour is thymol blue at pH = 11?
+14.Q What is the opposite of an acid?
+14.A A reducing agent
+14.B An acid
+14.C An oxidising agent
+14.D A base
+15.Q What is a weak acid?
+15.A An acid that donates all of its H<sup>+</sup>
+15.B An acid such as HCl
+15.C An acid that donates only some of its H<sup>+</sup>
+15.D A dilute solution of a strong acid
+16.Q What is H<sub>2</sub>SO<sub>4</sub> (sulfuric acid)?
+16.B A diprotic acid
+16.C A tetraprotic acid
+16.D A diprotic base
+### Matriaalenstof1MP
+heading Acid-base questions
+0.Q A solution is acidic. What do you know about its pH?
+0.A The pH is greater than 7
+0.B The pH is exactly 7
+0.C The pH is less than 7
+0.D The pH is exactly 14
+1.Q What does the pH indicate?
+1.A The temperature of a solution
+1.B The amount of water in a solution
+1.C The mass of a solution
+1.D The acidity of a solution
+2.Q What is ethanoic acid?
+2.C Ammonia
+2.D Alcohol
+3.A A particle that can donate H<sup>+</sup>
+3.B A particle that can accept H<sup>+</sup>
+3.C A particle that can neutralise H<sup>+</sup>
+3.D A solution with many OH<sup>-</sup> particles
+4.Q What is true of an acidic solution?
+4.A It contains no ions
+4.B It turns blue with universal indicator paper
+4.C Limescale dissolves poorly in it
+4.D It contains ions
+5.Q What do you use universal indicator paper for?
+5.A To measure the amount of water
+5.B To detect ions
+5.C To measure the acidity
+5.D To measure the amount of table salt in a solution
+6.Q What is hydrochloric acid?
+6.A A weak acid
+6.B A solution of HCl gas in water
+6.C A solution of table salt and ethanoic acid
+6.D The gas hydrogen chloride (HCl)
+8.Q What is true of a neutral solution?
+8.B You cannot dissolve a base in it
+8.D It contains no H<sup>+</sup> and OH<sup>-</sup> particles
+9.Q BINAS table 52A: what colour is phenol red at pH = 3?
+10.Q BINAS table 52A: what colour is phenol red at pH = 9?
+11.Q BINAS table 52A: what colour is thymol blue at pH = 1?
+12.Q BINAS table 52A: what colour is thymol blue at pH = 5?
+13.Q BINAS table 52A: what colour is thymol blue at pH = 11?
+14.Q What is the opposite of an acid?
+14.A An oxidising agent
+14.B A reducing agent
+14.C An acid
+14.D A base
+15.Q What is a weak acid?
+15.A An acid such as HCl
+15.B An acid that donates all of its H<sup>+</sup>
+15.C An acid that donates only some of its H<sup>+</sup>
+15.D A dilute solution of a strong acid
+16.Q What is H<sub>2</sub>SO<sub>4</sub> (sulfuric acid)?
+16.A A diprotic acid
+16.C A tetraprotic acid
+16.D A diprotic base
+### kunststoffenMP
+title Polymers
+heading Polymer questions
+0.Q What is an initiator?
+0.A A substance that stops the polymerisation
+0.B A substance that starts the polymerisation: the double bond opens
+0.C A substance that breaks down polymers
+0.D A substance that adds water to the reaction
+1.Q You use UV light in a polymerisation. What does the UV light do to the initiator?
+1.A The initiator reacts and so starts the polymerisation
+1.B It only raises the temperature
+1.C It has no effect on the initiator
+1.D The initiator becomes less active
+2.Q What happens in a condensation reaction?
+2.A Only a larger molecule is formed
+2.B Only a small molecule is formed
+2.C No new molecule is formed
+2.D A larger molecule is formed and a small molecule is released (for example water)
+3.Q Acid groups (-COOH) react with hydroxyl groups (-OH). What is formed?
+3.A Ester bonds and a polyamide
+3.B Amide bonds and a polyester
+3.C Ester bonds and a polyester
+3.D Amide bonds and a polyamide
+4.Q Acid groups (-COOH) react with amino groups (-NH<sub>2</sub>). What is formed?
+4.A Ester bonds and a polyamide
+4.B Ester bonds and a polyester
+4.C Amide bonds and a polyester
+4.D Amide bonds and a polyamide
+5.Q What is hydrolysis?
+5.A A polymer is burnt
+5.B Monomers join together and water is released
+5.C A polymer is broken down by water into smaller molecules
+5.D Monomers with a double bond join together and nothing is released
+6.Q A polymer has an average chain length of 1000. What does that mean?
+6.A There are 1000 polymers in one molecule
+6.B A chain consists of 1000 monomer units on average
+6.C The polymer consists of 1000 different molecules
+6.D A molecule weighs 1000 u on average
+7.Q How is an addition polymer formed?
+7.A Monomers with a double bond join together and nothing is released
+7.B Monomers join together via ester bonds
+7.C A polymer is broken down by water
+7.D Monomers join together and water is released
+8.Q What is a polyamide?
+8.A A polymer that consists of only carbon and hydrogen
+8.B A polymer in which the monomers are linked by amide bonds
+8.C A polymer that is formed only by addition
+8.D A polymer in which the monomers are linked by ester bonds
+9.Q What is a polyester?
+9.A A polymer in which the monomers are linked by ester bonds
+9.B A polymer in which the monomers are linked by amide bonds
+9.C A polymer that is formed only by addition
+9.D A polymer that consists of only carbon and hydrogen
+10.Q What is the chain length of a polymer?
+10.A The number of atoms in one monomer
+10.B The number of molecules in the polymer
+10.C The number of monomer units in one chain
+10.D The mass of the polymer
+### duurzaamheidMP
+title Sustainability
+heading Sustainability questions
+0.Q Which process do you use to separate crude oil into fractions with different boiling ranges?
+0.A Cracking
+0.B Fractional distillation
+0.C Polymerisation
+0.D Reforming
+1.Q What is the boiling range of a fraction?
+1.A The chemical composition of the fraction
+1.B The number of steps in the distillation process
+1.C The pressure at which you distil crude oil
+1.D The temperatures between which the substances in that fraction boil
+2.Q What does sustainability mean?
+2.A You provide for what people need now, without it running short for people in the future
+2.B You recycle all used materials
+2.C You stop the economy from growing
+2.D You use as little energy as possible
+3.Q How can you contribute to sustainability?
+3.A Buy more things
+3.B Use more fossil fuels
+3.C Use sustainable raw materials or recycle
+3.D Avoid technology
+4.Q What does the atom economy of a reaction tell you?
+4.A What percentage of the atoms from the reactants ends up in the desired product
+4.B How fast the reaction proceeds
+4.C How much energy the reaction costs
+4.D How much money the reaction costs
+5.Q What are biofuels made from?
+5.A Metal waste
+5.C Fossil fuels
+5.D Biomass (plants and other substances from living organisms)
+6.Q Which three substances are biofuels?
+6.A Ethanol, methanol and kerosene
+6.B Bioethanol, biodiesel and biogas
+6.C Diesel, petrol and natural gas
+6.D Hydrogen, oxygen and nitrogen
+7.Q What are first-generation biofuels made from?
+7.A Plants that are not suitable as food
+7.C Plants that we also use as food, such as maize and sugar cane
+7.D Agricultural waste
+8.Q What do you use to represent a chemical production process?
+8.A A structural formula
+8.B A block diagram
+8.C A table
+8.D A graph
+9.Q What do the blocks in a block diagram mean?
+9.A The direction in which substances flow
+9.B The temperature of the process
+9.C A device or step in which a reaction or separation takes place
+9.D The amount of substance that is formed
+10.Q What do the arrows in a block diagram mean?
+10.A The amount of substance that is formed
+10.B The temperature of the process
+10.C A device or step in which a reaction or separation takes place
+10.D The direction in which substances flow
+11.Q What is the molar volume?
+11.A The volume of 1.00 mol of gas at a certain temperature and pressure
+11.B The mass of 1.00 mol of gas
+11.C The number of molecules in 1.00 mol of gas
+11.D The pressure of 1.00 mol of gas
+12.Q Which quantity goes with the symbol V<sub>m</sub>?
+12.A The density of a gas
+12.B The molar volume
+12.C The number of moles
+12.D The molar mass
