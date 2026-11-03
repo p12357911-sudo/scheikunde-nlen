@@ -175,10 +175,12 @@ body.zweef-hoog footer { padding-bottom: 24px; }
   background-color: #0D47A1 !important;
   color: #ffffff !important;
 }
-@media (max-width: 600px) {
-  /* op een telefoon: kleiner en net boven de onderkant, zodat de invoervelden vrij blijven */
-  body.zweef-typen .zweefknop { display: none; }
-  body.zweef-hoog .zweefknop { bottom: 84px; right: 10px; padding: 10px 14px; font-size: 15px; }
+/* Telefoon en tablet (smal scherm of aanraakscherm): GEEN zwevende knop. Een vaste knop komt op iPhone/Safari boven of onder het toetsenbord
+   en de adresbalk terecht en bedekt dan een invoerveld. De gewone knop "Controleer antwoorden" / "Controleer nu" onder de vragen blijft
+   gewoon in de pagina staan (altijd bereikbaar door te scrollen, nooit over een invoerveld). Computer (breed scherm met muis): ongewijzigd. */
+@media (max-width: 600px), (pointer: coarse) {
+  .zweefknop, body.zweef-typen .zweefknop { display: none !important; }
+  body.heeft-zweefknop footer, body.zweef-hoog footer { padding-bottom: 24px; }
 }
 
 /* ===== Meerkeuzepagina's (MP): was eerst per pagina een eigen <style> ===== */
