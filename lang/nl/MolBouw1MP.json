@@ -1,0 +1,207 @@
+{
+ "title": "Molecuulbouw vragen - 123 school",
+ "heading": "Molecuulbouw vragen",
+ "intro": [],
+ "questions": [
+  {
+   "question": "Wat zegt de octetregel?",
+   "answers": {
+    "a": "Atomen hebben acht protonen in de kern",
+    "b": "Atomen streven naar een omringing met acht elektronen",
+    "c": "Elk atoom gaat acht bindingen aan",
+    "d": "Atomen hebben acht elektronenschillen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Voor welk atoom geldt de duetregel in plaats van de octetregel?",
+   "answers": {
+    "a": "Waterstof (H)",
+    "b": "Koolstof (C)",
+    "c": "Zuurstof (O)",
+    "d": "Chloor (Cl)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel covalente bindingen gaat een koolstofatoom meestal aan?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "8",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een chlooratoom heeft 7 valentie-elektronen. Hoeveel covalente bindingen gaat het meestal aan?",
+   "answers": {
+    "a": "2",
+    "b": "7",
+    "c": "1",
+    "d": "8"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel covalente bindingen gaat een zuurstofatoom meestal aan?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe geef je in een lewisstructuur een bindend elektronenpaar weer?",
+   "answers": {
+    "a": "Met een puntje",
+    "b": "Met een streepje",
+    "c": "Met een cirkel",
+    "d": "Met een pijltje"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel elektronen zijn betrokken bij een dubbele covalente binding?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel niet-bindende elektronenparen heeft het stikstofatoom in NH<sub>3</sub>?",
+   "answers": {
+    "a": "0",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel niet-bindende elektronenparen heeft het stikstofatoom in het ion NH<sub>2</sub><sup>−</sup>?",
+   "answers": {
+    "a": "2",
+    "b": "0",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar gaat de VSEPR-theorie over?",
+   "answers": {
+    "a": "Atoomkernen trekken elkaar aan en komen zo dicht mogelijk bij elkaar",
+    "b": "Elektronen draaien in vaste banen om de kern",
+    "c": "Moleculen stoten elkaar af en vormen daardoor een gas",
+    "d": "Elektronenparen rond een centraal atoom stoten elkaar af en gaan zo ver mogelijk uit elkaar staan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het omringingsgetal van het stikstofatoom in NH<sub>3</sub>?",
+   "answers": {
+    "a": "1",
+    "b": "4",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke ruimtelijke vorm hoort bij omringingsgetal 3 zonder niet-bindende paren, zoals in SO<sub>3</sub>?",
+   "answers": {
+    "a": "Lineair",
+    "b": "Een tetraëder",
+    "c": "Een vlakke gelijkzijdige driehoek",
+    "d": "Een vierkant"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe groot is de hoek tussen de bindingen in een tetraëder?",
+   "answers": {
+    "a": "90°",
+    "b": "120°",
+    "c": "180°",
+    "d": "Ongeveer 109°"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een watermolecuul heeft omringingsgetal 4, met twee niet-bindende paren. Welke vorm heeft het molecuul?",
+   "answers": {
+    "a": "Gebogen",
+    "b": "Lineair",
+    "c": "Een vlakke driehoek",
+    "d": "Een tetraëder"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom heeft CO<sub>2</sub> geen dipool, ook al zijn de C=O-bindingen polair?",
+   "answers": {
+    "a": "Koolstof en zuurstof zijn even elektronegatief",
+    "b": "CO<sub>2</sub> is een ion",
+    "c": "Het molecuul is lineair en symmetrisch, waardoor de partiële ladingen elkaar opheffen",
+    "d": "In CO<sub>2</sub> zitten geen bindingen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom lost SO<sub>2</sub> beter op in water dan CO<sub>2</sub>?",
+   "answers": {
+    "a": "SO<sub>2</sub> is een zout",
+    "b": "SO<sub>2</sub> is een gebogen molecuul met een dipool, net als water",
+    "c": "CO<sub>2</sub> bevat geen zuurstof",
+    "d": "SO<sub>2</sub> is een lineair molecuul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wanneer is er sprake van mesomerie?",
+   "answers": {
+    "a": "Als een molecuul uit twee soorten atomen bestaat",
+    "b": "Als je van één molecuul of ion meer dan één lewisstructuur kunt tekenen, waarbij alleen elektronen verschuiven",
+    "c": "Als atomen van plaats wisselen in een molecuul",
+    "d": "Als een stof in twee fasen voorkomt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat geldt voor de stabiliteit van een stof met meer mesomere structuren?",
+   "answers": {
+    "a": "De stof is stabieler",
+    "b": "De stof is minder stabiel",
+    "c": "De stof is altijd een gas",
+    "d": "De stabiliteit verandert niet"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe geef je de mesomerie in benzeen weer in één grensstructuur?",
+   "answers": {
+    "a": "Met drie dubbele bindingen op vaste plaatsen",
+    "b": "Met zes enkele bindingen",
+    "c": "Met een streepje door het midden",
+    "d": "Met een cirkel binnen de zeshoek"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk deeltje kent mesomere grensstructuren?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "NH<sub>3</sub>",
+    "c": "CO<sub>3</sub><sup>2−</sup>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

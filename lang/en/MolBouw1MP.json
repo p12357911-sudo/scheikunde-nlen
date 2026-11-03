@@ -1,0 +1,207 @@
+{
+ "title": "Molecular structure questions - 123 school",
+ "heading": "Molecular structure questions",
+ "intro": [],
+ "questions": [
+  {
+   "question": "What does the octet rule state?",
+   "answers": {
+    "a": "Atoms have eight protons in the nucleus",
+    "b": "Atoms strive to be surrounded by eight electrons",
+    "c": "Every atom forms eight bonds",
+    "d": "Atoms have eight electron shells"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For which atom does the duet rule apply instead of the octet rule?",
+   "answers": {
+    "a": "Hydrogen (H)",
+    "b": "Carbon (C)",
+    "c": "Oxygen (O)",
+    "d": "Chlorine (Cl)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many covalent bonds does a carbon atom usually form?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "8",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A chlorine atom has 7 valence electrons. How many covalent bonds does it usually form?",
+   "answers": {
+    "a": "2",
+    "b": "7",
+    "c": "1",
+    "d": "8"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many covalent bonds does an oxygen atom usually form?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you show a bonding electron pair in a Lewis structure?",
+   "answers": {
+    "a": "With a dot",
+    "b": "With a line",
+    "c": "With a circle",
+    "d": "With an arrow"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many electrons are involved in a double covalent bond?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many non-bonding electron pairs does the nitrogen atom have in NH<sub>3</sub>?",
+   "answers": {
+    "a": "0",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many non-bonding electron pairs does the nitrogen atom have in the NH<sub>2</sub><sup>−</sup> ion?",
+   "answers": {
+    "a": "2",
+    "b": "0",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the VSEPR theory about?",
+   "answers": {
+    "a": "Atomic nuclei attract each other and move as close together as possible",
+    "b": "Electrons orbit the nucleus in fixed paths",
+    "c": "Molecules repel each other and therefore form a gas",
+    "d": "Electron pairs around a central atom repel each other and move as far apart as possible"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the steric number of the nitrogen atom in NH<sub>3</sub>?",
+   "answers": {
+    "a": "1",
+    "b": "4",
+    "c": "2",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which shape belongs to a steric number of 3 without non-bonding pairs, as in SO<sub>3</sub>?",
+   "answers": {
+    "a": "Linear",
+    "b": "A tetrahedron",
+    "c": "Trigonal planar",
+    "d": "A square"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How large is the angle between the bonds in a tetrahedron?",
+   "answers": {
+    "a": "90°",
+    "b": "120°",
+    "c": "180°",
+    "d": "About 109°"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A water molecule has a steric number of 4, with two non-bonding pairs. What shape does the molecule have?",
+   "answers": {
+    "a": "Bent",
+    "b": "Linear",
+    "c": "A flat triangle",
+    "d": "A tetrahedron"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does CO<sub>2</sub> have no dipole, even though the C=O bonds are polar?",
+   "answers": {
+    "a": "Carbon and oxygen are equally electronegative",
+    "b": "CO<sub>2</sub> is an ion",
+    "c": "The molecule is linear and symmetrical, so the partial charges cancel out",
+    "d": "There are no bonds in CO<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does SO<sub>2</sub> dissolve better in water than CO<sub>2</sub>?",
+   "answers": {
+    "a": "SO<sub>2</sub> is a salt",
+    "b": "SO<sub>2</sub> is a bent molecule with a dipole, just like water",
+    "c": "CO<sub>2</sub> contains no oxygen",
+    "d": "SO<sub>2</sub> is a linear molecule"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "When does resonance (mesomerism) occur?",
+   "answers": {
+    "a": "When a molecule consists of two kinds of atoms",
+    "b": "When you can draw more than one Lewis structure for one molecule or ion, with only electrons moving",
+    "c": "When atoms swap places in a molecule",
+    "d": "When a substance occurs in two phases"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is true for the stability of a substance with more resonance structures?",
+   "answers": {
+    "a": "The substance is more stable",
+    "b": "The substance is less stable",
+    "c": "The substance is always a gas",
+    "d": "The stability does not change"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you show the resonance in benzene in a single boundary structure?",
+   "answers": {
+    "a": "With three double bonds in fixed places",
+    "b": "With six single bonds",
+    "c": "With a line through the middle",
+    "d": "With a circle inside the hexagon"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which particle has resonance structures?",
+   "answers": {
+    "a": "CH<sub>4</sub>",
+    "b": "NH<sub>3</sub>",
+    "c": "CO<sub>3</sub><sup>2−</sup>",
+    "d": "H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

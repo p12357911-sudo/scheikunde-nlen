@@ -1,0 +1,269 @@
+{
+ "title": "Redox vragen - 123 school",
+ "heading": "Redox vragen",
+ "intro": [
+  "Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Bij welke soort reactie worden elektronen overgedragen?",
+   "answers": {
+    "a": "Een zuur-basereactie",
+    "b": "Een redoxreactie",
+    "c": "Een neerslagreactie",
+    "d": "Een faseovergang van water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat doet een reductor in een redoxreactie?",
+   "answers": {
+    "a": "Hij staat elektronen af",
+    "b": "Hij neemt elektronen op",
+    "c": "Hij neemt H<sup>+</sup> op",
+    "d": "Hij staat H<sup>+</sup> af"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke van deze stoffen treedt meestal op als oxidator?",
+   "answers": {
+    "a": "Magnesium (Mg)",
+    "b": "Natrium (Na)",
+    "c": "Zink (Zn)",
+    "d": "Zuurstof (O<sub>2</sub>)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke reactie is altijd een redoxreactie?",
+   "answers": {
+    "a": "Het neerslaan van zilverchloride",
+    "b": "Het neutraliseren van een zuur met een base",
+    "c": "De verbranding van een stof in zuurstof",
+    "d": "Het oplossen van keukenzout in water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke tabel staan de standaardpotentialen van redoxkoppels?",
+   "answers": {
+    "a": "Binas tabel 48",
+    "b": "Binas tabel 45A",
+    "c": "Binas tabel 49",
+    "d": "Binas tabel 99"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar staan in Binas tabel 48 de sterkste reductoren?",
+   "answers": {
+    "a": "Linksboven",
+    "b": "Rechtsonder",
+    "c": "Linksonder",
+    "d": "Rechtsboven"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Binas tabel 48 geeft: Pb<sup>2+</sup> + 2e<sup>−</sup> ⇌ Pb(s). Wat is hier de oxidator?",
+   "answers": {
+    "a": "Pb(s)",
+    "b": "e<sup>−</sup>",
+    "c": "Pb<sup>4+</sup>",
+    "d": "Pb<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Pb<sup>2+</sup> en Pb(s) vormen samen een …",
+   "answers": {
+    "a": "zuur-basekoppel",
+    "b": "zout",
+    "c": "redoxkoppel",
+    "d": "legering"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "De standaardpotentialen in Binas tabel 48 gelden bij 298 K. Voor welke concentratie van de opgeloste deeltjes gelden ze?",
+   "answers": {
+    "a": "1,000 mol/L",
+    "b": "0,100 mol/L",
+    "c": "10,00 mol/L",
+    "d": "0,001 mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de standaardpotentiaal van het koppel H<sup>+</sup>/H<sub>2</sub> in Binas tabel 48?",
+   "answers": {
+    "a": "1,00 V",
+    "b": "−1,00 V",
+    "c": "0,34 V",
+    "d": "0,00 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke vergelijking beschrijft de oxidatie van ijzer tot Fe<sup>2+</sup>?",
+   "answers": {
+    "a": "Fe<sup>2+</sup> + 2e<sup>−</sup> → Fe(s)",
+    "b": "Fe(s) → Fe<sup>2+</sup> + 2e<sup>−</sup>",
+    "c": "Fe(s) + 2e<sup>−</sup> → Fe<sup>2+</sup>",
+    "d": "Fe(s) → Fe<sup>2+</sup> + e<sup>−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent (II) in de naam ijzer(II)sulfaat?",
+   "answers": {
+    "a": "Er zijn twee ijzeratomen",
+    "b": "Er zijn twee sulfaationen",
+    "c": "Het ijzerion heeft een lading van 2+",
+    "d": "IJzer is het tweede metaal in de formule"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je doet een aluminiumstaafje in een oplossing van kopersulfaat. Treedt er een reactie op? (gebruik Binas tabel 48)",
+   "answers": {
+    "a": "Nee, Cu<sup>2+</sup> staat in de tabel onder Al, dus er treedt geen reactie op",
+    "b": "Nee, metalen reageren nooit met zoutoplossingen",
+    "c": "Nee, want aluminium is een oxidator",
+    "d": "Ja, Cu<sup>2+</sup> staat in de tabel boven Al, dus er treedt een reactie op"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Binas tabel 48 geeft: Fe<sup>2+</sup> + 2e<sup>−</sup> ⇌ Fe(s) met −0,45 V en 2H<sup>+</sup> + 2e<sup>−</sup> ⇌ H<sub>2</sub>(g) met 0,00 V. Treedt er een reactie op tussen Fe<sup>2+</sup> en H<sub>2</sub>(g)?",
+   "answers": {
+    "a": "Nee, de oxidator Fe<sup>2+</sup> staat onder de reductor H<sub>2</sub>",
+    "b": "Ja, want Fe<sup>2+</sup> heeft een negatieve potentiaal",
+    "c": "Ja, want H<sub>2</sub> staat boven Fe<sup>2+</sup>",
+    "d": "Nee, want H<sub>2</sub> is geen reductor"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is de sterkste oxidator in Binas tabel 48?",
+   "answers": {
+    "a": "Li(s)",
+    "b": "Cl<sub>2</sub>(g)",
+    "c": "F<sub>2</sub>(g)",
+    "d": "H<sub>2</sub>(g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof is de sterkste reductor in Binas tabel 48?",
+   "answers": {
+    "a": "F<sup>−</sup>",
+    "b": "Li(s)",
+    "c": "Li<sup>+</sup>",
+    "d": "Au(s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij het dichromaation?",
+   "answers": {
+    "a": "CrO<sub>4</sub><sup>2−</sup>",
+    "b": "Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup>",
+    "c": "Cr<sub>2</sub>O<sub>3</sub>",
+    "d": "Cr<sup>3+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule hoort bij het permanganaation?",
+   "answers": {
+    "a": "MnO<sub>4</sub><sup>−</sup>",
+    "b": "MnO<sub>2</sub>",
+    "c": "Mn<sup>2+</sup>",
+    "d": "MnO<sub>4</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe hangt de sterkte van een metaal als reductor samen met hoe edel het is?",
+   "answers": {
+    "a": "Hoe sterker de reductor, hoe edeler het metaal",
+    "b": "Er is geen verband",
+    "c": "Alleen edele metalen zijn reductoren",
+    "d": "Hoe sterker de reductor, hoe onedeler het metaal"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is corrosie?",
+   "answers": {
+    "a": "Het smelten van een metaal bij hoge temperatuur",
+    "b": "Het oplossen van een zout in water",
+    "c": "Het aantasten van een metaal door een redoxreactie met stoffen uit de omgeving, zoals zuurstof en water",
+    "d": "Het aanbrengen van een laagje lak op een metaal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom roest ijzer helemaal door, terwijl aluminium door corrosie niet helemaal verdwijnt?",
+   "answers": {
+    "a": "Roest is poreus en laat zuurstof en water door; de oxidelaag op aluminium sluit dicht",
+    "b": "Aluminium is edeler dan ijzer",
+    "c": "IJzer is een sterkere oxidator dan aluminium",
+    "d": "Aluminium reageert niet met zuurstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is galvaniseren?",
+   "answers": {
+    "a": "Een metaal bedekken met lak of plastic",
+    "b": "Een metaal bedekken met een laagje van een ander metaal",
+    "c": "Twee metalen samensmelten tot een legering",
+    "d": "Roest van een metaal verwijderen met zuur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom bevestigt men zinkblokken aan het stalen onderschip van een zeeschip?",
+   "answers": {
+    "a": "Zink is edeler dan ijzer en vormt een beschermend laagje",
+    "b": "Zink maakt het schip lichter",
+    "c": "Zink maakt het zeewater minder zout",
+    "d": "Zink is onedeler dan ijzer en corrodeert daarom eerst"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke elektrode is de minpool (−) in een Daniellcel?",
+   "answers": {
+    "a": "De koperelektrode",
+    "b": "De zoutbrug",
+    "c": "De zinkelektrode",
+    "d": "De draad tussen de elektroden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de functie van een zoutbrug in een elektrochemische cel?",
+   "answers": {
+    "a": "Ionen laten verplaatsen, zodat de ladingen in beide halfcellen in evenwicht blijven",
+    "b": "Elektronen van de ene naar de andere oplossing laten stromen",
+    "c": "Zorgen dat de twee oplossingen nooit met elkaar in contact komen",
+    "d": "De oplossingen verwarmen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk materiaal kan als inerte elektrode dienen?",
+   "answers": {
+    "a": "Zink",
+    "b": "Magnesium",
+    "c": "IJzer",
+    "d": "Platina"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

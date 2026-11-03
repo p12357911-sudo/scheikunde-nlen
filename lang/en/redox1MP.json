@@ -1,0 +1,269 @@
+{
+ "title": "Redox questions - 123 school",
+ "heading": "Redox questions",
+ "intro": [
+  "Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "In which type of reaction are electrons transferred?",
+   "answers": {
+    "a": "An acid-base reaction",
+    "b": "A redox reaction",
+    "c": "A precipitation reaction",
+    "d": "A phase change of water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does a reducing agent do in a redox reaction?",
+   "answers": {
+    "a": "It donates electrons",
+    "b": "It accepts electrons",
+    "c": "It accepts H<sup>+</sup>",
+    "d": "It donates H<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which of these substances usually acts as an oxidising agent?",
+   "answers": {
+    "a": "Magnesium (Mg)",
+    "b": "Sodium (Na)",
+    "c": "Zinc (Zn)",
+    "d": "Oxygen (O<sub>2</sub>)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which reaction is always a redox reaction?",
+   "answers": {
+    "a": "The precipitation of silver chloride",
+    "b": "The neutralisation of an acid with a base",
+    "c": "The combustion of a substance in oxygen",
+    "d": "The dissolving of table salt in water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which table are the standard potentials of redox couples listed?",
+   "answers": {
+    "a": "BINAS table 48",
+    "b": "BINAS table 45A",
+    "c": "BINAS table 49",
+    "d": "BINAS table 99"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Where in BINAS table 48 are the strongest reducing agents?",
+   "answers": {
+    "a": "Top left",
+    "b": "Bottom right",
+    "c": "Bottom left",
+    "d": "Top right"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "BINAS table 48 gives: Pb<sup>2+</sup> + 2e<sup>−</sup> ⇌ Pb(s). What is the oxidising agent here?",
+   "answers": {
+    "a": "Pb(s)",
+    "b": "e<sup>−</sup>",
+    "c": "Pb<sup>4+</sup>",
+    "d": "Pb<sup>2+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Pb<sup>2+</sup> and Pb(s) together form a …",
+   "answers": {
+    "a": "acid-base pair",
+    "b": "salt",
+    "c": "redox couple",
+    "d": "alloy"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "The standard potentials in BINAS table 48 apply at 298 K. For which concentration of the dissolved particles do they apply?",
+   "answers": {
+    "a": "1.000 mol/L",
+    "b": "0.100 mol/L",
+    "c": "10.00 mol/L",
+    "d": "0.001 mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the standard potential of the H<sup>+</sup>/H<sub>2</sub> couple in BINAS table 48?",
+   "answers": {
+    "a": "1.00 V",
+    "b": "−1.00 V",
+    "c": "0.34 V",
+    "d": "0.00 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which equation describes the oxidation of iron to Fe<sup>2+</sup>?",
+   "answers": {
+    "a": "Fe<sup>2+</sup> + 2e<sup>−</sup> → Fe(s)",
+    "b": "Fe(s) → Fe<sup>2+</sup> + 2e<sup>−</sup>",
+    "c": "Fe(s) + 2e<sup>−</sup> → Fe<sup>2+</sup>",
+    "d": "Fe(s) → Fe<sup>2+</sup> + e<sup>−</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does (II) mean in the name iron(II) sulfate?",
+   "answers": {
+    "a": "There are two iron atoms",
+    "b": "There are two sulfate ions",
+    "c": "The iron ion has a charge of 2+",
+    "d": "Iron is the second metal in the formula"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You put an aluminium rod in a copper sulfate solution. Does a reaction occur? (use BINAS table 48)",
+   "answers": {
+    "a": "No, Cu<sup>2+</sup> is below Al in the table, so no reaction occurs",
+    "b": "No, metals never react with salt solutions",
+    "c": "No, because aluminium is an oxidising agent",
+    "d": "Yes, Cu<sup>2+</sup> is above Al in the table, so a reaction occurs"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "BINAS table 48 gives: Fe<sup>2+</sup> + 2e<sup>−</sup> ⇌ Fe(s) at −0.45 V and 2H<sup>+</sup> + 2e<sup>−</sup> ⇌ H<sub>2</sub>(g) at 0.00 V. Does a reaction occur between Fe<sup>2+</sup> and H<sub>2</sub>(g)?",
+   "answers": {
+    "a": "No, the oxidising agent Fe<sup>2+</sup> is below the reducing agent H<sub>2</sub>",
+    "b": "Yes, because Fe<sup>2+</sup> has a negative potential",
+    "c": "Yes, because H<sub>2</sub> is above Fe<sup>2+</sup>",
+    "d": "No, because H<sub>2</sub> is not a reducing agent"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is the strongest oxidising agent in BINAS table 48?",
+   "answers": {
+    "a": "Li(s)",
+    "b": "Cl<sub>2</sub>(g)",
+    "c": "F<sub>2</sub>(g)",
+    "d": "H<sub>2</sub>(g)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance is the strongest reducing agent in BINAS table 48?",
+   "answers": {
+    "a": "F<sup>−</sup>",
+    "b": "Li(s)",
+    "c": "Li<sup>+</sup>",
+    "d": "Au(s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to the dichromate ion?",
+   "answers": {
+    "a": "CrO<sub>4</sub><sup>2−</sup>",
+    "b": "Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup>",
+    "c": "Cr<sub>2</sub>O<sub>3</sub>",
+    "d": "Cr<sup>3+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula belongs to the permanganate ion?",
+   "answers": {
+    "a": "MnO<sub>4</sub><sup>−</sup>",
+    "b": "MnO<sub>2</sub>",
+    "c": "Mn<sup>2+</sup>",
+    "d": "MnO<sub>4</sub><sup>2−</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How is the strength of a metal as a reducing agent related to how noble it is?",
+   "answers": {
+    "a": "The stronger the reducing agent, the more noble the metal",
+    "b": "There is no relationship",
+    "c": "Only noble metals are reducing agents",
+    "d": "The stronger the reducing agent, the less noble the metal"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is corrosion?",
+   "answers": {
+    "a": "The melting of a metal at high temperature",
+    "b": "The dissolving of a salt in water",
+    "c": "The attack of a metal by a redox reaction with substances from its surroundings, such as oxygen and water",
+    "d": "Applying a layer of paint to a metal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does iron rust away completely, while aluminium does not disappear completely through corrosion?",
+   "answers": {
+    "a": "Rust is porous and lets oxygen and water through; the oxide layer on aluminium seals the surface",
+    "b": "Aluminium is more noble than iron",
+    "c": "Iron is a stronger oxidising agent than aluminium",
+    "d": "Aluminium does not react with oxygen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is galvanising?",
+   "answers": {
+    "a": "Covering a metal with paint or plastic",
+    "b": "Covering a metal with a thin layer of another metal",
+    "c": "Melting two metals together to form an alloy",
+    "d": "Removing rust from a metal with acid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why are zinc blocks attached to the steel hull of a sea-going ship?",
+   "answers": {
+    "a": "Zinc is more noble than iron and forms a protective layer",
+    "b": "Zinc makes the ship lighter",
+    "c": "Zinc makes the sea water less salty",
+    "d": "Zinc is less noble than iron and therefore corrodes first"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which electrode is the negative pole (−) in a Daniell cell?",
+   "answers": {
+    "a": "The copper electrode",
+    "b": "The salt bridge",
+    "c": "The zinc electrode",
+    "d": "The wire between the electrodes"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the function of a salt bridge in an electrochemical cell?",
+   "answers": {
+    "a": "To let ions move, so that the charges in both half-cells stay balanced",
+    "b": "To let electrons flow from one solution to the other",
+    "c": "To make sure the two solutions never touch each other",
+    "d": "To heat the solutions"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which material can serve as an inert electrode?",
+   "answers": {
+    "a": "Zinc",
+    "b": "Magnesium",
+    "c": "Iron",
+    "d": "Platinum"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}
