@@ -5,7 +5,11 @@
    "ai": false,
    "vrij": "alle",
    "opnieuw": true,
-   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center",
+   "wissel": [
+    "Kunststoffen1KB",
+    "kunststoffenMP"
+   ]
   },
   "Matriaalenstof1MP": {
    "soort": "mp",
@@ -22,7 +26,25 @@
    "ai": false,
    "vrij": "alle",
    "opnieuw": true,
-   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center",
+   "wissel": [
+    "MolBouw1KB",
+    "MolBouw1MP"
+   ]
+  },
+  "MolBouw1MP": {
+   "soort": "mp",
+   "wissel": [
+    "MolBouw1KB",
+    "MolBouw1MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": true
   },
   "NL1": {
    "soort": "mp",
@@ -78,7 +100,11 @@
    "cont_class": "w3-container w3-padding-64 w3-center",
    "br": 2,
    "opnieuw": false,
-   "fixed": false
+   "fixed": false,
+   "wissel": [
+    "Kunststoffen1KB",
+    "kunststoffenMP"
+   ]
   },
   "nk3h-elektriciteit-KB": {
    "soort": "kb",
@@ -229,7 +255,25 @@
    "ai": false,
    "vrij": "alle",
    "opnieuw": true,
-   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center",
+   "wissel": [
+    "redox1KB",
+    "redox1MP"
+   ]
+  },
+  "redox1MP": {
+   "soort": "mp",
+   "wissel": [
+    "redox1KB",
+    "redox1MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 2,
+   "opnieuw": false,
+   "fixed": true
   },
   "rv3h-breuken-procenten-eenheden-KB": {
    "soort": "kb",
