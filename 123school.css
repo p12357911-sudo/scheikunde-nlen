@@ -635,3 +635,8 @@ footer .w3-tooltip .w3-button { padding: 4px 10px; }
   body.home .jumbotron { padding: 62px 16px 28px 16px; }
   body.home .jumbotron img { display: block; width: 76vw; max-width: 300px; height: auto; margin: 0 auto 10px auto; }
 }
+
+/* KB/MP-pagina zonder wisselknop (er is maar een van de twee): geef de kop dezelfde ruimte onder de vaste menubalk, zodat hij niet deels wegvalt */
+body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 100px; }
+@media (max-width: 768px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 62px; } }
+@media (min-width: 1200px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 56px; } }
