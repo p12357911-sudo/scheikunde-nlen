@@ -6,7 +6,7 @@ import sys, os, re, glob, json, subprocess
 from bs4 import BeautifulSoup
 
 SRC, DST = sys.argv[1], sys.argv[2]
-V = '20261103a'
+V = '20261103b'
 
 def inner(el): return ''.join(str(c) for c in el.contents).strip()
 

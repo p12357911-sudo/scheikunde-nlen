@@ -3,7 +3,7 @@
 De contactsectie wordt met de hand gebouwd (geen e-mailadres, Google Form)."""
 import sys, re, json, copy
 from bs4 import BeautifulSoup, NavigableString, Tag
-SRC = sys.argv[1]; V = '20261103a'
+SRC = sys.argv[1]; V = '20261103b'
 html = open(SRC + '/index.html', encoding='utf-8').read()
 s = BeautifulSoup(html, 'html.parser')
 keys = {}; tekst2sleutel = {}
