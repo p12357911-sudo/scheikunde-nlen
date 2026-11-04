@@ -124,10 +124,9 @@
       d.id = 'puzzel-regel'; d.className = 'puzzel-regel';
       var h = '<p class="puzzel-kop">' + t(lijst.length > 1 ? 'puzzel.kop_meer' : 'puzzel.kop') + '</p>';
       lijst.forEach(function (p) {
-        h += '<p class="puzzel-rij">' + (p.label ? '<span class="puzzel-label">' + (p.label[taal] || p.label.nl) + ':</span> ' : '') +
+        h += '<p class="puzzel-rij">' + (p.label ? '<span class="puzzel-label">' + (p.label[taal] || p.label.nl) + '</span>' : '') +
           '<a href="' + p.pdf + '" target="_blank" rel="noopener">' + t('puzzel.pdf') + '</a>' +
-          ' <span aria-hidden="true">&middot;</span> ' +
-          '<a href="' + p.online + '" target="_blank" rel="noopener">' + t('puzzel.online') + '</a></p>';
+                    '<a href="' + p.online + '" target="_blank" rel="noopener">' + t('puzzel.online') + '</a></p>';
       });
       d.innerHTML = h;
       nav.parentNode.insertBefore(d, nav.nextSibling);
