@@ -640,3 +640,7 @@ footer .w3-tooltip .w3-button { padding: 4px 10px; }
 body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 100px; }
 @media (max-width: 768px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 62px; } }
 @media (min-width: 1200px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 56px; } }
+
+/* -- Peter Pan-plaatje op de beginpagina: zachte, vervaagde rand (zit in de PNG zelf) i.p.v. een harde ellips -- */
+body.home .jumbotron img.pp-hero { border-radius: 0; background: none; }
+@media (min-width: 601px) { body.home .jumbotron img.pp-hero { width: 290px; height: auto; } }
