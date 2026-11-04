@@ -458,7 +458,7 @@ klaar(function () {
     lijst.forEach(function (it) {
       if (it.ai) { toonOordeel(it.blok, 'bezig', '', false); } else if (!it.klaar) { toonOordeel(it.blok, it.oordeel, it.extra, true); } else { toonOordeel(it.blok, it.oordeel, it.extra, tonenAntwoord(it)); }
     });
-    if (!vragenAI.length) { weergeven(); return; }
+    if (!vragenAI.length) { weergeven(); if (zweef && zweef.herplaats) { zweef.herplaats(); } return; }
 
     bezigMetAI = true;
     var oudeTekst = origineel.textContent;
@@ -490,7 +490,7 @@ klaar(function () {
       bezigMetAI = false;
       origineel.disabled = false; zweef.disabled = false;
       origineel.textContent = oudeTekst; zweef.textContent = oudeTekst;
-      weergeven();
+      weergeven(); if (zweef && zweef.herplaats) { zweef.herplaats(); }
     });
   });
 
@@ -554,6 +554,7 @@ klaar(function () {
       markeer(antwoorden, !!juist);
     }
     uitslag.innerHTML = T('mp.uitslag', { goed: goed, n: aantal });
+    var zk = document.getElementById('zweefknop'); if (zk && zk.herplaats) { zk.herplaats(); }
   };
 });
 
@@ -588,10 +589,11 @@ function zweefBijAanraking(zweef) {
   function plaats() {
     wacht = false;
     if (!mq.matches) { wis(); return; }
+    /* steeds dezelfde maat: onderkant van het zichtbare deel = vv.offsetTop + vv.height (in dezelfde coordinaten als position: fixed) */
     var hoogte = window.innerHeight;
     var kb = 0, bovenkant = 0;
     if (vv && vv.scale <= 1.01) {
-      kb = Math.max(0, hoogte - (vv.height + vv.offsetTop));
+      kb = Math.max(0, hoogte - (vv.offsetTop + vv.height));
       bovenkant = vv.offsetTop;
     }
     var veld = tekstveld();
@@ -608,9 +610,17 @@ function zweefBijAanraking(zweef) {
     if (raakt(k, r, 8)) { document.body.classList.add('zweef-typen'); }
   }
   function plan() { if (!wacht) { wacht = true; (window.requestAnimationFrame || setTimeout)(plaats); } }
-  function planLater() { plan(); [120, 350, 700].forEach(function (ms) { setTimeout(plan, ms); }); }
-  document.addEventListener('focusin', planLater);
-  document.addEventListener('focusout', function () { setTimeout(plan, 120); });
+  /* iOS laat het toetsenbord en het scrollen naar het veld met een animatie zien; de eerste meting is dan vaak te vroeg.
+     Daarom meten we een paar keer opnieuw, en zolang er een tekstveld actief is ook elke 250 ms (goedkoop; stopt bij verlaten). */
+  function planLater() { plan(); [100, 300, 600, 1000].forEach(function (ms) { setTimeout(plan, ms); }); }
+  var tik = null;
+  function bewaak() {
+    if (tik === null) { tik = setInterval(function () { if (tekstveld()) { plan(); } else { clearInterval(tik); tik = null; plan(); } }, 250); }
+  }
+  document.addEventListener('focusin', function () { planLater(); if (tekstveld()) { bewaak(); } });
+  document.addEventListener('focusout', function () { setTimeout(plan, 120); setTimeout(plan, 400); });
+  /* na het nakijken verandert de pagina (uitleg en oordeel erbij): opnieuw plaatsen */
+  zweef.herplaats = planLater;
   window.addEventListener('scroll', plan, { passive: true });
   window.addEventListener('resize', plan);
   window.addEventListener('orientationchange', planLater);
