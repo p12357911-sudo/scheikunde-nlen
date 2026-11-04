@@ -110,6 +110,28 @@
     nav.setAttribute('aria-label', t('wissel.aria'));
     nav.innerHTML = '<a href="' + nav.getAttribute('data-kb') + '.html"' + (nu === 'kb' ? ' aria-current="page"' : '') + '>' + t('wissel.kb') + '</a>' +
                     '<a href="' + nav.getAttribute('data-mp') + '.html"' + (nu === 'mp' ? ' aria-current="page"' : '') + '>' + t('wissel.mp') + '</a>';
+    bouwPuzzelRegel(nav);
+  }
+
+  /* Puzzel(s) bij dit onderwerp onder de wisselknop: puzzels.json (pagina zonder -KB -> lijst met pdf, online, label?).
+     Geen puzzel voor dit onderwerp, of puzzels.json niet te laden: dan verschijnt er niets. */
+  function bouwPuzzelRegel(nav) {
+    var sleutel = (nav.getAttribute('data-kb') || '').replace(/-KB$/, '');
+    haal('puzzels.json').then(function (alle) {
+      var lijst = alle[sleutel];
+      if (!lijst || !lijst.length || document.getElementById('puzzel-regel')) { return; }
+      var d = document.createElement('div');
+      d.id = 'puzzel-regel'; d.className = 'puzzel-regel';
+      var h = '<p class="puzzel-kop">' + t(lijst.length > 1 ? 'puzzel.kop_meer' : 'puzzel.kop') + '</p>';
+      lijst.forEach(function (p) {
+        h += '<p class="puzzel-rij">' + (p.label ? '<span class="puzzel-label">' + (p.label[taal] || p.label.nl) + ':</span> ' : '') +
+          '<a href="' + p.pdf + '" target="_blank" rel="noopener">' + t('puzzel.pdf') + '</a>' +
+          ' <span aria-hidden="true">&middot;</span> ' +
+          '<a href="' + p.online + '" target="_blank" rel="noopener">' + t('puzzel.online') + '</a></p>';
+      });
+      d.innerHTML = h;
+      nav.parentNode.insertBefore(d, nav.nextSibling);
+    }).catch(function () { /* geen puzzelregel */ });
   }
 
   function bouwFooter() {

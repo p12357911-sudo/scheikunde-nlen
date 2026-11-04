@@ -644,3 +644,10 @@ body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has
 /* -- Peter Pan-plaatje op de beginpagina: zachte, vervaagde rand (zit in de PNG zelf) i.p.v. een harde ellips -- */
 body.home .jumbotron img.pp-hero { border-radius: 0; background: none; }
 @media (min-width: 601px) { body.home .jumbotron img.pp-hero { width: 290px; height: auto; } }
+
+/* Puzzel bij het onderwerp: rustige regel onder de wisselknop */
+.puzzel-regel { max-width: 560px; margin: 4px auto 0; padding: 0 12px; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.5; color: #111111; text-align: center; }
+.puzzel-regel p { margin: 4px 0; }
+.puzzel-regel .puzzel-kop { font-weight: bold; }
+.puzzel-regel a { color: #003A5C; text-decoration: underline; display: inline-block; padding: 6px 2px; }
+.puzzel-regel a:focus-visible { outline: 3px solid #FFB300; outline-offset: 2px; }

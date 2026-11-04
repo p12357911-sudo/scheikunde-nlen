@@ -188,5 +188,9 @@
  "puz.n_goed": "{g} of the {n} completed words correct",
  "puz.nog_geen": "No word completely filled in yet",
  "puz.rest": " ({n} not checked yet)",
- "puz.zweef_aria": "Check answers: only the words that are filled in are checked"
+ "puz.zweef_aria": "Check answers: only the words that are filled in are checked",
+ "puzzel.kop": "Puzzle for this topic",
+ "puzzel.kop_meer": "Puzzles for this topic",
+ "puzzel.pdf": "Puzzle (PDF)",
+ "puzzel.online": "online (works best on a computer or tablet)"
 }

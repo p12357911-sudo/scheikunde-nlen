@@ -188,5 +188,9 @@
  "puz.n_goed": "{g} van de {n} ingevulde woorden goed",
  "puz.nog_geen": "Nog geen woord helemaal ingevuld",
  "puz.rest": " ({n} nog niet nagekeken)",
- "puz.zweef_aria": "Controleer antwoorden: kijk alleen de ingevulde woorden na"
+ "puz.zweef_aria": "Controleer antwoorden: kijk alleen de ingevulde woorden na",
+ "puzzel.kop": "Puzzel bij dit onderwerp",
+ "puzzel.kop_meer": "Puzzels bij dit onderwerp",
+ "puzzel.pdf": "Puzzel (PDF)",
+ "puzzel.online": "online (werkt het best op computer/tablet)"
 }
