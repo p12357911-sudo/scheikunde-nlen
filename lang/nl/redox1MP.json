@@ -236,7 +236,7 @@
    "correctAnswer": "d"
   },
   {
-   "question": "Welke elektrode is de minpool (−) in een Daniellcel?",
+   "question": "Welke elektrode is de minpool (−) in een elektrochemische cel (batterij) van zink en koper?",
    "answers": {
     "a": "De koperelektrode",
     "b": "De zoutbrug",
@@ -256,7 +256,7 @@
    "correctAnswer": "a"
   },
   {
-   "question": "Welk materiaal kan als inerte elektrode dienen?",
+   "question": "Welk materiaal kun je gebruiken als elektrode die zelf niet meereageert?",
    "answers": {
     "a": "Zink",
     "b": "Magnesium",

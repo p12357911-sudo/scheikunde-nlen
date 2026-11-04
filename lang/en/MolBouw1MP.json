@@ -94,7 +94,7 @@
    "correctAnswer": "a"
   },
   {
-   "question": "What is the VSEPR theory about?",
+   "question": "Why do molecules have a particular spatial shape?",
    "answers": {
     "a": "Atomic nuclei attract each other and move as close together as possible",
     "b": "Electrons orbit the nucleus in fixed paths",
@@ -104,7 +104,7 @@
    "correctAnswer": "d"
   },
   {
-   "question": "What is the steric number of the nitrogen atom in NH<sub>3</sub>?",
+   "question": "How many electron groups surround the nitrogen atom in NH<sub>3</sub>?",
    "answers": {
     "a": "1",
     "b": "4",
@@ -114,7 +114,7 @@
    "correctAnswer": "b"
   },
   {
-   "question": "Which shape belongs to a steric number of 3 without non-bonding pairs, as in SO<sub>3</sub>?",
+   "question": "Which shape belongs to 3 electron groups around the central atom, without non-bonding pairs, as in SO<sub>3</sub>?",
    "answers": {
     "a": "Linear",
     "b": "A tetrahedron",
@@ -134,7 +134,7 @@
    "correctAnswer": "d"
   },
   {
-   "question": "A water molecule has a steric number of 4, with two non-bonding pairs. What shape does the molecule have?",
+   "question": "The O atom in a water molecule is surrounded by 4 electron groups, with two non-bonding pairs. What shape does the molecule have?",
    "answers": {
     "a": "Bent",
     "b": "Linear",

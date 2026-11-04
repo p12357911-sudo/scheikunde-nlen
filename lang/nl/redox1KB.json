@@ -242,15 +242,15 @@
    "a": "Een opstelling waarbij de oxidatie en reductie reactie gescheiden plaats vindt, waardoor er elektronen door een stroomdraad kunnen lopen om elektrische processen aan te drijven bijv een lamp"
   },
   {
-   "q": "Welke metalen worden gebruikt in een Daniell cel? Wat is de reductor en wat de oxidator?",
+   "q": "Een elektrochemische cel (batterij) bestaat uit een zinkstaaf in een zinksulfaatoplossing en een koperstaaf in een kopersulfaatoplossing. Wat is de reductor en wat de oxidator?",
    "a": "Koper, de oxidator Cu<sup>2+</sup>; Zink, de reductor Zn (s)"
   },
   {
-   "q": "Welk metaal lijkt te verdwijnen in een Daniell cel en welke groeit aan?",
+   "q": "Welk metaal lijkt te verdwijnen in een elektrochemische cel (batterij) van zink en koper en welke groeit aan?",
    "a": "Zink lijkt te verdwijnen, lost op als Zn <sup>2+</sup>; Koper lijkt uit het niets te ontstaan"
   },
   {
-   "q": "Welk metaal is de + en welke de - elektrode in een Daniell cel?",
+   "q": "Welk metaal is de + en welke de - elektrode in een elektrochemische cel (batterij) van zink en koper?",
    "a": "Zink is de - elektrode, deze geeft elektronen af; Koper is de + elektrode deze geeft de elektronen door aan de koper-ionen in de oplossing"
   },
   {

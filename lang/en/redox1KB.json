@@ -242,15 +242,15 @@
    "a": "A set-up in which the oxidation and reduction reactions take place separately, so that electrons can flow through a wire to power electrical devices, e.g. a lamp"
   },
   {
-   "q": "Which metals are used in a Daniell cell? What is the reducing agent and what is the oxidising agent?",
+   "q": "An electrochemical cell (battery) consists of a zinc rod in a zinc sulfate solution and a copper rod in a copper sulfate solution. What is the reducing agent and what is the oxidising agent?",
    "a": "Copper, the oxidising agent is Cu<sup>2+</sup>; zinc, the reducing agent is Zn (s)"
   },
   {
-   "q": "Which metal seems to disappear in a Daniell cell and which one grows?",
+   "q": "Which metal seems to disappear in an electrochemical cell (battery) of zinc and copper and which one grows?",
    "a": "Zinc seems to disappear, it dissolves as Zn<sup>2+</sup>; copper seems to appear out of nowhere"
   },
   {
-   "q": "Which metal is the + and which the − electrode in a Daniell cell?",
+   "q": "Which metal is the + and which the − electrode in an electrochemical cell (battery) of zinc and copper?",
    "a": "Zinc is the − electrode, it donates electrons; copper is the + electrode, it passes the electrons on to the copper ions in the solution"
   },
   {

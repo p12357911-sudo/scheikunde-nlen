@@ -236,7 +236,7 @@
    "correctAnswer": "d"
   },
   {
-   "question": "Which electrode is the negative pole (−) in a Daniell cell?",
+   "question": "Which electrode is the negative pole (−) in an electrochemical cell (battery) of zinc and copper?",
    "answers": {
     "a": "The copper electrode",
     "b": "The salt bridge",
@@ -256,7 +256,7 @@
    "correctAnswer": "a"
   },
   {
-   "question": "Which material can serve as an inert electrode?",
+   "question": "Which material can you use as an electrode that does not take part in the reaction itself?",
    "answers": {
     "a": "Zinc",
     "b": "Magnesium",

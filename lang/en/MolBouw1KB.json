@@ -54,15 +54,15 @@
    "a": "Valence Shell Electron Pair Repulsion"
   },
   {
-   "q": "What is the steric number of CO<sub>2</sub>, SO<sub>2</sub>, CF<sub>4</sub> and NH<sub>3</sub>?",
+   "q": "How many electron groups surround the central atom in CO<sub>2</sub>, SO<sub>2</sub>, CF<sub>4</sub> and NH<sub>3</sub>?",
    "a": "2, 3, 4, 4"
   },
   {
-   "q": "Give the shape of molecules with a steric number of 2, 3, 4",
+   "q": "Give the shape of molecules with 2, 3 or 4 electron groups around the central atom",
    "a": "Linear, trigonal planar, tetrahedral"
   },
   {
-   "q": "Give the angles in degrees for molecules with a steric number of 2, 3, 4",
+   "q": "Give the angles in degrees for molecules with 2, 3 or 4 electron groups around the central atom",
    "a": "180, 120, 109 degrees"
   },
   {
@@ -70,7 +70,7 @@
    "a": "Partial charges in a molecule"
   },
   {
-   "q": "Explain what the steric number is",
+   "q": "Explain what is meant by the number of electron groups around a central atom",
    "a": "The sum of the number of atoms bonded directly to the central atom plus the number of non-bonding pairs"
   },
   {
